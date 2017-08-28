@@ -5,7 +5,6 @@ weight: 3
 draft: false
 ---
 
-
 # Visiting
 So you want to come to [Kanthaus](https://yunity.atlassian.net/wiki/spaces/WW/overview/)? Great! Please read the following information.
 

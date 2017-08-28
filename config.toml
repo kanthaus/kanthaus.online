@@ -49,6 +49,6 @@ theme = "minimal"
     weight = 2
 
 [[menu.icon]]
-    url = "https://freehold.earth/@kanthaus/"
-    name = "mastodon"
-    weight = 3
+    url = "/index.xml"
+    name = "rss"
+    weight = 2
