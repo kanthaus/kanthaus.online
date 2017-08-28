@@ -1,3 +1,10 @@
+---
+title: "Governance FAQ"
+description: " "
+weight: 5
+draft: false
+---
+
 # Governance FAQ
 
 ### Why is the Constitution so formal?
@@ -22,7 +29,7 @@ A preliminary vote is used to encourage independent thought and counteract [anch
 The different weighting  between 'support' and 'oppose' votes is a way of upholding the Principal of Acceptance. This has the philosophical basis that it is generally more preferable to 'avoid suffering' than 'increase happiness'. There is also a procedural advantage since accounting, monitoring and sanctioning have a significant cost.
 
 ### What's the real deal with the Principles?
-The three main Principles—Autonomy, Equality and Acceptance—are fundamental positions or axioms meaning they have no logical basis. While there may be no logical basis for the Principles, hopefully you will be able to appreciate their value by reflecting on your own experiences. They are also defined negatively for clarity and falsifiability. 
+The three main Principles—Autonomy, Equality and Acceptance—are fundamental positions or axioms meaning they have no logical basis. While there may be no logical basis for the Principles, hopefully you will be able to appreciate their value by reflecting on your own experiences. They are also defined negatively for clarity and falsifiability.
 
 * Autonomy is the assertion that a person has their own will and that it is generally desirable for them to be able to pursue it. Autonomy in this case is considered to extend from individual people to autonomous associations of people and their collective will. Autonomy could also be described as 'Self-determination', 'Freedom' or 'Liberty'.
 * Equality is the assertion that there is no natural, earned or supernatural superiority between people. Clearly people are not the same and thus Equality does not mean symmetry, but rather that the will or autonomy of two people is of equal value. Equality could also be described as 'Equity' or 'Equivalence'.
@@ -32,7 +39,7 @@ These Principles aim to provide a holistic approach to collective action if simu
 
 ### Are there any particular influences on the Constitution?
 Yes, much of the philosophy, theory, structure and details were heavily influenced by—
-* ['Governing the Commons: The Evolution of Institutions for Collective Action'](http://wtf.tw/ref/ostrom_1990.pdf) by Elinor Ostrom, 
+* ['Governing the Commons: The Evolution of Institutions for Collective Action'](http://wtf.tw/ref/ostrom_1990.pdf) by Elinor Ostrom,
 * ['Philosophy and the Real World - An Introduction to Karl Popper'](https://www.scribd.com/doc/171535409/Philosophy-and-the-Real-World-An-Introduction-to-Karl-Popper-Bryan-Magee) by Bryan Magee, and
 * ['Systemisches Konsensieren'](http://www.sk-prinzip.eu/das-sk-prinzip/) by Erich and Volker Visotschnig.
 

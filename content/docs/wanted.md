@@ -1,3 +1,10 @@
+---
+title: "Wish List"
+description: " "
+weight: 4
+draft: false
+---
+
 # Wanted
 - a projector (see Matthias)
 - a piano (see Nick)

@@ -1,3 +1,10 @@
+---
+title: "Collective Agreements"
+description: " "
+weight: 1
+draft: false
+---
+
 # Collective Agreements
 
 ## Smoking
@@ -17,4 +24,3 @@ There should be a meeting every Monday from 10:00 (sharp) to 11:00 (latest) in t
 
 ## Changes to the Collective Agreements
 Any addition, subtraction or other change to this document should be made according to the Constitution, §9.
-

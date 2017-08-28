@@ -1,3 +1,10 @@
+---
+title: "Constitution"
+description: " "
+weight: 2
+draft: false
+---
+
 # Constitution 0.2
 
 ## §1. Preamble
@@ -33,13 +40,13 @@
 1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become futher involved.
 1. A Volunteer may—
 	1. reside in the space and use items located within the space,
-	1. participate in Operational Activity and change the Collective Agreements, 
+	1. participate in Operational Activity and change the Collective Agreements,
 	1. participate in the selection of other Volunteers, and
 	1. participate in Voluntary Assistance during Conflict Resolution.
 1. A Volunteer should—
-	1. assume a portion of the responsibility for the space, and 
+	1. assume a portion of the responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. In order to become a Volunteer, a person must— 
+1. In order to become a Volunteer, a person must—
 	1. have resided in the space for at least 14 days in total, and
 	1. understand and accept the Constitution and the Collective Agreements.
 1. A person becomes a Volunteer based on a successful outcome from an Application Procedure in which only Members and Volunteers should participate.
@@ -78,7 +85,7 @@
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds, or
 	1. else the application fails at that time.
 1. The applicant should promptly be informed whether their application has succeeded or failed, but not the breakdown of which votes were cast.
-	
+
 ## §8. Operational Activity
 ### §8a. Individual Action
 1. Any individual may take action provided—
@@ -87,7 +94,7 @@
 1. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the individual to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
 1. Any individual who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
 1. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
-	
+
 ### §8b. Unanimous Acceptance
 1. Unanimous Acceptance towards a proposal or action is attained while no one opposes it.
 1. There is no specific format for attaining Unanimous Acceptance. Many tools and techniques exist which may help, including: smaller-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
@@ -96,7 +103,7 @@
 ### §8c. Score Voting
 1. Firstly, individuals should discuss the current state-of-affairs, the initial proposal (if applicable) and generate alternative proposal(s). Afterwards, a list of proposals is created by gathering—
 	1. the initial proposal and/or the generated proposals,
-	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and 
+	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
 	1. an 'escalate procedure' control proposal (i.e. 'switch to Collective Change'.)
 1. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totalled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected.
 
@@ -107,12 +114,12 @@
 	1. is not contrary to any other Collective Change made within the last 6 days.
 1. The primary phase of the procedure, lasts at least 3 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering—
 	1. the initial proposal and any alternative proposals,
-	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and 
+	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
 	1. an 'escalate procedure' control proposal (i.e. 'switch to Constitutional Change'.)
 1. The secondary phase of the procedure lasts at least 3 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of the secondary phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
 	1. the adjusted scores for each proposal are totalled,
-	1. the proposal with the highest total is selected, and 
+	1. the proposal with the highest total is selected, and
 	1. the Collective Agreements should be changed to reflect the decision.
 
 ## §10. Changing the Constitution
@@ -121,16 +128,16 @@
 	1. has the support of at least 2 other Members, and
 	1. is not contrary to any other Constitutional Change made within the last 28 days.
 1. The primary phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering—
-	1. the initial proposal and any other alternative proposals, and 
+	1. the initial proposal and any other alternative proposals, and
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
 1. The secondary phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
 	1. the adjusted scores for each proposal are totaled,  
 	1. the proposal with the highest total is selected, and
 	1. if the proposal now selected was also selected at a previous secondary phase—
-		1. the proposal becomes the final decision, 
+		1. the proposal becomes the final decision,
 		1. the Constitution should be amended to reflect this decision, and
-		1. the procedure of Constitutional Change is terminated. Or 
+		1. the procedure of Constitutional Change is terminated. Or
 	1. else—
 		1. the procedure is repeated from subsection 3. (i.e. a further primary then secondary phase.)
 
