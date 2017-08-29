@@ -1,3 +1,10 @@
+---
+title: "Visiting"
+description: " "
+weight: 3
+draft: false
+---
+
 # Information for Visitors
 So you want to come to Kanthaus? Great! Read on...
 
@@ -7,8 +14,8 @@ So you want to come to Kanthaus? Great! Read on...
 - We have [Collective Agreements](https://github.com/kanthaus/kanthaus/blob/master/collectiveAgreements.md) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
 - We have a [Constitution](https://github.com/kanthaus/kanthaus/blob/master/constitution.md) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](https://github.com/kanthaus/kanthaus/blob/master/constitution.md#8c-score-voting).
 - The address is [Kantraße 20, Wurzen 04848](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- Contact us before you arrive if possible, via email: dmwebb--AT--gmail.com (Dougs email - temporary,) phone: 03425 8527995 or slack: #kanthaus on https://yunity.slack.com. 
-	
+- Contact us before you arrive if possible, via email: dmwebb--AT--gmail.com (Dougs email - temporary,) phone: 03425 8527995 or slack: #kanthaus on https://yunity.slack.com.
+
 ## Safety
 - There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
 - There may be sharp objects sticking out of the flooring: take care if walking barefoot.
@@ -19,8 +26,8 @@ So you want to come to Kanthaus? Great! Read on...
 - Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring fruit and vegetables should you have an abundance.
 - Electricity: 6 solar panels + 2 car batteries. We can charge phones, laptops* and rechargeable batteries. With minimal lighting, you may wish to bring a torch.
 - Internet: name, "wuppdays", password, "dragonlove". (Download, ~25 Mbps, upload, ~5 Mbps.)
-- Cooking: camping gas (limited) and alcohol (limited) burners in the kitchen (well-equipped.) A charcoal (plentiful) barbecue in the garden. 
-- Clothing: some T-shirts, trousers and underwear. Loads of rubber boots. 
+- Cooking: camping gas (limited) and alcohol (limited) burners in the kitchen (well-equipped.) A charcoal (plentiful) barbecue in the garden.
+- Clothing: some T-shirts, trousers and underwear. Loads of rubber boots.
 - Sleeping: 6 mattresses, sofas, camping mattresses, blankets, sleeping bags, duvets and sheets.
 - Other: a guitar, a chess set, a set set, various books, a shisha, basic hand tools, some electronics stuff...
 
