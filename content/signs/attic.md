@@ -1,3 +1,10 @@
+---
+title: "Attic"
+description: " "
+weight: 1
+draft: false
+---
+
 # Vorgehen beim Betreten des Dachbodens
 
 Es gibt Hinweise darauf, dass dieser Dachboden mit Hylotox 59 (DDT/Lindan) verseucht ist. Daher bitte beachten:
