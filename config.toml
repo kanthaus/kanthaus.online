@@ -51,4 +51,4 @@ theme = "minimal"
 [[menu.icon]]
     url = "/index.xml"
     name = "rss"
-    weight = 2
+    weight = 3
