@@ -39,7 +39,7 @@ theme = "minimal"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "contact@kanthaus.online"
+    url = "dmwebb@gmail.creativecommons"
     name = "envelope-o"
     weight = 1
 
