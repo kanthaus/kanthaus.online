@@ -1,85 +1,24 @@
-# Minimal
+# Kanthaus
 
-Personal blog theme powered by [Hugo](https://gohugo.io).
-A live demo is available [here](https://themes.gohugo.io/theme/minimal/).
+Informative website for the Kanthaus Project, all documents and meetings are also stored here in the contents folder
 
-## Installation
+## How to add new documents
+To add new documents to this repo (repository) you will need a gitlab account with the correct permissions to add files to this repository
 
-You can install the theme either as a clone or submodule.
+There 2 easy options to add documents.
+For either option you will need to have the correct access to this re
 
-I recommend the latter. From the root of your Hugo site, type the following:
+1>
+- clone this repo:
+  ```
+  git clone https://gitlab.com/kanthaus/kanthaus.gitlab.io.git```
+- edit the markdown (.md) files in the content folder
+- git add . (add all changes)
+- git commit -m "your changes eg. added new meeting notes"
+- git push (you will be asked for your login details)
 
-```
-$ git submodule add https://github.com/calintat/minimal.git themes/minimal
-$ git submodule init
-$ git submodule update
-```
-
-Now you can get updates to Minimal in the future by updating the submodule:
-
-```
-$ git submodule update --remote themes/minimal
-```
-
-## Configuration
-
-After installation, take a look at the `exampleSite` folder inside `themes/minimal`.
-
-To get started, copy the `config.toml` file inside `exampleSite` to the root of your Hugo site:
-
-```
-$ cp themes/minimal/exampleSite/config.toml .
-```
-
-Now edit this file and add your own information. Note that some fields can be ommited.
-
-I recommend you use the theme's archetypes so now delete your site's `archetypes/default.md`.
-
-## Features
-
-You can tweak the look of the theme to suit your needs in a number of ways:
-
-- The accent colour can be changed by using the `accent` field in `config.toml`.
-
-- You can also change the background colour by using `backgroundColor`.
-
-- Add colored 5px borders at the top and bottom of pages by setting `showBorder` to `true`.
-
-For best results, I recommend you use a dark accent colour with a light background, for example:
-
-```toml
-[params]
-    accent = "red"
-    showBorder = true
-    backgroundColor = "white"
-```
-
-### Fonts
-
-The theme uses [Google Fonts](https://fonts.google.com) to load its font. To change the font:
-
-```toml
-[params]
-    font = "Raleway" # should match the name on Google Fonts!
-```
-
-### Syntax highlighting
-
-The theme supports syntax highlighting thanks to [highlight.js](https://highlightjs.org).
-
-It's disabled by default, so you have to enable it by setting `highlight` to `true` in your config.
-
-You can change the style used for the highlighting by using the `highlightStyle` field.
-
-Only the "common" languages will be loaded by default. To load more, use `highlightLanguages`.
-
-A list of all the available styles and languages can be found [here](https://highlightjs.org/static/demo/).
-
-Please note the style and languages should be written in hyphen-separated lowercase, for example:
-
-```toml
-[params]
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-```
+2>
+- login to an account which has access to this repository
+- view the source files
+- enter the contents folder
+- use gitlab's online code editor to change the content
