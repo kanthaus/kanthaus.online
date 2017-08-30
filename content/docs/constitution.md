@@ -1,7 +1,7 @@
 ---
 title: "Constitution"
 description: " "
-weight: 2
+weight: 3
 draft: false
 ---
 
