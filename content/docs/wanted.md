@@ -13,3 +13,4 @@ draft: false
 - dice (at least 20, for the game Perudo)
 - a barbell (langhantel), dumbbells, weights and mat
 - a pinboard
+- double-sided tape
