@@ -1,5 +1,5 @@
 ---
-title:  Template
+title: Coordination Meeting
 date: 2017-01-01
 ---
 
@@ -11,5 +11,6 @@ date: 2017-01-01
 - Incoming Visitors:
 - Changes to Constitution: 
 - Changes to Collective Agreements:
-- Information/tasks/intentions/proposals:
+- Info > questions > tasks/proposals:
+    - 
 - Next facilitator: 
