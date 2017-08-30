@@ -9,17 +9,17 @@ draft: false
 So you want to come to Kanthaus? Great! Read on...
 
 ## General
-- Be welcome for a week. To be welcome for longer, chat with a [Volunteer](volunteers.yml) or [Member](members.yml) once you get here.
+- Be welcome for a week. To be welcome for longer, chat with a [Volunteer](../volunteers.yml) or [Member](../members.yml) once you get here.
 - There is no cost for staying here. If you have money that you want to give, you can.
-- We have [Collective Agreements](collectiveagreements) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
-- We have a [Constitution](constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](constitution/#8c-score-voting).
+- We have [Collective Agreements](../collectiveagreements) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
+- We have a [Constitution](../constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](../constitution/#8c-score-voting).
 - The address is [Kantraße 20, Wurzen 04848](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - Contact us before you arrive if possible, via email: dmwebb--AT--gmail.com (Dougs email - temporary,) phone: 03425 8527995 or slack: #kanthaus on https://yunity.slack.com.
 
 ## Safety
 - There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
 - There may be sharp objects sticking out of the flooring: take care if walking barefoot.
-- There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the wood of the attic: please read the [advice](../signs/attic) before going there.
+- There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the wood of the attic: please read the [advice](../../signs/attic) before going there.
 
 ## Resources
 - Water: drinkable water comes out the taps. You can shower cold and/or test the solar shower.
