@@ -36,7 +36,7 @@
                     {{ if .Site.Menus.main }}
                         <ul class="nav navbar-nav">
                             {{ range sort .Site.Menus.main }}
-                                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                                <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
                             {{ end }}
                         </ul>
                     {{ end }}
@@ -48,9 +48,9 @@
                       {{ end }}
                       <li class="navbar-icon">
                         <div style="margin-top: 10px">
-                          <a href="/en">en</a>
+                          <!--a href="/en">en</a>
                           <span>/</span>
-                          <a href="/de">de</a>
+                          <a href="/de">de</a-->
                         </div>
                       </li>
                     </ul>

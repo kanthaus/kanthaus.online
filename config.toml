@@ -1,5 +1,5 @@
 baseURL = "https://kanthaus.online/"
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en"
 title = "Kanthaus"
 theme = "minimal"
 
@@ -80,7 +80,7 @@ theme = "minimal"
 
 
 [[Languages.de.menu.icon]]
-    url = "dmwebb@gmail.com"
+    url = "mailto:dmwebb@gmail.com"
     name = "envelope-o"
     weight = 1
 
