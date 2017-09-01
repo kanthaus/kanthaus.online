@@ -40,14 +40,20 @@
                             {{ end }}
                         </ul>
                     {{ end }}
-
-                    {{ if .Site.Menus.icon }}
-                        <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
+                      {{ if .Site.Menus.icon }}
                             {{ range sort .Site.Menus.icon }}
                                 <li class="navbar-icon"><a href="{{ .URL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
                             {{ end }}
-                        </ul>
-                    {{ end }}
+                      {{ end }}
+                      <li class="navbar-icon">
+                        <div style="margin-top: 10px">
+                          <a href="/en">en</a>
+                          <span>/</span>
+                          <a href="/de">de</a>
+                        </div>
+                      </li>
+                    </ul>
 
                 </div>
 
