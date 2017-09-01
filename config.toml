@@ -1,19 +1,19 @@
 baseURL = "http://kanthaus.gitlab.io/"
 languageCode = "en-us"
+DefaultContentLanguage = "de"
 title = "Kanthaus"
 theme = "minimal"
 
 [params]
     author = "kanthaus"
-    description = "informative website for the Kanthaus project in Wurzen"
-    accent = "blue"
+    accent = "purple"
     showBorder = false
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; no rights reserved </a>"
+
 [[menu.main]]
     url = "/"
     name = "Home"
@@ -34,6 +34,16 @@ theme = "minimal"
     name = "Contact"
     weight = 4
 
+
+[Languages]
+[Languages.en]
+    copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; no rights reserved </a>"
+   description = "sharing instead of exchanging"
+
+
+[Languages.de]
+    copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; keine Rechte vorbehalten </a>"
+   description = "Teilen statt Tauschen"
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
