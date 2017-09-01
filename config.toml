@@ -1,4 +1,4 @@
-baseURL = "http://kanthaus.gitlab.io/"
+baseURL = "https://kanthaus.online/"
 DefaultContentLanguage = "en"
 title = "Kanthaus"
 theme = "minimal"
