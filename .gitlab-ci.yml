@@ -18,7 +18,7 @@ pages:
   # Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
   - ssh-add <(echo "$DEPLOY_SSH_KEY")
   - hugo
-  - rsync --delete -e "ssh -o StrictHostKeyChecking=no" -a public/ $DEPLOY_URL
+  - rsync --delete -e "ssh -o StrictHostKeyChecking=no" -a --chmod=g+w public/ $DEPLOY_URL
   artifacts:
     paths:
     - public
