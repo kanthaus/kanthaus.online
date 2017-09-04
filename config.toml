@@ -1,5 +1,5 @@
 baseURL = "https://kanthaus.online/"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 title = "Kanthaus"
 theme = "minimal"
 
@@ -16,7 +16,7 @@ theme = "minimal"
 [Languages]
 [Languages.en]
     copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; no rights reserved </a>"
-    description = "sharing instead of exchanging"
+    description = "Living with self-determination, equality and acceptance"
 [[Languages.en.menu.main]]
     url = "/"
     name = "Home"
@@ -37,7 +37,7 @@ theme = "minimal"
 
 [Languages.de]
     copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; keine Rechte vorbehalten </a>"
-    description = "Teilen statt Tauschen"
+    description = "Leben mit Selbstbestimmung, Gleichberechtigung und Akzeptanz"
 [[Languages.de.menu.main]]
     url = "/"
     name = "Home"
