@@ -2,6 +2,7 @@ baseURL = "https://kanthaus.online/"
 defaultContentLanguage = "de"
 title = "Kanthaus"
 theme = "minimal"
+enableMissingTranslationPlaceholders = "true"
 
 [params]
     author = "kanthaus"
