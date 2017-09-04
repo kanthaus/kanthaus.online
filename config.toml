@@ -2,7 +2,6 @@ baseURL = "https://kanthaus.online/"
 defaultContentLanguage = "de"
 title = "Kanthaus"
 theme = "minimal"
-enableMissingTranslationPlaceholders = "true"
 
 [params]
     author = "kanthaus"
@@ -23,39 +22,39 @@ enableMissingTranslationPlaceholders = "true"
     name = "Home"
     weight = 1
 [[Languages.en.menu.main]]
+    url = "/about"
+    name = "About"
+    weight = 2
+[[Languages.en.menu.main]]
     url = "/docs"
     name = "Documents"
-    weight = 2
+    weight = 3
 [[Languages.en.menu.main]]
     url = "/contact/"
     name = "Contact"
     weight = 4
 
-[[Languages.en.menu.main]]
-    url = "/meetings"
-    name = "Meetings"
-    weight = 3
-
 [Languages.de]
     copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; keine Rechte vorbehalten </a>"
     description = "Leben mit Selbstbestimmung, Gleichberechtigung und Akzeptanz"
+    moreInfoBtnText = "Mehr Über Diese Projekt"
+    moreInfoBtnLink = "/about"
 [[Languages.de.menu.main]]
     url = "/"
     name = "Home"
     weight = 1
 [[Languages.de.menu.main]]
+    url = "/about"
+    name = "Über"
+    weight = 2
+[[Languages.de.menu.main]]
     url = "/docs"
     name = "Unterlagen"
-    weight = 2
+    weight = 3
 [[Languages.de.menu.main]]
     url = "/contact/"
     name = "Kontakt"
     weight = 4
-[[Languages.de.menu.main]]
-    url = "/meetings"
-    name = "Treffen"
-    weight = 3
-
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
@@ -66,30 +65,23 @@ enableMissingTranslationPlaceholders = "true"
     url = "mailto:dmwebb@gmail.com"
     name = "envelope-o"
     weight = 1
-
 [[Languages.en.menu.icon]]
     url = "https://gitlab.com/kanthaus/"
     name = "gitlab"
     weight = 2
-
 [[Languages.en.menu.icon]]
     url = "/index.xml"
     name = "rss"
     weight = 3
 
-
-
-
 [[Languages.de.menu.icon]]
     url = "mailto:dmwebb@gmail.com"
     name = "envelope-o"
     weight = 1
-
 [[Languages.de.menu.icon]]
     url = "https://gitlab.com/kanthaus/"
     name = "gitlab"
     weight = 2
-
 [[Languages.de.menu.icon]]
     url = "/index.xml"
     name = "rss"
