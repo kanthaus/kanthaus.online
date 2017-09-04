@@ -17,6 +17,8 @@ theme = "minimal"
 [Languages.en]
     copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; no rights reserved </a>"
     description = "Living with self-determination, equality and acceptance"
+    moreInfoBtnText = "More About This Project"
+    moreInfoBtnLink = "/about"
 [[Languages.en.menu.main]]
     url = "/"
     name = "Home"
@@ -37,7 +39,7 @@ theme = "minimal"
 [Languages.de]
     copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; keine Rechte vorbehalten </a>"
     description = "Leben mit Selbstbestimmung, Gleichberechtigung und Akzeptanz"
-    moreInfoBtnText = "Mehr Über Diese Projekt"
+    moreInfoBtnText = "Mehr Über Dieses Projekt"
     moreInfoBtnLink = "/about"
 [[Languages.de.menu.main]]
     url = "/"
