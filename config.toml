@@ -1,5 +1,5 @@
 baseURL = "https://kanthaus.online/"
-DefaultContentLanguage = "de"
+defaultContentLanguage = "de"
 title = "Kanthaus"
 theme = "minimal"
 

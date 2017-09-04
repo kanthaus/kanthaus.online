@@ -38,13 +38,13 @@
               {{ end }}
               <li class="navbar-icon">
                 <div style="margin-top: 10px">
-                  {{ if or (eq .URL "/de/") (eq .URL "/") }}
+                  {{ if or (eq .Site.LanguagePrefix "/de") (eq .Site.LanguagePrefix "") }}
                     <a href="/en">en</a>
                   {{ else }}
                     <span>en</span>
                   {{ end }}
                   <span>/</span>
-                  {{ if eq .URL "/en/" }}
+                  {{ if eq .Site.LanguagePrefix "/en" }}
                     <a href="/de">de</a>
                   {{ else }}
                     <span>de</span>
