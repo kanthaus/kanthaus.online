@@ -13,7 +13,7 @@ So you want to come to Kanthaus? Great! Read on...
 - There is no cost for staying here. If you have money that you want to give, you can.
 - We have [Collective Agreements](../collectiveAgreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
 - We have a [Constitution](../constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](../constitution/#8c-score-voting).
-- The address is [Kantraße 20, Wurzen 04848](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
+- The address is [Kantraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - Contact us before you arrive if possible, via email: dmwebb--AT--gmail.com (Dougs email - temporary,) phone: 03425 8527995 or slack: #kanthaus on https://yunity.slack.com.
 
 ## Safety
@@ -29,7 +29,7 @@ So you want to come to Kanthaus? Great! Read on...
 - Cooking: 3-flame gas cooker (powerful) in the kitchen (well-equipped.) A charcoal (plentiful) barbecue in the garden.
 - Clothing: some T-shirts, trousers and underwear. Loads of rubber boots.
 - Washing: Modified washing machine can be operated when there is sunlight from 12am-4pm, drying in the garden.
-- Sleeping: mattresses/beds/sofas/sheets for 10-12 people sofas, camping mattresses/sleeping bags (loads), 6 duvets
+- Sleeping: mattresses/beds/sofas/sheets for 10-12 people, camping mattresses/sleeping bags (loads), 6 duvets
 - Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
 
 Kanthaus eagerly awaits you!
