@@ -1,62 +1,57 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ .Title }}</title>
-        {{ partial "css" . }} {{ partial "js" . }} {{ .Hugo.Generator }}
-        {{ if .RSSLink }}
-        <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-        <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-        <link rel="icon" type="image/png"
-         href="/favicon.png" />
-        {{ end }}
-    </head>
-
-    <body>
-
-        <nav class="navbar navbar-default navbar-fixed-top">
-
-            <div class="container">
-
-                <div class="navbar-header">
-
-                    <a class="navbar-brand visible-xs" href="#">{{ .Title }}</a>
-
-                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }}</title>
+    {{ partial "css" . }} {{ partial "js" . }} {{ .Hugo.Generator }}
+    {{ if .RSSLink }}
+      <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+      <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+      <link rel="icon" type="image/png" href="/favicon.png" />
+    {{ end }}
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand visible-xs" href="#">{{ .Title }}</a>
+          <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse">
+          {{ if .Site.Menus.main }}
+            <ul class="nav navbar-nav">
+              {{ range sort .Site.Menus.main }}
+                <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+            <ul class="nav navbar-nav navbar-right">
+              {{ if .Site.Menus.icon }}
+                {{ range sort .Site.Menus.icon }}
+                  <li class="navbar-icon"><a href="{{ .URL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
+                {{ end }}
+              {{ end }}
+              <li class="navbar-icon">
+                <div style="margin-top: 10px">
+                  {{ if or (eq .Site.LanguagePrefix "/de") (eq .Site.LanguagePrefix "") }}
+                    <a href="/en">en</a>
+                  {{ else }}
+                    <span>en</span>
+                  {{ end }}
+                  <span>/</span>
+                  {{ if eq .Site.LanguagePrefix "/en" }}
+                    <a href="/de">de</a>
+                  {{ else }}
+                    <span>de</span>
+                  {{ end }}
                 </div>
-
-                <div class="collapse navbar-collapse">
-
-                    {{ if .Site.Menus.main }}
-                        <ul class="nav navbar-nav">
-                            {{ range sort .Site.Menus.main }}
-                                <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
-                            {{ end }}
-                        </ul>
-                    {{ end }}
-                    <ul class="nav navbar-nav navbar-right">
-                      {{ if .Site.Menus.icon }}
-                            {{ range sort .Site.Menus.icon }}
-                                <li class="navbar-icon"><a href="{{ .URL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
-                            {{ end }}
-                      {{ end }}
-                      <li class="navbar-icon">
-                        <div style="margin-top: 10px">
-                          <!--a href="/en">en</a>
-                          <span>/</span>
-                          <a href="/de">de</a-->
-                        </div>
-                      </li>
-                    </ul>
-
-                </div>
-
-            </div>
-
-        </nav>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
