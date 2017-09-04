@@ -7,7 +7,7 @@
         <h1>{{ .Site.Title }}</h1>
         <h2>{{ markdownify .Site.Params.Description }}</h2>
         </br>
-        <a href="{{ .Site.Params.moreInfoBtnLink }}">
+        <a href="{{ .Site.LanguagePrefix }}{{ .Site.Params.moreInfoBtnLink }}">
           <button>
             {{ .Site.Params.moreInfoBtnText }}
           </button>
