@@ -18,9 +18,9 @@ date: 2017-01-01
 - Present: 
 
 1. People coming:
-  -
-2. People leaving:
   - 
+2. People leaving:
+  -  
 3. New Volunteers: 
 4. New Members:
 5. Changes to Constitution: 
