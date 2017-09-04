@@ -3,14 +3,30 @@ title: Coordination Meeting
 date: 2017-01-01
 ---
 
-- Present: 
+<!-- Hello facilitator/notary! Thank you for your services. Here is some advice for facilitating coordination meetings:
+  - Notify people 10 minutes before the meeting starts. (Watching the clock is not super fun, people will be grateful if you do it for them.)
+  - Start at 10:00 sharp, or earlier if everyone is there. (Waiting is time-wasting, be a time-saver!)
+  - Go through the ordered points in order, even if nothing has changed. (They are arranged to try and get the most relevant information to most people.)
+  - Feel welcome to moderate conversation if off-topic or too detailed. (Are listeners interested? Are speakers satisfied? Can you identify a sub-group?)
+  - Stop the meeting at 11:00 latest. (There is always more to talk about and the important stuff will not be forgotten.)
+  - Leave the room once the meeting has ended. (This sends a clear signal to everyone else that they can also leave and get on with their day.)
+  - Have fun!
+-->
+
 - Facilitator: 
 - Notary: 
-- New Members:
-- New Volunteers: 
-- Incoming Visitors:
-- Changes to Constitution: 
-- Changes to Collective Agreements:
-- Info > questions > tasks/proposals:
-    - 
-- Next facilitator: 
+- Present: 
+
+1. People coming:
+  -
+2. People leaving:
+  - 
+3. New Volunteers: 
+4. New Members:
+5. Changes to Constitution: 
+6. Changes to Collective Agreements:
+7. Information/announcements:
+  - 
+8. Questions/opinions/proposals: 
+  - 
+9. Next facilitator: 
