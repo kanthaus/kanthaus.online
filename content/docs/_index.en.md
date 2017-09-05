@@ -3,4 +3,4 @@ title: "Documents"
 description: " "
 ---
 
-#### [Meetings](/meetings)
+#### [Meetings](/en/meetings)
