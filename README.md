@@ -1,15 +1,18 @@
 # Kanthaus
 
-Informative website for the Kanthaus Project, all documents and meetings are also stored here in the contents folder
+Informative website for the Kanthaus Project, all documents and meeting notes are also stored here in the contents folder.
+
+## Technology
+This website was created using [Hugo](https://gohugo.io/).
 
 ## How to add new documents
 To add new documents to this repo (repository) you will need a gitlab account with the correct permissions to add files to this repository
 
-There 2 easy options to add documents.
-For either option you will need to have the correct access to this re
+There are two easy options to add documents.
+For either option you will need to have the correct access to this repo.
 
 1>
-- clone this repo:
+- Clone this repo:
   ```
   git clone https://gitlab.com/kanthaus/kanthaus.gitlab.io.git```
 - edit the markdown (.md) files in the content folder
@@ -24,11 +27,7 @@ For either option you will need to have the correct access to this re
 - use gitlab's online code editor to change the content
 
 ## How to add multilingual pages/posts
-to make an existing .md file multi-lingual simply add the language code extension before .md
-For example for:
-contact.md
-add german translation:
-contact.de.md
-add english translation:
-contact.en.md
+To make an existing translations appear on the website, you need to create an `.md` file that uses the right language code extension before `.md`.
+For example:
+`contact.md` needs to be called `contact.de.md`, if it contains a German translation and `contact.en.md`, if it contains an English translation.
 
