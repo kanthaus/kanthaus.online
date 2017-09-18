@@ -39,13 +39,13 @@
               <li class="navbar-icon">
                 <div style="margin-top: 12px; margin-left: 10px">
                   {{ if or (eq .Site.LanguagePrefix "/de") (eq .Site.LanguagePrefix "") }}
-                    <a href="/en">en</a>
+                    <a href="/en{{.URL}}">en</a>
                   {{ else }}
                     <span>en</span>
                   {{ end }}
                   <span>/</span>
                   {{ if eq .Site.LanguagePrefix "/en" }}
-                    <a href="/de">de</a>
+                    <a style="cursor: pointer" onclick="goToDE()">de</a>                  
                   {{ else }}
                     <span>de</span>
                   {{ end }}
@@ -55,3 +55,16 @@
           </div>
         </div>
       </nav>
+  
+      
+
+
+<script>
+  let goToDE = (test) => {
+    if (window.location.href.includes('/en')) {
+      window.location.href = window.location.href.replace('/en', '')
+    }
+  }
+</script>
+  
+      
