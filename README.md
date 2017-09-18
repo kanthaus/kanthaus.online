@@ -14,7 +14,8 @@ For either option you will need to have the correct access to this repo.
 1>
 - Clone this repo:
   ```
-  git clone https://gitlab.com/kanthaus/kanthaus.gitlab.io.git```
+  git clone https://gitlab.com/kanthaus/kanthaus.gitlab.io.git
+  ```
 - edit the markdown (.md) files in the content folder
 - git add . (add all changes)
 - git commit -m "your changes eg. added new meeting notes"
@@ -30,4 +31,3 @@ For either option you will need to have the correct access to this repo.
 To make an existing translations appear on the website, you need to create an `.md` file that uses the right language code extension before `.md`.
 For example:
 `contact.md` needs to be called `contact.de.md`, if it contains a German translation and `contact.en.md`, if it contains an English translation.
-
