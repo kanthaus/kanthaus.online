@@ -47,7 +47,7 @@ theme = "minimal"
     weight = 1
 [[Languages.de.menu.main]]
     url = "/about"
-    name = "Über"
+    name = "Über Uns"
     weight = 2
 [[Languages.de.menu.main]]
     url = "/docs"
