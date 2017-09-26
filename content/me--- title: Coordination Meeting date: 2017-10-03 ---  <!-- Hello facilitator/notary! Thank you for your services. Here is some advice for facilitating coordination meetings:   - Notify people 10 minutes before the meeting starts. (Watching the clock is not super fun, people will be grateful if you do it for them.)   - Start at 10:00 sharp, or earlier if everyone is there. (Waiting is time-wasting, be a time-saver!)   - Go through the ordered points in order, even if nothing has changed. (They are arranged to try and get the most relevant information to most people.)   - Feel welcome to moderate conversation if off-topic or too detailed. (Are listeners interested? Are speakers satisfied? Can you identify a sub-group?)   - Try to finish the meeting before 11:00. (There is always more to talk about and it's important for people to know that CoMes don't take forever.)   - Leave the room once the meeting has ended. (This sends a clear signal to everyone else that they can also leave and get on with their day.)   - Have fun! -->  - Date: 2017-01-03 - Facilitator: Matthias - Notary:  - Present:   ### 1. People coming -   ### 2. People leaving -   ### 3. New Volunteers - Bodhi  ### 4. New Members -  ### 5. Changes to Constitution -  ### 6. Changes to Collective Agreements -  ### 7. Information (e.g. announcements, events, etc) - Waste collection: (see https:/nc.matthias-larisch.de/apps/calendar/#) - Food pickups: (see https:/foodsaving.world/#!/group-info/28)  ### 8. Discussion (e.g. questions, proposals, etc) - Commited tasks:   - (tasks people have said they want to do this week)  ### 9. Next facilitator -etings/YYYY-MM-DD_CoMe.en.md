@@ -1,3 +1,4 @@
+
 ---
 title: Coordination Meeting
 date: 2017-01-01
@@ -8,25 +9,41 @@ date: 2017-01-01
   - Start at 10:00 sharp, or earlier if everyone is there. (Waiting is time-wasting, be a time-saver!)
   - Go through the ordered points in order, even if nothing has changed. (They are arranged to try and get the most relevant information to most people.)
   - Feel welcome to moderate conversation if off-topic or too detailed. (Are listeners interested? Are speakers satisfied? Can you identify a sub-group?)
-  - Stop the meeting at 11:00 latest. (There is always more to talk about and the important stuff will not be forgotten.)
+  - Try to finish the meeting before 11:00. (There is always more to talk about and it's important for people to know that CoMes don't take forever.)
   - Leave the room once the meeting has ended. (This sends a clear signal to everyone else that they can also leave and get on with their day.)
   - Have fun!
 -->
 
-- Facilitator: 
+- Date:
+- Facilitator:
 - Notary: 
 - Present: 
 
-1. People coming:
-  - 
-2. People leaving:
-  -  
-3. New Volunteers: 
-4. New Members:
-5. Changes to Constitution: 
-6. Changes to Collective Agreements:
-7. Information/announcements:
-  - 
-8. Questions/opinions/proposals: 
-  - 
-9. Next facilitator: 
+### 1. People coming
+- 
+
+### 2. People leaving
+- 
+
+### 3. New Volunteers
+- 
+
+### 4. New Members
+-
+
+### 5. Changes to Constitution
+-
+
+### 6. Changes to Collective Agreements
+-
+
+### 7. Information (e.g. announcements, events, etc)
+- Waste collection: (see https://nc.matthias-larisch.de/apps/calendar/#)
+- Food pickups: (see https://foodsaving.world/#!/group-info/28)
+
+### 8. Discussion (e.g. questions, proposals, etc)
+- Commited tasks:
+  - (tasks people have said they want to do this week)
+
+### 9. Next facilitator
+- 
