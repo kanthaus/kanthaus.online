@@ -156,14 +156,14 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 
 ### §11c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, the Members may intervene as a last resort.
-1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include—
+1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (§8b.) or Score Voting (§8c.) procedure, where proposals may include—
 	1. requesting an individual to participate in assisted conflict resolution,
 	1. revoking an individuals' position of Volunteer or Member, or
 	1. instructing an individual to leave the space temporarily or indefinitely.
 
 ## §12. Time-reduction
-1. All time frames within sections 9 and 10 are reduced by half.
-1. This entire section is automatically removed 05-Nov-2017.
+1. All time frames within §9 and §10 are reduced by half.
+1. This entire section is automatically removed after 05-Nov-2017.
 
 ------
 
