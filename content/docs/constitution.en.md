@@ -5,13 +5,13 @@ weight: 3
 draft: false
 ---
 
-# Constitution 0.2
+# Constitution
 
 ## §1. Preamble
-`NAME` is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
+Kanthaus is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
 
-1. The Constitutional layer prescribes _who decides what should happen and how_. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in [the Constitution](https://github.com/DougInAMug/projects/blob/master/baseNode_docConst.md) (this document) and supported by the [FAQ](https://github.com/DougInAMug/projects/blob/master/baseNode_FAQ.md).
-1. The Collective layer prescribes _what should happen_. This layer contains other formal agreements—such as policies, schedules and best-practices—which support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](https://github.com/DougInAMug/projects/blob/master/baseNode_docColl.md).
+1. The Constitutional layer prescribes _who decides what should happen and how_. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in [the Constitution](https://gitlab.com/kanthaus/kanthaus.gitlab.io/blob/master/content/docs/constitution.en.md) (this document) and supported by the [FAQ](https://gitlab.com/kanthaus/kanthaus.gitlab.io/blob/master/content/docs/collectiveAgreements.en.md).
+1. The Collective layer prescribes _what should happen_. This layer contains other formal agreements—such as policies, schedules and best-practices—which support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](https://gitlab.com/kanthaus/kanthaus.gitlab.io/blob/master/content/docs/governanceFAQ.en.md).
 1. The Operational layer describes _what actually happens_. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
 
 ## §2. Purposes
@@ -23,13 +23,13 @@ draft: false
 
 ## §3. Principles
 1. The three main principles which describe the intention behind the Constitution and how it should be interpreted are—
-	1. Autonomy—minimize coercion,
+	1. Self-determination—minimize coercion,
 	1. Equality—minimize inequality, and
 	1. Acceptance—minimize opposition.
 1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
 
 ## §4. Resources
-1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of `NAME` by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.)
+1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of Kanthaus by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.)
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
 1. Haus Kante Wurzen w.V. itself.
@@ -132,7 +132,7 @@ draft: false
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
 1. The secondary phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-	1. the adjusted scores for each proposal are totaled,  
+	1. the adjusted scores for each proposal are totalled,  
 	1. the proposal with the highest total is selected, and
 	1. if the proposal now selected was also selected at a previous secondary phase—
 		1. the proposal becomes the final decision,
@@ -161,7 +161,7 @@ draft: false
 	1. revoking an individuals' position of Volunteer or Member, or
 	1. instructing an individual to leave the space temporarily or indefinitely.
 
-## 12 Time-reduction
+## §12. Time-reduction
 1. All time frames within sections 9 and 10 are reduced by half.
 1. This entire section is automatically removed 05-Nov-2017.
 
