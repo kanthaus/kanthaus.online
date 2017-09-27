@@ -1,6 +1,10 @@
         <footer>
-
-            <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}</p>
+            <p class="copyright text-muted">
+              {{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}
+              {{ if .IsPage }}
+                &bullet; <a href="https://gitlab.com/kanthaus/kanthaus.gitlab.io/edit/master/content/{{ .File.Path }}">Edit this page on GitLab</a>
+              {{ end }}
+            </p>
 
         </footer>
 
