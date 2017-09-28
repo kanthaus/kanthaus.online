@@ -4,7 +4,13 @@
 
     <h2>{{ .Title }}</h2>
     <br>
-    {{ .Content }}
+
+    {{ range .Sections }}
+      <div class="item">
+        <h4><a href="{{ .URL }}">{{ .Title }}</a></h4>
+      </div>
+    {{ end }}
+
     {{ range (.Paginator 5).Pages }} {{ partial "list-item" . }} {{ end }}
 
 </main>

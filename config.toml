@@ -1,5 +1,6 @@
 baseURL = "https://kanthaus.online/"
-defaultContentLanguage = "de"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 title = "Kanthaus"
 theme = "minimal"
 
