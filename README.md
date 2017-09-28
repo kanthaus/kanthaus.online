@@ -27,7 +27,52 @@ For either option you will need to have the correct access to this repo.
 - enter the contents folder
 - use gitlab's online code editor to change the content
 
-## How to add multilingual pages/posts
-To make an existing translations appear on the website, you need to create an `.md` file that uses the right language code extension before `.md`.
-For example:
-`contact.md` needs to be called `contact.de.md`, if it contains a German translation and `contact.en.md`, if it contains an English translation.
+## Multilingual
+
+We use crowdin for the translations, original language is English, and we translate to German.
+
+This means you should write documents first in English, and without a language prefix, e.g.:
+`about.md` (not `about.en.md`).
+
+Then go to [crowdin.com/project/kanthausonline/de](https://crowdin.com/project/kanthausonline/de)
+to translate to German.
+
+It will then create a [merge request](https://gitlab.com/kanthaus/kanthaus.gitlab.io/merge_requests)
+for you with the changes.
+
+## Webserver config
+
+We use this config:
+
+```nginx
+location = /sitemap.xml {
+}
+
+location ~ ^/(en|de|css|pics)/ {
+        try_files $uri $uri/ =404;
+}
+
+location / {
+  set_by_lua_block $default_lang {
+    for lang in (ngx.var.http_accept_language .. ","):gmatch("([^,]*),") do
+      if string.sub(lang, 0, 2) == "en" then
+        return "en"
+      end
+      if string.sub(lang, 0, 2) == "de" then
+        return "de"
+      end
+    end
+    return "de"
+  }
+  return 302 /$default_lang$request_uri;
+}
+```
+
+It allows you to share links without a language code in them, and the user
+will be redirected to the correct language depending on their browser settings.
+
+E.g.
+
+* link to share https://kanthaus.online/about/
+* German redirects to https://kanthaus.online/de/about/
+* English redirects to https://kanthaus.online/en/about/
