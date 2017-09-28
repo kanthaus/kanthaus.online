@@ -2,10 +2,19 @@
             <p class="copyright text-muted">
               {{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}
               {{ if .IsPage }}
-                &bullet; <a href="{{ .Site.Params.publicGitURL }}/edit/master/content/{{ .File.Path }}">Edit this page on GitLab</a>
+                &bullet;
+                <a href="{{ .Site.Params.publicGitURL }}/edit/master/content/{{ .File.Dir }}{{ .File.TranslationBaseName }}.md">
+                  {{ if eq .Lang "en" }}
+                    Edit this page on GitLab
+                  {{ else }}
+                    Edit the source page on GitLab
+                  {{ end }}
+                </a>
+                &bullet;
+                <a href="https://crowdin.com/project/kanthausonline/de">Edit German translations</a>
               {{ end }}
               {{ if and .IsNode (not .IsPage) (not .IsHome) }}
-                &bullet; <a href="{{ .Site.Params.publicGitURL }}/new/master/content{{ .Page.URL }}">Create a new page on GitLab</a>
+                &bullet; <a href="{{ .Site.Params.publicGitURL }}/new/master/content/{{ replaceRE "^/(en|de)/" "" .URL }}">Create a new page on GitLab</a>
               {{ end }}
             </p>
 

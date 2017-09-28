@@ -39,13 +39,13 @@
               <li class="navbar-icon">
                 <div style="margin-top: 12px; margin-left: 10px">
                   {{ if eq .Lang "de" }}
-                    <a href="{{ replace .URL "/de" "/en"}}">en</a>
+                    <a href="{{ replace .URL "/de/" "/en/"}}">en</a>
                   {{ else }}
                     <span>en</span>
                   {{ end }}
                   <span>/</span>
                   {{ if eq .Lang "en" }}
-                    <a href="{{ replace .URL "/en" "/de"}}">de</a>
+                    <a href="{{ replace .URL "/en/" "/de/"}}">de</a>
                   {{ else }}
                     <span>de</span>
                   {{ end }}
