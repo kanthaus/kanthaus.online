@@ -1,6 +1,6 @@
 ---
-title: "Kontakt"
-description: "Kontakt Informationen"
+title: Contact
+description: contact information
 weight: 1
 draft: false
 menu:
@@ -8,6 +8,7 @@ menu:
     name: Kontakt
     weight: 4
 ---
+Contact us before you arrive if possible
 
 Kontaktieren Sie uns, bevor Sie ankommen, wenn möglich
 
