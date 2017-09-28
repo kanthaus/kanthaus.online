@@ -5,11 +5,11 @@
     <div class="intro">
         <img src="/pics/prototype.png" width="128px"></img>
         <h1>{{ .Site.Title }}</h1>
-        <h2>{{ markdownify .Site.Params.Description }}</h2>
+        <h2>{{ markdownify .Page.Params.description }}</h2>
         </br>
-        <a href="{{ .Site.LanguagePrefix }}{{ .Site.Params.moreInfoBtnLink }}">
+        <a href="{{ .Site.LanguagePrefix }}/about">
           <button>
-            {{ .Site.Params.moreInfoBtnText }}
+            {{ .Page.Params.more }}
           </button>
         </a>
     </div>

@@ -18,15 +18,9 @@ theme = "minimal"
 [Languages]
 [Languages.en]
     copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; no rights reserved </a>"
-    description = "Living with self-determination, equality and acceptance"
-    moreInfoBtnText = "More About This Project"
-    moreInfoBtnLink = "/about"
 
 [Languages.de]
     copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; keine Rechte vorbehalten </a>"
-    description = "Leben mit Selbstbestimmung, Gleichberechtigung und Akzeptanz"
-    moreInfoBtnText = "Mehr Über Dieses Projekt"
-    moreInfoBtnLink = "/about"
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
