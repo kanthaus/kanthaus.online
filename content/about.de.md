@@ -6,6 +6,8 @@ menu:
     name: Über Uns
     weight: 2
 ---
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/dougintheyard.jpg" />
   <img src="/pics/wurzenfront.jpg" />
@@ -15,13 +17,12 @@ menu:
   <img src="/pics/004.jpg" />
   <img src="/pics/005.jpg" />
 </div>
+
 <br></br>
 
-In den Häusern in der Kantstraße 20 und 22 (in Wurzen Nähe Leipzig) ist wieder was los. <br>
-Wir, eine kleine Gruppe von Menschen träumen davon hier ein für Gemeinschaft und Projekte offenes Haus aufzubauen. Eine Umgebung zu schaffen, in der Menschen sich voll entfalten und bewusst und verantwortungsvoll leben können, ist, wofür wir uns einsetzen. Wir wollen auf Basis von Werten anstatt des Status Quo unabhängig und authentisch denken und leben. Selbstbestimmung, Gleichwertigkeit und Akzeptanz sind unsere zentralen Werte. Diese sollen gelebt und in die Welt getragen werden. Anders betrachtet bedeutet dies das Verringern von Zwängen, Chancenungleichheit und Konkurrenz. Unsere Hauptziele sind es, freie und kostenlose Open Source Software zu entwickeln, Gemeingüter bzw. Commons bereitzustellen, zu verwalten und zu verbinden, zu geben, was wir können und zu nehmen, was wir brauchen und dies auch Anderen zu ermöglichen. Praktisch heißt das entsprechende Angebote wie offene Werkstätten, vor allem im Sinne eines Repair Cafés, Arbeits-/Seminar-/ und Sozialräume, in der Stadt zu schaffen, um eine verantwortungsvolle, aktive Rolle in Wurzen und der weiteren Welt zu übernehmen. <br>
-Es gibt genug Ressourcen, sie müssen nur gerechter verteilt werden. <br>
-**Weniger Verschwendung. Mehr Teilen**
+There is life again in the houses Kantstraße 20 and 22 (in Wurzen near Leipzig, Germany). We, a small group of people, are dreaming of building a house, open for community and projects. Providing an environment for people to live to their full potential and create a conscious and responsible society is what we strive for. We want to base our actions on our values instead of the status quo, think and live independently and authentically. Self-determination, equality and acceptance are our main values and we would love them to be lived and spread over the world. To take the opposites: by our actions in Wurzen we want to minimize coercion, inequality and opposition. Our main purposes are to develop free, libre and open source software, to provide and connect public and common pool resources and to give what we can, take what we need and facilitate others to do the same. In short this means creating room in the city: e.g. open workshops, working-/seminar-/ and social spaces and playing an active role in Wurzen and the wider world.
 
+There are enough resources, they only need to be distributed more fairly.**Reduce Waste. Promote Sharing** 
 
 <style>
 img {
