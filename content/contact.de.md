@@ -3,6 +3,10 @@ title: "Kontakt"
 description: "Kontakt Informationen"
 weight: 1
 draft: false
+menu:
+  main:
+    name: Kontakt
+    weight: 4
 ---
 
 Kontaktieren Sie uns, bevor Sie ankommen, wenn möglich

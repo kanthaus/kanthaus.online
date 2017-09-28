@@ -1,6 +1,10 @@
 ---
 title: "About The Kanthaus"
 description: "Living with self-determination, equality and acceptance."
+menu:
+  main:
+    name: About
+    weight: 2
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/dougintheyard.jpg" />

@@ -1,6 +1,10 @@
 ---
 title: "Über Das Kanthaus"
 description: "Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben"
+menu:
+  main:
+    name: Über Uns
+    weight: 2
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/dougintheyard.jpg" />
