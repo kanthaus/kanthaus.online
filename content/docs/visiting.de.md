@@ -14,7 +14,7 @@ So you want to come to Kanthaus? Great! Read on...
 - We have [Collective Agreements](../collectiveagreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
 - We have a [Constitution](../constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](../constitution/#8c-score-voting).
 - Die Anschrift ist [Kantraße 20, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- Contact us before you arrive if possible, via email: dmwebb--AT--gmail.com (Dougs email - temporary,) phone: 03425 8527995 or slack: #kanthaus on https://yunity.slack.com.
+- Bitte nimm wenn möglich vor Deiner Anreise Kontakt mit uns auf, per E-Mail: dmwebb--AT--gmail.com (Dougs E-Mail - vorrübergehend), per Telefon: +49 3425 8527995, oder Slack: #kanthaus auf https://yunity.slack.com .
 
 ## Safety
 - There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
