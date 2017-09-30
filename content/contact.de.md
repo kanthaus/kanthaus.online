@@ -1,6 +1,6 @@
 ---
-title: Contact
-description: contact information
+title: Kontakt
+description: Kontakt Informationen
 weight: 1
 draft: false
 menu:
@@ -8,7 +8,7 @@ menu:
     name: Kontakt
     weight: 4
 ---
-Contact us before you arrive if possible
+Bitte nimm falls möglich vor Deiner Ankunft Kontakt mit uns auf
 
 Kontaktieren Sie uns, bevor Sie ankommen, wenn möglich
 
