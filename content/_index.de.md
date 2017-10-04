@@ -1,8 +1,5 @@
----
-description: Leben mit Selbstbestimmung, Gleichberechtigung und Akzeptanz
-more: Mehr Über Dieses Projekt
-menu:
-  main:
-    name: Home
-    weight: 1
----
+* * *
+
+description: Living with self-determination, equality and acceptance more: More About This Project menu: main: name: Home
+
+## weight: 1
