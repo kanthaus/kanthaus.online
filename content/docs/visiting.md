@@ -14,7 +14,7 @@ So you want to come to Kanthaus? Great! Read on...
 - We have [Collective Agreements](../collectiveAgreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
 - We have a [Constitution](../constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](../constitution/#8c-score-voting).
 - The address is [Kantraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- Contact us before you arrive if possible, via email: dmwebb--AT--gmail.com (Dougs email - temporary,) phone: 03425 8527995 or slack: #kanthaus on https://yunity.slack.com.
+- [Contact us](https://kanthaus.online/en/contact/) before you arrive if possible.
 
 ## Safety
 - There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
@@ -22,12 +22,12 @@ So you want to come to Kanthaus? Great! Read on...
 - There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the wood of the attic: please read the [advice](../../signs/attic) before going there.
 
 ## Resources
-- Water: drinkable water comes out the taps. You can shower cold and/or test the (not good working) solar shower bag.
+- Water: drinkable water comes out the taps. You can shower cold in the house or get a hot shower at the swimming pool (10 min. walk, €1.50) or at our neighbor's if they're feeling friendly.
 - Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring fruit and vegetables should you have an abundance.
-- Electricity: 300Wp solar power (when sun) + 2 car batteries (not much capacity for night). We can charge phones, 2 laptops* (during daytime) and rechargeable batteries. With minimal lighting, you may wish to bring a torch.
+- Electricity: up to 300Wp solar power if sunny, stored in 4 low-capacity car batteries. We can charge phones, 2 laptops* (during daytime) and rechargeable batteries. With minimal lighting, you may wish to bring a torch.
 - Internet: name, "wuppdays", password, "dragonlove". (Download, ~25 Mbps, upload, ~5 Mbps.)
-- Cooking: 3-flame gas cooker (powerful) in the kitchen (well-equipped.) A charcoal (plentiful) barbecue in the garden.
-- Clothing: some T-shirts, trousers and underwear. Loads of rubber boots.
+- Cooking: a well equipped kitchen with 3-ring gas cooker and a barbecue for the garden.
+- Clothing: work and everyday clothes available.
 - Washing: Modified washing machine can be operated when there is sunlight from 12am-4pm, drying in the garden.
 - Sleeping: mattresses/beds/sofas/sheets for 10-12 people, camping mattresses/sleeping bags (loads), 6 duvets
 - Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
