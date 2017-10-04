@@ -1,26 +1,31 @@
 ---
-title: "Collective Agreements"
-description: " "
+title: Gemeinsame Übereinkunft
+description: ""
 weight: 2
 draft: false
 ---
+# Gemeinsame Übereinkunft
 
-# Collective Agreements
+## Rauchen
 
-## Smoking
-Please do not smoke at all within the buildings. If you smoke outside, please ensure that smoke does not come in through open doors or windows.
+Bitte rauche nur außerhalb der Gebäude. Wenn Du draußen rauchst, achte bitte darauf, dass der Rauch und Geruch nicht über offene Türen oder Fenster ins Gebäude gelangt.
 
-## Drinking
-The space is not a bar so please do not come here with drinking as a purpose. That said, individuals may responsibly consume alcohol in the space. Please be aware that alcohol consumption will not be considered as an excuse or justification of behviour. Please contact a Volunteer or Member with concerns or questions regarding this topic.
+## Trinken
 
-## Accessibility
-The space is not very accessible right now, making it generally unsuitable for individuals requiring additional support (e.g. blind, wheelchair user, etc.) Individuals requiring additional support are not restricted from coming, however we may not have the insfrastructure or resources to make the visit enjoyable. Feel free to contact a Member or Volunteer to get an update on the current building status or for any other enquiry.
+Dieser Ort ist keine Kneipe. Also komme bitte nicht mit der Absicht hierher Alkohol zu trinken. Das heißt auch, dass Einzelne verantwortungsbewusst an diesem Ort Alkohol konsumieren können. Bitte beachte, dass Alkohol aus Ausrede oder Begründung für Dein Verhalten nicht akzeptiert wird. Bitte frage einen der Freiwilligen oder ein Mitglied, wenn hier etwas unklar sein sollte oder Du Fragen zu diesem Thema hast.
 
-## Animals
-The space is not very safe right now, making generally unsuitable for animals. Even if it was safe, animals are not necessarily welcome due to factors such as: allergic reactions, hair-shedding, defecation, damage to resources, biting and other undesirable behaviors. Potential animal residents will be considered on a case by case basis. Please contact a Member to discuss bringing an animal.
+## Zugänglichkeit
 
-## Coordination Meeting
-There should be a meeting every Monday from 10:00 (sharp) to 11:00 (latest) in the 20 office (k20-1-4.) This meeting is primarily intended for general coordination including: the announcement of new Visitors, Volunteers and Members; changes to the Collective Choices or the Constitution, any other project-wide information and finally—if there is time—proposals. Someone should be appointed to arrange/facilitate the next meeting before the current meeting ends. All residents (Visitors, Volunteers and Members) should attend.
+Dieser Ort ist im Moment nicht sehr zugänglich. Wenn Du Unterstützungsbedarf hast (z.B. Sehschwierigkeiten, oder mit dem Rollstuhl/Rollator unterwegs), kann es sein, dass Du viele Bereiche dieses Ortes nicht oder nur eingeschränkt besuchen kannst. Für eine Anpassung dieses Ortes fehlen uns im Moment die Ressourcen. Wenn Du uns besuchen oder den aktuellen Status der Gebäude abfragen möchtest nimm bitte Kontakt mit einem Mitglied oder einem Freiwilligen auf. Möglicherweise können wir Dich unterstützen und so einen Besuch ermöglichen.
 
-## Changes to the Collective Agreements
-Any addition, subtraction or other change to this document should be made according to the Constitution, §9.
+## Tiere
+
+Der Raum ist gerade nicht ganz sicher, was ihn für Tiere ungeeignet macht. Auch wenn es vollkommen sicher wäre, sind Tiere nicht unbedingt willkommen. Gründe sind hier beispielswiese: allergische Reaktionen auf Tiere, Haarverlusst, Defäkation, Schäden an der Einrichtung, bissige Tiere und weitere nicht wünschenswerte Verhaltensweisen. Potenzielle Tierbewohner können von Fall zu Fall berücksichtigt werden. Bitte wende Dich an ein Mitglied, um zu besprechen, wenn Du ein Tier mitbringen möchtest.
+
+## Koordinierungstreffen
+
+Jeden Montag gibt es von (Punkt!) 10:00 bis (spätestens) 11:00 Uhr im Büro 20 (k20-1-4.) ein Treffen. Dieses ist in erster Linie für die allgemeine Koordination gedacht. Dabei werden neue Besucher, Freiwillige und Mitglieder angekündigt. sowie Änderungen an den gmeinsamen Wahlen oder der Verfassung, projektweite Informationen und (wenn Zeit sein sollte,) Vorschläge mitgeteilt/besprochen. Es sollte immer eine Person ernannt werden, die die nächste Sitzung zu organisiert, bevor die laufende Sitzung endet. Alle Bewohner*innen (Besucher*innen, Freiwillige und Mitglieder) sollten teilnehmen.
+
+## Änderungen an der Gemeinsame Übereinkunft
+
+Jede Änderung dieses Dokuments sollte nach der §9 der Verfassung erfolgen.
