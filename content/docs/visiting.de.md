@@ -15,7 +15,7 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 - Wir haben eine [Gemeinsame Übereinkunft](../collectiveAgreements/) welche Du akzeptierst, indem Du uns besuchst. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du hierher zu uns kommst. Kurz gesagt: Handele, würdige andere und versuche Unstimmigkeiten zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende bitte die [Abstimmung](../constitution/#8c-score-voting).
 - Die Anschrift ist [Kantraße 20, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- Bitte nimm wenn möglich vor Deiner Anreise Kontakt mit uns auf, per E-Mail: dmwebb--AT--gmail.com (Dougs E-Mail - vorrübergehend), per Telefon: +49 3425 8527995, oder Slack: #kanthaus auf https://yunity.slack.com .
+- [Contact us](https://kanthaus.online/en/contact/) before you arrive if possible.
 
 ## Safety
 
@@ -25,12 +25,12 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 
 ## Resources
 
-- Water: drinkable water comes out the taps. You can shower cold and/or test the (not good working) solar shower bag.
+- Water: drinkable water comes out the taps. You can shower cold in the house or get a hot shower at the swimming pool (10 min. walk, €1.50) or at our neighbor's if they're feeling friendly.
 - Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring fruit and vegetables should you have an abundance.
-- Electricity: 300Wp solar power (when sun) + 2 car batteries (not much capacity for night). We can charge phones, 2 laptops* (during daytime) and rechargeable batteries. With minimal lighting, you may wish to bring a torch.
+- Electricity: up to 300Wp solar power if sunny, stored in 4 low-capacity car batteries. We can charge phones, 2 laptops* (during daytime) and rechargeable batteries. With minimal lighting, you may wish to bring a torch.
 - Internet: name, "wuppdays", password, "dragonlove". (Download, ~25 Mbps, upload, ~5 Mbps.)
-- Cooking: 3-flame gas cooker (powerful) in the kitchen (well-equipped.) A charcoal (plentiful) barbecue in the garden.
-- Clothing: some T-shirts, trousers and underwear. Loads of rubber boots.
+- Cooking: a well equipped kitchen with 3-ring gas cooker and a barbecue for the garden.
+- Clothing: work and everyday clothes available.
 - Washing: Modified washing machine can be operated when there is sunlight from 12am-4pm, drying in the garden.
 - Sleeping: mattresses/beds/sofas/sheets for 10-12 people, camping mattresses/sleeping bags (loads), 6 duvets
 - Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
