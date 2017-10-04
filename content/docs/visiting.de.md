@@ -9,7 +9,7 @@ draft: false
 So you want to come to Kanthaus? Great! Read on...
 
 ## General
-- Be welcome for a week. To be welcome for longer, chat with a [Volunteer](/docs/volunteers.yml) or [Member](/docs/members.yml) once you get here.
+- Be welcome for a week. To be welcome for longer, chat with a [Volunteer](../volunteers/) or [Member](../members/) once you get here.
 - There is no cost for staying here. If you have money that you want to give, you can.
 - We have [Collective Agreements](../collectiveagreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
 - We have a [Constitution](../constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](../constitution/#8c-score-voting).

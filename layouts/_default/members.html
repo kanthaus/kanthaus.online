@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<main>
+  <h2>{{ .Title }}</h2>
+  <br>
+  <ul>
+  {{ range .Site.Data.members.members }}
+     <li>
+       <strong>{{ .name }}</strong>
+       joined {{ .joined }}
+       {{ if .founder }}
+         (founder)
+       {{ end }}
+     </li>
+  {{ end }}
+  </ul>
+</main>
+
+{{ partial "footer" . }}
