@@ -8,7 +8,7 @@ menu:
     name: Kontakt
     weight: 4
 ---
-*If you are thinking of visiting, please read [this information](https://kanthaus.online/en/docs/visiting/) first and try to contact us before you arrive if possible.*
+*If you are thinking of visiting, please read [this information](https://kanthaus.online/en/docs/visiting/) first and contact us before you arrive if possible.*
 
 Kontaktieren Sie uns, bevor Sie ankommen, wenn möglich
 
