@@ -12,7 +12,7 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 
 - Fühle Dich für eine Woche willkommen. Um länger willkommen zu sein, sprich bitte mit einer/einem [Freiwilligen](/docs/volunteers.yml) oder einem [Mitglied](/docs/members.yml) sobald Du hier bist.
 - Dein Aufenthalt hier kostet nichts. Wenn Du Geld hast, dass Du geben möchtest, kannst Du das tun.
-- Wir haben eine [Gemeinsame Übereinkunft](../collectiveAgreements/) welche Du akzeptierst, indem Du uns besuchst. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
+- We have [Collective Agreements](../collectiveagreements/) which you accept by coming here. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du hierher zu uns kommst. Kurz gesagt: Handele, würdige andere und versuche Unstimmigkeiten zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende bitte die [Abstimmung](../constitution/#8c-score-voting).
 - Die Anschrift ist [Kantraße 20, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - [Contact us](https://kanthaus.online/en/contact/) before you arrive if possible.
