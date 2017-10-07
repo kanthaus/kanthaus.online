@@ -10,7 +10,7 @@ draft: false
 
 `NAME` is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
 
-1. The Constitutional layer prescribes *who decides what should happen and how*. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in [the Constitution](https://github.com/DougInAMug/projects/blob/master/baseNode_docConst.md) (this document) and supported by the [FAQ](https://github.com/DougInAMug/projects/blob/master/baseNode_FAQ.md).
+1. The Constitutional layer prescribes *who decides what should happen and how*. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in the Constitution (this document) and supported by the [FAQ](../governancefaq/).
 2. The Collective layer prescribes *what should happen*. This layer contains other formal agreements—such as policies, schedules and best-practices—which support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](../collectiveagreements/).
 3. The Operational layer describes *what actually happens*. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
 
