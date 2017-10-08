@@ -24,10 +24,10 @@ draft: false
 
 ## §3. Prinzipien
 
-1. The three main principles which describe the intention behind the Constitution and how it should be interpreted are— 
-    1. Autonomy—minimize coercion,
-    2. Equality—minimize inequality, and
-    3. Acceptance—minimize opposition.
+1. Die drei Hauptprinzipien, die die Absichten hinter der Verfassung beschreiben und wie diese interpretiert werden sollte, sind - 
+    1. Unabhängigkeit - Zwang minimieren,
+    2. Gleichheit - Ungleichheit minimieren, und
+    3. Akzeptanz - Widerstand minimieren.
 2. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
 
 ## §4. Resources
