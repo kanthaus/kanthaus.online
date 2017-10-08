@@ -45,9 +45,9 @@ draft: false
 2. Ein Freiwilliger kann - 
     1. an dem Ort wohnen und die an dem Ort befindlichen Gegenstände nutzen,
     2. an Operativen Aktivitäten teilnehmen und die Kollektiven Übereinkünfte ändern,
-    3. participate in the selection of other Volunteers, and
-    4. participate in Voluntary Assistance during Conflict Resolution.
-3. A Volunteer should— 
+    3. bei der Auswahl anderer Freiwilliger teilnehmen, und
+    4. bei freiwilliger Unterstützung während Konfliktlösungen teilnehmen.
+3. Ein Freiwilliger sollte - 
     1. assume a portion of the responsibility for the space, and
     2. contribute to Wurzen and/or the wider world.
 4. In order to become a Volunteer, a person must— 
