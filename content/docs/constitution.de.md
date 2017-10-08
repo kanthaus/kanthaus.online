@@ -35,16 +35,16 @@ draft: false
 1. Die Gebäude der [Kanntstraße 20&22, 04808 WUrzen, Deutschland](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (hierin "der Ort".) Dieser Ort ist legaler Besitz von [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) im Auftrag von `NAME`
 2. Alle in diesem Ort befindlichen Güter, außer anderweitig angegeben.
 3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
-4. Haus Kante Wurzen w.v. selbst.
+4. Haus Kante Wurzen w.V. selbst.
 
-<p align="center"><i>Positions</i></p>
+<p align="center"><i>Positionen</i></p>
 
-## §5. Volunteer
+## § 5. Freiwillige
 
-1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become futher involved.
-2. A Volunteer may— 
-    1. reside in the space and use items located within the space,
-    2. participate in Operational Activity and change the Collective Agreements,
+1. Die Position der Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und weiterhin beteiligt sein wollen.
+2. Ein Freiwilliger kann - 
+    1. an dem Ort wohnen und die an dem Ort befindlichen Gegenstände nutzen,
+    2. an Operativen Aktivitäten teilnehmen und die Kollektiven Übereinkünfte ändern,
     3. participate in the selection of other Volunteers, and
     4. participate in Voluntary Assistance during Conflict Resolution.
 3. A Volunteer should— 
