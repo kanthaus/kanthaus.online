@@ -1,12 +1,12 @@
 ---
-title: Constitution
+title: Konstitution
 description: ""
 weight: 3
 draft: false
 ---
-# Constitution 0.2
+# Konstitution 0.2
 
-## §1. Preamble
+## § 1. Präambel
 
 `NAME` is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
 
