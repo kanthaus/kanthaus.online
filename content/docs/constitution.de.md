@@ -10,8 +10,8 @@ draft: false
 
 `NAME` ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinem Wohl gewidmet. Er wird in drei Ebenen verwaltet: die Verfassungsebene, die Kollektivebene und die operative Ebene-
 
-1. Die Verfassungsebene schreibt vor *wer entscheidet, was geschehen soll und wann*. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in the Constitution (this document) and supported by the [FAQ](../governancefaq/).
-2. The Collective layer prescribes *what should happen*. This layer contains other formal agreements—such as policies, schedules and best-practices—which support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](../collectiveagreements/).
+1. Die Verfassungsebene schreibt vor *wer entscheidet, was geschehen soll und wann*. Diese Ebene beinhaltet die wichtigsten Übereinkünfte - wie Ziele, Positionen und Verfahren - was Übereinkünfte in den folgenden Ebenen sowohl unterstützt als auch ersetzt. Dies ist in der Verfassung (diesem Dokument) belgt und von den [FAQ](../governancefaq/) gestützt.
+2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebende beinhaltet weitere formale Übereinkünfte - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Übereinkünfte in der operativen Ebene unterstützt und ersetzt. Dies ist in den [Kollektiven Übereinkünften](../collectiveagreements/) dokumentiert.
 3. The Operational layer describes *what actually happens*. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
 
 ## §2. Purposes
