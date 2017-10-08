@@ -12,17 +12,17 @@ draft: false
 
 1. Die Verfassungsebene schreibt vor *wer entscheidet, was geschehen soll und wann*. Diese Ebene beinhaltet die wichtigsten Übereinkünfte - wie Ziele, Positionen und Verfahren - was Übereinkünfte in den folgenden Ebenen sowohl unterstützt als auch ersetzt. Dies ist in der Verfassung (diesem Dokument) belgt und von den [FAQ](../governancefaq/) gestützt.
 2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebende beinhaltet weitere formale Übereinkünfte - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Übereinkünfte in der operativen Ebene unterstützt und ersetzt. Dies ist in den [Kollektiven Übereinkünften](../collectiveagreements/) dokumentiert.
-3. Die operative Ebene schreibt vor *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Übereinkünfte - wie Normen, Übereinkünfte von Untergruppen und spontane Aktivitäten. It is not centrally documented.
+3. Die operative Ebene schreibt vor *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Übereinkünfte - wie Normen, Übereinkünfte von Untergruppen und spontane Aktivitäten. Dies ist nicht zentral dokumentiert.
 
-## §2. Purposes
+## § 2. Ziele
 
-1. To reduce waste and promote sharing.
-2. To develop and distribute free, libre and open-source software.
-3. To provide and connect public and common resources.
-4. To give what we can, take what need and facilitate others to do the same.
-5. To generally have a jolly good time.
+1. Abfall reduzieren und Teilen fördern.
+2. Eine freie, offene und open-source Plattform entwickeln und einsetzten.
+3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung stellen und verbinden.
+4. Geben, was wir können, Nehmen, was wir brauchen und andere anleiten dasselbe zu tun.
+5. Im Großen und Ganzen eine tolle Zeit zu verbringen.
 
-## §3. Principles
+## §3. Prinzipien
 
 1. The three main principles which describe the intention behind the Constitution and how it should be interpreted are— 
     1. Autonomy—minimize coercion,
