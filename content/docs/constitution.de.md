@@ -12,7 +12,7 @@ draft: false
 
 1. Die Verfassungsebene schreibt vor *wer entscheidet, was geschehen soll und wann*. Diese Ebene beinhaltet die wichtigsten Übereinkünfte - wie Ziele, Positionen und Verfahren - was Übereinkünfte in den folgenden Ebenen sowohl unterstützt als auch ersetzt. Dies ist in der Verfassung (diesem Dokument) belgt und von den [FAQ](../governancefaq/) gestützt.
 2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebende beinhaltet weitere formale Übereinkünfte - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Übereinkünfte in der operativen Ebene unterstützt und ersetzt. Dies ist in den [Kollektiven Übereinkünften](../collectiveagreements/) dokumentiert.
-3. The Operational layer describes *what actually happens*. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
+3. Die operative Ebene schreibt vor *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Übereinkünfte - wie Normen, Übereinkünfte von Untergruppen und spontane Aktivitäten. It is not centrally documented.
 
 ## §2. Purposes
 
