@@ -28,14 +28,14 @@ draft: false
     1. Unabhängigkeit - Zwang minimieren,
     2. Gleichheit - Ungleichheit minimieren, und
     3. Akzeptanz - Widerstand minimieren.
-2. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
+2. Weitere leitende Prinzipien beinhalten von der Natur inspirierte Designs wie [Permakultur](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), solche sich wiederholende Entwicklungsrahmen wie [Scrum](http://www.scrumguides.org/scrum-guide.html) und solche von [dauerhaften Gemeinschafts Pool Ressourcen Institutionen](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) eklärt.
 
-## §4. Resources
+## § 4. Ressourcen
 
-1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of `NAME` by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.)
-2. All items located within the space, unless specified otherwise.
-3. Money and any other resources held by Haus Kante Wurzen w.V.
-4. Haus Kante Wurzen w.V. itself.
+1. Die Gebäude der [Kanntstraße 20&22, 04808 WUrzen, Deutschland](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (hierin "der Ort".) Dieser Ort ist legaler Besitz von [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) im Auftrag von `NAME`
+2. Alle in diesem Ort befindlichen Güter, außer anderweitig angegeben.
+3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
+4. Haus Kante Wurzen w.v. selbst.
 
 <p align="center"><i>Positions</i></p>
 
