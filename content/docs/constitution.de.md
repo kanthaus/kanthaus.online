@@ -53,14 +53,14 @@ draft: false
 4. Um ein Freiwilliger zu werden muss die Person - 
     1. mindestens 14 Tage an dem Ort gelebt haben und
     2. die Verfassung und Kollektiven Übereinkünfte verstanden und akzeptiert haben.
-5. A person becomes a Volunteer based on a successful outcome from an Application Procedure in which only Members and Volunteers should participate.
-6. A person ceases to be a Volunteer— 
-    1. 3 months after becoming a Volunteer,
-    2. if they become a Member,
-    3. at their request, or
-    4. if Conflict Resolution by Intervention (§11c.) prescribes it.
+5. Eine Person wird ein Freiwilliger basierend auf dem erfolgreichen Ergebnis eines Bewerbungsverfahrens, in dem nur Mitglieder und Freiwillige teilnehmen sollten.
+6. Eine Person hört auf, ein Freiwilliger zu sein - 
+    1. 3 Monate nachdem er/sie ein Freiwilliger wurde,
+    2. wenn er/sie ein Mitglied wird,
+    3. auf seinen/ihren Wunsch, oder
+    4. wenn Konfliktlösung durch Interventionen (§11c.) es vorschreibt.
 
-## §6. Member
+## § 6. Mitglied
 
 1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
 2. A Member may— 
