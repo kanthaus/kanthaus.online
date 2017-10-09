@@ -48,11 +48,11 @@ draft: false
     3. bei der Auswahl anderer Freiwilliger teilnehmen, und
     4. bei freiwilliger Unterstützung während Konfliktlösungen teilnehmen.
 3. Ein Freiwilliger sollte - 
-    1. assume a portion of the responsibility for the space, and
-    2. contribute to Wurzen and/or the wider world.
-4. In order to become a Volunteer, a person must— 
-    1. have resided in the space for at least 14 days in total, and
-    2. understand and accept the Constitution and the Collective Agreements.
+    1. einen Teil der Verantwortung für den Ort übernehmen und
+    2. für Wurzen und/oder die weitere Welt einen Beitrag leisten.
+4. Um ein Freiwilliger zu werden muss die Person - 
+    1. mindestens 14 Tage an dem Ort gelebt haben und
+    2. die Verfassung und Kollektiven Übereinkünfte verstanden und akzeptiert haben.
 5. A person becomes a Volunteer based on a successful outcome from an Application Procedure in which only Members and Volunteers should participate.
 6. A person ceases to be a Volunteer— 
     1. 3 months after becoming a Volunteer,
