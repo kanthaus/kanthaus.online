@@ -1,5 +1,5 @@
 ---
-title: Coordination Meeting
+title: Coordination Meeting Template
 date: 2017-01-01
 ---
 <!-- Hello facilitator/notary! Thank you for your services. Here is some advice for facilitating coordination meetings:
