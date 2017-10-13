@@ -16,7 +16,7 @@ We meet on Thursdays at 10:00 to briefly review, prioritize, allocate communal c
 
 ## Visiting
 
-Visitors are invited to chat about their experience with a couple of the Volunteers/Members after spending around ~7 days in the space. Visitors are expected to communicate to a Volunteer/Member whether they want to apply to become a [Volunteer](https://gitlab.com/kanthaus/kanthaus.gitlab.io/blob/master/content/docs/constitution.en.md#5-volunteer) or re-apply to stay as a Visitor spending more than 14 days and less than 21 days in the space.
+Visitors are invited to chat about their experience with a couple of the Volunteers/Members after spending around ~7 days in the space. Visitors are expected to communicate to a Volunteer/Member whether they want to apply to become a [Volunteer](../constitution#5-volunteer) or re-apply to stay as a Visitor spending more than 14 days and less than 21 days in the space.
 
 ## Smoking
 
@@ -36,4 +36,4 @@ The space is not very safe right now, making generally unsuitable for animals. E
 
 ## Changes to the Collective Agreements
 
-Any addition, subtraction or other change to this document should be made according to the [Constitution, §9](https://gitlab.com/kanthaus/kanthaus.gitlab.io/blob/master/content/docs/constitution.en.md#9-changing-the-collective-agreements).
+Any addition, subtraction or other change to this document should be made according to the [Constitution, §9](../constitution#9-changing-the-collective-agreements).
