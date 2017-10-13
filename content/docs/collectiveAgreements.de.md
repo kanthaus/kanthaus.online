@@ -6,26 +6,34 @@ draft: false
 ---
 # Gemeinsame Übereinkunft
 
-## Rauchen
+## Coordination Meeting
 
-Bitte rauche nur außerhalb der Gebäude. Wenn Du draußen rauchst, achte bitte darauf, dass der Rauch und Geruch nicht über offene Türen oder Fenster ins Gebäude gelangt.
+We meet on Mondays at or before 10:00 to distribute information, make plans and generally coordinate. All residents are recommended to join.
 
-## Trinken
+## Power Hour
 
-Dieser Ort ist keine Kneipe. Also komme bitte nicht mit der Absicht hierher Alkohol zu trinken. Das heißt auch, dass Einzelne verantwortungsbewusst an diesem Ort Alkohol konsumieren können. Bitte beachte, dass Alkohol aus Ausrede oder Begründung für Dein Verhalten nicht akzeptiert wird. Bitte frage einen der Freiwilligen oder ein Mitglied, wenn hier etwas unklar sein sollte oder Du Fragen zu diesem Thema hast.
+We meet on Thursdays at 10:00 to briefly review, prioritize, allocate communal cleaning tasks before splitting up and cleaning for the next hour. This is an addition to ordinary cleaning, not a replacement. All residents are recommended to join.
 
-## Zugänglichkeit
+## Visiting
 
-Dieser Ort ist im Moment nicht sehr zugänglich. Wenn Du Unterstützungsbedarf hast (z.B. Sehschwierigkeiten oder mit dem Rollstuhl/Rollator unterwegs), kann es sein, dass Du viele Bereiche dieses Ortes nicht oder nur eingeschränkt besuchen kannst. Für eine Anpassung dieses Ortes fehlen uns im Moment die Ressourcen. Wenn Du uns besuchen oder den aktuellen Status der Gebäude abfragen möchtest, nimm bitte Kontakt mit einem Mitglied oder einem Freiwilligen auf. Möglicherweise können wir Dich unterstützen und so einen Besuch ermöglichen.
+Visitors are invited to chat about their experience with a couple of the Volunteers/Members after spending around ~7 days in the space. Visitors are expected to communicate to a Volunteer/Member whether they want to apply to become a [Volunteer](https://gitlab.com/kanthaus/kanthaus.gitlab.io/blob/master/content/docs/constitution.en.md#5-volunteer) or re-apply to stay as a Visitor spending more than 14 days and less than 21 days in the space.
 
-## Tiere
+## Smoking
 
-Der Raum ist gerade nicht ganz sicher, was ihn für Tiere ungeeignet macht. Auch wenn es vollkommen sicher wäre, sind Tiere nicht unbedingt willkommen. Gründe sind hier beispielswiese: allergische Reaktionen auf Tiere, Haarverlust, Defäkation, Schäden an der Einrichtung, bissige Tiere und weitere nicht wünschenswerte Verhaltensweisen. Potenzielle Tierbewohner können von Fall zu Fall berücksichtigt werden. Bitte wende Dich an ein Mitglied, um zu besprechen, wenn Du ein Tier mitbringen möchtest.
+Please do not smoke at all within the buildings. If you smoke outside, please ensure that smoke does not come in through open doors or windows.
 
-## Koordinierungstreffen
+## Drinking
 
-Jeden Montag gibt es von (Punkt!) 10:00 bis (spätestens) 11:00 Uhr im Büro 20 (k20-1-4.) ein Treffen. Dieses ist in erster Linie für die allgemeine Koordination gedacht. Dabei werden neue Besucher, Freiwillige und Mitglieder angekündigt. sowie Änderungen an den gmeinsamen Wahlen oder der Verfassung, projektweite Informationen und (wenn Zeit sein sollte,) Vorschläge mitgeteilt/besprochen. Es sollte immer eine Person ernannt werden, die die nächste Sitzung zu organisiert, bevor die laufende Sitzung endet. Alle Bewohner*innen (Besucher*innen, Freiwillige und Mitglieder) sollten teilnehmen.
+The space is not a bar: please do not come here with drinking as a primary purpose and be aware that alcohol consumption will not be considered as an excuse or justification of behavior. That said, individuals may responsibly consume alcohol in the space. Please contact a Volunteer or Member with concerns or questions regarding this topic.
 
-## Änderungen an der Gemeinsamen Übereinkunft
+## Accessibility
 
-Jede Änderung dieses Dokuments sollte nach der §9 der Verfassung erfolgen.
+The space is not very accessible right now, making it generally unsuitable for individuals requiring additional support (e.g. blind, wheelchair user, etc.) Individuals requiring additional support are not restricted from coming, however we may not have the infrastructure or resources to make the visit enjoyable. Feel free to contact a Member or Volunteer to get an update on the current building status or for any other enquiry.
+
+## Animals
+
+The space is not very safe right now, making generally unsuitable for animals. Even if it was safe, animals are not necessarily welcome due to factors such as: allergic reactions, hair-shedding, defecation, damage to resources, biting and other undesirable behaviors. Potential animal residents will be considered on a case by case basis. Please contact a Member to discuss bringing an animal.
+
+## Changes to the Collective Agreements
+
+Any addition, subtraction or other change to this document should be made according to the [Constitution, §9](https://gitlab.com/kanthaus/kanthaus.gitlab.io/blob/master/content/docs/constitution.en.md#9-changing-the-collective-agreements).
