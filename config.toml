@@ -6,7 +6,7 @@ theme = "minimal"
 
 [params]
     author = "kanthaus"
-    accent = "purple"
+    accent = "green"
     showBorder = false
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -17,10 +17,10 @@ theme = "minimal"
 
 [Languages]
 [Languages.en]
-    copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; no rights reserved </a>"
+    copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/'> CC0; no rights reserved </a>"
 
 [Languages.de]
-    copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/' style='text-decoration: none; color: #777777'> CC0; keine Rechte vorbehalten </a>"
+    copyright  = "<a href='https://creativecommons.org/publicdomain/zero/1.0/'> CC0; keine Rechte vorbehalten </a>"
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
