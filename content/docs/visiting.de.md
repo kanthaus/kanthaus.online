@@ -10,7 +10,7 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 
 ## Allgemein
 
-- Fühle Dich für eine Woche willkommen. Um länger willkommen zu sein, sprich bitte mit einer/einem [Freiwilligen](/docs/volunteers.yml) oder einem [Mitglied](/docs/members.yml) sobald Du hier bist.
+- Be welcome for a week. To be welcome for longer, chat with a [Volunteer](../volunteers/) or [Member](../members/) once you get here.
 - Dein Aufenthalt hier kostet nichts. Wenn Du Geld hast, dass Du geben möchtest, kannst Du das tun.
 - We have [Collective Agreements](../collectiveagreements/) which you accept by coming here. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du hierher zu uns kommst. Kurz gesagt: Handele, würdige andere und versuche Unstimmigkeiten zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende bitte die [Abstimmung](../constitution/#8c-score-voting).
