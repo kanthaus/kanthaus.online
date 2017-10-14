@@ -2,11 +2,11 @@
 
 volunteers:
   - name: Wolfi
-  joined: 2017-09-07
-  participants: Doug, Matthias, Laurina, Janina
+    joined: 2017-09-07
+    participants: Doug, Matthias, Laurina, Janina
   - name: Bodhi
-  joined: 2017-09-25
-  participants: Doug, Matthias, Laurina, Janina, Wolfi
+    joined: 2017-09-25
+    participants: Doug, Matthias, Laurina, Janina, Wolfi
   - name: Mona
-  joined: 2017-10-04
-  participant: Doug, Matthias, Laurina
+    joined: 2017-10-04
+    participant: Doug, Matthias, Laurina
