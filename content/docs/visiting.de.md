@@ -10,9 +10,9 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 
 ## Allgemein
 
-- Be welcome for a week. To be welcome for longer, chat with a [Volunteer](../volunteers/) or [Member](../members/) once you get here.
+- Sei Willkommen für eine Woche. Um länger zu bleiben, sprich mit einem [Freiwilligen](../volunteers/) oder [Mitglied](../members/), sobald du hier bist.
 - Dein Aufenthalt hier kostet nichts. Wenn Du Geld hast, dass Du geben möchtest, kannst Du das tun.
-- We have [Collective Agreements](../collectiveagreements/) which you accept by coming here. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
+- Wir haben [gemeinsame Vereinbarungen](../collectiveagreements/), welchen Du zustimmst, indem du hier bist. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du hierher zu uns kommst. Kurz gesagt: Handele, würdige andere und versuche Unstimmigkeiten zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende bitte die [Abstimmung](../constitution/#8c-score-voting).
 - Die Anschrift ist [Kantraße 20, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - [Contact us](../../contact/) before you arrive if possible.
