@@ -1,9 +1,9 @@
 ---
-title: About The Kanthaus
-description: Living with self-determination, equality and acceptance.
+title: Über das Kanthaus
+description: Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben.
 menu:
   main:
-    name: About
+    name: Über uns
     weight: 2
 ---
 
