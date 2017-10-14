@@ -25,16 +25,16 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 
 ## Ressourcen
 
-- Water: drinkable water comes out the taps. You can shower cold in the house or get a hot shower at the swimming pool (10 min. walk, €1.50) or at our neighbor's if they're feeling friendly.
-- Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring fruit and vegetables should you have an abundance.
-- Electricity: up to 300Wp solar power if sunny, stored in 4 low-capacity car batteries. We can charge phones, 2 laptops* (during daytime) and rechargeable batteries. With minimal lighting, you may wish to bring a torch.
-- Internet: name, "wuppdays", password, "dragonlove". (Download, ~25 Mbps, upload, ~5 Mbps.)
-- Cooking: a well equipped kitchen with 3-ring gas cooker and a barbecue for the garden.
-- Clothing: work and everyday clothes available.
-- Washing: Modified washing machine can be operated when there is sunlight from 12am-4pm, drying in the garden.
-- Sleeping: mattresses/beds/sofas/sheets for 10-12 people, camping mattresses/sleeping bags (loads), 6 duvets
-- Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
+- Wasser: Trinkwaser aus den Hähnen im Spülraum, Küche, Badezimmer und Schlafetagen-Badezimmer. Es gibt eine kalte Dusche, welche experimentell per Gasbrenner beheizt werden kann. Zudem gibt es ein Schwimmbad (10 Minuten entfernt, 1,50€) oder liebe Nachbarn, die dich bestimmt mal duschen lassen.
+- Essen: Einige Vorräte haltbare Speisen, regelmäßige Versorgung mit Brot, unregelmäßige Versorgung mit frischen Dingen. Sei herzlich eingeladen, Obst und Gemüse mitzubringen, wenn es bei dir einen Überfluss davon gibt.
+- Strom: Ausschließlich Solarstrom bis Mitte November, 300 Wp welche meist im Schatten sind, 400 Wh Autobatterien, welche langsam den Geist aufgeben. Es können Telefone und durchschnittlich 2 Laptops (am Tag) sowie AA- und AAA Akkus geladen werden. Es gibt wenig Licht, eine Taschen-/Stirnlampe wird dir hier treue Dienste erweisen.
+- Internet: Wlan 2,4 GHz SSID "wuppdays", Passwort "dragonlove". (VDSL25, ~25 Mbps Down / ~5 Mbps up.)
+- Kochen: Gut ausgestattete Küche mit 2 großen und einem sehr kleinen Gaskochfeld, Grills für den Innenhof.
+- Kleidung: Arbeits- und Alltagsklamotten in diveren Größen vorhanden. Unterhosen in mittlerer Größe sowie Hosen in ~W31/L30 sind etwas knapp.
+- Waschen: Umgebastelte Waschmaschine, welche bei direktem Sonnenlicht auf unsere Panels betrieben werden kann.
+- Schlafen: Matratzen, Betten, Sofas und Bettzeug für 10-12 Leute, Isomatten und Schlafsäcke für mehr.
+- Anderes: Ein paar Musikinstrumente (Gitarre, Flöte, Trommel), diverse Spiele, Shisha, behelfsmäßig gut ausgestattete Werkstatt, diverses Elektro/Holz/Metall Bastelzeug...
 
-Kanthaus eagerly awaits you!
+Das Kanthaus erwartet dich!
 
-**We can charge Thinkpads easily, both old (barrel-type) and new (rectangle-type) sockets. We can charge other laptops, if: (1) you bring the corresponding 12 V DC (car) charger, or (2) your laptop takes 20 V DC and you're happy for us to perform some minor surgery on your regular charger, or (3) your AC Adapter works with 80V DC (Macs do) and the sun is shining. Laptops can also be charged at the nearby library during [opening hours](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot).*
+**Am besten können wir Thinkpads, sowohl rund als auch eckig laden. Wir können auch andere Laptops laden, wenn: (1) du einen 12 V Ladeadapter mitbringst, oder (2) wir dein Ladekabel abschneiden dürfen oder (3) dein AC Adapter auch mit 70 V Gleichspannung läuft (Glückssache). Zudem kannst du deinen Laptop auch in der Bibliothek zu den [Öffnungszeiten](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot) laden.*
