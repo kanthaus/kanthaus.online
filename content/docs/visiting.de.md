@@ -14,16 +14,16 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 - Dein Aufenthalt hier kostet nichts. Wenn Du Geld hast, dass Du geben möchtest, kannst Du das tun.
 - Wir haben [gemeinsame Vereinbarungen](../collectiveagreements/), welchen Du zustimmst, indem du hier bist. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du hierher zu uns kommst. Kurz gesagt: Handele, würdige andere und versuche Unstimmigkeiten zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende bitte die [Abstimmung](../constitution/#8c-score-voting).
-- The address is [Kantstraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
+- Die Adresse ist [Kantstraße 20, 04808 Wurzen](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - [Melde Dich](../../contact/) am besten, bevor Du ankommst.
 
-## Safety
+## Sicherheit
 
-- There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
-- There may be sharp objects sticking out of the flooring: take care if walking barefoot.
-- There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the wood of the attic: please read the [advice](../../signs/attic) before going there.
+- Wir haben (noch) keine Rauchmelder oder Feuerlösche. Bitte behalte jegliche Feuer (Kocher, Kerzen) ständig im Blick.
+- Hier und dort mag der Fußboden spitze Stellen freiliegen haben: Sei vorsichtig, wenn du barfuß läufst.
+- Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) im Dachstuhl. Bitte lese [die Sicherheitshinweise](../../signs/attic), bevor du den Bereich betrittst.
 
-## Resources
+## Ressourcen
 
 - Water: drinkable water comes out the taps. You can shower cold in the house or get a hot shower at the swimming pool (10 min. walk, €1.50) or at our neighbor's if they're feeling friendly.
 - Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring fruit and vegetables should you have an abundance.
