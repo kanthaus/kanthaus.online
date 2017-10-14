@@ -14,8 +14,8 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 - Dein Aufenthalt hier kostet nichts. Wenn Du Geld hast, dass Du geben möchtest, kannst Du das tun.
 - Wir haben [gemeinsame Vereinbarungen](../collectiveagreements/), welchen Du zustimmst, indem du hier bist. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich mit uns vorher, wenn Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du hierher zu uns kommst. Kurz gesagt: Handele, würdige andere und versuche Unstimmigkeiten zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende bitte die [Abstimmung](../constitution/#8c-score-voting).
-- Die Anschrift ist [Kantraße 20, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- [Contact us](../../contact/) before you arrive if possible.
+- The address is [Kantstraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
+- [Melde Dich](../../contact/) am besten, bevor Du ankommst.
 
 ## Safety
 
