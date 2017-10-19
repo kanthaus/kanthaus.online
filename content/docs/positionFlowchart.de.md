@@ -4,7 +4,7 @@ description: ""
 weight: 3
 draft: false
 ---
-*The following flowchart visualizes the positions at Kanthaus as defined in the [Collective Agreements](https://kanthaus.online/en/docs/collectiveagreements/) (Visitors) and the [Constitution](https://kanthaus.online/en/docs/constitution/) (Volunteers and Members.)*
+*The following flowchart visualizes the positions at Kanthaus as defined in the [Collective Agreements](../collectiveagreements/) (Visitors) and the [Constitution](../constitution/) (Volunteers and Members.)*
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/currentPositionFlow.svg" />
