@@ -1,5 +1,5 @@
 ---
-title: Position flow diagram
+title: Position-Flussdiagramm
 description: ""
 weight: 3
 draft: false
