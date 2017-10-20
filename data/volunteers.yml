@@ -9,4 +9,7 @@ volunteers:
     participants: Doug, Matthias, Laurina, Janina, Wolfi
   - name: Mona
     joined: 2017-10-04
-    participant: Doug, Matthias, Laurina
+    participants: Doug, Matthias, Laurina
+  - name: Max
+    joined: 2017-10-07
+    participants: Doug, Matthias, Laurina, Mona
