@@ -54,12 +54,14 @@ location ~ ^/(en|de|css|pics)/ {
 
 location / {
   set_by_lua_block $default_lang {
-    for lang in (ngx.var.http_accept_language .. ","):gmatch("([^,]*),") do
-      if string.sub(lang, 0, 2) == "en" then
-        return "en"
-      end
-      if string.sub(lang, 0, 2) == "de" then
-        return "de"
+    if ngx.var.http_accept_language ~= nil then
+      for lang in (ngx.var.http_accept_language .. ","):gmatch("([^,]*),") do
+        if string.sub(lang, 0, 2) == "en" then
+          return "en"
+        end
+        if string.sub(lang, 0, 2) == "de" then
+          return "de"
+        end
       end
     end
     return "de"

@@ -1,4 +1,4 @@
-# The following individuals hold the position of Volunteer as defined in the Constitution: https://github.com/kanthaus/kanthaus/blob/master/constitution.md#5-volunteer
+  # The following individuals hold the position of Volunteer as defined in the Constitution: https://github.com/kanthaus/kanthaus/blob/master/constitution.md#5-volunteer
 
 volunteers:
   - name: Wolfi
@@ -9,4 +9,13 @@ volunteers:
     participants: Doug, Matthias, Laurina, Janina, Wolfi
   - name: Mona
     joined: 2017-10-04
-    participant: Doug, Matthias, Laurina
+    participants: Doug, Matthias, Laurina
+  - name: Max
+    joined: 2017-10-07
+    participants: Doug, Matthias, Laurina, Mona
+  - name: Nick
+    joined: 2017-10-26
+    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
+  - name: Cille
+    joined: 2017-10-26
+    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
