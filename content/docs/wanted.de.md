@@ -25,13 +25,12 @@ draft: false
 # Wünsche
 
 - ein Beamer (Matthias)
-- ein Klavier
-- Brettspiel Risiko
-- Brettspiel Monopoly
-- 20 Würfel (für das Spiel Perudo)
-- eine Langhantel, Gewichte, Hantel und Matten
-- eine Pinnwand
-- doppelseitiges Klebeband
+- Risk (the board game, 'Risiko')
+- Monopoly (the board game)
+- dice (at least 20, for the game Perudo)
+- a barbell (langhantel), dumbbells, weights and mat
+- a pinboard
+- double-sided tape
 
 # Wo finde ich Dinge?
 
