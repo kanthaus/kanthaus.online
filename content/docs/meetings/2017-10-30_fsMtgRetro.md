@@ -15,17 +15,17 @@ _The Foodsharing Festival Meeting was the first planned event at Kanthaus for an
 5. Individual reflection: everyone was asked to reflect on the questions "What was liked?', 'What wasn't liked?', and 'What would have been liked?' and recorde their answers on paper.
 6. Small group reflection: Individuals were invited to discuss similarities and differences between their individual reflections. 
 7. Reflection summary: everyone re-grouped and then a spokesperson for each group summarised the outstanding points which were–
-  7.1. What was liked?
+  - What was liked?
     - The party. The decoration, music and energy.
     - Having AC power the whole time.
     - A friendly and energetic atmosphere.
     - Amazing food and people who make food.
-  7.2. What wasn't liked?
+  - What wasn't liked?
     - The back-door to 22 being so often closed and with so few keys.
     - Confusion of sleeping rooms and where people are meant to sleep.
     - Difficult to find peace/focus/do external work.
     - Too much noise in/around sleeping rooms whilst people trying to sleep.
-  7.3. What would have been liked?
+  - What would have been liked?
     - More personal talks.
     - Group walk outside.
     - A bit more structure.
