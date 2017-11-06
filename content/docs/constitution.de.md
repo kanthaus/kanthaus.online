@@ -43,8 +43,8 @@ draft: false
 
 1. Die Position der Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und zusätzlich involviert sein möchten.
 2. Ein Freiwilliger kann - 
-    1. an dem Ort aufhalten und die an dem Ort befindlichen Gegenstände nutzen,
-    2. an Operativen Aktivitäten teilnehmen und die Kollektiven Übereinkünfte ändern,
+    1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen,
+    2. an operativen Aktivitäten teilnehmen und die gemeinschaftlichen Vereinbarungen ändern,
     3. bei der Auswahl anderer Freiwilliger teilnehmen, und
     4. bei freiwilliger Unterstützung während Konfliktlösungen teilnehmen.
 3. Ein Freiwilliger sollte - 
@@ -62,17 +62,17 @@ draft: false
 
 ## § 6. Mitglied
 
-1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
-2. A Member may— 
-    1. reside in the space and use the other Resources,
-    2. participate in Operational Activity, Collective Change and Constitutional Change,
-    3. participate in the selection of Volunteers and other Members, and
-    4. participate in Voluntary Assistance and Intervention during Conflict Resolution.
-3. A Member should— 
-    1. assume an equitable share of the total responsibility for the space including social, legal and financial matters, and
-    2. contribute in some way to Wurzen and the wider world.
-4. In order to become a Member, a person must— 
-    1. have resided in the space as a Volunteer for at least 28 days in total, and
+1. Die Rolle des Mitglieds richtet sich an Personen, die mit dem Projekt vertraut sind und sich diesem verpflichten möchten.
+2. Ein Mitglied kann — 
+    1. vor Ort wohnen und die anderen Ressourcen nutzen,
+    2. an operativen Aktivitäten teilnehmen, die gemeinschaftlichen Vereinbarungen und die Verfassung ändern,
+    3. bei der Auswahl anderer Freiwilliger und Mitglieder teilnehmen, und
+    4. bei freiwilliger Unterstützung und Intervention während Konfliktlösungen teilnehmen.
+3. Ein Mitglied sollte- 
+    1. einen angemessenen Anteil der gesamten Verantwortung für den Ort, einschließlich der sozialen, rechtlichen und finanzielle Angelegenheiten übernehmen und
+    2. für Wurzen und die weitere Welt einen Beitrag leisten.
+4. Um ein Mitglied zu werden muss die Person - 
+    1. mindestens 28 Tage als Freiwillige*r an dem Ort gelebt haben und
     2. reaffirm they understand and accept the Constitution and Collective Agreements.
 5. A person becomes a Member based on a successful outcome from an Application Procedure in which only Members should participate.
 6. A person ceases to be a Member— 
