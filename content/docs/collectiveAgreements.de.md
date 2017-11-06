@@ -6,15 +6,15 @@ draft: false
 ---
 # Gemeinschaftliche Vereinbarungen
 
-## Coordination Meeting
+## Koordinierungstreffen
 
-We meet on Mondays at or before 10:00 to distribute information, make plans and generally coordinate. All residents are recommended to join.
+Wir treffen uns Montags um, oder vor 10:00 zum Informationen zu teilen, Pläne zu machen und grundsätzlich zu koordinieren. Allen Bewohnenden wird empfohlen dabeizusein.
 
 ## Power Hour
 
-We meet on Thursdays at 10:00 to briefly review, prioritize, allocate communal cleaning tasks before splitting up and cleaning for the next hour. This is an addition to ordinary cleaning, not a replacement. All residents are recommended to join.
+Wir treffen uns Donnerstags um 10:00 Uhr, um kurz gemeinschaftliche Reinigungsaufgaben zu überblicken, zu priorisieren und aufzuteilen. Dann Trennen wir uns und putzen für eine Stunde. Dies ist eine Ergänzung zu normalem Putzen, kein Ersatz. Allen Bewohnenden wird empfohlen dabeizusein.
 
-## Visiting
+## Besuchen
 
 Visitors are invited to chat about their experience with a couple of the Volunteers/Members after spending around ~7 days in the space. Visitors are expected to communicate to a Volunteer/Member whether they want to apply to become a [Volunteer](../constitution#5-volunteer) or re-apply to stay as a Visitor spending more than 14 days and less than 21 days in the space.
 
