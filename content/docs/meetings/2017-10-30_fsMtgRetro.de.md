@@ -1,10 +1,10 @@
 ---
-title: Retrospective for the Foodsharing Festival Meeting Kanthaus
+title: Retrospektive für Foodsharing Festival Treffen Kanthaus
 date: 2017-10-30
 ---
-Participants: Doug, Nick, Cille, Mona, Max, Flo, Birta, Berndt, Tina, Matthias, Silvan, x, y. Facilitator: Doug
+Teilnehmende: Doug, Nick, Cille, Mona, Max, Flo, Birta, Berndt, Tina, Matthias, Silvan, x, y. Moderator: Doug
 
-*The Foodsharing Festival Meeting was the first planned event at Kanthaus for an external group. Getting feedback was therefore deemed to be particularly relevant.*
+*Das Foodsharing Festival Treffen war die erste geplante Veranstaltung im Kanthaus für eine externe Gruppe. Erste Rückmeldungen galten daher als besonders relevant.*
 
 1. Intro: a brief description of retrospective purpose and theory, a wish for constructive/non-judgemental setting and a reading of 'the Prime Directive'.
 2. Planetary orbit game: everyone was first asked to silently select another person, then to circle that person 3 times. Chaos! Fun! Wahh!
