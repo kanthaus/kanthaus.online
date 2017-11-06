@@ -1,5 +1,5 @@
 ---
-title: Verfassung
+title: Verfassung 0.2
 description: ""
 weight: 3
 draft: false
