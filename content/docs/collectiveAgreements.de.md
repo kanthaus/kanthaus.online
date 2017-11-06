@@ -16,7 +16,7 @@ Wir treffen uns Donnerstags um 10:00 Uhr, um kurz gemeinschaftliche Reinigungsau
 
 ## Besuchen
 
-Visitors are invited to chat about their experience with a couple of the Volunteers/Members after spending around ~7 days in the space. Visitors are expected to communicate to a Volunteer/Member whether they want to apply to become a [Volunteer](../constitution#5-volunteer) or re-apply to stay as a Visitor spending more than 14 days and less than 21 days in the space.
+Besuchende sind nach 7 Tagen vor Ort eingeladen, sich über ihre Erfahrungen mit ein paar der Freiwilligen/Mitglieder auszutauschen. Visitors are expected to communicate to a Volunteer/Member whether they want to apply to become a [Volunteer](../constitution#5-volunteer) or re-apply to stay as a Visitor spending more than 14 days and less than 21 days in the space.
 
 ## Smoking
 
