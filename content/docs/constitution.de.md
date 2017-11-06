@@ -85,12 +85,12 @@ draft: false
 ## § 7. Bewerbungsverfahren
 
 1. Der sich Bewerbende darf während des Verfahrens nicht anwesend sein.
-2. Firstly participants should take a preliminary vote in which they anonymously express whether they ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
-3. Secondly participants should discuss the application and, in particular, raise and address any concerns.
-4. Finally participants should take a binding vote in the same fashion as the preliminary vote. This time— 
-    1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds, or
-    2. else the application fails at that time.
-5. The applicant should promptly be informed whether their application has succeeded or failed, but not the breakdown of which votes were cast.
+2. Zuerst sollten die Teilnehmenden eine einleitende Abstimmung vornehmen in derer sie sich anonym äußern, ob sie einem positiven Bewerbungsverfahren mit "Unterstützung" (+), "Einwilligung" (0) oder "Widerstand" (-) entgegentreten.
+3. Danach sollten die Teilnehmenden die Bewerbung diskutieren und vor allem Bedenken anbringen und besprechen.
+4. Schließlich sollten Teilnehmenden eine verbindliche Abstimmung in der gleichen Weise wie der ersten vornehmen. Dieses Mal – 
+    1. ist die Bewerbung erfolgreich, wenn es 3 oder mehr "Unterstützung" Stimmen als "Widerstand" Stimmen gibt, oder
+    2. sonst schlägt die Bewerbung zu diesem Zeitpunkt fehl.
+5. Der sich Bewerbende sollte umgehend informiert werden, ob ihre Bewerbung erfolgreich oder fehlgeschlagen ist, aber nicht die Aufteilung der Stimmen erfahren.
 
 ## §8. Operational Activity
 
