@@ -1,10 +1,10 @@
 ---
-title: Gemeinsame Übereinkunft
+title: Gemeinschaftliche Vereinbarungen
 description: ""
 weight: 2
 draft: false
 ---
-# Gemeinsame Übereinkunft
+# Gemeinschaftliche Vereinbarungen
 
 ## Coordination Meeting
 
