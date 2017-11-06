@@ -19,8 +19,8 @@ draft: false
 1. Weniger Verschwendung. Mehr Teilen.
 2. Freie, libre und Open-Source Software zu entwickeln und zu streuen.
 3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung stellen und verbinden.
-4. Geben, was wir können, Nehmen, was wir brauchen und andere anleiten dasselbe zu tun.
-5. Im Großen und Ganzen eine tolle Zeit zu verbringen.
+4. Geben, was wir können, nehmen, was wir brauchen und Anderen ermöglichen dasselbe zu tun.
+5. Allgemein, eine tolle Zeit zu haben.
 
 ## §3. Prinzipien
 
