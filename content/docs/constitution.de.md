@@ -73,7 +73,7 @@ draft: false
     2. für Wurzen und die weitere Welt einen Beitrag leisten.
 4. Um ein Mitglied zu werden muss die Person - 
     1. mindestens 28 Tage als Freiwillige*r an dem Ort gelebt haben und
-    2. reaffirm they understand and accept the Constitution and Collective Agreements.
+    2. nochmals bestätigen die Verfassung und gemeinsamen Vereinbarungen verstanden und akzeptiert haben.
 5. A person becomes a Member based on a successful outcome from an Application Procedure in which only Members should participate.
 6. A person ceases to be a Member— 
     1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer,)
