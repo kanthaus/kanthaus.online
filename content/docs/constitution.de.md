@@ -39,7 +39,7 @@ draft: false
 
 <p align="center"><i>Rollen</i></p>
 
-## § 5. Freiwilliger
+## § 5. Freiwillige
 
 1. Die Position der Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und zusätzlich involviert sein möchten.
 2. Ein Freiwilliger kann - 
