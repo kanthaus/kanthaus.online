@@ -1,10 +1,10 @@
 ---
-title: Basic Kanthaus Entities and Relations
+title: Grundlegende Kanthaus Rechtsträger und Beziehungen
 description: ""
 weight: 3
 draft: false
 ---
-*The following diagram is a basic visualization of the most relevant groups for Kanthaus and how they relate to each other.*
+*Das folgende Diagramm ist eine einfache Visualisierung der wichtigsten Gruppen für Kanthaus und wie sie zueinander stehen.*
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/basicKanthausER.svg" />
