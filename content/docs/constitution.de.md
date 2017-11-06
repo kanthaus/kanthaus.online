@@ -10,8 +10,8 @@ draft: false
 
 `NAME` ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinem Wohl gewidmet. Er wird in drei Ebenen verwaltet: die Verfassungsebene, die Kollektivebene und die operative Ebene-
 
-1. Die Verfassungsebene schreibt vor *wer entscheidet, was geschehen soll und wann*. Diese Ebene beinhaltet die wichtigsten Übereinkünfte - wie Ziele, Positionen und Verfahren - was Übereinkünfte in den folgenden Ebenen sowohl unterstützt als auch ersetzt. Dies ist in der Verfassung (diesem Dokument) belgt und von den [FAQ](../governancefaq/) gestützt.
-2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebende beinhaltet weitere formale Übereinkünfte - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Übereinkünfte in der operativen Ebene unterstützt und ersetzt. Dies ist in den [Kollektiven Übereinkünften](../collectiveagreements/) dokumentiert.
+1. Die Verfassungsebene beinhaltet *wer entscheidet, was geschehen soll und wie*. Diese Ebene beinhaltet die wichtigsten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützt als auch ersetzt. Sie ist in der Verfassung (diesem Dokument) belegt und von den [FAQ](../governancefaq/) unterstützt.
+2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützt und ersetzt. Dies ist in den [Kollektiven Übereinkünften](../collectiveagreements/) dokumentiert.
 3. Die operative Ebene schreibt vor *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Übereinkünfte - wie Normen, Übereinkünfte von Untergruppen und spontane Aktivitäten. Dies ist nicht zentral dokumentiert.
 
 ## § 2. Ziele
@@ -37,13 +37,13 @@ draft: false
 3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
 4. Haus Kante Wurzen w.V. selbst.
 
-<p align="center"><i>Positionen</i></p>
+<p align="center"><i>Rollen</i></p>
 
-## § 5. Freiwillige
+## § 5. Freiwilliger
 
-1. Die Position der Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und weiterhin beteiligt sein wollen.
+1. Die Position der Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und zusätzlich involviert sein möchten.
 2. Ein Freiwilliger kann - 
-    1. an dem Ort wohnen und die an dem Ort befindlichen Gegenstände nutzen,
+    1. an dem Ort aufhalten und die an dem Ort befindlichen Gegenstände nutzen,
     2. an Operativen Aktivitäten teilnehmen und die Kollektiven Übereinkünfte ändern,
     3. bei der Auswahl anderer Freiwilliger teilnehmen, und
     4. bei freiwilliger Unterstützung während Konfliktlösungen teilnehmen.
