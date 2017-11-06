@@ -1,5 +1,5 @@
 * * *
 
-title: "Members" description: " "
+titel: "Freiwillige" Beschreibung: " "
 
-## layout: members
+## layout: Mitglieder
