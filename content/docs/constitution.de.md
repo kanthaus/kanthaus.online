@@ -74,17 +74,17 @@ draft: false
 4. Um ein Mitglied zu werden muss die Person - 
     1. mindestens 28 Tage als Freiwillige*r an dem Ort gelebt haben und
     2. nochmals bestätigen die Verfassung und gemeinsamen Vereinbarungen verstanden und akzeptiert haben.
-5. A person becomes a Member based on a successful outcome from an Application Procedure in which only Members should participate.
-6. A person ceases to be a Member— 
-    1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer,)
-    2. at their request (automatically switching to Volunteer,) or
-    3. if a Conflict Resolution by Intervention (§11c.) prescribes it.
+5. Eine Person wird ein Mitglied basierend auf dem erfolgreichen Ergebnis eines Bewerbungsverfahrens, in dem nur Mitglieder teilnehmen sollten.
+6. Eine Person hört auf, ein Mitglied zu sein - 
+    1. wenn sie 3 Monate fortlaufend abwesend von dem Ort waren (automatischer Wechsel auf Freiwillige),
+    2. auf ihren Wunsch (automatischer Wechsel auf Freiwillige), oder
+    3. wenn Konfliktlösung durch Interventionen (§11c.) es vorschreibt.
 
-<p align="center"><i>Procedures</i></p>
+<p align="center"><i>Verfahren</i></p>
 
-## §7. Application Procedure
+## § 7. Bewerbungsverfahren
 
-1. The applicant must not be present during the procedure.
+1. Der sich Bewerbende darf während des Verfahrens nicht anwesend sein.
 2. Firstly participants should take a preliminary vote in which they anonymously express whether they ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
 3. Secondly participants should discuss the application and, in particular, raise and address any concerns.
 4. Finally participants should take a binding vote in the same fashion as the preliminary vote. This time— 
