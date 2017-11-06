@@ -11,13 +11,13 @@ draft: false
 `NAME` ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinem Wohl gewidmet. Er wird in drei Ebenen verwaltet: die Verfassungsebene, die Kollektivebene und die operative Ebene-
 
 1. Die Verfassungsebene beinhaltet *wer entscheidet, was geschehen soll und wie*. Diese Ebene beinhaltet die wichtigsten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützt als auch ersetzt. Sie ist in der Verfassung (diesem Dokument) belegt und von den [FAQ](../governancefaq/) unterstützt.
-2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützt und ersetzt. Dies ist in den [Kollektiven Übereinkünften](../collectiveagreements/) dokumentiert.
-3. Die operative Ebene schreibt vor *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Übereinkünfte - wie Normen, Übereinkünfte von Untergruppen und spontane Aktivitäten. Dies ist nicht zentral dokumentiert.
+2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützt und ersetzt. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
+3. Die operative Ebene schreibt vor *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
 
 ## § 2. Ziele
 
-1. Abfall reduzieren und Teilen fördern.
-2. Eine freie, offene und open-source Plattform entwickeln und einsetzten.
+1. Weniger Verschwendung. Mehr Teilen.
+2. Freie, libre und Open-Source Software zu entwickeln und zu streuen.
 3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung stellen und verbinden.
 4. Geben, was wir können, Nehmen, was wir brauchen und andere anleiten dasselbe zu tun.
 5. Im Großen und Ganzen eine tolle Zeit zu verbringen.
