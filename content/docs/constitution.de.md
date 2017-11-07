@@ -99,7 +99,7 @@ draft: false
 1. Jede*r Einzelne kann handeln, vorausgesetzt 
     1. es gibt keine ausstehenden Widerstände gegenüber der Handlung, und
     2. die Person*en übernehmen persönliche Verantwortung dafür die Handlung, wenn nötig, rückgängig zu machen.
-2. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the individual to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
+2. Es gibt kein spezielles Format für Handlungen Einzelner. Whilst in some cases it may be appropriate for the individual to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
 3. Any individual who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
 4. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
 
