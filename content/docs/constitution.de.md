@@ -1,5 +1,5 @@
 ---
-title: Verfassung 0.2
+title: Verfassung
 description: ""
 weight: 3
 draft: false
@@ -92,11 +92,11 @@ draft: false
     2. sonst schlägt die Bewerbung zu diesem Zeitpunkt fehl.
 5. Der sich Bewerbende sollte umgehend informiert werden, ob ihre Bewerbung erfolgreich oder fehlgeschlagen ist, aber nicht die Aufteilung der Stimmen erfahren.
 
-## §8. Operational Activity
+## § 8. Operative Tätigkeiten
 
-### §8a. Individual Action
+### Handlungen Einzelner
 
-1. Any individual may take action provided— 
+1. Jede*r Einzelne kann handeln, vorausgesetzt 
     1. that there is no outstanding opposition towards the action, and
     2. that they assume personal responsibility to practically reverse the action if required.
 2. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the individual to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
