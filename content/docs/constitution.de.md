@@ -100,10 +100,10 @@ draft: false
     1. es gibt keine ausstehenden Widerstände gegenüber der Handlung, und
     2. die Person*en übernehmen persönliche Verantwortung dafür die Handlung, wenn nötig, rückgängig zu machen.
 2. Es gibt kein spezielles Format für Handlungen Einzelner. Während es in einigen Fällen möglicherweise für Einzelne angemessen ist einfach zu [ beginnen](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), ist es in anderen Fällen möglicherweise angebrachter sich vor Beginn zuerst < ein Href = "http:// www.reinventingorganizationswiki.com/Decision_Making "> zu beraten,</a> oder [ einen Vorschlag zu machen](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
-3. Any individual who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
-4. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
+3. Jede*r Einzelne, der Widerstand gegen eine derzeitige oder vorgeschlagene Handlung hat sollte dies frühzeitig, klar und freundlich äußern.
+4. Erhält eine derzeitige oder geplante Handlung Widerstand, sollte sie unterbrochen oder verschoben sollte und die Betroffenen sollten fortfahren mit Stufe 2, dem einstimmigen Akzeptieren fortfahren (§8b.)
 
-### §8b. Unanimous Acceptance
+### §8b. Einstimmiges Akzeptieren
 
 1. Unanimous Acceptance towards a proposal or action is attained while no one opposes it.
 2. There is no specific format for attaining Unanimous Acceptance. Many tools and techniques exist which may help, including: smaller-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
