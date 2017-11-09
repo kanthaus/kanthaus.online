@@ -149,16 +149,16 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     4. wenn der gewählte Vorschlag in einer vorhergehenden zweiten Phase schon einmal gewählt wurde, dann 
         1. wird der Vorschlag zur entgültugen Entscheidung,
         2. die Verfassung sollte dementsprechend angepasst werden und
-        3. das Verfahren zur Verfassungsänderung ist beendet. Oder
-    5. else— 
-        1. the procedure is repeated from subsection 3. (i.e. a further primary then secondary phase.)
+        3. das Verfahren zur Verfassungsänderung ist beendet.
+    5. Andernfalls 
+        1. wird das Verfahren ab Unterpunkt 3 (also einer neuen ersten und dann zweiten Phase) wiederholt.
 
-## §11. Conflict Resolution
+## §11 Konfliktlösung
 
-### §11a. Direct
+### §11a. Direkt
 
-1. Individuals are generally encouraged to resolve their conflicts directly.
-2. There is no specific format for Direct Conflict Resolution. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
+1. Personen werden generell ermutigt ihre Konflikte direkt zu lösen.
+2. Es gibt kein spezifisches Format für direkte Konfliktlösung. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
 
 ### §11b. Voluntary Assistance
 
