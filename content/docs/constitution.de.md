@@ -146,10 +146,10 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. wird jeder negative Wert mit dem Faktor 3 multipliziert (so wird bspw. ein Wert von -2 zu -6),
     2. für jeden Vorschlag die Summe der angepassten Werte gebildet, 
     3. der Vorschlag mit dem höchsten Zahlenwert gewählt und
-    4. if the proposal now selected was also selected at a previous secondary phase— 
-        1. the proposal becomes the final decision,
-        2. the Constitution should be amended to reflect this decision, and
-        3. the procedure of Constitutional Change is terminated. Or
+    4. wenn der gewählte Vorschlag in einer vorhergehenden zweiten Phase schon einmal gewählt wurde, dann 
+        1. wird der Vorschlag zur entgültugen Entscheidung,
+        2. die Verfassung sollte dementsprechend angepasst werden und
+        3. das Verfahren zur Verfassungsänderung ist beendet. Oder
     5. else— 
         1. the procedure is repeated from subsection 3. (i.e. a further primary then secondary phase.)
 
