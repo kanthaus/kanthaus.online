@@ -1,5 +1,5 @@
 ---
-title: Attic
+title: Dachboden
 description: ""
 weight: 1
 draft: false
