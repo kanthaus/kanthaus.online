@@ -179,8 +179,8 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 
 ## §12 Reduktion der Zeiträume
 
-1. All time frames within sections 9 and 10 are reduced by half.
-2. This entire section is automatically removed 05-Nov-2017.
+1. Alle in den Abschnitten 9 und 10 spezifizierten Zeiträume sind um die Hälfte gekürzt.
+2. Dieser komplette Abschnitt wird am 5. November 2017 automatisch entfernt.
 
 * * *
 
