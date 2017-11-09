@@ -1,10 +1,10 @@
 ---
-title: Verfassungs FAQ
+title: Verfassungs-FAQ
 description: ""
 weight: 5
 draft: false
 ---
-# Verfassungs FAQ
+# Verfassungs-FAQ
 
 ### Wieso klingt die Verfassung so förmlich?
 
@@ -14,13 +14,13 @@ Die Verfassung ist nicht die fesselndste Lektüre, das ist klar. Es ist so gesch
 
 Die subjektiven Prinzipien sollen die Absichten hinter den objektiven Regeln erklären, und wie zweitere überhaupt interpretiert werden sollen. Verständnis dafür, weshalb die Regeln existieren und wofür sie gedacht sind, wird hoffentlich dazu führen, dass sich eine kritische Kultur etabliert, die der Blindheit der Bürokratie gegenüber widerstandfähig ist. Falls du dich tiefergehend für die Prinzipien interessierst, schau unter 'Was hat es wirklich mit den Prinzipien auf sich?'.
 
-### What is meant by 'must', 'should', 'may', etc?
+### Was ist mit 'muss', 'sollte', 'könnte', etc. gemeint?
 
-*The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).*
+*Die englischen Begriffe aus der Originalversion unserer Verfassung sind nach [RFC 2119](https://tools.ietf.org/html/rfc2119) definiert. Die deutsche Übersetzung orientiert sich daran.*
 
-### Why does the Volunteer position terminate after 3 months?
+### Wieso läuft die Rolle 'FreiwilligeR' nach 3 Monaten automatisch aus?
 
-Ideally everyone who is involved in the project will become a Member in order to reduce the inequality between individuals and thereby uphold the Principle of Equality. As such the Volunteer position is intended to be temporary. The 3 month window gives a decent period of time to get a good impression of the compatibility between the project and the individual. At the end of the 3 months a Volunteer can reapply if they still feel not ready to become a Member. Alternatively, a Volunteer could upgrade to Member even before the 3 months is over.
+Idealerweise würde jede in das Projekt involvierte Person Mitglied werden, sodass sich die Ungleichheit zwischen den einzelnen Menschen reduziert und dadurch das Prinzip der Gleichwertigkeit gewürdigt werden kann. Aus diesem Grund ist die Freiwilligenposition als etwas temporäres gedacht. The 3 month window gives a decent period of time to get a good impression of the compatibility between the project and the individual. At the end of the 3 months a Volunteer can reapply if they still feel not ready to become a Member. Alternatively, a Volunteer could upgrade to Member even before the 3 months is over.
 
 ### Why is the Application Procedure done anonymously?
 
