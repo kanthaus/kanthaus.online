@@ -20,11 +20,11 @@ Die subjektiven Prinzipien sollen die Absichten hinter den objektiven Regeln erk
 
 ### Wieso läuft die Rolle 'FreiwilligeR' nach 3 Monaten automatisch aus?
 
-Idealerweise würde jede in das Projekt involvierte Person Mitglied werden, sodass sich die Ungleichheit zwischen den einzelnen Menschen reduziert und dadurch das Prinzip der Gleichwertigkeit gewürdigt werden kann. Aus diesem Grund ist die Freiwilligenposition als etwas temporäres gedacht. The 3 month window gives a decent period of time to get a good impression of the compatibility between the project and the individual. At the end of the 3 months a Volunteer can reapply if they still feel not ready to become a Member. Alternatively, a Volunteer could upgrade to Member even before the 3 months is over.
+Idealerweise würde jede in das Projekt involvierte Person Mitglied werden, sodass sich die Ungleichheit zwischen den einzelnen Menschen reduziert und dadurch das Prinzip der Gleichwertigkeit gewürdigt werden kann. Aus diesem Grund ist die Freiwilligenposition als etwas temporäres gedacht. Das 3-Monatsfenster bietet genügend Zeit für alle Beteiligten, um zu schauen, inwieweit Person und Projekt kompatibel sind. Wenn einE FreiwilligeR nach 3 Monaten nocht nicht bereit ist mitglied zu werden, kann er/sie sich erneut als FreiwilligeR bewerben. Andersherum ist es auch möglich, dass sich einE FreiwilligeR dazu entschließt Mitglied werden zu wollen bevor die 3 Monate verstrichen sind.
 
-### Why is the Application Procedure done anonymously?
+### Warum läuft die Wahl im Bewerbungsprozess anonym ab?
 
-Making decisions about people is a social minefield. A danger of open voting regarding Positions is that people want to show that they are 'nice' by voting to support an individual they don't actually support, which can result in a loss of trust and cooperation. Additionally, since decisions on Positions require no work to be done in order to implement them, there is no need for voter accountability to ensure it happens.
+Über Menschen zu entscheiden ist ein soziales Minenfeld. Es kann passieren, dass Leute sich als nett zeigen wollen, wenn offen abgestimmt wird, und dass sie deshalb Unterstützung für Bewerber signalisieren, die sie eigentlich nicht wirklich unterstützen. Das kann zu vermindertem Vertrauen und schlechterer Kooperation führen. Außerdem wird bei Abstimmungen über Rollen nichts entschieden, das zu Arbeit führt, weswegen es nicht wichtig ist zu sehen, wer besonders enthusiastisch war, denn niemand muss im Nachhinein Verantwortung dafür übernehmen, dass eine Aufgabe auch tatsächlich ausgeführt wird.
 
 ### Why is there a preliminary vote in the Application Procedure?
 
