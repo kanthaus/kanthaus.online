@@ -22,23 +22,23 @@ Die subjektiven Prinzipien sollen die Absichten hinter den objektiven Regeln erk
 
 Idealerweise würde jede in das Projekt involvierte Person Mitglied werden, sodass sich die Ungleichheit zwischen den einzelnen Menschen reduziert und dadurch das Prinzip der Gleichwertigkeit gewürdigt werden kann. Aus diesem Grund ist die Freiwilligenposition als etwas temporäres gedacht. Das 3-Monatsfenster bietet genügend Zeit für alle Beteiligten, um zu schauen, inwieweit Person und Projekt kompatibel sind. Wenn einE FreiwilligeR nach 3 Monaten nocht nicht bereit ist mitglied zu werden, kann er/sie sich erneut als FreiwilligeR bewerben. Andersherum ist es auch möglich, dass sich einE FreiwilligeR dazu entschließt Mitglied werden zu wollen bevor die 3 Monate verstrichen sind.
 
-### Warum läuft die Wahl im Bewerbungsprozess anonym ab?
+### Warum läuft die Wahl im Bewerbungsverfahren anonym ab?
 
 Über Menschen zu entscheiden ist ein soziales Minenfeld. Es kann passieren, dass Leute sich als nett zeigen wollen, wenn offen abgestimmt wird, und dass sie deshalb Unterstützung für Bewerber signalisieren, die sie eigentlich nicht wirklich unterstützen. Das kann zu vermindertem Vertrauen und schlechterer Kooperation führen. Außerdem wird bei Abstimmungen über Rollen nichts entschieden, das zu Arbeit führt, weswegen es nicht wichtig ist zu sehen, wer besonders enthusiastisch war, denn niemand muss im Nachhinein Verantwortung dafür übernehmen, dass eine Aufgabe auch tatsächlich ausgeführt wird.
 
-### Why is there a preliminary vote in the Application Procedure?
+### Warum gibt es eine einleitende Abstimmung im Bewerbungsverfahren?
 
-A preliminary vote is used to encourage independent thought and counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the subsequent discussion. The vote is done anonymously to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure) from deterring people to express their honest opinion.
+Die einleitende Abstimmung soll eigenständiges Denken fördern und dem [Ankereffekt](https://de.wikipedia.org/wiki/Ankereffekt) in der nachfolgenden Diskussion entgegenwirken. Es wird anonym abgestimmt, um [Gruppendenken](https://en.wikipedia.org/wiki/Gruppendenken) und [Gruppenzwang](https://en.wikipedia.org/wiki/Gruppenzwang) zu verhindern.
 
-### Why do oppose votes count more than support votes?
+### Wieso zählen Widerstandsstimmen mehr als Unterstützerstimmen?
 
-The different weighting between 'support' and 'oppose' votes is a way of upholding the Principal of Acceptance. This has the philosophical basis that it is generally more preferable to 'avoid suffering' than 'increase happiness'. There is also a procedural advantage since accounting, monitoring and sanctioning have a significant cost.
+Die unterschiedliche Gewichtung von 'Unterstützung' und 'Widerstand' ist dem Prinzip der Akzeptanz geschuldet. Es ruht auf der philosophischen Grundlage, dass es generell besser ist Leid zu vermeiden als Freude zu vermehren. Außerdem gibt es einen verfahrenstechnischen Vorteil, da Bilanzieren, Überwachen und Sanktionieren ziemlich aufwändig ist.
 
-### What's the real deal with the Principles?
+### Was hat es wirklich mit den Prinzipien auf sich?
 
-The three main Principles—Autonomy, Equality and Acceptance—are fundamental positions or axioms meaning they have no logical basis. While there may be no logical basis for the Principles, hopefully you will be able to appreciate their value by reflecting on your own experiences. They are also defined negatively for clarity and falsifiability.
+Die drei Kernprinzipien - Unabhängigkeit, Gleichwertigkeit und Akzeptanz - sind fundamentale Positionen oder Axiome, was bedeutet, dass sie selbst keine logische Begründung haben. Obwohl die logische Begründung fehlt, hoffen wir, dass du aufgrund deiner eigenen Erfahrungen ihren Wert erkennen wirst. Um Klarheit und Falsifizierbarkeit zu gewährleisten, sind sie auch negativ definiert.
 
-* Autonomy is the assertion that a person has their own will and that it is generally desirable for them to be able to pursue it. Autonomy in this case is considered to extend from individual people to autonomous associations of people and their collective will. Autonomy could also be described as 'Self-determination', 'Freedom' or 'Liberty'.
+* Unabhängigkeit bedeutet, dass eine Person einen eigenen Willen hat, und dass es generell erstrebenswert für sie ist, diesem zu folgen. In diesem Fall wird Unabhängigkeit so aufgefasst, dass sie sich über Einzelpersonen hinaus auf unabhängige Zusammenschlüsse und deren kollektiven Willen ausdehnt. Diese Unabhängigkeit könnte auch 'Selbstbestimmung' oder 'Freiheit' genannt werden.
 * Equality is the assertion that there is no natural, earned or supernatural superiority between people. Clearly people are not the same and thus Equality does not mean symmetry, but rather that the will or autonomy of two people is of equal value. Equality could also be described as 'Equity' or 'Equivalence'.
 * Acceptance is the assertion that in collective matters it is preferable to avoid undesirable experience than promote desirable experiences. This has been philosophically described as Negative (Leaning) Utilitarianism and . Acceptance could also be described as 'Solidarity', 'Mutual-aid' or even 'Love'.
 
