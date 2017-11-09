@@ -68,16 +68,16 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. an operativen Aktivitäten teilnehmen, die Gemeinschaftlichen Vereinbarungen und die Verfassung ändern,
     3. an der Auswahl anderer Freiwilliger und Mitglieder teilnehmen, und
     4. an Freiwilliger Mithilfe und Intervention während Konfliktlösungen teilnehmen.
-3. Ein Mitglied sollte: 
+3. Ein Mitglied sollte 
     1. einen angemessenen Anteil der gesamten Verantwortung für den Ort, einschließlich der sozialen, rechtlichen und finanzielle Angelegenheiten übernehmen und
     2. für Wurzen und die weitere Welt einen Beitrag leisten.
 4. Um ein Mitglied zu werden muss die Person: 
-    1. mindestens 28 Tage als Freiwillige*r an dem Ort gelebt haben und
+    1. mindestens 28 Tage als FreiwilligeR an dem Ort gelebt haben und
     2. nochmals bestätigen die Verfassung und die Gemeinschaftlichen Vereinbarungen verstanden und akzeptiert zu haben.
 5. Eine Person wird ein Mitglied, wenn ein Bewerbungsverfahren, an dem nur Mitglieder beteiligt sein sollten, zu einem positiven Ergebnis geführt hat.
 6. Eine Person hört auf, ein Mitglied zu sein: 
-    1. wenn sie 3 Monate am Stück nicht am Ort war (automatische Runterstufung auf Freiwillige*r),
-    2. auf ihren Wunsch (automatischer Wechsel auf Freiwillige*r), oder
+    1. wenn sie 3 Monate am Stück nicht am Ort war (automatischer Wechsel auf FreiwilligeR),
+    2. auf ihren Wunsch (automatischer Wechsel auf FreiwilligeR), oder
     3. wenn Konfliktlösung durch Intervention (§11c.) es vorschreibt.
 
 <p align="center"><i>Verfahren</i></p>
@@ -87,7 +87,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 1. Der/Die sich Bewerbende darf während des Verfahrens nicht anwesend sein.
 2. Zuerst sollten die Teilnehmenden eine einleitende Abstimmung vornehmen, in der sie sich anonym äußern, ob sie einem positiven Bewerbungsverfahren mit "Unterstützung" (+), "Einwilligung" (0) oder "Widerstand" (-) begegen.
 3. Danach sollten die Teilnehmenden die Bewerbung diskutieren und alle potenziellen Bedenken ansprechen.
-4. Schließlich sollten die Teilnehmenden eine verbindliche Abstimmung in der gleichen Weise wie die erste vornehmen. Dieses Mal: 
+4. Schließlich sollten die Teilnehmenden eine verbindliche Abstimmung in der gleichen Weise wie die erste vornehmen. Dieses Mal 
     1. ist die Bewerbung erfolgreich, wenn es mindestens 3 mal mehr "Unterstützung"-Stimmen als "Widerstand"-Stimmen gibt,
     2. sonst schlägt die Bewerbung zu diesem Zeitpunkt fehl.
 5. Der/Die sich Bewerbende sollte umgehend informiert werden, ob die Bewerbung erfolgreich war oder fehlgeschlagen ist, nicht aber die Aufteilung der Stimmen erfahren.
@@ -96,22 +96,22 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 
 ### Handlungen Einzelner
 
-1. Jede*r Einzelne kann handeln, vorausgesetzt 
+1. JedeR Einzelne kann handeln, vorausgesetzt 
     1. es gibt keine ausstehenden Widerstände gegenüber der Handlung, und
     2. es wird persönliche Verantwortung dafür übernommen die Handlung, wenn nötig, rückgängig zu machen.
 2. Es gibt kein spezielles Format für Handlungen Einzelner. Während es in einigen Fällen möglicherweise für Einzelne angemessen ist einfach zu [ beginnen](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), ist es in anderen Fällen möglicherweise angebrachter sich vor Beginn zuerst <a href = "http:// www.reinventingorganizationswiki.com/Decision_Making "> zu beraten,</a> oder [ den Vorschlag zu äußern](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
-3. Jede*r Einzelne, der Widerstand gegen eine derzeitige oder vorgeschlagene Handlung hat sollte dies frühzeitig, klar und freundlich äußern.
+3. JedeR Einzelne, der Widerstand gegen eine derzeitige oder vorgeschlagene Handlung hat sollte dies frühzeitig, klar und freundlich äußern.
 4. Erhält eine derzeitige oder geplante Handlung Widerstand, sollte sie unterbrochen oder verschoben werden und die Betroffenen sollten mit Stufe 2, der einstimmigen Akzeptanz, fortfahren (§8b.)
 
 ### §8b. Einstimmige Akzeptanz
 
 1. Wenn niemand Widerstand gegen einen Vorschlag oder eine Handlung hat, dann ist dies Einstimmige Akzeptanz.
 2. Es gibt kein spezifisches Format um Einstimmige Akzeptanz zu erlangen. Viele hilfreiche Techniken erleichtern das Erreichen der Einstimmigen Akzeptanz, so wie z.B. kleinschrittiges Testen, Präsentationen, Diskussionen, Meetings mit [geplanten Abläufen](http://cultivate.coop/wiki/Agenda_Planning), Runden, [Talking Sticks](https://en.wikipedia.org/wiki/Talking_stick), [Hand-Signale](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [Sprecherlisten](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) oder Zeitbeschränkungen.
-3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, dann sollten die Betroffenen zur Bewertungswahl übergehen. In der Behandlung eines Sachverhalts zu Bewertungswahl (§8c.) überzugehen sollte mit Einstimmiger Akzeptanz geschehen. Wenn dies nicht möglich ist reicht einfache Mehrheit.
+3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, sollten die Betroffenen zur Bewertungswahl übergehen. In der Behandlung eines Sachverhalts zu Bewertungswahl (§8c.) überzugehen sollte mit Einstimmiger Akzeptanz geschehen. Wenn dies nicht möglich ist reicht einfache Mehrheit.
 
 ### §8c. Bewertungswahl
 
-1. Zunächst sollten die Betroffenen die momentane Sachlage, den Ausgangsvorschlag, sowie potenzielle weitere Vorschläge diskutieren. Dann wird eine Liste von Vorschlägen erstellt, indem: 
+1. Zunächst sollten die Betroffenen die momentane Sachlage, den Ausgangsvorschlag, sowie potenzielle weitere Vorschläge diskutieren. Dann wird eine Liste von Vorschlägen erstellt, indem 
     1. der Ausgangsvorschlag und/oder die erarbeiteten Vorschläge,
     2. ein 'Status Quo'-Kontrollvorschlag (z.B. 'alles so belassen wie es ist/keine Änderung') und
     3. ein Eskalationsverfahrens-Kontrollvorschlag (z.B. 'Wechsel zur Änderung der Gemeinschaftlichen Vereinbarungen') gesammelt werden.
@@ -160,24 +160,24 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 1. Personen werden generell ermutigt ihre Konflikte direkt zu lösen.
 2. Es gibt kein spezifisches Format für direkte Konfliktlösung. Viele hilfreiche Techniken erleichtern den Umgang mit Konflikten, wie z.B. der [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Gewaltfreie Kommunikation](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Kognitive Verhaltenstherapie](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [4-Augen Gespräche](url), [Listen Looping, Ich-Nachrichten und nicht-defensive Erklärungen](https://loomio.coop/conflict_resolution_resources.html).
 
-### §11b. Voluntary Assistance
+### §11b. Freiwillige Mithilfe
 
-1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'actor') may voluntarily seek and/or accept assistance from third-parties.
-2. There is no specific format for Conflict Resolution with Voluntary Assistance. On the basis that all involved consent to participate, many scenarios are possible, including— 
-    1. a third-party individual supporting a single actor ('support person',)
-    2. a third-party individual supporting multiple actors ('direct bridge',)
-    3. support persons engaging in dialogue on behalf of the actors ('indirect bridge',) or
-    4. a group of third-party individuals attend a meeting of the actors to bear witness and/or offer advice ('panel'.)
+1. Wenn vernünftige Maßnahmen, um einen Konflikt direkt zu lösen, fehlschlagen, können sich die Betroffenen freiwillig um Mithilfe von Dritten bemühen und/oder sie in Anspruch nehmen.
+2. Es gibt kein spezifisches Format für Konfliktlösung mittels Freiwilliger Mithilfe. Basierend auf der Zustimmung aller Beteiligten sind viele Szenarios denkbar, z.B. 
+    1. einE DritteR, der/die eine einzelne betroffene Person unterstützt ('Hilfsperson')
+    2. einE DritteR, der/die mehrere beteiligte Personen unterstützt ('direkte Brücke')
+    3. Hilfspersonen, die anstelle der Betroffenen miteinander sprechen ('indirekre Brücke'), oder
+    4. eine Gruppe von Dritten wohnt einem Treffen der Betroffenen bei, um zu bezeugen und/oder Rat anzubieten ('Panel').
 
 ### §11c. Intervention
 
-1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, the Members may intervene as a last resort.
-2. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include— 
-    1. requesting an individual to participate in assisted conflict resolution,
-    2. revoking an individuals' position of Volunteer or Member, or
-    3. instructing an individual to leave the space temporarily or indefinitely.
+1. Wenn vernünftige Maßnahmen, um einen Konflikt mittels Freiwilliger Mithilfe zu lösen, fehlschlagen, können als letzte Möglichkeit die Mitglieder einschreiten.
+2. Um zur Konfliktlösung durch Intervention zu gelangen wird Einstimmige Akzeptanz (§8b.) oder Bewertungswahl (§8c.) herangezogen. Zweiteres könnte folgende Vorschläge enthalten: 
+    1. Eine Person verpflichten an moderierten Konfliktlösungsverfahren teilzunehmen.
+    2. Einer Person den Status FreiwilligeR oder Mitglied entziehen.
+    3. Eine Person auffordern den Ort temporär oder für immer zu verlassen.
 
-## 12 Time-reduction
+## §12 Reduktion der Zeiträume
 
 1. All time frames within sections 9 and 10 are reduced by half.
 2. This entire section is automatically removed 05-Nov-2017.
