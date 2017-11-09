@@ -1,18 +1,18 @@
 ---
-title: Governance FAQ
+title: Verfassungs FAQ
 description: ""
 weight: 5
 draft: false
 ---
-# Governance FAQ
+# Verfassungs FAQ
 
-### Why is the Constitution so formal?
+### Wieso klingt die Verfassung so förmlich?
 
-The Constitution is not the most exciting document ever written—it's true. It is written the way it is to be as clear as possible. The Constitution is an agreement and it is really important for people to understand what they are agreeing to, especially since it outlines how to proceed when people *don't* agree.
+Die Verfassung ist nicht die fesselndste Lektüre, das ist klar. Es ist so geschrieben worden, um größtmögliche Eindeutigkeit zu gewährleisten. Die Verfassung ist eine Vereinbarung und es ist wirklich wichtig, dass die Menschen verstehen, was die Dinge sind, denen sie da zustimmen, vor allem, weil dort geregelt ist, wie vorgegangen wird, wenn Menschen *nicht* einer Meinung sind.
 
-### What's the deal with the Principles?
+### Was hat es mit den Prinzipien auf sich?
 
-The subjective Principles aim to communicate the intention behind the objective rules and how they should be interpreted. Understanding why the rules exist and what they are intended to do will hopefully lead to a critical culture which is resistant to the creep of blind bureaucracy. If you have a deeper interest in the Principles, see 'What's the real deal with the Principles?'
+Die subjektiven Prinzipien sollen die Absichten hinter den objektiven Regeln erklären, und wie zweitere überhaupt interpretiert werden sollen. Verständnis dafür, weshalb die Regeln existieren und wofür sie gedacht sind, wird hoffentlich dazu führen, dass sich eine kritische Kultur etabliert, die der Blindheit der Bürokratie gegenüber widerstandfähig ist. Falls du dich tiefergehend für die Prinzipien interessierst, schau unter 'Was hat es wirklich mit den Prinzipien auf sich?'.
 
 ### What is meant by 'must', 'should', 'may', etc?
 
