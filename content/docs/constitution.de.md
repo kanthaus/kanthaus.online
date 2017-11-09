@@ -136,16 +136,16 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 ## §10 Verfassungsänderung
 
 1. Jede Ergänzung, Löschung oder anderweitige Änderung an der Verfassung muss anhand des im Folgenden beschriebenen Verfahrens erfolgen.
-2. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal from a Member which— 
-    1. has the support of at least 2 other Members, and
-    2. is not contrary to any other Constitutional Change made within the last 28 days.
-3. The primary phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering— 
-    1. the initial proposal and any other alternative proposals, and
-    2. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
-4. The secondary phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase— 
-    1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-    2. the adjusted scores for each proposal are totaled, 
-    3. the proposal with the highest total is selected, and
+2. Das Verfahren beginnt, wenn alle Mitglieder - wo auch immer sie sich aufhalten - über einen klaren und eindeutigen Vorschlag eines Freiwilligen oder Mitglieds informiert wurden, der 
+    1. von mindestens zwei weiteren Mitgliedern unterstützt wird und
+    2. nicht im Widerspruch zu jedweder anderen Änderung an der Verfassung steht, die innerhalb der letzten 28 Tage gemacht wurde.
+3. Die erste Phase des Verfahrens, in welcher die Betroffenen über den Ausgangsvorschlag nachdenken und ggfls weitere Vorschläge erarbeiten sollen, dauert mindestens 7 Tage. Am Ende dieser Phase wird eine Liste mit Vorschlägen erstellt, indem 
+    1. der Ausgangsvorschlag und alle etwaigen weiteren Vorschläge,
+    2. ein 'Status Quo'-Kontrollvorschlag (z.B. 'alles so belassen wie es ist/keine Änderung') gesammelt werden.
+4. Die zweite Phase des Verfahrens, in dem die Betroffenen einzeln aber identifizierbar jeden gelisteten Vorschlag mit einem Wert zwischen +3 (für komplette Unterstützung) und -3 (für kompletten Widerstand) bewerten sollen, dauert mindestens 7 Tage. Am Ende der zweiten Phase 
+    1. wird jeder negative Wert mit dem Faktor 3 multipliziert (so wird bspw. ein Wert von -2 zu -6),
+    2. für jeden Vorschlag die Summe der angepassten Werte gebildet, 
+    3. der Vorschlag mit dem höchsten Zahlenwert gewählt und
     4. if the proposal now selected was also selected at a previous secondary phase— 
         1. the proposal becomes the final decision,
         2. the Constitution should be amended to reflect this decision, and
