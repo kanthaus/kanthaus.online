@@ -76,21 +76,21 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. nochmals bestätigen die Verfassung und die Gemeinschaftlichen Vereinbarungen verstanden und akzeptiert zu haben.
 5. Eine Person wird ein Mitglied, wenn ein Bewerbungsverfahren, an dem nur Mitglieder beteiligt sein sollten, zu einem positiven Ergebnis geführt hat.
 6. Eine Person hört auf, ein Mitglied zu sein: 
-    1. wenn sie 3 Monate fortlaufend abwesend von dem Ort waren (automatischer Wechsel auf Freiwillige),
-    2. auf ihren Wunsch (automatischer Wechsel auf Freiwillige), oder
-    3. wenn Konfliktlösung durch Interventionen (§11c.) es vorschreibt.
+    1. wenn sie 3 Monate am Stück nicht am Ort war (automatische Runterstufung auf Freiwillige*r),
+    2. auf ihren Wunsch (automatischer Wechsel auf Freiwillige*r), oder
+    3. wenn Konfliktlösung durch Intervention (§11c.) es vorschreibt.
 
 <p align="center"><i>Verfahren</i></p>
 
 ## § 7. Bewerbungsverfahren
 
-1. Der sich Bewerbende darf während des Verfahrens nicht anwesend sein.
-2. Zuerst sollten die Teilnehmenden eine einleitende Abstimmung vornehmen in derer sie sich anonym äußern, ob sie einem positiven Bewerbungsverfahren mit "Unterstützung" (+), "Einwilligung" (0) oder "Widerstand" (-) entgegentreten.
-3. Danach sollten die Teilnehmenden die Bewerbung diskutieren und vor allem Bedenken anbringen und besprechen.
-4. Schließlich sollten Teilnehmenden eine verbindliche Abstimmung in der gleichen Weise wie der ersten vornehmen. Dieses Mal – 
-    1. ist die Bewerbung erfolgreich, wenn es 3 oder mehr "Unterstützung" Stimmen als "Widerstand" Stimmen gibt, oder
+1. Der/Die sich Bewerbende darf während des Verfahrens nicht anwesend sein.
+2. Zuerst sollten die Teilnehmenden eine einleitende Abstimmung vornehmen, in der sie sich anonym äußern, ob sie einem positiven Bewerbungsverfahren mit "Unterstützung" (+), "Einwilligung" (0) oder "Widerstand" (-) begegen.
+3. Danach sollten die Teilnehmenden die Bewerbung diskutieren und alle potenziellen Bedenken ansprechen.
+4. Schließlich sollten die Teilnehmenden eine verbindliche Abstimmung in der gleichen Weise wie die erste vornehmen. Dieses Mal: 
+    1. ist die Bewerbung erfolgreich, wenn es mindestens 3 mal mehr "Unterstützung"-Stimmen als "Widerstand"-Stimmen gibt,
     2. sonst schlägt die Bewerbung zu diesem Zeitpunkt fehl.
-5. Der sich Bewerbende sollte umgehend informiert werden, ob ihre Bewerbung erfolgreich oder fehlgeschlagen ist, aber nicht die Aufteilung der Stimmen erfahren.
+5. Der/Die sich Bewerbende sollte umgehend informiert werden, ob die Bewerbung erfolgreich war oder fehlgeschlagen ist, nicht aber die Aufteilung der Stimmen erfahren.
 
 ## § 8. Operative Tätigkeiten
 
