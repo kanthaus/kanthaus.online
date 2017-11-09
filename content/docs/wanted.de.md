@@ -13,7 +13,7 @@ draft: false
 - Wasserleitungen (Stahl, 1/2 und 3/4 Zoll)
 - Leitern
 
-### Materialien des Lebens/für's Büro
+### Materialien für Büro und Wohnzimmer
 
 - Matrazen
 - Bettwäsche, Bettwäsche und Kissen,
@@ -25,12 +25,12 @@ draft: false
 # Wünsche
 
 - ein Beamer (Matthias)
-- Risk (the board game, 'Risiko')
-- Monopoly (the board game)
-- dice (at least 20, for the game Perudo)
-- a barbell (langhantel), dumbbells, weights and mat
-- a pinboard
-- double-sided tape
+- Risiko (das Brettspiel)
+- Monopoly (das Brettspiel)
+- Würfel (wenigstens 20, für das Spiel Perudo)
+- eine Langhantel, Kurzhanteln, Gewichte und eine Matte - eine Hantelbank wäre der Hammer!
+- eine Pinnwand und Pins
+- zweiseitiges Klebeband
 
 # Wo finde ich Dinge?
 
