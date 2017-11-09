@@ -8,23 +8,23 @@ draft: false
 
 ## § 1. Präambel
 
-`NAME` ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinem Wohl gewidmet. Er wird in drei Ebenen verwaltet: die Verfassungsebene, die Kollektivebene und die operative Ebene-
+Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinen Wohl gewidmet. Er wird auf drei Ebenen verwaltet: der Verfassungsebene, der Kollektivebene und die operative Ebene.
 
-1. Die Verfassungsebene beinhaltet *wer entscheidet, was geschehen soll und wie*. Diese Ebene beinhaltet die wichtigsten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützt als auch ersetzt. Sie ist in der Verfassung (diesem Dokument) belegt und von den [FAQ](../governancefaq/) unterstützt.
-2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützt und ersetzt. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
-3. Die operative Ebene schreibt vor *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
+1. Die Verfassungsebene schreibt vor *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert.
+2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
+3. Die operative Ebene beschreibt *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
 
 ## § 2. Ziele
 
 1. Weniger Verschwendung. Mehr Teilen.
-2. Freie, libre und Open-Source Software zu entwickeln und zu streuen.
-3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung stellen und verbinden.
-4. Geben, was wir können, nehmen, was wir brauchen und Anderen ermöglichen dasselbe zu tun.
+2. Freie, libre und Open-Source Software zu entwickeln und zu verbreiten.
+3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung zu stellen und zusammen zu bringen.
+4. Zu geben, was wir können, zu nehmen, was wir brauchen und Anderen zu ermöglichen dasselbe zu tun.
 5. Allgemein, eine tolle Zeit zu haben.
 
 ## §3. Prinzipien
 
-1. Die drei Hauptprinzipien, die die Absichten hinter der Verfassung beschreiben und wie diese interpretiert werden sollte, sind - 
+1. Die drei Hauptprinzipien, die die Absichten hinter der Verfassung beschreiben und aufzeigen, wie sie interpretiert werden sollte, sind: 
     1. Unabhängigkeit - Zwang minimieren,
     2. Gleichheit - Ungleichheit minimieren, und
     3. Akzeptanz - Widerstand minimieren.
