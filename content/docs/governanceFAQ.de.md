@@ -50,4 +50,4 @@ Ja. Vieles von der Philosophie, Theorie, Struktur und diverse Details wurden int
 
 ### Wem gehören die Häuser eigentlich rechtlich gesehen?
 
-Dem Haus Kante Wurzen w.V. (steht auch in §4). Dieser Verein wurde gegründet, um für mehr Stabilität und Kompatibilität mit dem deutschen Rechtssystem zu sorgen, da Nicht-Eigentümerschaft oder ein zu experimentelles Besitzkonzept schnell zum Ende eines Projektes führen kann. Zur Zeit, als dieses geschrieben wurde, gab es sieben Mitglieder in diesem Verein. The association has been lent money used to buy the buildings by individuals involved in the project which it is obliged to repay.
+Dem Haus Kante Wurzen w.V. (steht auch in §4). Dieser Verein wurde gegründet, um für mehr Stabilität und Kompatibilität mit dem deutschen Rechtssystem zu sorgen, da Nicht-Eigentümerschaft oder ein zu experimentelles Besitzkonzept schnell zum Ende eines Projektes führen kann. Zur Zeit, als dieses geschrieben wurde, gab es sieben Mitglieder in diesem Verein. Einzelpersonen, die eine Verbindung zum Projekt haben, haben dem Verein Geld geliehen, um die Häuser zu kaufen. Dieses Geld muss zurückgezahlt werden.
