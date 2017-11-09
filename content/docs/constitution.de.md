@@ -46,7 +46,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen,
     2. an operativen Aktivitäten teilnehmen und die Gemeinschaftlichen Vereinbarungen ändern,
     3. an der Auswahl anderer Freiwilliger teilnehmen, und
-    4. an freiwilliger Unterstützung zur Konfliktlösung teilnehmen.
+    4. an Freiwilliger Mithilfe zur Konfliktlösung teilnehmen.
 3. Ein Freiwilliger sollte: 
     1. einen Teil der Verantwortung für den Ort übernehmen und
     2. für Wurzen und/oder die weitere Welt einen Beitrag leisten.
@@ -67,7 +67,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. vor Ort wohnen und die anderen Ressourcen nutzen,
     2. an operativen Aktivitäten teilnehmen, die Gemeinschaftlichen Vereinbarungen und die Verfassung ändern,
     3. an der Auswahl anderer Freiwilliger und Mitglieder teilnehmen, und
-    4. an freiwilliger Unterstützung und Intervention während Konfliktlösungen teilnehmen.
+    4. an Freiwilliger Mithilfe und Intervention während Konfliktlösungen teilnehmen.
 3. Ein Mitglied sollte: 
     1. einen angemessenen Anteil der gesamten Verantwortung für den Ort, einschließlich der sozialen, rechtlichen und finanzielle Angelegenheiten übernehmen und
     2. für Wurzen und die weitere Welt einen Beitrag leisten.
@@ -158,7 +158,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 ### §11a. Direkt
 
 1. Personen werden generell ermutigt ihre Konflikte direkt zu lösen.
-2. Es gibt kein spezifisches Format für direkte Konfliktlösung. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
+2. Es gibt kein spezifisches Format für direkte Konfliktlösung. Viele hilfreiche Techniken erleichtern den Umgang mit Konflikten, wie z.B. der [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Gewaltfreie Kommunikation](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Kognitive Verhaltenstherapie](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [4-Augen Gespräche](url), [Listen Looping, Ich-Nachrichten und nicht-defensive Erklärungen](https://loomio.coop/conflict_resolution_resources.html).
 
 ### §11b. Voluntary Assistance
 
