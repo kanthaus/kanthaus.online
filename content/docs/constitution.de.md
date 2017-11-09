@@ -106,8 +106,8 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 ### §8b. Einstimmige Akzeptanz
 
 1. Wenn niemand Widerstand gegen einen Vorschlag oder eine Handlung hat, dann ist dies Einstimmige Akzeptanz.
-2. Es gibt kein spezifisches Format um Einstimmige Akzeptanz zu erlangen. Many tools and techniques exist which may help, including: smaller-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
-3. If Unanimous Acceptance cannot be attained in a proportionate time-frame, the individuals involved should proceed with Score Voting. Proceeding to Score Voting (§8c.) on a topic should be done with Unanimous Acceptance but may otherwise be done by simple majority.
+2. Es gibt kein spezifisches Format um Einstimmige Akzeptanz zu erlangen. Viele hilfreiche Techniken erleichtern das Erreichen der Einstimmigen Akzeptanz, so wie z.B. kleinschrittiges Testen, Präsentationen, Diskussionen, Meetings mit [geplanten Abläufen](http://cultivate.coop/wiki/Agenda_Planning), Runden, [Talking Sticks](https://en.wikipedia.org/wiki/Talking_stick), [Hand-Signale](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [Sprecherlisten](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) oder Zeitbeschränkungen.
+3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, dann sollten die Betroffenen zur Bewertungswahl übergehen. Proceeding to Score Voting (§8c.) on a topic should be done with Unanimous Acceptance but may otherwise be done by simple majority.
 
 ### §8c. Score Voting
 
