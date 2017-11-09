@@ -44,7 +44,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 1. Die Position des Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und tiefer involviert sein möchten.
 2. Ein Freiwilliger kann - 
     1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen,
-    2. an operativen Aktivitäten teilnehmen und die gemeinschaftlichen Vereinbarungen ändern,
+    2. an operativen Aktivitäten teilnehmen und die Gemeinschaftlichen Vereinbarungen ändern,
     3. an der Auswahl anderer Freiwilliger teilnehmen, und
     4. an freiwilliger Unterstützung zur Konfliktlösung teilnehmen.
 3. Ein Freiwilliger sollte: 
@@ -53,29 +53,29 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 4. Um ein Freiwilliger zu werden muss die Person: 
     1. mindestens 14 Tage an dem Ort gelebt haben und
     2. die Verfassung und Gemeinschaftlichen Vereinbarungen verstanden und akzeptiert haben.
-5. Eine Person wird ein Freiwilliger basierend auf dem erfolgreichen Ergebnis eines Bewerbungsverfahrens, in dem nur Mitglieder und Freiwillige teilnehmen sollten.
-6. Eine Person hört auf, ein Freiwilliger zu sein - 
+5. Eine Person wird ein Freiwilliger, wenn ein Bewerbungsverfahren, an dem nur Freiwillige und Mitglieder beteiligt sein sollten, zu einem positiven Ergebnis geführt hat.
+6. Eine Person hört auf, ein Freiwilliger zu sein: 
     1. 3 Monate nachdem er/sie ein Freiwilliger wurde,
     2. wenn er/sie ein Mitglied wird,
     3. auf seinen/ihren Wunsch, oder
-    4. wenn Konfliktlösung durch Interventionen (§11c.) es vorschreibt.
+    4. wenn es von einer Konfliktlösung durch Intervention (§11c.) verlangt wird.
 
 ## § 6. Mitglied
 
-1. Die Rolle des Mitglieds richtet sich an Personen, die mit dem Projekt vertraut sind und sich diesem verpflichten möchten.
-2. Ein Mitglied kann — 
+1. Die Rolle des Mitglieds ist für Personen gedacht, die mit dem Projekt vertraut sind und sich diesem verpflichten möchten.
+2. Ein Mitglied kann: 
     1. vor Ort wohnen und die anderen Ressourcen nutzen,
-    2. an operativen Aktivitäten teilnehmen, die gemeinschaftlichen Vereinbarungen und die Verfassung ändern,
-    3. bei der Auswahl anderer Freiwilliger und Mitglieder teilnehmen, und
-    4. bei freiwilliger Unterstützung und Intervention während Konfliktlösungen teilnehmen.
-3. Ein Mitglied sollte- 
+    2. an operativen Aktivitäten teilnehmen, die Gemeinschaftlichen Vereinbarungen und die Verfassung ändern,
+    3. an der Auswahl anderer Freiwilliger und Mitglieder teilnehmen, und
+    4. an freiwilliger Unterstützung und Intervention während Konfliktlösungen teilnehmen.
+3. Ein Mitglied sollte: 
     1. einen angemessenen Anteil der gesamten Verantwortung für den Ort, einschließlich der sozialen, rechtlichen und finanzielle Angelegenheiten übernehmen und
     2. für Wurzen und die weitere Welt einen Beitrag leisten.
-4. Um ein Mitglied zu werden muss die Person - 
+4. Um ein Mitglied zu werden muss die Person: 
     1. mindestens 28 Tage als Freiwillige*r an dem Ort gelebt haben und
-    2. nochmals bestätigen die Verfassung und gemeinsamen Vereinbarungen verstanden und akzeptiert haben.
-5. Eine Person wird ein Mitglied basierend auf dem erfolgreichen Ergebnis eines Bewerbungsverfahrens, in dem nur Mitglieder teilnehmen sollten.
-6. Eine Person hört auf, ein Mitglied zu sein - 
+    2. nochmals bestätigen die Verfassung und die Gemeinschaftlichen Vereinbarungen verstanden und akzeptiert zu haben.
+5. Eine Person wird ein Mitglied, wenn ein Bewerbungsverfahren, an dem nur Mitglieder beteiligt sein sollten, zu einem positiven Ergebnis geführt hat.
+6. Eine Person hört auf, ein Mitglied zu sein: 
     1. wenn sie 3 Monate fortlaufend abwesend von dem Ort waren (automatischer Wechsel auf Freiwillige),
     2. auf ihren Wunsch (automatischer Wechsel auf Freiwillige), oder
     3. wenn Konfliktlösung durch Interventionen (§11c.) es vorschreibt.
