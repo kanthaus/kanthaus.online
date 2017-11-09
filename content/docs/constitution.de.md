@@ -26,33 +26,33 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 
 1. Die drei Hauptprinzipien, die die Absichten hinter der Verfassung beschreiben und aufzeigen, wie sie interpretiert werden sollte, sind: 
     1. Unabhängigkeit - Zwang minimieren,
-    2. Gleichheit - Ungleichheit minimieren, und
+    2. Gleichwertigkeit - Ungleichheit minimieren, und
     3. Akzeptanz - Widerstand minimieren.
-2. Weitere leitende Prinzipien beinhalten von der Natur inspirierte Designs wie [Permakultur](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), solche sich wiederholende Entwicklungsrahmen wie [Scrum](http://www.scrumguides.org/scrum-guide.html) und solche von [dauerhaften Gemeinschafts Pool Ressourcen Institutionen](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) eklärt.
+2. Weitere leitende Prinzipien beinhalten von der Natur inspirierte Designs wie [Permakultur](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), sich in iterativen Entwicklungsumgebungen wie [Scrum](http://www.scrumguides.org/scrum-guide.html) finden lassende und solche wie die, die von [langanhaltenden Gemeingüter-Institutionen](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) eklärt werden.
 
 ## § 4. Ressourcen
 
-1. Die Gebäude der [Kanntstraße 20&22, 04808 WUrzen, Deutschland](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (hierin "der Ort".) Dieser Ort ist legaler Besitz von [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) im Auftrag von `NAME`
+1. Die Gebäude der [Kanntstraße 20&22, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (hierin "der Ort".) Dieser Ort ist legaler Besitz von [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) im Auftrag vom Kanthaus.
 2. Alle in diesem Ort befindlichen Güter, außer anderweitig angegeben.
 3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
-4. Haus Kante Wurzen w.V. selbst.
+4. Der Haus Kante Wurzen w.V. selbst.
 
 <p align="center"><i>Rollen</i></p>
 
 ## § 5. Freiwillige
 
-1. Die Position der Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und zusätzlich involviert sein möchten.
+1. Die Position des Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und tiefer involviert sein möchten.
 2. Ein Freiwilliger kann - 
     1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen,
     2. an operativen Aktivitäten teilnehmen und die gemeinschaftlichen Vereinbarungen ändern,
-    3. bei der Auswahl anderer Freiwilliger teilnehmen, und
-    4. bei freiwilliger Unterstützung während Konfliktlösungen teilnehmen.
-3. Ein Freiwilliger sollte - 
+    3. an der Auswahl anderer Freiwilliger teilnehmen, und
+    4. an freiwilliger Unterstützung zur Konfliktlösung teilnehmen.
+3. Ein Freiwilliger sollte: 
     1. einen Teil der Verantwortung für den Ort übernehmen und
     2. für Wurzen und/oder die weitere Welt einen Beitrag leisten.
-4. Um ein Freiwilliger zu werden muss die Person - 
+4. Um ein Freiwilliger zu werden muss die Person: 
     1. mindestens 14 Tage an dem Ort gelebt haben und
-    2. die Verfassung und Kollektiven Übereinkünfte verstanden und akzeptiert haben.
+    2. die Verfassung und Gemeinschaftlichen Vereinbarungen verstanden und akzeptiert haben.
 5. Eine Person wird ein Freiwilliger basierend auf dem erfolgreichen Ergebnis eines Bewerbungsverfahrens, in dem nur Mitglieder und Freiwillige teilnehmen sollten.
 6. Eine Person hört auf, ein Freiwilliger zu sein - 
     1. 3 Monate nachdem er/sie ein Freiwilliger wurde,
