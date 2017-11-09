@@ -107,21 +107,21 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 
 1. Wenn niemand Widerstand gegen einen Vorschlag oder eine Handlung hat, dann ist dies Einstimmige Akzeptanz.
 2. Es gibt kein spezifisches Format um Einstimmige Akzeptanz zu erlangen. Viele hilfreiche Techniken erleichtern das Erreichen der Einstimmigen Akzeptanz, so wie z.B. kleinschrittiges Testen, Präsentationen, Diskussionen, Meetings mit [geplanten Abläufen](http://cultivate.coop/wiki/Agenda_Planning), Runden, [Talking Sticks](https://en.wikipedia.org/wiki/Talking_stick), [Hand-Signale](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [Sprecherlisten](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) oder Zeitbeschränkungen.
-3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, dann sollten die Betroffenen zur Bewertungswahl übergehen. Proceeding to Score Voting (§8c.) on a topic should be done with Unanimous Acceptance but may otherwise be done by simple majority.
+3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, dann sollten die Betroffenen zur Bewertungswahl übergehen. In der Behandlung eines Sachverhalts zu Bewertungswahl (§8c.) überzugehen sollte mit Einstimmiger Akzeptanz geschehen. Wenn dies nicht möglich ist reicht einfache Mehrheit.
 
-### §8c. Score Voting
+### §8c. Bewertungswahl
 
-1. Firstly, individuals should discuss the current state-of-affairs, the initial proposal (if applicable) and generate alternative proposal(s). Afterwards, a list of proposals is created by gathering— 
-    1. the initial proposal and/or the generated proposals,
-    2. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
-    3. an 'escalate procedure' control proposal (i.e. 'switch to Collective Change'.)
-2. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totalled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected.
+1. Zunächst sollten die Betroffenen die momentane Sachlage, den Ausgangsvorschlag, sowie potenzielle weitere Vorschläge diskutieren. Dann wird eine Liste von Vorschlägen erstellt, indem: 
+    1. der Ausgangsvorschlag und/oder die erarbeiteten Vorschläge,
+    2. ein 'Status Quo'-Kontrollvorschlag (z.B. 'alles so belassen wie es ist/keine Änderung') und
+    3. ein Eskalationsverfahrens-Kontrollvorschlag (z.B. 'Wechsel zur Änderung der Gemeinschaftlichen Vereinbarungen') gesammelt werden.
+2. Nun sollten die Betroffenen jeden Vorschlag einzeln mit "Unterstützung", "Einwilligung" oder "Widerstand" bewerten. Danach werden die Stimmen als Punktwerte summiert, indem "Unterstützung" als 1, "Einwilligung" als 0 und "Widerstand" als -3 gezählt wird. Der Vorschlag mit dem höchsten Zahlenwert wird gewählt.
 
-## §9. Changing the Collective Agreements
+## §9 Änderungen an den Gemeinschaftlichen Vereinbarungen
 
-1. Any addition, subtraction or other change to the Collective Agreements must be made according to the following procedure.
-2. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal from a Member or Volunteer which— 
-    1. has the support of at least 1 other Member or Volunteer, and
+1. Jede Ergänzung, Löschung oder anderweitige Änderung an den Gemeinschaftlichen Vereinbarungen muss anhand des im Folgenden beschriebenen Verfahrens erfolgen.
+2. Das Verfahren beginnt, wenn alle Freiwilligen und Mitglieder, die sich zu diesem Zeitpunkt am Ort befinden, über einen klaren und eindeutigen Vorschlag eines Freiwilligen oder Mitglieds informiert wurden, der 
+    1. von mindestens einem anderen Frewilligen oder Mitglied unterstützt wird und
     2. is not contrary to any other Collective Change made within the last 6 days.
 3. The primary phase of the procedure, lasts at least 3 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase a list of proposals is created by gathering— 
     1. the initial proposal and any alternative proposals,
