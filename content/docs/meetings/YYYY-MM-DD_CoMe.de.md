@@ -1,7 +1,8 @@
 ---
-title: Coordination Meeting Template
+title: Coordination Meeting
 date: 2017-01-01
 ---
+
 <!-- Hello facilitator/notary! Thank you for your services. Here is some advice for facilitating coordination meetings:
   - Notify people 10 minutes before the meeting starts. (Watching the clock is not super fun, people will be grateful if you do it for them.)
   - Start at 10:00 sharp, or earlier if everyone is there. (Waiting is time-wasting, be a time-saver!)
@@ -12,31 +13,22 @@ date: 2017-01-01
   - Have fun!
 -->
 
-- Date:
-- Facilitator:
+- Facilitator: 
 - Notary: 
 - Present: 
 
-## ### 1. People coming
-
-## ### 2. People leaving
-
-## ### 3. New Volunteers
-
-## ### 4. New Members
-
-## ### 5. Changes to Constitution
-
-## ### 6. Changes to Collective Agreements
-
-### 7. Information (e.g. announcements, events, etc)
-
-- Waste collection: (see https://nc.matthias-larisch.de/apps/calendar/#)
-- Food pickups: (see https://foodsaving.world/#!/group-info/28)
-
-### 8. Discussion (e.g. questions, proposals, etc)
-
-- Commited tasks: 
-  - (tasks people have said they want to do this week)
-
-## ### 9. Next facilitator
+1. People coming:
+  - 
+2. People leaving:
+  -  
+3. New Volunteers: 
+4. New Members:
+5. Changes to Constitution: 
+6. Changes to Collective Agreements:
+7. Points of information (e.g. announcements, events, etc)
+  - Waste collection: (see https://nc.matthias-larisch.de/apps/calendar/#)
+  - Food pickups: (see https://foodsaving.world/#!/group-info/28)
+8. Points for discussion (e.g. questions, proposals, etc): 
+  - Commited tasks:
+    - (tasks people have said they want to do this week)
+9. Next facilitator: 
