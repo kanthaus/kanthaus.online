@@ -1,5 +1,5 @@
 ---
-title: "Mitglieder"
+title: "Members"
 description: " "
 layout: members
 ---

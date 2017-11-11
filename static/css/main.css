@@ -42,16 +42,15 @@ main {
 
 a:link, a:visited {
     color: var(--accent);
+    text-decoration: none;
 }
 
 a.icon:hover {
     text-decoration: none;
 }
-
 a:hover {
-    color: var(--accent) !important;
+    color: green;
 }
-
 /*paginator at bottom of list view*/
 
 .pages {

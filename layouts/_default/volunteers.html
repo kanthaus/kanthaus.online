@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+
+<main>
+  <h2>{{ .Title }}</h2>
+  <br>
+  <ul>
+  {{ range .Site.Data.volunteers.volunteers }}
+     <li>
+       <strong>{{ .name }}</strong>
+       joined {{ .joined }}
+     </li>
+  {{ end }}
+  </ul>
+</main>
+
+{{ partial "footer" . }}
