@@ -1,5 +1,5 @@
 ---
-title: "Volunteers"
+title: "Freiwillige"
 description: " "
 layout: volunteers
 ---

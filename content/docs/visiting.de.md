@@ -1,37 +1,40 @@
 ---
-title: "Visiting"
-description: " "
+title: Besuchen
+description: ""
 weight: 1
 draft: false
 ---
+# Information für Besucher*innen
 
-# Information for Visitors
-So you want to come to Kanthaus? Great! Read on...
+Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 
-## General
-- Be welcome for a week. To be welcome for longer, chat with a [Volunteer](../volunteers/) or [Member](../members/) once you get here.
-- There is no cost for staying here. If you have money that you want to give, you can.
-- We have [Collective Agreements](../collectiveagreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and come to the coordination meetings (Mondays, 10:00 in the office.)
-- We have a [Constitution](../constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](../constitution/#8c-score-voting).
-- The address is [Kantraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- [Contact us](../../contact/) before you arrive if possible.
+## Allgemein
 
-## Safety
-- There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
-- There may be sharp objects sticking out of the flooring: take care if walking barefoot.
-- There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the wood of the attic: please read the [advice](../../signs/attic) before going there.
+- Sei Willkommen für eine Woche. Um länger zu bleiben, sprich mit einem [Freiwilligen](../volunteers/) oder [Mitglied](../members/), sobald du hier bist.
+- Dein Aufenthalt hier kostet nichts. Wenn Du Geld hast, dass Du geben möchtest, kannst Du das tun.
+- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich vorher mit uns, falls Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
+- Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](../constitution/#8c-score-voting) um weiterzukommen.
+- Die Adresse ist [Kantstraße 20, 04808 Wurzen](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
+- [Melde Dich](../../contact/) am besten, bevor Du ankommst.
 
-## Resources
-- Water: drinkable water comes out the taps. You can shower cold in the house or get a hot shower at the swimming pool (10 min. walk, €1.50) or at our neighbor's if they're feeling friendly.
-- Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring fruit and vegetables should you have an abundance.
-- Electricity: up to 300Wp solar power if sunny, stored in 4 low-capacity car batteries. We can charge phones, 2 laptops* (during daytime) and rechargeable batteries. With minimal lighting, you may wish to bring a torch.
-- Internet: name, "wuppdays", password, "dragonlove". (Download, ~25 Mbps, upload, ~5 Mbps.)
-- Cooking: a well equipped kitchen with 3-ring gas cooker and a barbecue for the garden.
-- Clothing: work and everyday clothes available.
-- Washing: Modified washing machine can be operated when there is sunlight from 12am-4pm, drying in the garden.
-- Sleeping: mattresses/beds/sofas/sheets for 10-12 people, camping mattresses/sleeping bags (loads), 6 duvets
-- Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
+## Sicherheit
 
-Kanthaus eagerly awaits you!
+- Wir haben (noch) keine Rauchmelder oder Feuerlöscher. Bitte behalte jegliche Feuer (Kocher, Kerzen) ständig im Blick.
+- Hier und dort mag der Fußboden spitze Stellen freiliegen haben: Sei vorsichtig, wenn du barfuß läufst.
+- Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) im Dachstuhl. Bitte lies [die Sicherheitshinweise](../../signs/attic), bevor du den Bereich betrittst.
 
-_*We can charge Thinkpads easily, both old (barrel-type) and new (rectangle-type) sockets. We can charge other laptops, if: (1) you bring the corresponding 12 V DC (car) charger, or (2) your laptop takes 20 V DC and you're happy for us to perform some minor surgery on your regular charger, or (3) your AC Adapter works with 80V DC (Macs do) and the sun is shining. Laptops can also be charged at the nearby library during [opening hours](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot)._
+## Ressourcen
+
+- Wasser: Trinkwaser kommt aus den Hähnen in Spülraum, Küche, Badezimmer und Schlafetagen-Badezimmer. Es gibt eine kalte Dusche, welche experimentell per Gasbrenner beheizt werden kann. Zudem gibt es ein Schwimmbad (10 Minuten entfernt, 1,50€) oder liebe Nachbarn, die dich bestimmt mal duschen lassen.
+- Essen: Einige Vorräte an haltbaren Speisen, regelmäßige Versorgung mit Brot, unregelmäßige Versorgung mit frischen Dingen. Sei herzlich eingeladen, Obst und Gemüse mitzubringen, wenn es bei dir einen Überfluss davon gibt.
+- Strom: Ausschließlich Solarstrom bis Mitte November, 300 Wp welche meist im Schatten sind, 400 Wh Autobatterien, welche langsam den Geist aufgeben. Es können Telefone und durchschnittlich 2 Laptops (am Tag) sowie AA- und AAA Akkus geladen werden. Es gibt wenig Licht, eine Taschen-/Stirnlampe wird dir hier treue Dienste erweisen.
+- Internet: Wlan 2,4 GHz SSID "wuppdays", Passwort "dragonlove". (VDSL25, ~25 Mbps Down / ~5 Mbps up.)
+- Kochen: Gut ausgestattete Küche mit 2 großen und einem sehr kleinen Gaskochfeld, Grills für den Innenhof.
+- Kleidung: Arbeits- und Alltagsklamotten in diversen Größen vorhanden. Unterhosen in mittlerer Größe sowie Hosen in ~W31/L30 sind etwas knapp.
+- Waschen: Umgebastelte Waschmaschine, welche bei direktem Sonnenlicht auf unsere Panels betrieben werden kann.
+- Schlafen: Matratzen, Betten, Sofas und Bettzeug für 10-12 Leute, Isomatten und Schlafsäcke für mehr.
+- Anderes: Ein paar Musikinstrumente (Gitarre, Flöte, Trommel), diverse Spiele, Shisha, behelfsmäßig gut ausgestattete Werkstatt, diverses Elektro/Holz/Metall Bastelzeug...
+
+Das Kanthaus erwartet dich!
+
+**Am besten können wir Thinkpads, sowohl rund als auch eckig laden. Wir können auch andere Laptops laden, wenn du (1) einen 12 V Ladeadapter mitbringst, oder (2) wir dein Ladekabel abschneiden dürfen oder (3) dein AC Adapter auch mit 70 V Gleichspannung läuft (Glückssache). Zudem kannst du deinen Laptop auch in der Bibliothek zu den [Öffnungszeiten](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot) laden.*

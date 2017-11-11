@@ -1,47 +1,53 @@
 ---
-title: "Governance FAQ"
-description: " "
+title: Verfassungs-FAQ
+description: ""
 weight: 5
 draft: false
 ---
+# Verfassungs-FAQ
 
-# Governance FAQ
+### Wieso klingt die Verfassung so förmlich?
 
-### Why is the Constitution so formal?
-The Constitution is not the most exciting document ever written—it's true. It is written the way it is to be as clear as possible. The Constitution is an agreement and it is really important for people to understand what they are agreeing to, especially since it outlines how to proceed when people _don't_ agree.
+Die Verfassung ist nicht die fesselndste Lektüre, das ist klar. Es ist so geschrieben worden, um größtmögliche Eindeutigkeit zu gewährleisten. Die Verfassung ist eine Vereinbarung und es ist wirklich wichtig, dass die Menschen verstehen, was die Dinge sind, denen sie da zustimmen, vor allem, weil dort geregelt ist, wie vorgegangen wird, wenn Menschen *nicht* einer Meinung sind.
 
-### What's the deal with the Principles?
-The subjective Principles aim to communicate the intention behind the objective rules and how they should be interpreted. Understanding why the rules exist and what they are intended to do will hopefully lead to a critical culture which is resistant to the creep of blind bureaucracy. If you have a deeper interest in the Principles, see 'What's the real deal with the Principles?'
+### Was hat es mit den Prinzipien auf sich?
 
-### What is meant by 'must', 'should', 'may', etc?
-_The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119)._
+Die subjektiven Prinzipien sollen die Absichten hinter den objektiven Regeln erklären, und wie zweitere überhaupt interpretiert werden sollen. Verständnis dafür, weshalb die Regeln existieren und wofür sie gedacht sind, wird hoffentlich dazu führen, dass sich eine kritische Kultur etabliert, die der Blindheit der Bürokratie gegenüber widerstandfähig ist. Falls du dich tiefergehend für die Prinzipien interessierst, schau unter 'Was hat es wirklich mit den Prinzipien auf sich?'.
 
-### Why does the Volunteer position terminate after 3 months?
-Ideally everyone who is involved in the project will become a Member in order to reduce the inequality between individuals and thereby uphold the Principle of Equality. As such the Volunteer position is intended to be temporary. The 3 month window gives a decent period of time to get a good impression of the compatibility between the project and the individual. At the end of the 3 months a Volunteer can reapply if they still feel not ready to become a Member. Alternatively, a Volunteer could upgrade to Member even before the 3 months is over.
+### Was ist mit 'muss', 'sollte', 'könnte', etc. gemeint?
 
-### Why is the Application Procedure done anonymously?
-Making decisions about people is a social minefield. A danger of open voting regarding Positions is that people want to show that they are 'nice' by voting to support an individual they don't actually support, which can result in a loss of trust and cooperation. Additionally, since decisions on Positions require no work to be done in order to implement them, there is no need for voter accountability to ensure it happens.
+*Die englischen Begriffe aus der Originalversion unserer Verfassung sind nach [RFC 2119](https://tools.ietf.org/html/rfc2119) definiert. Die deutsche Übersetzung orientiert sich daran.*
 
-### Why is there a preliminary vote in the Application Procedure?
-A preliminary vote is used to encourage independent thought and counteract [anchoring](https://en.wikipedia.org/wiki/Anchoring) during the subsequent discussion. The vote is done anonymously to counteract [groupthink](https://en.wikipedia.org/wiki/Groupthink) and [peer pressure](https://en.wikipedia.org/wiki/Peer_pressure) from deterring people to express their honest opinion.
+### Wieso läuft die Rolle 'FreiwilligeR' nach 3 Monaten automatisch aus?
 
-### Why do oppose votes count more than support votes?
-The different weighting  between 'support' and 'oppose' votes is a way of upholding the Principal of Acceptance. This has the philosophical basis that it is generally more preferable to 'avoid suffering' than 'increase happiness'. There is also a procedural advantage since accounting, monitoring and sanctioning have a significant cost.
+Idealerweise würde jede in das Projekt involvierte Person Mitglied werden, sodass sich die Ungleichheit zwischen den einzelnen Menschen reduziert und dadurch das Prinzip der Gleichwertigkeit gewürdigt werden kann. Aus diesem Grund ist die Freiwilligenposition als etwas temporäres gedacht. Das 3-Monatsfenster bietet genügend Zeit für alle Beteiligten, um zu schauen, inwieweit Person und Projekt kompatibel sind. Wenn einE FreiwilligeR nach 3 Monaten nocht nicht bereit ist mitglied zu werden, kann er/sie sich erneut als FreiwilligeR bewerben. Andersherum ist es auch möglich, dass sich einE FreiwilligeR dazu entschließt Mitglied werden zu wollen bevor die 3 Monate verstrichen sind.
 
-### What's the real deal with the Principles?
-The three main Principles—Autonomy, Equality and Acceptance—are fundamental positions or axioms meaning they have no logical basis. While there may be no logical basis for the Principles, hopefully you will be able to appreciate their value by reflecting on your own experiences. They are also defined negatively for clarity and falsifiability.
+### Warum läuft die Wahl im Bewerbungsverfahren anonym ab?
 
-* Autonomy is the assertion that a person has their own will and that it is generally desirable for them to be able to pursue it. Autonomy in this case is considered to extend from individual people to autonomous associations of people and their collective will. Autonomy could also be described as 'Self-determination', 'Freedom' or 'Liberty'.
-* Equality is the assertion that there is no natural, earned or supernatural superiority between people. Clearly people are not the same and thus Equality does not mean symmetry, but rather that the will or autonomy of two people is of equal value. Equality could also be described as 'Equity' or 'Equivalence'.
-* Acceptance is the assertion that in collective matters it is preferable to avoid undesirable experience than promote desirable experiences. This has been philosophically described as Negative (Leaning) Utilitarianism and . Acceptance could also be described as 'Solidarity', 'Mutual-aid' or even 'Love'.
+Über Menschen zu entscheiden ist ein soziales Minenfeld. Es kann passieren, dass Leute sich als nett zeigen wollen, wenn offen abgestimmt wird, und dass sie deshalb Unterstützung für Bewerber signalisieren, die sie eigentlich nicht wirklich unterstützen. Das kann zu vermindertem Vertrauen und schlechterer Kooperation führen. Außerdem wird bei Abstimmungen über Rollen nichts entschieden, das zu Arbeit führt, weswegen es nicht wichtig ist zu sehen, wer besonders enthusiastisch war, denn niemand muss im Nachhinein Verantwortung dafür übernehmen, dass eine Aufgabe auch tatsächlich ausgeführt wird.
 
-These Principles aim to provide a holistic approach to collective action if simultaneously upheld as far as possible. In many cases optimizing for just one would harm the other two: only optimizing for Autonomy could lead to an individualism, only optimizing for Equality could lead to majoritarianism or extractive open-access scenarios and only optimizing for acceptance could erode the concept of the individual. (On reflection, these Principles closely resemble those adopted by the French Revolution: Liberté, Egalité, Fraternité... interesting.)
+### Warum gibt es eine einleitende Abstimmung im Bewerbungsverfahren?
 
-### Are there any particular influences on the Constitution?
-Yes, much of the philosophy, theory, structure and details were heavily influenced by—
-* ['Governing the Commons: The Evolution of Institutions for Collective Action'](http://wtf.tw/ref/ostrom_1990.pdf) by Elinor Ostrom,
-* ['Philosophy and the Real World - An Introduction to Karl Popper'](https://www.scribd.com/doc/171535409/Philosophy-and-the-Real-World-An-Introduction-to-Karl-Popper-Bryan-Magee) by Bryan Magee, and
-* ['Systemisches Konsensieren'](http://www.sk-prinzip.eu/das-sk-prinzip/) by Erich and Volker Visotschnig.
+Die einleitende Abstimmung soll eigenständiges Denken fördern und dem [Ankereffekt](https://de.wikipedia.org/wiki/Ankereffekt) in der nachfolgenden Diskussion entgegenwirken. Es wird anonym abgestimmt, um [Gruppendenken](https://en.wikipedia.org/wiki/Gruppendenken) und [Gruppenzwang](https://en.wikipedia.org/wiki/Gruppenzwang) zu verhindern.
 
-### Who actually owns the buildings?
-The Haus Kante Wurzen w.V. (See §4.) This association has been set up for compatibility/stability with the legal system, since not owning the building or owning them in a different way can quickly lead to project collapse. There are seven members of this association at the time of writing. The association has been lent money used to buy the buildings by individuals involved in the project which it is obliged to repay.
+### Wieso zählen Widerstandsstimmen mehr als Unterstützerstimmen?
+
+Die unterschiedliche Gewichtung von 'Unterstützung' und 'Widerstand' ist dem Prinzip der Akzeptanz geschuldet. Es ruht auf der philosophischen Grundlage, dass es generell besser ist Leid zu vermeiden als Freude zu vermehren. Außerdem gibt es einen verfahrenstechnischen Vorteil, da Bilanzieren, Überwachen und Sanktionieren ziemlich aufwändig ist.
+
+### Was hat es wirklich mit den Prinzipien auf sich?
+
+Die drei Kernprinzipien - Unabhängigkeit, Gleichwertigkeit und Akzeptanz - sind fundamentale Positionen oder Axiome, was bedeutet, dass sie selbst keine logische Begründung haben. Obwohl die logische Begründung fehlt, hoffen wir, dass du aufgrund deiner eigenen Erfahrungen ihren Wert erkennen wirst. Um Klarheit und Falsifizierbarkeit zu gewährleisten, sind sie auch negativ definiert.
+
+* Unabhängigkeit bedeutet, dass eine Person einen eigenen Willen hat, und dass es generell erstrebenswert für sie ist, diesem zu folgen. In diesem Fall wird Unabhängigkeit so aufgefasst, dass sie sich über Einzelpersonen hinaus auf unabhängige Zusammenschlüsse und deren kollektiven Willen ausdehnt. Diese Unabhängigkeit könnte auch 'Selbstbestimmung' oder 'Freiheit' genannt werden.
+* Gleichwertigkeit bedeutet, dass es keine natürliche, erworbene oder übernatürliche Überlegenheit zwischen Menschen gibt. Menschen sind offensichtlich nicht gleich, weswegen Gleichwertigkeit nicht Symmetrie bedeutet, sondern dass der Wille oder die Selbstbestimmung zweier Menschen denselben Wert besitzt. Gleichwertigkeit ist in diesem Sinne klarer als 'Gleichheit'.
+* Akzeptanz bedeutet, dass es in Gruppenkontexten wünschenswerter ist negative Erfahrungen zu vermeiden als positive Erfahrungen zu fördern. Dies wurde philosophisch als negativer Utilitarismus bezeichnet. Diese Akzeptanz könnte auch 'Solidarität', 'gegenseitige Hilfe' oder gar 'Liebe' genannt werden.
+
+Das Ziel dieser Prinzipien ist es einen ganzheitlichen Ansatz an gemeinschaftliche Aktion zu bieten, wenn sie gleichzeitig, in Kombination und stets angewandt werden. In den meisten Fällen würde ein zu großer Fokus auf eines der Prinzipien die anderen zwei verletzen: Ein reiner Fokus auf Unabhängigkeit könnte zu Vereinsamung und Egozentrik führen, ein reiner Fokus auf Gleichwertigkeit zu Mehrheitsgläubigkeit oder übergriffigen open-access Szenarios und ein reiner Fokus auf Akzeptanz könnte das Konzept des Individuums aushölen. (Bei genauerer Überlegung fällt auf, dass diese Prinzipien denen der Französischen Revolution *sehr* ähnlich sehen: Liberté, Egalité, Fraternité... interessant.)
+
+### Gibt es irgendwelche wichtigen Einflüsse auf die Verfassung?
+
+Ja. Vieles von der Philosophie, Theorie, Struktur und diverse Details wurden intensiv beeinflusst von * ['Governing the Commons: The Evolution of Institutions for Collective Action'](http://wtf.tw/ref/ostrom_1990.pdf) von Elinor Ostrom, * ['Philosophy and the Real World - An Introduction to Karl Popper'](https://www.scribd.com/doc/171535409/Philosophy-and-the-Real-World-An-Introduction-to-Karl-Popper-Bryan-Magee) von Bryan Magee, and * ['Systemisches Konsensieren'](http://www.sk-prinzip.eu/das-sk-prinzip/) von Erich and Volker Visotschnig.
+
+### Wem gehören die Häuser eigentlich rechtlich gesehen?
+
+Dem Haus Kante Wurzen w.V. (steht auch in §4). Dieser Verein wurde gegründet, um für mehr Stabilität und Kompatibilität mit dem deutschen Rechtssystem zu sorgen, da Nicht-Eigentümerschaft oder ein zu experimentelles Besitzkonzept schnell zum Ende eines Projektes führen kann. Zur Zeit, als dieses geschrieben wurde, gab es sieben Mitglieder in diesem Verein. Einzelpersonen, die eine Verbindung zum Projekt haben, haben dem Verein Geld geliehen, um die Häuser zu kaufen. Dieses Geld muss zurückgezahlt werden.
