@@ -36,4 +36,4 @@ Der Ort ist derzeit nicht sehr sicher, was ihn für Tiere ungeeignet macht. Auch
 
 ## Änderungen der gemeinschaftlichen Vereinbarungen
 
-Jede Ergänzung, Subtraktion oder andere Änderungen an diesem Dokument sollte nach der [Verfassung, § 9](../constitution#9-changing-the-collective-agreements) erfolgen.
+Jede Ergänzung, Subtraktion oder andere Änderungen an diesem Dokument sollte nach der [ Verfassung, § 9](../constitution#9-changing-the-collective-agreements) erfolgen.
