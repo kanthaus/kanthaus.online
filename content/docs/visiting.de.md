@@ -4,15 +4,15 @@ description: ""
 weight: 1
 draft: false
 ---
-# Information für Besucher*innen
+# Information for potential Visitors
 
-Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
+So you'd like to visit us? Great! Read on...
 
-## Allgemein
+## In general
 
-- Sei Willkommen für eine Woche. Um länger zu bleiben, sprich mit einem [Freiwilligen](../volunteers/) oder [Mitglied](../members/), sobald du hier bist.
-- Dein Aufenthalt hier kostet nichts. Wenn Du Geld hast, dass Du geben möchtest, kannst Du das tun.
-- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. Kurz: rauche nur draußen, trinke verantwortungsvoll, sprich vorher mit uns, falls Du Tiere mitbringen möchtest und nimm bitte an den Koordinierungs-Treffen teil (Montags, 10:00 Uhr im Büro.)
+- Be welcome for a week. To be welcome longer, please chat with a [Volunteer](../volunteers/) or [Member](../members/) once you get here.
+- There is no price for staying here. If you have money that you want to give, you can.
+- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. In short: smoke outside, drink responsibly, talk to us before bringing animals and feel welcome to join the coordination meetings and cleaning hours (10:00 on Mondays and Thursdays respectively.)
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](../constitution/#8c-score-voting) um weiterzukommen.
 - Die Adresse ist [Kantstraße 20, 04808 Wurzen](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - [Melde Dich](../../contact/) am besten, bevor Du ankommst.
@@ -20,21 +20,23 @@ Möchtest Du zum Kanthaus kommen? Klasse! Lies weiter...
 ## Sicherheit
 
 - Wir haben (noch) keine Rauchmelder oder Feuerlöscher. Bitte behalte jegliche Feuer (Kocher, Kerzen) ständig im Blick.
-- Hier und dort mag der Fußboden spitze Stellen freiliegen haben: Sei vorsichtig, wenn du barfuß läufst.
-- Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) im Dachstuhl. Bitte lies [die Sicherheitshinweise](../../signs/attic), bevor du den Bereich betrittst.
+- There may be sharp objects on the floor/ground: take care if walking barefoot.
+- There may be areas with untreated mold: please be careful whilst we work on them.
+- There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the attic wood: please read the [advice](../../signs/attic) before going there.
 
-## Ressourcen
+## Resources we have
 
-- Wasser: Trinkwaser kommt aus den Hähnen in Spülraum, Küche, Badezimmer und Schlafetagen-Badezimmer. Es gibt eine kalte Dusche, welche experimentell per Gasbrenner beheizt werden kann. Zudem gibt es ein Schwimmbad (10 Minuten entfernt, 1,50€) oder liebe Nachbarn, die dich bestimmt mal duschen lassen.
-- Essen: Einige Vorräte an haltbaren Speisen, regelmäßige Versorgung mit Brot, unregelmäßige Versorgung mit frischen Dingen. Sei herzlich eingeladen, Obst und Gemüse mitzubringen, wenn es bei dir einen Überfluss davon gibt.
-- Strom: Ausschließlich Solarstrom bis Mitte November, 300 Wp welche meist im Schatten sind, 400 Wh Autobatterien, welche langsam den Geist aufgeben. Es können Telefone und durchschnittlich 2 Laptops (am Tag) sowie AA- und AAA Akkus geladen werden. Es gibt wenig Licht, eine Taschen-/Stirnlampe wird dir hier treue Dienste erweisen.
+- Water: drinkable water comes out of the taps. There is the possibility to shower hot.
+- Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring food if you have an abundance.
+- Electricity: we have solar panels which give enough power to charge phones and other-small devices pretty much every day when the sun is shining. If it's very sunny we can also charge laptops.*
 - Internet: Wlan 2,4 GHz SSID "wuppdays", Passwort "dragonlove". (VDSL25, ~25 Mbps Down / ~5 Mbps up.)
-- Kochen: Gut ausgestattete Küche mit 2 großen und einem sehr kleinen Gaskochfeld, Grills für den Innenhof.
-- Kleidung: Arbeits- und Alltagsklamotten in diversen Größen vorhanden. Unterhosen in mittlerer Größe sowie Hosen in ~W31/L30 sind etwas knapp.
-- Waschen: Umgebastelte Waschmaschine, welche bei direktem Sonnenlicht auf unsere Panels betrieben werden kann.
-- Schlafen: Matratzen, Betten, Sofas und Bettzeug für 10-12 Leute, Isomatten und Schlafsäcke für mehr.
-- Anderes: Ein paar Musikinstrumente (Gitarre, Flöte, Trommel), diverse Spiele, Shisha, behelfsmäßig gut ausgestattete Werkstatt, diverses Elektro/Holz/Metall Bastelzeug...
+- Cooking: a well equipped kitchen with a 3-ring gas cooker, also a barbecue and charcoal for the garden.
+- Clothing: quite a lot of work clothes and normal clothes.
+- Sleeping: mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
+- Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
 
-Das Kanthaus erwartet dich!
+Please include the phrase "limited-power-no-heating" when you first contact us so we know you've read this document.
 
-**Am besten können wir Thinkpads, sowohl rund als auch eckig laden. Wir können auch andere Laptops laden, wenn du (1) einen 12 V Ladeadapter mitbringst, oder (2) wir dein Ladekabel abschneiden dürfen oder (3) dein AC Adapter auch mit 70 V Gleichspannung läuft (Glückssache). Zudem kannst du deinen Laptop auch in der Bibliothek zu den [Öffnungszeiten](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot) laden.*
+Kanthaus eagerly awaits you!
+
+**Laptops can also be charged at the nearby library during [opening hours](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot) and maybe with our neighbors if you ask them nicely.*
