@@ -1,5 +1,6 @@
-* * *
-
-menu: main: name: Documents
-
-## weight: 2
+---
+menu:
+  main:
+    name: Dokumente
+    weight: 2
+---
