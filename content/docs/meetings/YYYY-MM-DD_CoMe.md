@@ -15,17 +15,17 @@ date: 2017-01-01
 
 - Date:
 - Facilitator:
-- Notary: 
-- Present: 
+- Notary:
+- Present:
 
 ### 1. People coming
-- 
+-
 
 ### 2. People leaving
-- 
+-
 
 ### 3. New Volunteers
-- 
+-
 
 ### 4. New Members
 -
@@ -38,11 +38,11 @@ date: 2017-01-01
 
 ### 7. Information (e.g. announcements, events, etc)
 - Waste collection: (see https://nc.matthias-larisch.de/apps/calendar/#)
-- Food pickups: (see https://foodsaving.world/#!/group-info/28)
+- Food pickups: (see https://karrot.world/#!/group-info/28)
 
 ### 8. Discussion (e.g. questions, proposals, etc)
 - Commited tasks:
   - (tasks people have said they want to do this week)
 
 ### 9. Next facilitator
-- 
+-

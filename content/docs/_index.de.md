@@ -1,6 +1,5 @@
----
-menu:
-  main:
-    name: Unterlagen
-    weight: 3
----
+* * *
+
+menu: main: name: Documents
+
+## weight: 2

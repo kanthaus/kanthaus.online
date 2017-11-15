@@ -13,22 +13,22 @@ date: 2017-01-01
   - Have fun!
 -->
 
-- Facilitator: 
-- Notary: 
-- Present: 
+- Facilitator:
+- Notary:
+- Present:
 
 1. People coming:
-  - 
+  -
 2. People leaving:
-  -  
-3. New Volunteers: 
+  -
+3. New Volunteers:
 4. New Members:
-5. Changes to Constitution: 
+5. Changes to Constitution:
 6. Changes to Collective Agreements:
 7. Points of information (e.g. announcements, events, etc)
   - Waste collection: (see https://nc.matthias-larisch.de/apps/calendar/#)
-  - Food pickups: (see https://foodsaving.world/#!/group-info/28)
-8. Points for discussion (e.g. questions, proposals, etc): 
+  - Food pickups: (see https://karrot.world/#!/group-info/28)
+8. Points for discussion (e.g. questions, proposals, etc):
   - Commited tasks:
     - (tasks people have said they want to do this week)
-9. Next facilitator: 
+9. Next facilitator:
