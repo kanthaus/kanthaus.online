@@ -1,5 +1,7 @@
 * * *
 
-menu: main: name: Documents
+menu: main: name: Documents weight: 2
 
-## weight: 2
+* * *
+
+<br />
