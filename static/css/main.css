@@ -87,3 +87,10 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
+
+/*ul lists of volunteers and members pages without bullets*/
+
+.list-without-bullets {
+    list-style-type: none;
+    padding-left: 0;
+}
