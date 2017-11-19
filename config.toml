@@ -27,7 +27,7 @@ theme = "minimal"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[Languages.en.menu.icon]]
-    url = "mailto:dmwebb@gmail.com"
+    url = "mailto:hello@kanthaus.online"
     name = "envelope-o"
     weight = 1
 [[Languages.en.menu.icon]]
@@ -40,7 +40,7 @@ theme = "minimal"
     weight = 3
 
 [[Languages.de.menu.icon]]
-    url = "mailto:dmwebb@gmail.com"
+    url = "mailto:hello@kanthaus.online"
     name = "envelope-o"
     weight = 1
 [[Languages.de.menu.icon]]
