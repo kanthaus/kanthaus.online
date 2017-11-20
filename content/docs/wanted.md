@@ -15,6 +15,8 @@ draft: false
 By our vision we try to reuse material that is not needed (e.g. bought too much, just lying around) or not wanted (e.g. optical problems, need some repair work, outdated) where it currently is.
 We need to do some general maintenance and renovation work on the house as well as material and tools to start projects.
 If you feel like you have something from the list below (or similar) or know a company that wants to get rid of some material, please contact us.
+We also take broken or slightly broken things, that are repairable.
+They might even be used to teach others or learn how to repair things.
 
 ### building material:
 - Lime plaster (a lot)
@@ -36,7 +38,7 @@ If you feel like you have something from the list below (or similar) or know a c
 ### lab equipment:
 - microscope
 - laboratory power supplies
-- electronic parts
+- electronic components
 
 ### living/office material:
  - fitted sheets (1,40-1,60m)
@@ -44,9 +46,13 @@ If you feel like you have something from the list below (or similar) or know a c
  - food (mostly vegan)
  - storage shelves, hanging shelves
  - office desk equipment: tables, chairs
+ - computer monitors bigger than 24 inch
+ - laptops or computers with at least Intel Core I performance
+ - Optical mouses, keyboards (also German, UK, US layout)
+ - A3 printing machine/plotter
 
 # Wanted
-- a projector
+- projectors (preferrably LED)
 - good quality speakers & amplifiers (modern, low energy usage)
 - Risk (the board game, 'Risiko')
 - Monopoly (the board game)
