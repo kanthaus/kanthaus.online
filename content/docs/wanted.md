@@ -34,6 +34,7 @@ They might even be used to teach others or learn how to repair things.
 - circular saw
 - caliper
 - screws and similar general workshop material
+- bicycle tools and material
 
 ### lab equipment:
 - microscope
