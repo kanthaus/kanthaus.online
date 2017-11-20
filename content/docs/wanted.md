@@ -51,6 +51,8 @@ They might even be used to teach others or learn how to repair things.
  - laptops or computers with at least Intel Core I performance
  - Optical mouses, keyboards (also German, UK, US layout)
  - A3 printing machine/plotter
+ - Netzwerkkabel (Verlegekabel, mindestens Cat5)
+ - Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 adrig)
 
 # Wanted
 - projectors (preferrably LED)
