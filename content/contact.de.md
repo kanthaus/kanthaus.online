@@ -8,7 +8,7 @@ menu:
     name: Kontakt
     weight: 4
 ---
-*Wenn du uns besuchen möchtest, bitte lies zuerst [diese Infos](https://kanthaus.online/en/docs/visiting/) und gib uns Bescheid, bevor du ankommst:*
+*If you are thinking of visiting, please read [this information](../docs/visiting/) first and contact us before you arrive if possible.*
 
 - Email: <a href=mailto:hello@kanthaus.online>hello@kanthaus.online</a>
 - Telefon: +49 3425 8527995
