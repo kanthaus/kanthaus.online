@@ -32,7 +32,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Kreissäge
 - Schieblehre
 - Schrauben und anderes Verbrauchsmaterial
-- bicycle tools and material
+- Fahrradwerkzeug und Material
 
 ### Labor Einrichtung:
 
