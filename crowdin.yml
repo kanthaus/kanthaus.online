@@ -1,5 +1,7 @@
+"project_identifier": "kanthausonline"
 files:
   - source: /content/**/*.md
     ignore:
+      - /content/docs/meetings/**
       - /content/**/*.de.md
     translation: /%original_path%/%file_name%.%two_letters_code%.md
