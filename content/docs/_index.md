@@ -1,8 +1,8 @@
 ---
 menu:
   main:
-    name: Documents
-    weight: 2
+    -
+      name: Documents
+      weight: 2
 ---
-
 </br>
