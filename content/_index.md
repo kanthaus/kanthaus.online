@@ -1,6 +1,6 @@
 ---
-description: "Living with self-determination, equality and acceptance"
-more: "More About This Project"
+description: "Promoting sharing; preventing waste."
+more: "Learn more..."
 menu:
   main:
     name: "Home"
