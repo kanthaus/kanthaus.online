@@ -1,5 +1,5 @@
 ---
-description: "Promoting sharing; preventing waste."
+description: "promoting sharing—preventing waste"
 more: "Learn more..."
 menu:
   main:
