@@ -25,15 +25,12 @@ So you'd like to visit us? Great! Read on...
 ## Resources we have
 - Water: drinkable water comes out of the taps. There is the possibility to shower hot.
 - Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring food if you have an abundance.
-- Electricity: we have solar panels which give enough power to charge phones and other-small devices pretty much every day when the sun is shining. If it's very sunny we can also charge laptops.*
-- Internet: name, "wuppdays", password, "dragonlove". (Download, ~25 Mbps, upload, ~5 Mbps.)
-- Cooking: a well equipped kitchen with a 3-ring gas cooker, also a barbecue and charcoal for the garden.
+- Internet: name "wuppdays", password "dragonlove". (Download ~25 Mbps, upload ~5 Mbps.)
+- Cooking: a well equipped kitchen with gas stove, oven, also a barbecue and charcoal for the garden.
 - Clothing: quite a lot of work clothes and normal clothes.
-- Sleeping: mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
+- Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
 - Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
 
-Please include the phrase "limited-power-no-heating" when you first contact us so we know you've read this document.
+Please include the phrase "basic-infrastructure-ready" when you first contact us so we know you've read this document.
 
 Kanthaus eagerly awaits you!
-
-_*Laptops can also be charged at the nearby library during [opening hours](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot) and maybe with our neighbors if you ask them nicely._
