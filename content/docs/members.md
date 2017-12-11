@@ -1,6 +1,6 @@
 ---
 title: Members
-description: 
+description:
 layout: members
 ---
 <br />
