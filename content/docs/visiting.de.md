@@ -4,15 +4,15 @@ description: ""
 weight: 1
 draft: false
 ---
-# Information for potential Visitors
+# Informationen für BesucherInnen
 
-So you'd like to visit us? Great! Read on...
+Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
-## In general
+## Allgemein
 
-- Be welcome for a week. To be welcome longer, please chat with a [Volunteer](../volunteers/) or [Member](../members/) once you get here.
-- There is no price for staying here. If you have money that you want to give, you can.
-- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. In short: smoke outside, drink responsibly, talk to us before bringing animals and feel welcome to join the coordination meetings and cleaning hours (10:00 on Mondays and Thursdays respectively.)
+- Sei für eine Woche willkommen. Wenn Du gerne länger bleiben magst, sprich bitte mit einem [Freiwilligen](../volunteers/) oder [Mitglied](../members/), sobald Du angekommen bist.
+- Es gibt keine Kosten für den Aufenthalt hier. Wenn Du Geld geben möchtest, kannst Du das gerne machen.
+- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn Du Tiere mitbringt und sei eingeladen bei unseren Koordinationstreffen und Putzstunden mitzumachen (10 Uhr montags bzw. donnerstags).
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](../constitution/#8c-score-voting) um weiterzukommen.
 - Die Adresse ist [Kantstraße 20, 04808 Wurzen](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - [Melde Dich](../../contact/) am besten, bevor Du ankommst.
@@ -20,23 +20,20 @@ So you'd like to visit us? Great! Read on...
 ## Sicherheit
 
 - Wir haben (noch) keine Rauchmelder oder Feuerlöscher. Bitte behalte jegliche Feuer (Kocher, Kerzen) ständig im Blick.
-- There may be sharp objects on the floor/ground: take care if walking barefoot.
-- There may be areas with untreated mold: please be careful whilst we work on them.
-- There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the attic wood: please read the [advice](../../signs/attic) before going there.
+- Es können spitze Gegenstände auf dem Boden sein: Pass auf, wenn Du barfuß läufst.
+- Möglocherweise gibt es Bereiche mit unbehandeltem Schimmel: Sei bitte vorsichtig während wir daran arbeiten.
+- Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) auf dem Dachbodenholz: Lies Dir bitte die [Hinweise](../../signs/attic) durch, bevor Du dorthin gehst.
 
-## Resources we have
+## Ressourcen, die wir haben
 
-- Water: drinkable water comes out of the taps. There is the possibility to shower hot.
-- Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring food if you have an abundance.
-- Electricity: we have solar panels which give enough power to charge phones and other-small devices pretty much every day when the sun is shining. If it's very sunny we can also charge laptops.*
-- Internet: Wlan 2,4 GHz SSID "wuppdays", Passwort "dragonlove". (VDSL25, ~25 Mbps Down / ~5 Mbps up.)
-- Cooking: a well equipped kitchen with a 3-ring gas cooker, also a barbecue and charcoal for the garden.
-- Clothing: quite a lot of work clothes and normal clothes.
-- Sleeping: mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
-- Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
+- Wasser: Trinkwasser aus den Leitungen. Es gibt die Möglichkeit heiß zu duschen.
+- Essen: Einiges an haltbarem Essen, eine regelmäßige Zufuhr von Brot und eine unregelmäßige Versorgung an frischem Essen. Du bist herzlich eingeladen Essen mitzubringen, wenn Du selbst zuviel hast.
+- Internet: Ssid "wuppdays", Passwort "dragonlove". (Download ~25 Mbps, upload ~5 Mbps.)
+- Kochen: Eine gut ausgestatte Küche mit Gaskochfeldern, Ofen. Ein Grill und Kohle für den Garten.
+- Kleidung: Arbeits- und normale Kleidung zum Hiertragen da.
+- Schlafen: Drei Räume mit Matratzen/Betten/Sofas/Decken für ~15 Menschen, viele Isomatten/Schlafsäcke.
+- Anderes: Gitarren, Schach, ein [set](https://en.wikipedia.org/wiki/Set_(game)) Spiel, verschiedene Bücher, eine Shisha, Arbeitswerkzeuge, Elektronikbastelkrams...
 
-Please include the phrase "limited-power-no-heating" when you first contact us so we know you've read this document.
+Bitte bau den Wortlaut "grundinfrastruktur-vorhanden" in deinen ersten Kontakt zu uns ein, damit wir wissen, dass du dieses Dokument gelesen hast.
 
-Kanthaus eagerly awaits you!
-
-**Laptops can also be charged at the nearby library during [opening hours](http://www.kultur-in-wurzen.de/index.php/startseite-bibliothek/bibliothek-angebot) and maybe with our neighbors if you ask them nicely.*
+Das Kanthaus erwartet Dich schon!
