@@ -7,3 +7,4 @@ menu:
     weight: 1
 ---
 </br>
+This document should be empty.
