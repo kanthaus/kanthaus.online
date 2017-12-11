@@ -1,5 +1,6 @@
-* * *
-
-title: Members description: layout: members
-
-* * *
+---
+title: Mitglieder
+description:
+layout: members
+---
+<br />
