@@ -52,7 +52,8 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - optische Mäuse, Tastaturen (deutsches, UK, US layout)
 - A3 Drucker oder Plotter
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
-- Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 adrig)
+- Telefonkabel (J-2Y(St)Y oder J-YY, 4 or 8 wires)
+- professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
 
 # Gern gesehen
 

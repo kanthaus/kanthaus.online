@@ -4,13 +4,9 @@ description: ""
 weight: 3
 draft: false
 ---
+Folgende Einladung erging am 11.12. zu Freund*Innen der Kanthausbewohner*Innen. Auch wenn es sich nicht um eine öffentliche Veranstaltung handelt, kannst du, solltest du dich von dieser Einladung angezogen fühlen, dich gern mit uns in Verbindung setzen.
 
-Folgende Einladung erging am 11.12. zu Freund*Innen der Kanthausbewohner*Innen.
-Auch wenn es sich nicht um eine öffentliche Veranstaltung handelt, kannst du, solltest du dich von dieser Einladung angezogen fühlen, dich gern mit uns in Verbindung setzen.
-
-Liebe Menschen!
-Vielleicht habt ihr schon davon gehört, oder auch nicht.
-Hier nun auf jeden Fall ganz offiziell: In den Tagen um den Jahreswechsel wollen wir eine schöne Zeit mit euch im Kanthaus in Wurzen verbringen! Deshalb laden wir euch herzlich zu den WurzenerWinterTagen ein
+Liebe Menschen! Vielleicht habt ihr schon davon gehört, oder auch nicht. Hier nun auf jeden Fall ganz offiziell: In den Tagen um den Jahreswechsel wollen wir eine schöne Zeit mit euch im Kanthaus in Wurzen verbringen! Deshalb laden wir euch herzlich zu den WurzenerWinterTagen ein
 
 Die bisherige Planung sieht so aus: Anreise am 27.12.2017, „Programm“ dann von 28.12.2017 bis 3.01.2018.
 
@@ -22,5 +18,4 @@ An Silvester planen die Kanthausenden eine große Silvestersause, zu der ihr ebe
 
 Infos zum Kanthaus findet ihr https://kanthaus.online/en/. Bitte lest euch das visitors-document (https://kanthaus.online/en/docs/visiting/) durch, bevor ihr kommt. Ausreichend Schlafplätze sind vorhanden, wer kann darf vorsorglich noch einen Schlafsack mitbringen. Lebensmittel werden gemeinschaftlich gerettet bzw. containert. Wenn ihr etwas rumliegen habt oder noch eine Abholung vorher machen könnt, bring gerne noch zusätzliches Essen mit. Kosten tut das WuWiTa nichts; wenn ihr Geld übrig habt, sind kleine Spenden aber ok
 
-Liebe Grüße</br>
-Bodhi und Lise, stellvertretend für das gesamte Orga-Team und eigentlich alle Menschen
+Liebe Grüße</br> Bodhi und Lise, stellvertretend für das gesamte Orga-Team und eigentlich alle Menschen
