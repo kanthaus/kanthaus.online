@@ -4,4 +4,5 @@ files:
     ignore:
       - /content/docs/meetings/**
       - /content/**/*.de.md
+      - /**/_index.md
     translation: /%original_path%/%file_name%.%two_letters_code%.md

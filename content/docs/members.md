@@ -1,6 +1,6 @@
 ---
-title: "Members"
-description: " "
+title: Members
+description: 
 layout: members
 ---
 <br />

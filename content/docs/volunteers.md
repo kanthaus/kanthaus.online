@@ -1,6 +1,6 @@
 ---
-title: "Volunteers"
-description: " "
+title: Volunteers
+description:
 layout: volunteers
 ---
 <br />
