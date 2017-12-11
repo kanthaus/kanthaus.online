@@ -1,3 +1,9 @@
+---
+title: WurzenerWinterTage im Kanthaus
+description: ""
+weight: 3
+draft: false
+---
 Liebe Menschen!
 Vielleicht habt ihr schon davon gehört, oder auch nicht.
 Hier nun auf jeden Fall ganz offiziell: In den Tagen um den Jahreswechsel wollen wir eine schöne Zeit mit euch im Kanthaus in Wurzen verbringen! Deshalb laden wir euch herzlich zu den WurzenerWinterTagen ein.
