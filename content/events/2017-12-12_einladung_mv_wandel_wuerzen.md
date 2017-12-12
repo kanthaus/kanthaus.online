@@ -1,4 +1,10 @@
-# Mitgliederversammlung Wandel Würzen e.V.
+---
+title: "Mitgliederversammlung Wandel würzen e.V."
+description: " "
+weight: 3
+draft: false
+---
+# Mitgliederversammlung Wandel würzen e.V.
 
 Liebe Mitglieder,
 

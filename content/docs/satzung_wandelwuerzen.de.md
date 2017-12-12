@@ -1,0 +1,1 @@
+satzung_wandelwuerzen.md

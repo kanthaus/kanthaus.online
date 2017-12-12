@@ -1,3 +1,9 @@
+---
+title: "Mitgliederversammlung Haus Kante Wurzen w.V."
+description: " "
+weight: 3
+draft: false
+---
 # Mitgliederversammlung Haus Kante Wurzen w.V.
 
 Liebe Mitglieder,
