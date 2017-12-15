@@ -1,5 +1,7 @@
 Der Hase will Dinge ändern und...
+
 #Kreative Aktionsmethoden#
+
 ...erlernen. Ihr auch? Dann kommt!
 
 Mo, 15.1. um 19 Uhr in Leipzig (Ort folgt)
