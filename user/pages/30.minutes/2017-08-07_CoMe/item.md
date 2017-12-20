@@ -1,0 +1,35 @@
+---
+title:  Coordination Meeting
+date: "2017-08-07"
+taxonomy:
+    tag: [come]
+---
+
+- Present: Matthias, Laurina, Doug.
+- Facilitator: Doug.
+- Notary: Doug.
+- New Members: Matthias, Laurina, Doug, Janina. (All founding Members.)
+- New Volunteers: None.
+- Incoming Visitors:
+	- Bodhi, Anna and _unkonwn_ come today. Bodhi and Anna will stay.
+	- Adam planning on coming at some point this week.
+	- Laurinas parents will arrive on Saturday afternoon and leave early Sunday.
+	- Daiyi may come on the weekend.
+	- Axel planning on coming on Sunday at some point.
+- Changes to Constitution: None. (Just adopted.)
+- Changes to Collective Agreements: None. (Just adopted)
+- Information/tasks/intentions/proposals:
+	- Henrik knows an electrician in Leipzig and will contact Matthias regarding that soon.
+	- Other worker contacts from Arjan to come soon.
+	- From next week there will be a flat rate phone line to German landlines and mobiles.
+	- Spülraum now in place, k20-0-1. To be used preferentially for washing things (not people.)
+	- Meeting with the bank to open an account tomorrow at 10:00
+	- Laurina will pick up some beans.
+	- Item pickup from Annike today.
+	- Tomorrow, roof fixing and Leipzig pickup.
+	- Janishausen pickup on Wednesday
+	- Matthias to pickup cheap printer soon (an epson wf3620dwf)
+	- Laurina will visit Mirek from NDK for funding advice
+	- Matthias wishes to set up material storage area in existing rooms using shelves.
+	- General intention to have short, daily coordination meeting at the best time for everyone
+- Next facilitator: Matthias.
