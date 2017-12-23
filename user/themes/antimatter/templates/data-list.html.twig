@@ -1,0 +1,10 @@
+{% embed 'partials/base.html.twig' %}
+
+	{% block content %}
+    {% for entry in persons.persons %}
+      {{ entry.name }}
+    {% endfor %}
+
+	{% endblock %}
+
+{% endembed %}
