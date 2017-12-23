@@ -27,4 +27,4 @@ script:
   - chmod 600 deploy-user # this key should have push access
   - ssh-add deploy-user
   - export ANSIBLE_HOST_KEY_CHECKING=False
-  - ansible-playbook -i ansible/inventory ansible/playbooks/kanthaus-online/deploy.playbook.yml -v
+  - ansible-playbook -i ansible/inventory -u kanthaus-deploy ansible/playbooks/kanthaus-online/deploy.playbook.yml -v
