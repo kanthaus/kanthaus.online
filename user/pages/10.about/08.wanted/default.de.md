@@ -4,13 +4,13 @@ description: ""
 weight: 4
 draft: false
 ---
-# Menschen
+## Menschen
 
 - interessiert daran, am Haus selbst mitzuarbeiten (bauen, einrichten, instandhaltung)
 - interessiert daran, an bestehenden oder im Aufbau befindlichen Projekten mitzuarbeiten (foodsharing, Repair-Café)
 - interessiert daran, eigene Projekte im oder mit dem Haus einzubringen (insbesondere solche, die eine Außenwirkung erzielen)
 
-# Dinge, die gebraucht werden:
+## Dinge, die gebraucht werden:
 
 Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht gebraucht werden (beispielsweise zu viel gekauft oder etwas liegt einfach ungenutzt herum) oder nicht gewollt werden (beispielsweise optische Mängel, geringe Reparaturen notwendig, entspricht nicht mehr dem aktuellsten Stand). Wir brauchen Material und Werkzeuge für Instandhaltungs- und Sanierungsarbeiten am Haus sowie für Projekte, welche durchgeführt werden sollen. Wenn du glaubst, etwas von der folgenden Liste (oder ähnliche Dinge) abgeben zu möchten, oder eventuell eine Firma kennst, welche Material übrig hat (Herstellungsfehler etc.), so kontaktiere uns bitte. Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuell nutzen wir diese sogar, um einen Reparaturworkshop durchzuführen.
 
@@ -55,7 +55,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Telefonkabel (J-2Y(St)Y oder J-YY, 4 or 8 wires)
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
 
-# Gern gesehen
+## Gern gesehen
 
 - Beamer (gerne mit LED-Technologie)
 - Lautsprecher von guter Qualität, (moderne, energiesparende) Verstärker
@@ -65,6 +65,6 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Fitness-Equipment (Hanteln, Hantelbank, Gewichte)
 - Kreidetafeln
 
-# Orte, an denen Dinge gesucht werden können
+## Orte, an denen Dinge gesucht werden können
 
 Du kannst beispielsweise auf https://www.ebay-kleinanzeigen.de/, https://jasprtrades.com/, der lokalen Recyclingfirma, https://www.freecycle.org/, dem Projektverteiler Leipzig oder auf Webseiten, die sich dem Teilen widmen, suchen.
