@@ -22,6 +22,7 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 - Es können spitze Gegenstände auf dem Boden sein: Pass auf, wenn Du barfuß läufst.
 - Möglocherweise gibt es Bereiche mit unbehandeltem Schimmel: Sei bitte vorsichtig während wir daran arbeiten.
 - Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) auf dem Dachbodenholz: Lies Dir bitte die [Hinweise](../../signs/attic) durch, bevor Du dorthin gehst.
+- Wir haben eine Liste, in der wir aufzeichnen, wer wann vorbeikommt. Wenn du nicht möchtest, dass dein Name dort vermerkt wird, sag uns bitte Bescheid!
 
 ## Ressourcen, die wir haben
 

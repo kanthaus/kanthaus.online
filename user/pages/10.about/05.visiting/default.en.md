@@ -20,6 +20,7 @@ So you'd like to visit us? Great! Read on...
 - There may be sharp objects on the floor/ground: take care if walking barefoot.
 - There may be areas with untreated mold: please be careful whilst we work on them.
 - There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the attic wood: please read the [advice](../../signs/attic) before going there.
+- There is a record of people who come by. Tell us if you don't want your name to appear on there!
 
 ## Resources we have
 - Water: drinkable water comes out of the taps. There is the possibility to shower hot.
