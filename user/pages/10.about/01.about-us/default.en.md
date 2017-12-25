@@ -2,6 +2,7 @@
 title: "About The Kanthaus"
 description: "Living with self-determination, equality and acceptance."
 ---
+===
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/dougintheyard.jpg" />
   <img src="/pics/wurzenfront.jpg" />

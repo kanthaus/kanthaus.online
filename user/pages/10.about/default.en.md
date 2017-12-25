@@ -1,5 +1,5 @@
 ---
-title: "The Kanthaus"
+title: "Kanthaus"
 content:
     items: '@self.children'
     limit: 10

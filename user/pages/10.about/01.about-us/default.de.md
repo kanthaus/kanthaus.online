@@ -3,7 +3,7 @@ title: "Über das Kanthaus"
 description: "Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben."
 ---
 
-
+===
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/dougintheyard.jpg" />
   <img src="/pics/wurzenfront.jpg" />
