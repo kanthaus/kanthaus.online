@@ -3,10 +3,7 @@ title: "MDR Hörfunk"
 date: "2017-12-12"
 ---
 
-### MDR Hörfunk "Die Upcycling WG"
-
-Ende November hat uns Friederike Schicht besucht, uns eine gute halbe Stunde durchs Haus begleitet und ein wenig mit Laurina und Matthias geredet.
-Hieraus entstand folgender Hörfunk Beitrag:
+*Ende November hat uns Friederike Schicht besucht, uns eine gute halbe Stunde durchs Haus begleitet und ein wenig mit Laurina und Matthias geredet. Aus diesem Gespräch entstand folgender Hörfunk Beitrag:*
 
 #### Beitrag
 ![MDR Beitrag: Die Upcycling WG](/media/2017-12-12_mdr-upcycling-wg.mp3)
