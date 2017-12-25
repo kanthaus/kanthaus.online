@@ -1,8 +1,5 @@
 ---
-title: Verwaltungs-FAQ
-description: ""
-weight: 5
-draft: false
+title: FAQ
 ---
 
 ### Wieso klingt die Verfassung so förmlich?

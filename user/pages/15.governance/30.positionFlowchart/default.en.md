@@ -1,8 +1,5 @@
 ---
-title: "Position flow diagram"
-description: " "
-weight: 3
-draft: false
+title: "Positions"
 ---
 _The following flowchart visualizes the positions at Kanthaus as defined in the [Collective Agreements](../collectiveagreements/) (Visitors) and the [Constitution](../constitution/) (Volunteers and Members.)_
 

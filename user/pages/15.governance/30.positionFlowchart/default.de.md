@@ -1,8 +1,5 @@
 ---
-title: Flussdiagramm der Rollen
-description: ""
-weight: 3
-draft: false
+title: Rollen
 ---
 *Das folgende Flussdiagramm visualisiert die Rollen im Kanthaus, wie definiert in den [ gemeinschaftlichen Vereinbarungen](../collectiveagreements/) (Besuchende) und der [ Verfassung](../constitution/) (Freiwillige und Mitglieder)*
 

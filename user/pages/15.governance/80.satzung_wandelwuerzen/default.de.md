@@ -1,8 +1,5 @@
 ---
 title: "Satzung Wandel würzen e.V."
-description: " "
-weight: 5
-draft: false
 ---
 ### § 1 (Name und Sitz)
 

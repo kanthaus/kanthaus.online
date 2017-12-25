@@ -1,5 +1,5 @@
 ---
-title: "WurzenerWinterTage im Kanthaus"
+title: "WurzenerWinterTage"
 date: "2017-12-27"
 description: ""
 ---

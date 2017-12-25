@@ -1,8 +1,5 @@
 ---
-title: "Governance FAQ"
-description: " "
-weight: 5
-draft: false
+title: " FAQ"
 ---
 
 ### Why is the Constitution so formal?

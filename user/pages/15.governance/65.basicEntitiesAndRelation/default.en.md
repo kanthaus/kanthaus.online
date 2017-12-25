@@ -1,8 +1,5 @@
 ---
-title: "Basic Kanthaus Entities and Relations"
-description: " "
-weight: 3
-draft: false
+title: "Legal entities"
 ---
 _The following diagram is a basic visualization of the most relevant groups for Kanthaus and how they relate to each other._
 

@@ -1,8 +1,5 @@
 ---
-title: Grundlegende Kanthaus Rechtsträger und Beziehungen
-description: ""
-weight: 3
-draft: false
+title: Rechtsträger
 ---
 *Das folgende Diagramm ist eine einfache Visualisierung der wichtigsten Gruppen für Kanthaus und wie sie zueinander stehen.*
 

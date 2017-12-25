@@ -1,7 +1,9 @@
 ---
-title: "Mitgliederversammlung Haus Kante Wurzen w.V."
+title: "MV Haus Kante Wurzen"
 date: "2017-12-29"
 ---
+
+### Mitgliederversammlung Haus Kante Wurzen w.V.
 
 Liebe Mitglieder,
 

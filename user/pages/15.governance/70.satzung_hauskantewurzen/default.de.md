@@ -1,8 +1,5 @@
 ---
-title: "Satzung Haus Kante Wurzen"
-description: " "
-weight: 5
-draft: false
+title: "Satzung Haus Kante Wurzen w.V."
 ---
 
 ### §1 Name, Sitz, Geschäftsjahr
@@ -77,7 +74,7 @@ draft: false
 
 4. Beschlussfähigkeit: Die MV ist unabhängig von der Anzahl der erschienenen Mitglieder beschlussfähig, wenn sie ordnungsgemäß einberufen wurde.
 
-5. Zwischen den Mitgliederversammlungen werden die laufenden Geschäfte und Aufgaben des Vereins vom Plenum, dem regelmäßigen Treffen der Mitglieder, wahrgenommen.  
+5. Zwischen den Mitgliederversammlungen werden die laufenden Geschäfte und Aufgaben des Vereins vom Plenum, dem regelmäßigen Treffen der Mitglieder, wahrgenommen.
 
 
 
@@ -104,7 +101,3 @@ draft: false
 1. Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks ist das Vermögen des Vereins weiter im Sinne des bisherigen Zwecks zu verwenden.
 
 2. Das Vereinsvermögen wird dem Haus- und Wagenrat e.V. mit Sitz in Leipzig als Schenkung angeboten.
-
-
-
-

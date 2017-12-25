@@ -1,8 +1,5 @@
 ---
 title: "Constitution"
-description: " "
-weight: 3
-draft: false
 ---
 
 ### §1. Preamble
@@ -130,7 +127,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
 1. The secondary phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase—
 	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-	1. the adjusted scores for each proposal are totaled,  
+	1. the adjusted scores for each proposal are totaled,
 	1. the proposal with the highest total is selected, and
 	1. if the proposal now selected was also selected at a previous secondary phase—
 		1. the proposal becomes the final decision,

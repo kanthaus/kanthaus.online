@@ -1,5 +1,5 @@
 ---
-title: Gemeinschaftliche Vereinbarungen
+title: "Gemeinschaftliche Vereinbarungen"
 ---
 
 ### Koordinierungstreffen
