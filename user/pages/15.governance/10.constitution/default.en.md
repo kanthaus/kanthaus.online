@@ -5,36 +5,36 @@ weight: 3
 draft: false
 ---
 
-## §1. Preamble
-`NAME` is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
+### §1. Preamble
+Kanthaus is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
 
 1. The Constitutional layer prescribes _who decides what should happen and how_. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in the Constitution (this document) and supported by the [FAQ](../governancefaq/).
 1. The Collective layer prescribes _what should happen_. This layer contains other formal agreements—such as policies, schedules and best-practices—which support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](../collectiveagreements/).
 1. The Operational layer describes _what actually happens_. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
 
-## §2. Purposes
+### §2. Purposes
 1. To reduce waste and promote sharing.
 1. To develop and distribute free, libre and open-source software.
 1. To provide and connect public and common resources.
 1. To give what we can, take what need and facilitate others to do the same.
 1. To generally have a jolly good time.
 
-## §3. Principles
+### §3. Principles
 1. The three main principles which describe the intention behind the Constitution and how it should be interpreted are—
 	1. Autonomy—minimize coercion,
 	1. Equality—minimize inequality, and
 	1. Acceptance—minimize opposition.
 1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
 
-## §4. Resources
-1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of `NAME` by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.)
+### §4. Resources
+1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of Kanthaus by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.)
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
 1. Haus Kante Wurzen w.V. itself.
 
 <p align="center"><i>Positions</i></p>
 
-## §5. Volunteer
+### §5. Volunteer
 1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become futher involved.
 1. A Volunteer may—
 	1. reside in the space and use items located within the space,
@@ -54,7 +54,7 @@ draft: false
 	1. at their request, or
 	1. if Conflict Resolution by Intervention (§11c.) prescribes it.
 
-## §6. Member
+### §6. Member
 1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
 1. A Member may—
 	1. reside in the space and use the other Resources,
@@ -75,7 +75,7 @@ draft: false
 
 <p align="center"><i>Procedures</i></p>
 
-## §7. Application Procedure
+### §7. Application Procedure
 1. The applicant must not be present during the procedure.
 1. Firstly participants should take a preliminary vote in which they anonymously express whether they ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the application succeeding.
 1. Secondly participants should discuss the application and, in particular, raise and address any concerns.
@@ -84,8 +84,8 @@ draft: false
 	1. else the application fails at that time.
 1. The applicant should promptly be informed whether their application has succeeded or failed, but not the breakdown of which votes were cast.
 
-## §8. Operational Activity
-### §8a. Individual Action
+### §8. Operational Activity
+#### §8a. Individual Action
 1. Any individual may take action provided—
 	1. that there is no outstanding opposition towards the action, and
 	1. that they assume personal responsibility to practically reverse the action if required.
@@ -93,19 +93,19 @@ draft: false
 1. Any individual who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
 1. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
 
-### §8b. Unanimous Acceptance
+#### §8b. Unanimous Acceptance
 1. Unanimous Acceptance towards a proposal or action is attained while no one opposes it.
 1. There is no specific format for attaining Unanimous Acceptance. Many tools and techniques exist which may help, including: smaller-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
 1. If Unanimous Acceptance cannot be attained in a proportionate time-frame, the individuals involved should proceed with Score Voting. Proceeding to Score Voting (§8c.) on a topic should be done with Unanimous Acceptance but may otherwise be done by simple majority.
 
-### §8c. Score Voting
+#### §8c. Score Voting
 1. Firstly, individuals should discuss the current state-of-affairs, the initial proposal (if applicable) and generate alternative proposal(s). Afterwards, a list of proposals is created by gathering—
 	1. the initial proposal and/or the generated proposals,
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
 	1. an 'escalate procedure' control proposal (i.e. 'switch to Collective Change'.)
 1. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totalled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected.
 
-## §9. Changing the Collective Agreements
+### §9. Changing the Collective Agreements
 1. Any addition, subtraction or other change to the Collective Agreements must be made according to the following procedure.
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal from a Member or Volunteer which—
 	1. has the support of at least 1 other Member or Volunteer, and
@@ -120,7 +120,7 @@ draft: false
 	1. the proposal with the highest total is selected, and
 	1. the Collective Agreements should be changed to reflect the decision.
 
-## §10. Changing the Constitution
+### §10. Changing the Constitution
 1. Any addition, subtraction or other change to the Constitution must be made using the following procedure.
 1. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal from a Member which—
 	1. has the support of at least 2 other Members, and
@@ -139,12 +139,12 @@ draft: false
 	1. else—
 		1. the procedure is repeated from subsection 3. (i.e. a further primary then secondary phase.)
 
-## §11. Conflict Resolution
-### §11a. Direct
+### §11. Conflict Resolution
+#### §11a. Direct
 1. Individuals are generally encouraged to resolve their conflicts directly.
 1. There is no specific format for Direct Conflict Resolution. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
 
-### §11b. Voluntary Assistance
+#### §11b. Voluntary Assistance
 1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'actor') may voluntarily seek and/or accept assistance from third-parties.
 1. There is no specific format for Conflict Resolution with Voluntary Assistance. On the basis that all involved consent to participate, many scenarios are possible, including—
 	1. a third-party individual supporting a single actor ('support person',)
@@ -152,16 +152,12 @@ draft: false
 	1. support persons engaging in dialogue on behalf of the actors ('indirect bridge',) or
 	1. a group of third-party individuals attend a meeting of the actors to bear witness and/or offer advice ('panel'.)
 
-### §11c. Intervention
+#### §11c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, the Members may intervene as a last resort.
 1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include—
 	1. requesting an individual to participate in assisted conflict resolution,
 	1. revoking an individuals' position of Volunteer or Member, or
 	1. instructing an individual to leave the space temporarily or indefinitely.
-
-## 12 Time-reduction
-1. All time frames within sections 9 and 10 are reduced by half.
-1. This entire section is automatically removed 05-Nov-2017.
 
 ------
 
