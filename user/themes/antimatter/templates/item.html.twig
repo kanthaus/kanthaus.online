@@ -7,7 +7,7 @@
 
 		<div class="blog-content-item">
 			<div id="item" class="block h-entry">
-			    {% include 'partials/blog_item.html.twig' with {'blog':page.parent, 'truncate':false} %}
+			    {% include 'partials/blog_item.html.twig' with {'blog':page.parent, 'truncate':false, 'showdate': true} %}
 			</div>
 		</div>
 	{% endblock %}
