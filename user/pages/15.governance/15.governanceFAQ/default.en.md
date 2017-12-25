@@ -5,8 +5,6 @@ weight: 5
 draft: false
 ---
 
-# Governance FAQ
-
 ### Why is the Constitution so formal?
 The Constitution is not the most exciting document ever written—it's true. It is written the way it is to be as clear as possible. The Constitution is an agreement and it is really important for people to understand what they are agreeing to, especially since it outlines how to proceed when people _don't_ agree.
 

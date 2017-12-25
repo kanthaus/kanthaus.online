@@ -5,8 +5,6 @@ weight: 3
 draft: false
 ---
 
-# Constitution 0.2
-
 ## §1. Preamble
 `NAME` is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
 

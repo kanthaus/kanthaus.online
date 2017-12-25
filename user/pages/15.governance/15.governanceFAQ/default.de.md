@@ -4,7 +4,6 @@ description: ""
 weight: 5
 draft: false
 ---
-# Verwaltungs-FAQ
 
 ### Wieso klingt die Verfassung so förmlich?
 

@@ -2,8 +2,6 @@
 title: "Collective Agreements"
 ---
 
-# Collective Agreements
-<br />
 ## Coordination Meeting
 We meet on Mondays at or before 10:00 to distribute information, make plans and generally coordinate. All residents are recommended to join.
 

@@ -4,7 +4,6 @@ routes:
     aliases:
         - '/docs/visiting'
 ---
-# Informationen für BesucherInnen
 
 Du möchtest uns besuchen? Toll! Lies bitte weiter...
 

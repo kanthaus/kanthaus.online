@@ -1,8 +1,7 @@
 ---
 title: Gemeinschaftliche Vereinbarungen
 ---
-# Gemeinschaftliche Vereinbarungen
-<br />
+
 ## Koordinierungstreffen
 
 Wir treffen uns Montags um, oder vor 10:00 zum Informationen zu teilen, Pläne zu machen und grundsätzlich zu koordinieren. Allen Bewohnenden wird empfohlen dabeizusein.

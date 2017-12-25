@@ -2,7 +2,6 @@
 title: "Mitgliederversammlung Wandel würzen e.V."
 date: "2017-12-29"
 ---
-# Mitgliederversammlung Wandel würzen e.V.
 
 Liebe Mitglieder,
 

@@ -5,7 +5,6 @@ routes:
         - '/docs/visiting'
 ---
 
-# Information for potential Visitors
 So you'd like to visit us? Great! Read on...
 
 ## In general

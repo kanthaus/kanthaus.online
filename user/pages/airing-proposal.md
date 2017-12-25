@@ -3,8 +3,6 @@ title: "Room ventilation proposal"
 description: " "
 ---
 
-# Room ventilation proposal
-
 Especially in winter, it is important to regularly feed fresh air into the buildings.
 
 ## Reasons
@@ -53,7 +51,7 @@ We now do a chopping event for an hour with 3 people, releasing 3*100g, so 300g 
 After that, we also cook our medium sized meal for 8 people who where sitting in the living room, using 150g of gas in another 60 minutes, releasing another 200g of water into the room.
 The people sitting release another 5*2*30 = 300g of water, the choppers/cooks for the remaining hour another 3*50 = 150g of water.
 By the end of the cooking, our room contains 691 g + 300 g + 200 g + 300 g + 150 g = 1641 g of water, which translates to 16.41g/m³.
-That means, we have increased our relative humidity in the flat to 95%! 
+That means, we have increased our relative humidity in the flat to 95%!
 
 ## Room ventilation
 When talking about room ventilation, the topic is actual air exchange.
