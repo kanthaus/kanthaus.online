@@ -6,12 +6,14 @@
     {% set header_image_file = page.header.header_image_file %}
 
     <div class="list-blog-header">
-        <span class="list-blog-date">
-            <time class="dt-published" datetime="{{ page.date|date("c") }}">
-                <span>{{ page.date|date("d") }}</span>
-                <em>{{ page.date|date("M") }}</em>
-            </time>
-        </span>
+        {% if showdate %}
+            <span class="list-blog-date">
+                <time class="dt-published" datetime="{{ page.date|date("c") }}">
+                    <span>{{ page.date|date("d") }}</span>
+                    <em>{{ page.date|date("M") }}</em>
+                </time>
+            </span>
+        {% endif %}
         {% if page.header.link %}
             <h2 class="p-name">
                 {% if page.header.continue_link is not sameas(false) %}
