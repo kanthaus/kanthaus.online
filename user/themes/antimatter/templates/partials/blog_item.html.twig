@@ -13,14 +13,14 @@
             </time>
         </span>
         {% if page.header.link %}
-            <h4 class="p-name">
+            <h2 class="p-name">
                 {% if page.header.continue_link is not sameas(false) %}
                 <a href="{{ page.url }}"><i class="fa fa-angle-double-right u-url"></i></a>
                 {% endif %}
                 <a href="{{ page.header.link }}" class="u-url">{{ page.title }}</a>
-            </h4>
+            </h2>
         {% else %}
-            <h4 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h4>
+            <h2 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h2>
         {% endif %}
 
         {% if page.taxonomy.tag %}
@@ -44,7 +44,7 @@
     <div class="list-blog-padding">
 
     {% if page.header.continue_link is sameas(false) %}
-        <div class="e-content">        
+        <div class="e-content">
             {{ page.content }}
         </div>
         {% if not truncate %}

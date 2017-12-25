@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0px; }
 
 h1 {
-  font-size: 3.2rem; }
+  font-size: 2.15rem; }
   @media only all and (max-width: 47.938em) {
     h1 {
       font-size: 2.5rem;
@@ -309,24 +309,24 @@ h1 {
 
 @media only all and (min-width: 48em) and (max-width: 59.938em) {
   h2 {
-    font-size: 2.1rem; } }
-@media only all and (max-width: 47.938em) {
-  h2 {
-    font-size: 2rem; } }
-
-@media only all and (min-width: 48em) and (max-width: 59.938em) {
-  h3 {
-    font-size: 1.7rem; } }
-@media only all and (max-width: 47.938em) {
-  h3 {
-    font-size: 1.6rem; } }
-
-@media only all and (min-width: 48em) and (max-width: 59.938em) {
-  h4 {
     font-size: 1.35rem; } }
 @media only all and (max-width: 47.938em) {
-  h4 {
+  h2 {
     font-size: 1.25rem; } }
+
+@media only all and (min-width: 48em) and (max-width: 59.938em) {
+  h3 {
+    font-size: 0.95rem; } }
+@media only all and (max-width: 47.938em) {
+  h3 {
+    font-size: 0.85rem; } }
+
+@media only all and (min-width: 48em) and (max-width: 59.938em) {
+  h4 {
+    font-size: 0.75rem; } }
+@media only all and (max-width: 47.938em) {
+  h4 {
+    font-size: 0.65rem; } }
 
 h1 {
   text-align: center;
