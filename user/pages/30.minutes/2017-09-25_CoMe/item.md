@@ -4,19 +4,7 @@ date: "2017-09-25"
 taxonomy:
     tag: [come]
 ---
-
-<!-- Hello facilitator/notary! Thank you for your services. Here is some advice for facilitating coordination meetings:
-  - Notify people 10 minutes before the meeting starts. (Watching the clock is not super fun, people will be grateful if you do it for them.)
-  - Start at 10:00 sharp, or earlier if everyone is there. (Waiting is time-wasting, be a time-saver!)
-  - Go through the ordered points in order, even if nothing has changed. (They are arranged to try and get the most relevant information to most people.)
-  - Feel welcome to moderate conversation if off-topic or too detailed. (Are listeners interested? Are speakers satisfied? Can you identify a sub-group?)
-  - Try to finish the meeting before 11:00. (There is always more to talk about and it's important for people to know that CoMes don't take forever.)
-  - Leave the room once the meeting has ended. (This sends a clear signal to everyone else that they can also leave and get on with their day.)
-  - Have fun!
--->
-
-
-Coordination Meeting Monday 25th of September
+- Date: 2017-09-25
 - Facilitator: Laurina
 - Notary: Laurina
 - Present: Jnaina, Tilmann, Doug, Wolfi, Matthias, Bodhi, Laurina

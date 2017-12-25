@@ -5,17 +5,7 @@ taxonomy:
     tag: [come]
 ---
 
-<!-- Hello facilitator/notary! Thank you for your services. Here is some advice for facilitating coordination meetings:
-  - Notify people 10 minutes before the meeting starts. (Watching the clock is not super fun, people will be grateful if you do it for them.)
-  - Start at 10:00 sharp, or earlier if everyone is there. (Waiting is time-wasting, be a time-saver!)
-  - Go through the ordered points in order, even if nothing has changed. (They are arranged to try and get the most relevant information to most people.)
-  - Feel welcome to moderate conversation if it goes off-topic/too detailed. (Are listeners interested? Are speakers satisfied? Can you identify a sub-group?)
-  - Stop the meeting at 11:00 latest. (There is always more to talk about and the important stuff will not be forgotten.)
-  - Leave the room once the meeting has ended. (This sends a clear signal to everyone else that they can also leave and get on with their day.)
-  - Upload the notes as soon as possible. (People can then be reminded of what happened and what they said they would do.)
-  - Have fun!
--->
-
+- Date: 2017-09-11
 - Facilitator: Wolfi
 - Notary: Wolfi
 - Present: Bodhi, Doug, Matthias, Wolfi
