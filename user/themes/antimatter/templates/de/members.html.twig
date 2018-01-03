@@ -1,0 +1,13 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+    {% if config.plugins.breadcrumbs.enabled %}
+        {% include 'partials/breadcrumbs.html.twig' %}
+    {% endif %}
+    <ul>
+    {% for v in page.header.imports.members %}
+        <li><b>{{v.name}}</b> (seit {{v.joined}}{% if v.founder %}, Gründungsmitglied{% endif %})</li>
+    {% endfor %}
+    </ul>
+	{{ page.content }}
+{% endblock %}
