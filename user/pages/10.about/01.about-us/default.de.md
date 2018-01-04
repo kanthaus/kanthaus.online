@@ -5,12 +5,12 @@ description: "Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben."
 
 ===
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="/pics/dougintheyard.jpg" />
+  <img src="/pics/2017festivalmeeting.jpg" />
   <img src="/pics/wurzenfront.jpg" />
   <img src="/pics/001.jpg" />
   <img src="/pics/002.jpg" />
-  <img src="/pics/003.jpg" />
-  <img src="/pics/004.jpg" />
+  <img src="/pics/communalKino.jpg" />
+  <img src="/pics/wuwitaKitchen.jpg" />
   <img src="/pics/005.jpg" />
 </div>
 
