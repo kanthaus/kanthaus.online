@@ -1,4 +1,4 @@
----
+o---
 title: Besuchen
 routes:
     aliases:
@@ -11,7 +11,7 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 - Sei für eine Woche willkommen. Wenn Du gerne länger bleiben magst, sprich bitte mit einem [Freiwilligen](../volunteers/) oder [Mitglied](../members/), sobald Du angekommen bist.
 - Es gibt keine Kosten für den Aufenthalt hier. Wenn Du Geld geben möchtest, kannst Du das gerne machen.
-- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn Du Tiere mitbringt und sei eingeladen bei unseren Koordinationstreffen und Putzstunden mitzumachen (10 Uhr montags bzw. donnerstags).
+- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn Du Tiere mitbringst. Außerdem würden wir uns freuen, wenn du an unseren Koordinationstreffen und Putzstunden teilnimmst (10 Uhr montags bzw. donnerstags).
 - Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](../constitution/#8c-score-voting) um weiterzukommen.
 - Die Adresse ist [Kantstraße 20, 04808 Wurzen](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
 - [Melde Dich](../../contact/) am besten, bevor Du ankommst.
