@@ -35,12 +35,12 @@ After meeting with you, the Kanthaus Members and Volunteers will meet without yo
 Before any discussion takes place, the question will be asked, _"Do you support, accept or oppose (your name) becoming/remaining as a (Position you apllied for) at this point in time?"_ The participants will vote anonymously vote and see the predictive result.
 
 **2.2. Discussion**
-The participants will talk personally about the result and any personal opinions they have. There is no is no particular format, but the discussion typically starts with a round, followed by open discussion and closes with a round.
+The participants will talk personally about the result and any personal opinions they have. There is no particular format, but the discussion typically starts with a round, followed by open discussion and closes with a round.
 
 **2.3. Vote**
 Again the question will be asked, _"Do you support, accept or oppose (your name) becoming/remaining as a (Position you applied for) at this point in time?"_ and again the participants will vote anonymously. A successful outcome occurs when there are 3 or more times as many ‘support’ votes to ‘oppose’ votes (e.g. 4 'support', 2 'accept' and 1 'oppose'.) If unsuccessful, the procedure will be repeated at the lower position, for example: if you requested to become Volunteer and it was unsuccessful, the process would be repeated as if you'd applied to remain as a Visitor. Only the result of the vote, not the individual votes, are recorded.
 
 ### 3. Position outcome and feedback (~5 minutes)
-You will receive feedback immediately regarding which Position you are offered and further feedback if you weren't offered the Position you applied for. 
+You will receive feedback immediately regarding which Position you are offered and further feedback if you weren't offered the Position you applied for.
 
 _*Right now Members do not get reevaluated. There are already plans to alter the Constitution to introduce it._
