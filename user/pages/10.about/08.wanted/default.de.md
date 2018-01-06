@@ -67,4 +67,4 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 
 ## Orte, an denen Dinge gesucht werden können
 
-Du kannst beispielsweise auf https://www.ebay-kleinanzeigen.de/, https://jasprtrades.com/, der lokalen Recyclingfirma, https://www.freecycle.org/, dem Projektverteiler Leipzig oder auf Webseiten, die sich dem Teilen widmen, suchen.
+Du kannst beispielsweise auf [ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [jasprtrades](https://jasprtrades.com/), der lokalen Recyclingfirma, [freecycle](https://www.freecycle.org/), dem Projektverteiler Leipzig oder auf Webseiten, die sich dem Teilen widmen, suchen.
