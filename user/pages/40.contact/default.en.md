@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-*If you are thinking of visiting, please read [this information](../en/about/visiting/) first and contact us before you arrive if possible.*
+*If you are thinking of visiting, please read [this information](../about/visiting/) first and contact us before you arrive if possible.*
 
 - email: <hello@kanthaus.online>
 - phone: <a href="tel:+4934258527995">+49 3425 8527995</a>
