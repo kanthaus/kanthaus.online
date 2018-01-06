@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 ---
-*Wenn Du uns besuchen möchtest, lies Dir bitte [diese Informationen](../docs/visiting/) zuerst durch und kontaktiere und wenn möglich bevor Du ankommst.*
+*Wenn Du uns besuchen möchtest, lies Dir bitte [diese Informationen](../de/about/visiting) zuerst durch und kontaktiere und wenn möglich bevor Du ankommst.*
 
 - Email: <a href=mailto:hello@kanthaus.online>hello@kanthaus.online</a>
 - Telefon: <a href="tel:+4934258527995">+49 3425 8527995</a>
