@@ -42,7 +42,10 @@ Das Ziel dieser Prinzipien ist es einen ganzheitlichen Ansatz an gemeinschaftlic
 
 ### Gibt es irgendwelche wichtigen Einflüsse auf die Verfassung?
 
-Ja. Vieles von der Philosophie, Theorie, Struktur und diverse Details wurden intensiv beeinflusst von * ['Governing the Commons: The Evolution of Institutions for Collective Action'](http://wtf.tw/ref/ostrom_1990.pdf) von Elinor Ostrom, * ['Philosophy and the Real World - An Introduction to Karl Popper'](https://www.scribd.com/doc/171535409/Philosophy-and-the-Real-World-An-Introduction-to-Karl-Popper-Bryan-Magee) von Bryan Magee, and * ['Systemisches Konsensieren'](http://www.sk-prinzip.eu/das-sk-prinzip/) von Erich and Volker Visotschnig.
+Ja. Vieles von der Philosophie, Theorie, Struktur und diverse Details wurden intensiv beeinflusst von
+* ['Governing the Commons: The Evolution of Institutions for Collective Action'](http://wtf.tw/ref/ostrom_1990.pdf) von Elinor Ostrom,
+* ['Philosophy and the Real World - An Introduction to Karl Popper'](https://www.scribd.com/doc/171535409/Philosophy-and-the-Real-World-An-Introduction-to-Karl-Popper-Bryan-Magee) von Bryan Magee, and
+* ['Systemisches Konsensieren'](http://www.sk-prinzip.eu/das-sk-prinzip/) von Erich and Volker Visotschnig.
 
 ### Wem gehören die Häuser eigentlich rechtlich gesehen?
 
