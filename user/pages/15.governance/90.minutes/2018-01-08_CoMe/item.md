@@ -83,7 +83,7 @@ taxonomy:
 - 2 crypto-capitalists want to visit us from the future to bring financial optimism and inspiration: individual and small-group business proposal brainstorming, presentation and prizes! Wednesday still good? (Doug)
     - Saturday is much better! And since it's meant to be a fun event we can totally do it on the weekend, directly after breakfast.
 - Proposal: Brief year planning for probable, personal (i.e. non-KH) events. (Doug)
-    - Good idea! But people first need to think about their personal year plannings before the're able to share them.
+    - Wednesday 10am.
 -Heating situation: Proposal from Bodhi: Either turn down the heat or stop heating some rooms.
     - Some people need it warmer than others. Maybe it's an awareness thing to only turn the radiators a little bit, when they feel the temperature is unpleasant.
     - Bodhi will talk to Björn to find out if the cloud and the dragon room really neet to be heated still.
