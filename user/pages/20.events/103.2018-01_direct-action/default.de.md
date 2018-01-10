@@ -12,7 +12,7 @@ Der Hase will Dinge ändern und...
 - Mo, 15.1. um 19 Uhr in Leipzig (Ort folgt)
 *Einführungs-Workshop zu kreativen Aktionsmethoden*
 - Mo, 15.1. ab 20 Uhr in Wurzen (Kanthaus, Kantstr. 20/22): *Direct-Action - der Einführungsfilm in kreative Widerstandsmethoden*
-- Di und Mi jeweils von 10 bis 18 Uhr in Wurzen (Kanthaus, Kantstr. 20/22): *Direct-Action-Training - Kennenlernen und Üben von kreativen Aktionsformen*, angefangen vom Eingreifen im Alltag über kreatives Demonstrieren und Kommuniaktionsguerilla bis zu filigraner Sabotage (deutsch und englisch)
+- Di und Mi jeweils von 10 bis 18 Uhr in Wurzen (Kanthaus, Kantstr. 20/22): *Direct-Action-Training - Kennenlernen und Üben von kreativen Aktionsformen*, angefangen vom Eingreifen im Alltag über kreatives Demonstrieren bis zu Kommuniaktionsguerilla(deutsch und englisch).
 - Jeweils im Anschluss: Gemeinsames Essen und weitere Workshops, Diskussionsrunden und mehr zu Herrschaftstheorie, Vernetzung politischer Räume usw.
 - Do, 18.1. abends in Weißenfels oder Umgebung (Näheres folgt): *Vortrag und Diskussion "Konsumkritik-Kritik ... warum sich die Welt am Ladenregal nicht besser kaufen lässt?"*
 
