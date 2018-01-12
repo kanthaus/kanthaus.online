@@ -3,7 +3,11 @@ title: "Monatliches Treffen"
 date: "2018-01-11"
 ---
 
-Wir veranstalten **jeden 2. Donnerstag im Monat um 19 Uhr** das monatliche Treffen der Wurzener Foodsaver bei uns im Kanthaus. Je nachdem, was gerade ansteht, geht es dabei um folgende Themen:
+Wir veranstalten **jeden 2. Donnerstag im Monat um 19 Uhr** das monatliche Treffen der Wurzener Foodsaver bei uns im Kanthaus.
+
+===
+
+Je nachdem, was gerade ansteht, geht es dabei um folgende Themen:
 - Pflege von bestehenden Kooperationen
 - Aufbau von neuen Kooperationen
 - Planung, Aufbau und Betrieb eines [Fairteilers](https://wiki.foodsharing.de/Fair-Teiler)

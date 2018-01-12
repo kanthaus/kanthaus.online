@@ -3,10 +3,14 @@ title: "Monthly meeting"
 date: "2018-01-11"
 ---
 
-**Every 2nd Thursday a month at 7pm** we host the monthly meeting of Wurzen's foodsavers at Kanthaus. Depending on what is going on topics are the following:
+**Every 2nd Thursday a month at 7pm** we host the monthly meeting of Wurzen's foodsavers at Kanthaus.
+
+===
+
+Depending on what is going on topics are the following:
 - maintaining existing cooperations
 - building new cooperations
-- planning, building and running a FoodShare-Point
+- planning, building and running a [Food-Share Point](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/43909145/Food-Share+Point+Mini+Manual)
 - planning and/or retrospective of special events like
   - info desks
   - distribtions of saved food
