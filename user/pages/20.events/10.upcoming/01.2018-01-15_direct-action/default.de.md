@@ -3,6 +3,8 @@ title: "Kreative Aktionsmethoden"
 date: "2018-01-15"
 ---
 
+**2018-01-15 - 2018-01-17**
+
 Der Hase will Dinge ändern und...
 
 ### Kreative Aktionsmethoden

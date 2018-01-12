@@ -4,6 +4,8 @@ date: "2017-12-27"
 description: ""
 ---
 
+**2017-12-27 - 2018-01-03**
+
 Die WuWiTa (WurzenerWinterTage) fanden 2017 auf 2018 zum allerersten Mal statt. Die Idee war eine schöne, informative Woche voller Workshops und Möglichkeiten sich weiterzubilden zu veranstalten, in der sich auch genügend Raum zum Schnacken, Lesen, Kuscheln und einfach Sein findet.
 
 ===

@@ -3,6 +3,8 @@ title: "Direct action training"
 date: "2018-01-15"
 ---
 
+**2018-01-15 - 2018-01-17**
+
 The bunny wants to change things and learn...
 
 ### Creative action methods

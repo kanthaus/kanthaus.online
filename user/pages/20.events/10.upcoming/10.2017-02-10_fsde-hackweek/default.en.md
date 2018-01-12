@@ -3,6 +3,8 @@ title: "foodsharing.de hackweek"
 date: "2018-02-10"
 ---
 
+**2018-02-10 - 2018-02-18**
+
 ![foodsharing-Logo](/pics/foodsharinglogo_positiv.png)
 
 The very first hackathon Kanthaus will host will benefit [foodsharing.de](https://foodsharing.de) of course!
