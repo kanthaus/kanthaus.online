@@ -6,15 +6,15 @@ description: ""
 
 **2017-12-27 - 2018-01-03**
 
-Die WuWiTa (WurzenerWinterTage) fanden 2017 auf 2018 zum allerersten Mal statt. Die Idee war eine schöne, informative Woche voller Workshops und Möglichkeiten sich weiterzubilden zu veranstalten, in der sich auch genügend Raum zum Schnacken, Lesen, Kuscheln und einfach Sein findet.
+The WuWiTa (WurzenerWinterTage = WurzenWinterDays) took place for the first time around the turn of 2017 to 2018. The idea was to host a nice and interesting week full of workshops and possibilities to learn from one another, where there's still room for casual chatting, reading books, cuddlings and simply being.
 
 ===
 
-### Nachbericht im yunity heartbeat
-Nachdem die WuWiTa zum Ende gekommen sind, wurde ihnen ein ausführliches Kapitel im [yunity heartbeat vom 07.01.2018](https://yunity.org/en/heartbeat/2018-01-07) gewidmet. Dort finden sich Links zu den Präsentationen von Matthias, die er für die Seminare 'Einführung in die Elektrotechnik' und 'Der weibliche Zyklus und alternative Methoden der Empfängnisverhütung' verwendete und Fotos von dem Event, wie auch ein beschreibender Text in englischer Sprache.
+### Feature in the yunity heartbeat
+After the WuWiTa ended the [yunity heartbeat vom 07.01.2018](https://yunity.org/en/heartbeat/2018-01-07) dedicated a whole section to the event. There are links to Matthias' presentations about electrical engineering, as well as the female cycle and alternative ways contraception, some nice pictures and more explanatory text in English.
 
-### Einladung
-Folgende Einladung erging am 11.12. zu Freund\*Innen der Kanthausbewohner\*Innen. Auch wenn es sich nicht um eine öffentliche Veranstaltung handelt, kannst du, solltest du dich von dieser Einladung angezogen fühlen, dich gern mit uns in Verbindung setzen.
+### German Invitation
+This is the original invitation, that was sent to friends of Kanthaus on December 12. Later it was also put on this website and a remark was added that people who resonate with the description of the event are welcome to contact us about participating as well.
 
 
 Liebe Menschen!  
