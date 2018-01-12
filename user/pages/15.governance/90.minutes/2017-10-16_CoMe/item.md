@@ -10,6 +10,8 @@ taxonomy:
 - Notary: Matthias
 - Present: Max, Mona, Doug, Nick, Matthias
 
+===
+
 ### 1. People coming this week
 - Silvan (Tuesday?)
 - Shandi (?)

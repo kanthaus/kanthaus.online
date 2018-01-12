@@ -8,6 +8,9 @@ taxonomy:
 - Present: Laurina, Doug, Christian, Matthias
 - Facilitator: Matthias
 - Notary: Matthias
+
+===
+
 - New Members:
 - New Volunteers:
 - Incoming Visitors: Maybe Axel, maybe Silja

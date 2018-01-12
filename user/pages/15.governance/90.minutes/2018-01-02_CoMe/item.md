@@ -5,26 +5,18 @@ taxonomy:
     tag: [come]
 ---
 
-<!-- Hello facilitator/notary! Thank you for your services. Here is some advice for facilitating coordination meetings:
-  - Notify people 10 minutes before the meeting starts. (Watching the clock is not super fun, people will be grateful if you do it for them.)
-  - Start at 10:00 sharp, or earlier if everyone is there. (Waiting is time-wasting, be a time-saver!)
-  - Go through the ordered points in order, even if nothing has changed. (They are arranged to try and get the most relevant information to most people.)
-  - Feel welcome to moderate conversation if off-topic or too detailed. (Are listeners interested? Are speakers satisfied? Can you identify a sub-group?)
-  - Try to finish the meeting before 11:00. (There is always more to talk about and it's important for people to know that CoMes don't take forever.)
-  - Leave the room once the meeting has ended. (This sends a clear signal to everyone else that they can also leave and get on with their day.)
-  - Have fun!
--->
-
 - Date: 2018-01-02
 - Facilitator: Matthias
 - Notary: Matthias
 - Present: Janina, Bodhi, Wolfie, Berit, Lise, Björn, Anja, Doug, Felix, Josi, Anna, Silvan, Kathrin
 
+===
+
 ### 1. People arriving and leaving
 - Today: Pia, Fritz, Rosina (up to 7 in total) (for 1-? days)
-- 3. or 4. 1.: Silja, Lukas, Agi, Q (for 1-2 days)
+- 3. or 4. 1.: Silja, Lucas, Agi, Q (for 1-2 days)
 - 3/4/5.1.: Björns Berliners (2 people for 2-4 days)
-- 6.1.: Tilmann (with parents and Wolfram, they will stay for one night if there is space; will bring lots of dd'ed food if you can use it); tilmann might stay longer.
+- 6.1.: Tilmann (with parents and Wolfram, they will stay for one night if there is space; will bring lots of dd'ed food if we can use it); Tilmann might stay longer.
 - We are currently approx. 17 people here
 
 ### 2. Position evaluation

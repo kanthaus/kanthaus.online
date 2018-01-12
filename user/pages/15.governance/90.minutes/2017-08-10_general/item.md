@@ -8,6 +8,9 @@ Present: Doug, Matthias, Laurina.
 - Roof
 	- A lot of rain last night and still considerable quantities of water coming in 20 & 22.
 	- We need to fix this as soon as possible, as cheaply (time, energy, material and money) as possible until next Summer (i.e. 1 year.)
+
+===
+
 	- Options:
 		- Keep applying bitumen mixture over cracks.
 		- Apply bitumen-latex mixture over cracks.

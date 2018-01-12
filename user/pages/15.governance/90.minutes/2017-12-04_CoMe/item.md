@@ -10,6 +10,8 @@ taxonomy:
 - Notary: Doug
 - Present: Doug, Matthaia, Björn, Bodhi, Janina, Tilmann, Lou, Mona
 
+===
+
 ### 1. People arriving and leaving
 - Joachim arrives on the 4th, leaves on the 10th
 - Lise arrives on the 10th or 11th

@@ -5,9 +5,12 @@ taxonomy:
     tag: [come]
 ---
 
-- Present: Adam, Matthias, Janina, Laurina, Doug, Wolfy, Luke
+- Present: Adam, Matthias, Janina, Laurina, Doug, Wolfi, Luke
 - Facilitator: Adam
 - Notary: Adam
+
+===
+
 - New Members: none
 - New Volunteers: none
 - Incoming Visitors this week:

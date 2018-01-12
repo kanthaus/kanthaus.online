@@ -7,6 +7,10 @@ Participants: Doug, Björn and Wolfi
 Notary: Doug
 Date: 2017-12-30
 
+_A meeting about pr, team spirit and celebrations. An opportunity for Björn to let the sparks of his enthusiasm fly._
+
+===
+
 ## Re Social Media
 - Björns experience with Greenpeace was that they missed the opportunity to get on board with SM early enough.
 - One of our target audiences is those yet to be inspired. Many of those, perhaps the majority, aren't on Mastodon, Discourse or Matrix; they're on Facebook, Twitter and Instagram.

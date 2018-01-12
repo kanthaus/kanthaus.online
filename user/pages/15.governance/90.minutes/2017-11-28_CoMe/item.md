@@ -9,6 +9,8 @@ taxonomy:
 - Notary: Matthias
 - Present: Doug, Bjoern, Janina, Tilmann, Wolfi, Bodhi
 
+===
+
 ### 1. People coming
 - Yesterday: Doug, Janina, Wolfi
 - Today: Mona, Lou

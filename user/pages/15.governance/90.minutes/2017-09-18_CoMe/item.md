@@ -9,6 +9,8 @@ taxonomy:
 - Notary: Doug
 - Present: Doug, Matthias, Laurina, Bodhi, Lise
 
+===
+
 1. People coming:
   - Steffen and Anna? [Bodhi]
   - Jörg Wunderlich on Weds [Laurina]

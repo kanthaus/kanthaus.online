@@ -10,6 +10,8 @@ taxonomy:
 - Notary: Cille
 - Present: Matthias, Vince, Tilmann, Janina, Mona, Maxime, Loumi, friend of Mona and Loumi, Doug, Cille
 
+===
+
 ### 1. People coming
 - chandi comes back today evening (6.11) and a good frind, findus, would visit him (and these lovely people he always talks about) from 7.11-10.11
 - David & Manuel from foodsharing visit us ~Tuesday for 1-2 days

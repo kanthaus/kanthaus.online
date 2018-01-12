@@ -8,7 +8,9 @@ taxonomy:
 - Date: 2017-11-14
 - Facilitator: Janina
 - Notary: Janina
-- Present:
+- Present: Lou, Mona, Cille, Janina, Tilmann, Matthias, Doug
+
+===
 
 ### 1. People coming
 - Frank (maybe after Tue, maybe next week. will call again)

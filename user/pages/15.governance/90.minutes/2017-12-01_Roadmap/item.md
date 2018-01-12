@@ -9,6 +9,10 @@ taxonomy:
 - Notary: Matthias
 - Present: Matthias, Mona, Janina, Bodhi, Tilmann, Loumi, Bjoern, Laurina
 
+_This meeting was to find out what we can do with regards to the general vision of the house. Something bigger than just repairing of the houses; something to remind us why we're actually here._
+
+===
+
 ### Expectations
 - synchronization for the bigger picture
 - room planning /  what to do with K22 - now is a good time to work on it

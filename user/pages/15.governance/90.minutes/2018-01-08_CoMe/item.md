@@ -10,6 +10,8 @@ taxonomy:
 - Notary: Janina
 - Present: Björn, Joachim, Matthias, Tilmann, Doug, Katharina, Lise, Anna, Janina
 
+===
+
 ### 0. Announcement of publicizing participants on kanthaus.online
 - If anybody doesn't want their names on our homepage in the context of this meeting, please provide a consistent pseudonym.
 

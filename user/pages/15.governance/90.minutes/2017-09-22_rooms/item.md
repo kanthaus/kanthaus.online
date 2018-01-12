@@ -11,6 +11,8 @@ Notary: Doug
 
 The was a lot of discussion... The following outcomes were unanimously accepted.
 
+===
+
 # Room assignment until Spring 2018 (2018-03-01)
 ## k20
 * k20-0

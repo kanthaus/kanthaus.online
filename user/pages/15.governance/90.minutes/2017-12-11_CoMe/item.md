@@ -8,7 +8,9 @@ taxonomy:
 - Date: 2017-12-11
 - Facilitator: Janina
 - Notary: Janina
-- Present: Lou, Mona, Björn, Bodhi, Matthias, Wolfi, Lise, Tilmann,Janina
+- Present: Lou, Mona, Björn, Bodhi, Matthias, Wolfi, Lise, Tilmann, Janina
+
+===
 
 ### 1. People arriving and leaving
 - Daniel left last Sunday

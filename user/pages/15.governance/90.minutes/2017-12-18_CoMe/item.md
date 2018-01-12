@@ -10,6 +10,8 @@ taxonomy:
 - Notary: Mona, Janina
 - Present: Mona, Björn, Lou, Aubin, Joachim, Wolfi, Janina
 
+===
+
 ### 1. People arriving and leaving
 - Lou+Aubin and Mona leave on Tuesday
 - Matthias comes back on the 20th/21st

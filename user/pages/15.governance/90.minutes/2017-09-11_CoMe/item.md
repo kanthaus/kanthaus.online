@@ -10,6 +10,8 @@ taxonomy:
 - Notary: Wolfi
 - Present: Bodhi, Doug, Matthias, Wolfi
 
+===
+
 1. People coming:
   - Matthias parents (friday, 09-15 just for afternoon)
   - Laurina (friday or Saturday)

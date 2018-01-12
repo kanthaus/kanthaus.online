@@ -10,6 +10,8 @@ taxonomy:
 - Notary: Matthias
 - Present: Max, Mona, Laurina, Doug, Matthias, Ollie
 
+===
+
 ### 1. People coming
 - Silja (2017-10-09) for 2-4 days
 - Gérome 2017-10-05 for 1-2 days

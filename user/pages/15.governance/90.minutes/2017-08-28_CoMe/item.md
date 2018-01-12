@@ -8,6 +8,9 @@ taxonomy:
 - Present: Doug, Cille, Mona, Wolfi, Kaja, Adam
 - Facilitator: Doug
 - Notary: Doug
+
+===
+
 - New Members: none
 - New Volunteers: none
 - Incoming Visitors:

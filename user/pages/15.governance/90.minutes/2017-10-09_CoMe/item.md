@@ -9,6 +9,8 @@ taxonomy:
 - Notary:
 - Present: Laurina, Silja, Matthias, Mona, Doug and Max
 
+===
+
 ### 1. People coming this week
 
 - Silja

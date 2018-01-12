@@ -8,6 +8,9 @@ taxonomy:
 - Present: Matthias, Laurina, Doug.
 - Facilitator: Doug.
 - Notary: Doug.
+
+===
+
 - New Members: Matthias, Laurina, Doug, Janina. (All founding Members.)
 - New Volunteers: None.
 - Incoming Visitors:

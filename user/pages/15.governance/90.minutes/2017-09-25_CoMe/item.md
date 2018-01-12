@@ -9,6 +9,8 @@ taxonomy:
 - Notary: Laurina
 - Present: Jnaina, Tilmann, Doug, Wolfi, Matthias, Bodhi, Laurina
 
+===
+
 1. People coming:
   - Max & Mona on Tuesday
   - Ollie maybe on sunday
@@ -29,7 +31,7 @@ taxonomy:
   - pull the tap in the bathroom k20-1 while turning to avoid uncontrolled increasing of water
   - Waste collection: yellow sack on friday, bring out during cleaning party
   - Food pickups: (see https://foodsaving.world/#!/group-info/28)
-  - "Dear all, My name is Ollie Nathan and I am interested in your housing project. I will be joining you on Sunday or Monday next week. I wish to carry out a little bit of research with you. I hope to carry out 1:1 interviews followed by potentially 1 group interview. *each running for 15/20 minutes). I am interested in learning more about alternative housing and exposing the narratives of individuals involved. My experience thus far is mostly with co-ops. I hope that this work can contribute towards a spring board built up to inspire and strengthen others to start up similar projects like yours. The vision is to accelerate a movement towards equity and sharing. Info shared can be kept anonymous and I will be happy to talk in person about how the information will be shard and used. Feel free to take part, not take part, ask questions etc ;-) Thanks and see you soon, Ollie Nathan."
+  - "Dear all, My name is Ollie Nathan and I am interested in your housing project. I will be joining you on Sunday or Monday next week. I wish to carry out a little bit of research with you. I hope to carry out 1:1 interviews followed by potentially 1 group interview. (each running for 15/20 minutes). I am interested in learning more about alternative housing and exposing the narratives of individuals involved. My experience thus far is mostly with co-ops. I hope that this work can contribute towards a spring board built up to inspire and strengthen others to start up similar projects like yours. The vision is to accelerate a movement towards equity and sharing. Info shared can be kept anonymous and I will be happy to talk in person about how the information will be shard and used. Feel free to take part, not take part, ask questions etc ;-) Thanks and see you soon, Ollie Nathan."
   - Foodsharing introduction meetup
   - Matthias spent 2 days cleaning K22, keep that in mind
   - Bodhi meeting around 12:30h today
