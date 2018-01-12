@@ -3,14 +3,14 @@ title: "MDR Hörfunk"
 date: "2017-12-12"
 ---
 
-*Ende November hat uns Friederike Schicht besucht, uns eine gute halbe Stunde durchs Haus begleitet und ein wenig mit Laurina und Matthias geredet. Aus diesem Gespräch entstand folgender Hörfunk Beitrag:*
+*Friederike Schicht came visiting at the end of November. She was with us for around half an hour and talked a bit to Matthias and Laurina. This talk resulted in the following radio report:*
 
 ===
 
-#### Beitrag
+#### Report
 ![MDR Beitrag: Die Upcycling WG](/media/2017-12-12_mdr-upcycling-wg.mp3)
 
-#### Skript
+#### German script
 Anmod.: Das Wohnprojekt "Kanthaus" in Wurzen zieht junge Menschen aus ganz Europa an. Sie leben davon, was andere wegschmeißen. Friederike Schicht dazu:
 
 Es geht herzlich zu im Kanthaus.
@@ -18,7 +18,7 @@ Man drückt sich sich, scherzt miteinander - auf Deutsch, Englisch, wie es gerad
 Die Idee, alles miteinander zu teilen: Essen, Kleidung, Möbel, die verbindet, sagt Matthias, 29 Jahre alt, Pferdeschwanz, Brille, Dreitagebart:
 
 O-Ton: Wir versuchen uns von Lebensmitteln zu ernähren, die andere Leute verschwenden würden.
-Das heißt wir gehen auf Supermärkte zu, sagen denen, was wir vorhaben und versuchen Kooperationen aufzubauen, dass man die Lebensmittel bei denen retten, die sonst weggeschmissen werden würden.
+Das heißt wir gehen auf Supermärkte zu, sagen denen, was wir vorhaben und versuchen Kooperationen aufzubauen, dass man die Lebensmittel bei denen rettet, die sonst weggeschmissen werden würden.
 Gleichzeitig haben wir mit den Nachbarn darüber gesprochen und neulich kam eine vorbei und hat uns Essen geschenkt, weil sie zu viel übrig hatte.
 
 Zwei Häuser bewohnt die Gemeinschaft seit Sommer 2017.
@@ -39,15 +39,10 @@ O-Ton: Gerade aus Erfahrung haben wir ein System mit Hierarchie, dass Menschen, 
 Wurzen ist nicht eine Zwischenstation, sondern jetzt ihr Zuhause. Die Gruppe plant einen Umsonst-Laden in der Stadt zu eröffnen.
 Dort soll es Essen, Möbel, Kleidung geben, natürlich kostenlos.
 
-#### Unser Feedback
+#### Our feedback
 
-Wir gaben noch folgendes Feedback, welches leider nicht mehr eingebaut wurde:
+Before going live with this report we gave additional feedback, which unfortunately was not considered anymore.
 
-Vielleicht lieber:
-"Viele der im Projekt lebenden Menschen haben studiert."
+"Instead of saying that our project consist mostly of students it'd be closer to the truth to say that many of us attended university. I (Laurina) am actually the only student in the house and there are also many who learned a skill or who don't have any official certificate."
 
-Ich bin die einzige, die noch Studentin ist :-) und viele haben auch eine Ausbildung oder nichts offizielles.
-
-"Sie das sind die vier Mitglieder plus Freiwillige und Besucher aus einem großen Netzwerk des Teilens. Es gibt eine flache Hierarchie und Regeln"
-
-Wir sind keine Hierarchieliebhaber, und wollen das fluide halten. Wäre toll, wenn das nicht so rüberkommt, als wären da 4 Leute die Chefs, weißt du?
+"Instead of saying that we have strict hierarchy and rules it would be cooler if you could put more emphasis on the big network of sharing we stem from and which populates the houses now. We are not all about hierarchy and we want to keep things fluid. It would be great if you wouldn't make it sound as if 4 people were the bosses here, you know?"
