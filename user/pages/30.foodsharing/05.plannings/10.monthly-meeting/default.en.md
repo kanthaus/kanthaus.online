@@ -1,0 +1,32 @@
+---
+title: "Monthly meeting"
+date: "2018-01-11"
+---
+
+**Every 2nd Thursday a month at 7pm** we host the monthly meeting of Wurzen's foodsavers at Kanthaus. Depending on what is going on topics are the following:
+- maintaining existing cooperations
+- building new cooperations
+- planning, building and running a FoodShare-Point
+- planning and/or retrospective of special events like
+  - info desks
+  - distribtions of saved food
+  - special pickups, e.g. christmas market or festival pickups
+  - KifA (kitchen for all), where saved food gets cooked and eaten together
+  - workshops to make food long-lasting
+  - gleaning actions
+
+The dates for 2018 are planned to be the following (changes can still occur!):
+- *January:* Thursday, the **11.01.** [happened as planned]
+- *February:* Thursday, the **08.02.**
+- *March:* Thursday, the **08.03.**
+- *April:* Thursday, the **12.04.**
+- *May:* Thursday, the **10.05.**
+- *June:* Thursday, the **14.06.**
+- *July:* Thursday, the **12.07.**
+- *August:* Thursday, the **09.08.**
+- *September:* Thursday, the **13.09**
+- *October:* Thursday, the **11.10.**
+- *November:* Thursday, the **08.11.**
+- *December:* Thursday, the **13.12.**
+
+![Menschen im Meeting](/pics/morningMeeting_cropped.jpg)

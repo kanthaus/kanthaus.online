@@ -1,0 +1,32 @@
+---
+title: "Monatliches Treffen"
+date: "2018-01-11"
+---
+
+Wir veranstalten **jeden 2. Donnerstag im Monat um 19 Uhr** das monatliche Treffen der Wurzener Foodsaver bei uns im Kanthaus. Je nachdem, was gerade ansteht, geht es dabei um folgende Themen:
+- Pflege von bestehenden Kooperationen
+- Aufbau von neuen Kooperationen
+- Planung, Aufbau und Betrieb eines [Fairteilers](https://wiki.foodsharing.de/Fair-Teiler)
+- Planung und Retrospektive auf besondere Veranstaltungen wie zB
+  - Infotischbetrieb
+  - Fairteilaktionen
+  - besondere Abholungen wie zB Weihnachtsmarkt oder Festivals
+  - KifA (Küche für Alle), wo gerettetes Essen verkocht und gemeinsam gegessen wird
+  - Haltbarmachworkshops (Einkochen, saures Einlegen, milchsaures Vergären, Wein oder Marmelade machen)
+  - Ernteaktionen, zum Nachsammeln von abgeernteten Feldern
+
+Die Termine für 2018 sind plangemäß folgende (Änderungen vorbehalten!):
+- *Januar:* Donnerstag, der **11.01.** [fand statt wie geplant]
+- *Februar:* Donnerstag, der **08.02.**
+- *März:* Donnerstag, der **08.03.**
+- *April:* Donnerstag, der **12.04.**
+- *Mai:* Donnerstag, der **10.05.**
+- *Juni:* Donnerstag, der **14.06.**
+- *Juli:* Donnerstag, der **12.07.**
+- *August:* Donnerstag, der **09.08.**
+- *September:* Donnerstag, der **13.09**
+- *Oktober:* Donnerstag, der **11.10.**
+- *November:* Donnerstag, der **08.11.**
+- *Dezember:* Donnerstag, der **13.12.**
+
+![Menschen im Meeting](/pics/morningMeeting_cropped.jpg)
