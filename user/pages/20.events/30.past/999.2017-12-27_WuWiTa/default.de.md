@@ -3,6 +3,15 @@ title: "WurzenerWinterTage"
 date: "2017-12-27"
 description: ""
 ---
+
+Die WuWiTa (WurzenerWinterTage) fanden 2017 auf 2018 zum allerersten Mal statt. Die Idee war eine schöne, informative Woche voller Workshops und Möglichkeiten sich weiterzubilden zu veranstalten, in der sich auch genügend Raum zum Schnacken, Lesen, Kuscheln und einfach Sein findet.
+
+===
+
+### Nachbericht im yunity heartbeat
+Nachdem die WuWiTa zum Ende gekommen sind, wurde ihnen ein ausführliches Kapitel im [yunity heartbeat vom 07.01.2018](https://yunity.org/en/heartbeat/2018-01-07) gewidmet. Dort finden sich Links zu den Präsentationen von Matthias, die er für die Seminare 'Einführung in die Elektrotechnik' und 'Der weibliche Zyklus und alternative Methoden der Empfängnisverhütung' verwendete und Fotos von dem Event, wie auch ein beschreibender Text in englischer Sprache.
+
+### Einladung
 Folgende Einladung erging am 11.12. zu Freund\*Innen der Kanthausbewohner\*Innen. Auch wenn es sich nicht um eine öffentliche Veranstaltung handelt, kannst du, solltest du dich von dieser Einladung angezogen fühlen, dich gern mit uns in Verbindung setzen.
 
 Liebe Menschen! Vielleicht habt ihr schon davon gehört, oder auch nicht. Hier nun auf jeden Fall ganz offiziell: In den Tagen um den Jahreswechsel wollen wir eine schöne Zeit mit euch im Kanthaus in Wurzen verbringen! Deshalb laden wir euch herzlich zu den WurzenerWinterTagen ein

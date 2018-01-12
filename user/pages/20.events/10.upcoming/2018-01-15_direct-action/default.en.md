@@ -9,6 +9,8 @@ The bunny wants to change things and learn...
 
 You too? Then be sure to come by!
 
+===
+
 - Mon, 15.1. at 7pm in Leipzig (side room in the Trattoria Toskana, Nikolaistraße 31)  
 *Introductory Workshop to kreative action methods*
 - Mon, 15.1. from 8pm in Wurzen (Kanthaus, Kantstr. 20/22):  

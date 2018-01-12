@@ -8,6 +8,7 @@ date: "2017-12-29"
 Liebe Mitglieder,
 
 hiermit werdet ihr gemäß §11 Abs. 1 der Satzung zur ordentlichen Mitgliederversammlung 2017 eingeladen.
+===
 Die Mitgliederversammlung findet statt am
 
 Freitag, den 29.12.2017, 16:00 Uhr im Kanthaus, Kantstraße 20, 04808 Wurzen.

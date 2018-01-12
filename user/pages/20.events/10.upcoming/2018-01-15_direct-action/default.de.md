@@ -7,7 +7,9 @@ Der Hase will Dinge ändern und...
 
 ### Kreative Aktionsmethoden
 
-...erlernen. Ihr auch? Dann kommt!
+...erlernen. Ihr auch? Dann kommt vorbei!
+
+===
 
 - Mo, 15.1. um 19 Uhr in Leipzig (Ort folgt)
 *Einführungs-Workshop zu kreativen Aktionsmethoden*
