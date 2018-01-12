@@ -9,6 +9,8 @@ title: "Satzung Wandel würzen e.V."
 
 3. Der Sitz des Vereins ist Wurzen.
 
+===
+
 ### §2 Geschäftsjahr
 
 Geschäftsjahr ist das Kalenderjahr.

@@ -5,6 +5,8 @@ title: " FAQ"
 ### Why is the Constitution so formal?
 The Constitution is not the most exciting document ever written—it's true. It is written the way it is to be as clear as possible. The Constitution is an agreement and it is really important for people to understand what they are agreeing to, especially since it outlines how to proceed when people _don't_ agree.
 
+===
+
 ### What's the deal with the Principles?
 The subjective Principles aim to communicate the intention behind the objective rules and how they should be interpreted. Understanding why the rules exist and what they are intended to do will hopefully lead to a critical culture which is resistant to the creep of blind bureaucracy. If you have a deeper interest in the Principles, see 'What's the real deal with the Principles?'
 

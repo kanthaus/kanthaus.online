@@ -3,6 +3,10 @@ title: "Positions and Evaluation"
 ---
 
 # Positions and Evaluations
+This document is meant to give an overview about the structure of social hierarchy at Kanthaus.
+
+===
+
 ## Positions
 There are 3 positions at Kanthaus, in ascending level of responsibility *and* power they are: Visitor, Volunteer and Member. These Positions reflect and regulate the actual responsibility and power people hold. A brief summary of the Positions—
 

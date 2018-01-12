@@ -10,7 +10,7 @@ title: "Satzung Haus Kante Wurzen w.V."
 
 3. Der Verein ist ein wirtschaftlicher Verein (§22 BGB).
 
-
+===
 
 ### §2 Zwecke des Vereins
 

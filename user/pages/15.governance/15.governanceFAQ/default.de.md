@@ -6,6 +6,8 @@ title: FAQ
 
 Die Verfassung ist nicht die fesselndste Lektüre, das ist klar. Es ist so geschrieben worden, um größtmögliche Eindeutigkeit zu gewährleisten. Die Verfassung ist eine Vereinbarung und es ist wirklich wichtig, dass die Menschen verstehen, was die Dinge sind, denen sie da zustimmen, vor allem, weil dort geregelt ist, wie vorgegangen wird, wenn Menschen *nicht* einer Meinung sind.
 
+===
+
 ### Was hat es mit den Prinzipien auf sich?
 
 Die subjektiven Prinzipien sollen die Absichten hinter den objektiven Regeln erklären, und wie zweitere überhaupt interpretiert werden sollen. Verständnis dafür, weshalb die Regeln existieren und wofür sie gedacht sind, wird hoffentlich dazu führen, dass sich eine kritische Kultur etabliert, die der Blindheit der Bürokratie gegenüber widerstandfähig ist. Falls du dich tiefergehend für die Prinzipien interessierst, schau unter 'Was hat es wirklich mit den Prinzipien auf sich?'.

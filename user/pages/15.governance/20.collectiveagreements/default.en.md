@@ -5,6 +5,8 @@ title: "Collective Agreements"
 ### Coordination Meeting
 We meet on Mondays at or before 10:00 to distribute information, make plans and generally coordinate. All residents are recommended to join.
 
+===
+
 ### Power Hour
 We meet on Thursdays at 10:00 to briefly review, prioritize, allocate communal cleaning tasks before splitting up and cleaning for the next hour. This is an addition to ordinary cleaning, not a replacement. All residents are recommended to join.
 

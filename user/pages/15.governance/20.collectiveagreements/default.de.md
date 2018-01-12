@@ -6,6 +6,8 @@ title: "Gemeinschaftliche Vereinbarungen"
 
 Wir treffen uns Montags um, oder vor 10:00 zum Informationen zu teilen, Pläne zu machen und grundsätzlich zu koordinieren. Allen Bewohnenden wird empfohlen dabeizusein.
 
+===
+
 ### Power Hour
 
 Wir treffen uns Donnerstags um 10:00 Uhr, um kurz gemeinschaftliche Reinigungsaufgaben zu überblicken, zu priorisieren und aufzuteilen. Dann Trennen wir uns und putzen für eine Stunde. Dies ist eine Ergänzung zu normalem Putzen, kein Ersatz. Allen Bewohnenden wird empfohlen dabeizusein.
