@@ -7,4 +7,6 @@ content:
         dir: desc
     limit: 10
     pagination: true
+showitemdates: true
+showitemdateintitle: true
 ---

@@ -22,7 +22,7 @@
                 <a href="{{ page.header.link }}" class="u-url">{{ page.title }}</a>
             </h2>
         {% else %}
-            <h2 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h2>
+            <h2 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}{% if showdateintitle %} {{ page.date|date('Y-m-d') }}{% endif %}</a></h2>
         {% endif %}
 
         {% if page.taxonomy.tag %}
