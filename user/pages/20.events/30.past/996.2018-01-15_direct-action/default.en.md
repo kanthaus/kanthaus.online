@@ -1,6 +1,12 @@
 ---
 title: "Direct action training"
 date: "2018-01-15"
+routes:
+  default: '/events/2018-01-15_direct-action'
+  canonical: '/events/2018-01-15_direct-action'
+  aliases:
+    - '/events/upcoming/2018-01-15_direct-action'
+    - '/events/past/2018-01-15_direct-action'
 ---
 
 **2018-01-15 - 2018-01-17**
