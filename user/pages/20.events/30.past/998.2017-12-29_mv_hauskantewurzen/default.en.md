@@ -1,6 +1,12 @@
 ---
 title: "General meeting: Haus Kante Wurzen"
 date: "2017-12-29"
+routes:
+  default: '/events/2017-12-29_mv_hauskantewurzen'
+  canonical: '/events/2017-12-29_mv_hauskantewurzen'
+  aliases:
+    - '/events/upcoming/2017-12-29_mv_hauskantewurzen'
+    - '/events/past/2017-12-29_mv_hauskantewurzen'
 ---
 
 **2017-12-29**
