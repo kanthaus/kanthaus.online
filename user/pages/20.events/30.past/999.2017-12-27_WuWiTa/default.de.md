@@ -2,6 +2,12 @@
 title: "WurzenerWinterTage #1"
 date: "2017-12-27"
 description: ""
+routes:
+  default: '/events/2017-12-27_wuwita'
+  canonical: '/events/2017-12-27_wuwita'
+  aliases:
+    - '/events/upcoming/2017-12-27_wuwita'
+    - '/events/past/2017-12-27_wuwita'
 ---
 
 **2017-12-27 - 2018-01-03**
