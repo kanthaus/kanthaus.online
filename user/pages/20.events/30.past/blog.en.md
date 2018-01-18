@@ -6,3 +6,5 @@ content:
     pagination: true
 showitemdates: false
 ---
+
+![Archive](/pics/kho_archive.jpg)]

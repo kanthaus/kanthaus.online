@@ -6,3 +6,5 @@ content:
     pagination: true
 showitemdates: false
 ---
+
+![Enthusiastische Menschen](/pics/kho_upcoming.jpg)]
