@@ -9,19 +9,19 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 ## Allgemein
 
-- Sei für eine Woche willkommen. Wenn Du gerne länger bleiben magst, sprich bitte mit einem [Freiwilligen](../volunteers/) oder [Mitglied](../members/), sobald Du angekommen bist.
+- Sei für eine Woche willkommen. Wenn Du gerne länger bleiben magst, sprich bitte mit einem [Freiwilligen](/governance/volunteers) oder [Mitglied](/governance/members), sobald Du angekommen bist.
 - Es gibt keine Kosten für den Aufenthalt hier. Wenn Du Geld geben möchtest, kannst Du das gerne machen.
-- Wir haben [Gemeinschaftliche Vereinbarungen](../collectiveagreements/), welchen Du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn Du Tiere mitbringst. Außerdem würden wir uns freuen, wenn du an unseren Koordinationstreffen und Putzstunden teilnimmst (10 Uhr montags bzw. donnerstags).
-- Unsere Gemeinschaft basiert auf einer [Verfassung](../constitution), die Du akzeptierst, wenn Du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](../constitution/#8c-score-voting) um weiterzukommen.
+- Wir haben [Gemeinschaftliche Vereinbarungen](/governance/collectiveagreements), welchen Du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn Du Tiere mitbringst. Außerdem würden wir uns freuen, wenn du an unseren Koordinationstreffen und Putzstunden teilnimmst (10 Uhr montags bzw. donnerstags).
+- Unsere Gemeinschaft basiert auf einer [Verfassung](/governance/constitution), die Du akzeptierst, wenn Du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](/governance/constitution/#8c-score-voting) um weiterzukommen.
 - Die Adresse ist [Kantstraße 20, 04808 Wurzen](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- [Melde Dich](../../contact/) am besten, bevor Du ankommst.
+- [Melde Dich](/contact) am besten, bevor Du ankommst.
 
 ## Sicherheit
 
 - Wir haben (noch) keine Rauchmelder oder Feuerlöscher. Bitte behalte jegliche Feuer (Kocher, Kerzen) ständig im Blick.
 - Es können spitze Gegenstände auf dem Boden sein: Pass auf, wenn Du barfuß läufst.
 - Möglicherweise gibt es Bereiche mit unbehandeltem Schimmel: Sei bitte vorsichtig während wir daran arbeiten.
-- Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) auf dem Dachbodenholz: Lies Dir bitte die [Hinweise](../../signs/attic) durch, bevor Du dorthin gehst.
+- Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) auf dem Dachbodenholz: Lies Dir bitte die vor Ort angebrachten Hinweise durch, bevor Du dorthin gehst.
 
 ## Infos
 - Wir haben eine Liste, in der wir aufzeichnen, wer wann vorbeikommt. Wenn du nicht möchtest, dass dein Name dort vermerkt wird, sag uns bitte Bescheid!
