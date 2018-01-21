@@ -3,6 +3,8 @@ title: "foodsaving worldwide Hackweek"
 date: "2018-02-24"
 ---
 
+**2018-02-24 - 2018-03-04**
+
 Die foodsharing-Idee soll sich auf der ganzen Welt verbreiten!
 
 ![foodsaving worldwide](/pics/fsww_tinyppl.jpg)
