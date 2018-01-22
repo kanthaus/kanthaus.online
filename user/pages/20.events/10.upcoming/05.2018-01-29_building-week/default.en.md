@@ -1,6 +1,12 @@
 ---
 title: "Building week"
 date: "2018-01-29"
+routes:
+  default: '/events/2018-01-29_building-week'
+  canonical: '/events/2018-01-29_building-week'
+  aliases:
+    - '/events/upcoming/2018-01-29_building-week'
+    - '/events/past/2018-01-29_building-week'
 ---
 
 **2018-01-29 - 2018-02-04**
