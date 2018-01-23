@@ -1,15 +1,12 @@
 ---
 title: "Kreative Aktionsmethoden"
 date: "2018-01-15"
+enddate: "2018-01-17"
 routes:
-  default: '/events/2018-01-15_direct-action'
-  canonical: '/events/2018-01-15_direct-action'
   aliases:
     - '/events/upcoming/2018-01-15_direct-action'
     - '/events/past/2018-01-15_direct-action'
 ---
-
-**2018-01-15 - 2018-01-17**
 
 Der Hase will Dinge ändern und...
 

@@ -1,9 +1,11 @@
 ---
 title: "foodsaving worldwide Hackweek"
 date: "2018-02-24"
+enddate: "2018-03-04"
+routes:
+  aliases:
+    - '/events/upcoming/2018-02-24_fsww-hackweek'
 ---
-
-**2018-02-24 - 2018-03-04**
 
 Die foodsharing-Idee soll sich auf der ganzen Welt verbreiten!
 

@@ -2,14 +2,10 @@
 title: "MV Wandel würzen"
 date: "2017-12-29"
 routes:
-  default: '/events/2017-12-29_mv_wandelwuerzen'
-  canonical: '/events/2017-12-29_mv_wandelwuerzen'
   aliases:
     - '/events/upcoming/2017-12-29_mv_wandelwuerzen'
     - '/events/past/2017-12-29_mv_wandelwuerzen'
 ---
-
-**2017-12-29**
 
 ### Mitgliederversammlung Wandel würzen e.V.
 

@@ -1,16 +1,13 @@
 ---
 title: "WurzenerWinterTage #1"
 date: "2017-12-27"
+enddate: "2018-01-03"
 description: ""
 routes:
-  default: '/events/2017-12-27_wuwita'
-  canonical: '/events/2017-12-27_wuwita'
   aliases:
     - '/events/upcoming/2017-12-27_wuwita'
     - '/events/past/2017-12-27_wuwita'
 ---
-
-**2017-12-27 - 2018-01-03**
 
 Die WuWiTa (WurzenerWinterTage) fanden 2017 auf 2018 zum allerersten Mal statt. Die Idee war eine schöne, informative Woche voller Workshops und Möglichkeiten sich weiterzubilden zu veranstalten, in der sich auch genügend Raum zum Schnacken, Lesen, Kuscheln und einfach Sein findet.
 
@@ -23,11 +20,11 @@ Nachdem die WuWiTa zum Ende gekommen sind, wurde ihnen ein ausführliches Kapite
 Folgende Einladung erging am 11.12. zu Freund\*Innen der Kanthausbewohner\*Innen. Auch wenn es sich nicht um eine öffentliche Veranstaltung handelt, kannst du, solltest du dich von dieser Einladung angezogen fühlen, dich gern mit uns in Verbindung setzen.
 
 
-Liebe Menschen!  
+Liebe Menschen!
 Vielleicht habt ihr schon davon gehört, oder auch nicht. Hier nun auf jeden Fall ganz offiziell: In den Tagen um den Jahreswechsel wollen wir eine schöne Zeit mit euch im Kanthaus in Wurzen verbringen! Deshalb laden wir euch herzlich zu den WurzenerWinterTagen ein
 
-Die bisherige Planung sieht so aus:  
-Anreise am 27.12.2017  
+Die bisherige Planung sieht so aus:
+Anreise am 27.12.2017
 „Programm“ dann von 28.12.2017 bis 3.01.2018.
 
 Grundsätzlich stellen wir kein durchstrukturiertes Programm bereit, sondern freuen uns, wenn ihr eure eigenen Vorstellungen und Fähigkeiten mit einbringt. Am ersten Tag möchten wir mit allen Ideen sammeln und eine Grobstruktur festlegen. Es soll aber auch genug Raum für spontane Sachen geben….Spielen, Plätzchen backen, Essen retten, konsumkritische Weihnachtslieder singen…

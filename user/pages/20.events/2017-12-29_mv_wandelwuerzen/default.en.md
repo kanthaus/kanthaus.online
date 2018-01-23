@@ -2,14 +2,10 @@
 title: "General meeting: Wandel würzen"
 date: "2017-12-29"
 routes:
-  default: '/events/2017-12-29_mv_wandelwuerzen'
-  canonical: '/events/2017-12-29_mv_wandelwuerzen'
   aliases:
     - '/events/upcoming/2017-12-29_mv_wandelwuerzen'
     - '/events/past/2017-12-29_mv_wandelwuerzen'
 ---
-
-**2017-12-29**
 
 ### General meeting of the members of the association 'Wandel würzen e.V.'
 This is the original German invitation that went out to the members of the association.
