@@ -5,6 +5,11 @@ en:
       CONTINUE_READING: Continue reading...
       NEXT_POST: Next Post
       PREV_POST: Previous Post
+  EVENT:
+    PAST: Past Events
+    ITEM:
+      OLDER: Older Event
+      NEWER: Newer Event
   SIDEBAR:
     SIMPLE_SEARCH:
       HEADLINE: Search
@@ -32,6 +37,11 @@ de:
       CONTINUE_READING: Weiterlesen...
       NEXT_POST: Nächster Beitrag
       PREV_POST: Vorheriger Beitrag
+  EVENT:
+    PAST: Vergangene Veranstaltungen
+    ITEM:
+      OLDER: Frühere Veranstaltung
+      NEWER: Spätere Veranstaltung
   SIDEBAR:
     SIMPLE_SEARCH:
       HEADLINE: SimpleSearch
@@ -276,7 +286,7 @@ pt-BR:
       PREV_POST: Post anterior
   SIDEBAR:
     SIMPLE_SEARCH:
-      HEADLINE: Buscar 
+      HEADLINE: Buscar
     RELATED_POSTS:
       HEADLINE: Posts relacionados
     RANDOM_ARTICLE:
