@@ -1,23 +1,20 @@
 ---
-title: "MV Haus Kante Wurzen"
+title: "General meeting: Haus Kante Wurzen"
 date: "2017-12-29"
 routes:
-  default: '/events/2017-12-29_mv_hauskantewurzen'
-  canonical: '/events/2017-12-29_mv_hauskantewurzen'
   aliases:
     - '/events/upcoming/2017-12-29_mv_hauskantewurzen'
     - '/events/past/2017-12-29_mv_hauskantewurzen'
 ---
 
-**2017-12-29**
+### General meeting of the members of the association 'Haus Kante Wurzen w.V.'
+This is the original German invitation that went out to the members of the association.
 
-### Mitgliederversammlung Haus Kante Wurzen w.V.
+===
 
 Liebe Mitglieder,
 
 hiermit werdet ihr gemäß §7 Abs. 1 der Satzung zur ordentlichen Mitgliederversammlung 2017 eingeladen.
-
-===
 
 Die Mitgliederversammlung findet statt am:
 - Freitag, den 29.12.2017, 17:00 Uhr im Kanthaus, Kantstraße 20, 04808 Wurzen.

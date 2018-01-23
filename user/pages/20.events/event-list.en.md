@@ -4,5 +4,8 @@ content:
     items: '@self.children'
     limit: 10
     pagination: true
-showitemdates: false
+    order:
+        by: 'date'
+        dir: 'asc'
+showitemdates: true
 ---

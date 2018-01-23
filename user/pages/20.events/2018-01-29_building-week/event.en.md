@@ -1,19 +1,15 @@
 ---
 title: "Building week"
 date: "2018-01-29"
+enddate: "2018-02-04"
 routes:
-  default: '/events/2018-01-29_building-week'
-  canonical: '/events/2018-01-29_building-week'
   aliases:
     - '/events/upcoming/2018-01-29_building-week'
-    - '/events/past/2018-01-29_building-week'
 ---
-
-**2018-01-29 - 2018-02-04**
 
 ![Doug ready to screw](/pics/dougScrewdriver.jpg)
 
-There's still a lot to do in Kanthaus and we have a lot of ideas for improvements!  
+There's still a lot to do in Kanthaus and we have a lot of ideas for improvements!
 Be it building an extra room for our very own FoodShare-Point, improving the water system of the houses, redoing floors, making a shower stall from saved tiles or simply putting up curtains - there's plenty of projects. Do you have ideas of your own? We're happy to hear those, too!
 
 ===

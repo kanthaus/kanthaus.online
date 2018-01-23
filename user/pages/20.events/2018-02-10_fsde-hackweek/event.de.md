@@ -1,9 +1,11 @@
 ---
 title: "foodsharing.de Hackweek"
 date: "2018-02-10"
+enddate: "2018-02-18"
+routes:
+  aliases:
+    - '/events/upcoming/2018-02-10_fsde-hackweek'
 ---
-
-**2018-02-10 - 2018-02-18**
 
 ![foodsharing-Logo](/pics/foodsharinglogo_positiv.png)
 
