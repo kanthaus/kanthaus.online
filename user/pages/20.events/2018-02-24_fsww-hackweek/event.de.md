@@ -1,6 +1,5 @@
 ---
 title: "foodsaving worldwide Hackweek"
-visible: true
 date: "2018-02-24"
 enddate: "2018-03-04"
 routes:
