@@ -42,9 +42,6 @@
     <div id="sb-site">
         {% block header %}
         <header id="header">
-            <div id="logo">
-                <h3><a href="{{ base_url == '' ? '/' : base_url }}">{{ config.site.title }}</a></h3>
-            </div>
             <div id="navbar">
                 {% block header_extra %}{% endblock %}
                 {% if config.plugins.langswitcher.enabled %}

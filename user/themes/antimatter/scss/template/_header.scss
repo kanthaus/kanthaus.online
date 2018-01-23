@@ -107,7 +107,6 @@ $dropdown-color: #f6f6f6;
 
 			&.navigation {
 				display: inline-block;
-				float: right;
 				@extend .default-animation;
 
 				margin-top: 1.4rem;
@@ -211,7 +210,7 @@ $dropdown-color: #f6f6f6;
 				@include breakpoint(desktop-only) {
 					display: none;
 				}
-			}	
+			}
 		}
 
 		.panel-activation {
@@ -277,4 +276,19 @@ $dropdown-color: #f6f6f6;
         }
 
     }
+}
+
+.langswitcher {
+    position: fixed;
+    right: 10px;
+}
+
+.langswitcher li {
+    display: inline-block;
+    margin-left: 0.5rem;
+}
+
+.langswitcher .active {
+    font-weight: bold;
+    text-decoration: underline;
 }
