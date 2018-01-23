@@ -1,5 +1,8 @@
 en:
   TRANSLATION_TEST: Antimatter!
+  HOME:
+    NEXT_EVENT: Soon
+    MORE_EVENTS: More Events...
   BLOG:
     ITEM:
       CONTINUE_READING: Continue reading...
@@ -32,6 +35,9 @@ en:
 
 de:
   TRANSLATION_TEST: Antimatter!
+  HOME:
+    NEXT_EVENT: Bald
+    MORE_EVENTS: Mehr Veranstaltungen...
   BLOG:
     ITEM:
       CONTINUE_READING: Weiterlesen...

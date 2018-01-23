@@ -29,7 +29,10 @@
                 <a href="{{ page.header.link }}" class="u-url">{{ page.title }}</a>
             </h2>
         {% else %}
-            <h2 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h2>
+            <h2 class="p-name">
+                {% if next %}{{ 'HOME.NEXT_EVENT'|t }}:&nbsp;{% endif %}
+                <a href="{{ page.url }}" class="u-url">{{ page.title }}</a>
+            </h2>
         {% endif %}
 
         {% if page.taxonomy.tag %}

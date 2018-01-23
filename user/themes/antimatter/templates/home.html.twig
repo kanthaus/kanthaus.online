@@ -1,0 +1,22 @@
+{% extends 'partials/base.html.twig' %}
+
+{% set events = page
+    .collection({'items':{'@page':'/events'}})
+    .dateRange('now', '+10 years')
+    .order('date', 'asc')
+    .slice(0, 1)
+%}
+
+{% block content %}
+    {% if config.plugins.breadcrumbs.enabled %}
+        {% include 'partials/breadcrumbs.html.twig' %}
+    {% endif %}
+	{{ page.content }}
+
+    {% if events is not empty %}
+        {% for event in events %}
+            {% include 'partials/event_item.html.twig' with {'blog':page, 'page':event, 'truncate':true, 'showdate':true, 'next':true} %}
+        {% endfor %}
+        <a href="{{ page.find('/events').url }}">{{ 'HOME.MORE_EVENTS'|t }}</a>
+    {% endif %}
+{% endblock %}
