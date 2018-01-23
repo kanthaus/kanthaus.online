@@ -22,6 +22,7 @@ So you'd like to visit us? Great! Read on...
 - There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the attic wood: please watch out for and read the info poster before going there.
 
 ## Info
+- Unfortunately our houses come with a lot of stairs and are thus not very accessible. We'll happily help physically impaired people to visit us anyways, but the amount of stairs is something we want to inform visitors about.
 - There is a record of people who come by. Tell us if you don't want your name to appear on there!
 - You can use out internet connection, but never up- or download any illegal content.
 
