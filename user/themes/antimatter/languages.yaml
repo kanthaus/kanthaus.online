@@ -1,5 +1,6 @@
 en:
   TRANSLATION_TEST: Antimatter!
+  EDIT_PAGE: Edit page
   HOME:
     NEXT_EVENT: Soon
     MORE_EVENTS: More Events...
@@ -35,6 +36,7 @@ en:
 
 de:
   TRANSLATION_TEST: Antimatter!
+  EDIT_PAGE: Seite bearbeiten
   HOME:
     NEXT_EVENT: Bald
     MORE_EVENTS: Mehr Veranstaltungen...
