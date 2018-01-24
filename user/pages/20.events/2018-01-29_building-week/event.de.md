@@ -16,6 +16,6 @@ Sei es einen Extraraum für einen Fairteiler direkt im Haus zu schaffen, das Was
 
 Bisher haben wir [dieses Pad](https://pad.systemli.org/p/buildingWeekPlanning), in dem wir unsere Pläne für die Bauwoche sammeln. Wenn du dabei sein möchtest, schick uns bitte [eine Mail](mailto:hello@kanthaus.online) mit Informationen darüber, wie lange du bleiben und an was du arbeiten möchtest.
 
-**As always accomodation and food is completely free of charge!**
+**Wie immer kann bei uns kostenlos gegessen und übernachtet werden!**
 
 ![Adrian paints a window frame](/pics/adrianPaint.jpg)
