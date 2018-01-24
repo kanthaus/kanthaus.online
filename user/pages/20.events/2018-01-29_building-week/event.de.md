@@ -10,7 +10,7 @@ routes:
 ![Doug ready to screw](/pics/dougScrewdriver.jpg)
 
 Es ist nach wie vor viel zu tun im Kanthaus und wir haben haufenweise Ideen für Verbesserungen!
-Sei es einen Extraraum für einen Fairteiler direkt im Haus zu schaffen, das Wassersystem zuverbessern, Böden neu zu machen, mit geretteten Fliesen eine Dusche zu fliesen oder einfach bloß Gardinen aufzuhängen - es gibt jede Menge Projekte. Hast du eigene Ideen, was man tun könnte? Wir freuen uns darauf, sie zu hören!
+Sei es einen Extraraum für einen Fairteiler direkt im Haus zu schaffen, das Wassersystem zu verbessern, Böden neu zu machen, mit geretteten Fliesen eine Dusche zu fliesen oder einfach bloß Gardinen aufzuhängen - es gibt jede Menge Projekte. Hast du eigene Ideen, was man tun könnte? Wir freuen uns darauf, sie zu hören!
 
 ===
 
