@@ -2,35 +2,35 @@
 title: Reparier- und Techniktreff
 ---
 
-Du hast Interesse am Basteln?
-Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker kaputt gegangen ist?
+Du hast Interesse am Basteln?  
+Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker kaputt gegangen ist?  
 Dein Fahrrad braucht ein bisschen Pflege?
 
 Und mit all diesen Themen möchtest du nicht allein sein?
 
 ## Komm zum offenen Reparier- und Techniktreff
 
-**jeden Dienstag im Monat, ab 17 Uhr, im Kanthaus.**
+**jeden Dienstag im Monat, ab 17 Uhr, im Kanthaus**
 
 ## Idee
 
 [Repair-Cafés](https://de.wikipedia.org/wiki/Repair-Caf%C3%A9) gibt es in vielen Städten, nur in Wurzen noch nicht.
 
-Die Idee dahinter ist ganz einfach: Kaputte Gegenstände wieder benutzbar machen und dabei Unterstützung von Menschen zu bekommen, die sich damit etwas besser auskennen.
+Die Idee dahinter ist ganz einfach: Kaputte Gegenstände wieder benutzbar zu machen und dabei Unterstützung von Menschen zu bekommen, die sich damit etwas besser auskennen.
 
 Doch warum ein Gerät nur reparieren? Eventuell packt dich ja auch direkt der Drang, genau zu verstehen, warum es wie funktioniert?
 
-Von der Nähmaschine über verschiedene Geräte-Schalter, die Laptoptastatur und andere elektronische Geräte gibt es viele Ideen zu entdecken und zu verstehen und vor allem für eigene Zwecke oder einfach zur Kunst zu nutzen bzw. umzugestalten.
+Von der Nähmaschine über verschiedene Geräte-Schalter, die Laptoptastatur und andere elektronische Geräte gibt es Vieles zu entdecken und zu verstehen und vor allem nutzbar zu machen. Sei es für eigene Zwecke oder einfach als Kunstprojekt.
 
 Bekannt für diese und ähnliche Projekte sind sogenannte [Hackerspaces](https://de.wikipedia.org/wiki/Hackerspace).
-Doch keine Angst: Hacker steht nicht wie viele denken für die Menschen im dunklen Keller die alle Computersysteme auf der Erde lahm legen wollen - vielmehr beschreibt es kreative Menschen, die Technik verstehen und so nutzen wollen, wie es ursprünglich nicht einmal bedacht wurde.
+Doch keine Angst: Hacker sind nicht wie viele denken die Menschen im dunklen Keller die alle Computersysteme auf der Erde lahm legen wollen - vielmehr beschreibt es kreative Menschen, die Technik verstehen und so nutzen wollen, wie sie ursprünglich nicht einmal gedacht war: Als Instrument für eigene Ideen.
 
 Der Reparier- und Techniktreff soll nun alle diese Welten miteinander verbinden.
 
 ## Ausstattung
 
 Zu allererst: Wir sind neu hier.
-Das Ziel ist erst einmal, Menschen mit diesen Interessen miteinander zu vernetzen, der Rest kommt dann von selbst.
+Das Ziel ist erst einmal interessierte Menschen miteinander zu vernetzen, der Rest kommt dann von selbst.
 
 Natürlich haben wir trotzdem schon so einiges an Werkzeugen da, sodass auch schon fleißig gebastelt werden kann:
 
@@ -38,7 +38,7 @@ Natürlich haben wir trotzdem schon so einiges an Werkzeugen da, sodass auch sch
 - Allgemeines Fahrradwerkzeug (Flickzeug, Flachschlüssel, Luftpumpe, Fett)
 - Elektronikutensilien (Spezialbits, Lötstation, Oszilloskop, Standardbauelemente und etliche Spezialbauelemente zum Basteln und Reparieren, Ausschlacht- und Demonstrationskiste)
 - Handyreparaturwerkzeug zum Austauschen von Displays und anderen Baugruppen
-- allgemeines Bastelzeug (Papier, Stifte, Scheeren, etwas Näh- und Strickzeug)
+- allgemeines Bastelzeug (Papier, Stifte, Scheren, etwas Näh- und Strickzeug)
 - Computerarbeitsplätze können nach Bedarf genutzt werden
 - Drucker, Scanner, Fax, Telefon (auch Mobil und Ausland in Maßen kostenfrei)
 
@@ -56,11 +56,11 @@ Hier schauen wir erstmal, wer so kommt und wie wir uns weiter entwickeln.
 Fahrräder können im Innenhof oder bei schlechtem Wetter im Flur bewerkelt werden.
 
 ## Finanzierung
-Wir brauchen erstmal nicht viel.
-Das genutzte Werkzeug und Material kommt aus zusammengesammelten Beständen und Privatbesitzen, deswegen wird um sorgfältigen Umgang gebeten.
+Wir brauchen erstmal nicht viel.  
+Das genutzte Werkzeug und Material kommt aus zusammengesammelten Beständen und Privatbesitzen, deswegen wird um sorgfältigen Umgang gebeten.  
 Gerade im Reparierbereich benötigt man häufiger mal hochqualitative Ersatzteile, die nicht unbedingt herumliegen.
-Vorhandenes darf gerne genutzt werden, aber natürlich muss sich ein Gleichgewicht einpendeln zwischen Nutzen und Pflegen bzw. Herbeischaffen von Materialien.
-Schau doch mal auf [unsere Wunschliste](../wanted), ob du vielleicht etwas übrig hast?
-Ansonsten darfst du natürlich auch im Rahmen deiner Möglichkeiten eine Spende in Finanzieller Form da lassen.
+Vorhandenes darf gerne genutzt werden, aber natürlich muss sich ein Gleichgewicht einpendeln zwischen nutzen und pflegen bzw. herbeischaffen von Materialien.  
+Schau doch mal auf [unsere Wunschliste](../wanted), ob du vielleicht etwas übrig hast?  
+Ansonsten darfst du natürlich auch im Rahmen deiner Möglichkeiten eine Spende in finanzieller Form da lassen.
 
-Du gehörst einer Firma an und möchtest uns gerne im größeren Rahmen mit Werkzeug und/oder Material unterstützen? Hier freuen wir uns insbesondere über sonst nicht mehr genutzte - also vor dem Müll oder herumstehen gerettete Dinge. Trete gerne mit uns in [Kontakt](../../contact).
+Du gehörst einer Firma an und möchtest uns gerne in größerem Rahmen mit Werkzeug und/oder Material unterstützen? Hier freuen wir uns insbesondere über sonst nicht mehr genutzte - also vor dem Müll oder Herumstehen gerettete Dinge. Tritt gerne mit uns in [Kontakt](../../contact).
