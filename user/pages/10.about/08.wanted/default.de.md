@@ -17,14 +17,14 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 ### Baustoffe:
 
 - Kalkputz (eine ganze Menge)
-- Wasserleitungen und Fittings (Stahl, 1/2 und 3/4 Zoll, PE) für Heizung, Wasser, Warmwasser
-- Eine 2-4m große Leiter
+- Heizungsrohre (20m 1")
+- eine 2-4m große Leiter
 - Wärmeschutzverglaste Fenster (zum Austausch einiger bzw. aller Fenster der Häuser)
 - Dachbedeckung für beide Häuser (die Dächer werden in 1-2 Jahren neugedeckt - verschiedene Materialien möglich)
-- feuchtigkeitssperre für Keller-Außenwände
-- wärmedämmung für Dach
+- Feuchtigkeitssperre für Keller-Außenwände
+- Wärmedämmung für Dach
 
-### Werkstatt Einrichtung:
+### Werkstatteinrichtung:
 
 - Bohrhammer (SDS)
 - Handkreissäge
@@ -34,36 +34,41 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Schrauben und anderes Verbrauchsmaterial
 - Fahrradwerkzeug und Material
 
-### Labor Einrichtung:
+### Laboreinrichtung:
 
 - Mikroskop
 - Labornetzteile
-- elektronische Bauteile (Aktive & passive Bauelemente)
+- elektronische Bauteile (aktive & passive Bauelemente)
 
 ### Wohn- und Büroeinrichtung:
 
-- Spannbettlaken (1,40-1,60m)
-- wenige Bettdecken und Kopfkissen
-- Essen (hauptsächlich vegan)
-- Regale und Hängeregale zum Sortieren und Aufbewahren
+- große Spannbettlaken (1,40-1,60m)
+- Bettdecken, Kopfkissen, Polster
+- Essen (bitte nichts extra für uns kaufen!)
+- offene Regale und Hängeregale zum Sortieren und Aufbewahren
 - Büroeinrichtung: Schreibtische, Bürostühle
-- Computermonitore mit mindestens 24 Zoll
+- Mehrfachsteckdosen
+- Verlängerungskabel (kürzer als 5m)
+- LED-Leuchtmittel (E14, E27)
+- Computermonitore mit mindestens 19 Zoll (keine Röhrenmonitore)
 - Laptops und Computer, welche mindestens der Intel Core-I Leistungsklasse angehören
 - optische Mäuse, Tastaturen (deutsches, UK, US layout)
 - A3 Drucker oder Plotter
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
-- Telefonkabel (J-2Y(St)Y oder J-YY, 4 or 8 wires)
+- Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 Adern)
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
 
 ## Gern gesehen
 
 - Beamer (gerne mit LED-Technologie)
-- Lautsprecher von guter Qualität, (moderne, energiesparende) Verstärker
-- Risiko (Brettspiel)
-- Monopoly (Brettspiel)
-- Würfel (mindestens 20, für das Spiel Perudo)
+- Lautsprecher von guter Qualität
+- (moderne, energiesparende) Verstärker
+- Würfel
 - Fitness-Equipment (Hanteln, Hantelbank, Gewichte)
 - Kreidetafeln
+- Whiteboards
+- Pinnwände
+- Geld (aber nur wenn du es entbehren kannst!)
 
 ## Orte, an denen Dinge gesucht werden können
 

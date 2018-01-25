@@ -20,7 +20,7 @@ They might even be used to teach others or learn how to repair things.
 
 ### Building material:
 - Lime plaster (a lot)
-- Waterpipes and fittings (steel, 1/2 and 3/4 inch, PE)
+- Heatpipes (20m 1")
 - A 2-4m ladder
 - Modern windows, multiple of same size (to exchange some/all windows of the house)
 - Rooftop material for 300m² (We want to redo the rooftop in 1-2 years - preferably no bitumen)
@@ -42,12 +42,15 @@ They might even be used to teach others or learn how to repair things.
 - Electronic components
 
 ### Things of everyday life:
- - Fitted sheets (1,40-1,60m)
- - Some more duvets and pillows
- - Food (mostly vegan)
+ - Big fitted sheets (1,40-1,60m)
+ - Duvets and pillows
+ - Food (but don't go out to buy stuff for us!)
  - Storage shelves, hanging shelves
  - Office desk equipment: tables, chairs
- - Computer monitors bigger than 24 inch
+ - Multi-outlet power strips
+ - Extension cords (up to 5 meters length)
+ - LEDs (E14, E27)
+ - Computer monitors bigger than 19 inch
  - Laptops or computers with at least Intel Core I performance
  - Optical mouses, keyboards (also German, UK, US layout)
  - A3 printing machine/plotter
@@ -56,13 +59,15 @@ They might even be used to teach others or learn how to repair things.
  - Professional grade WiFi accesspoints (802.11ac, Ubiquiti/Cisco or good quality LEDE supported Hardware, TPLink RE450 or similar)
 
 ## Wanted
-- Projectors (preferrably LED)
-- Good quality speakers & amplifiers (modern, low energy usage)
-- Risk (the board game, 'Risiko')
-- Monopoly (the board game)
-- Dice (at least 20, for the game Perudo)
+- Projectors (preferably LED)
+- Good quality speakers
+- amplifiers (modern, low energy usage)
+- Dice
 - Sports equipment (barbells, weights)
 - Chalkboards
+- Whiteboards
+- Pinboards
+- Money (but only if you can afford to give it!)
 
 ## Places to find Items
 You can for example use [ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [jasprtrades](https://jasprtrades.com/), the local recycling company, [freecycle](https://www.freecycle.org/), the projekteverteiler Leipzig and other sharing websites
