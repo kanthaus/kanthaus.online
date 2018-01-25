@@ -7,9 +7,10 @@ title: Kontakt
 - Telefon: <a href="tel:+4934258527995">+49 3425 8527995</a>
 - Slack: #kanthaus auf [yunity.slack.com](https://yunity.slack.com) (Lass dich auf [slackin.yunity.org](https://slackin.yunity.org) einladen)
 - Adresse: [Kantstraße 20, 04808 Wurzen, Germany](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N?target=_blank)
+- Bankverbindung:  IBAN: DE85 8605 0200 1041 0436 90  BIC: SOLADES1GRM
 
 
-**Impressum**
+## Impressum
 Angaben gemäß § 5 TMG
 
 Wandel würzen e.V.  
