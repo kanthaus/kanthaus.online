@@ -68,7 +68,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Kreidetafeln
 - Whiteboards
 - Pinnwände
-- Geld (aber nur wenn du es entbehren kannst!)
+- [Geld](../../contact) (aber nur wenn du es entbehren kannst!)
 
 ## Orte, an denen Dinge gesucht werden können
 

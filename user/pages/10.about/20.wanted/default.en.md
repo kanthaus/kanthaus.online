@@ -67,7 +67,7 @@ They might even be used to teach others or learn how to repair things.
 - Chalkboards
 - Whiteboards
 - Pinboards
-- Money (but only if you can afford to give it!)
+- [Money](../../contact) (but only if you can afford to give it!)
 
 ## Places to find Items
 You can for example use [ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [jasprtrades](https://jasprtrades.com/), the local recycling company, [freecycle](https://www.freecycle.org/), the projekteverteiler Leipzig and other sharing websites
