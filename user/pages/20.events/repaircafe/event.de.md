@@ -1,5 +1,5 @@
 ---
-title: "Reparier- und Techniktreff
+title: "Reparier- und Techniktreff"
 date: "2017-01-30"
 ---
 
