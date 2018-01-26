@@ -2,17 +2,17 @@
 title: Reparier- und Techniktreff
 ---
 
-Du hast Interesse am Basteln?  
-Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker kaputt gegangen ist?  
+Du hast Interesse am Basteln?
+Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker kaputt gegangen ist?
 Dein Fahrrad braucht ein bisschen Pflege?
 
 Und mit all diesen Themen möchtest du nicht allein sein?
 
 ## Komm zum offenen Reparier- und Techniktreff
 
-**jeden Dienstag im Monat, ab 17 Uhr, im Kanthaus**
+**jeden Dienstag, ab 17 Uhr, im Kanthaus**
 
-## Idee
+## Warum?
 
 [Repair-Cafés](https://de.wikipedia.org/wiki/Repair-Caf%C3%A9) gibt es in vielen Städten, nur in Wurzen noch nicht.
 
@@ -26,6 +26,15 @@ Bekannt für diese und ähnliche Projekte sind sogenannte [Hackerspaces](https:/
 Doch keine Angst: Hacker sind nicht wie viele denken die Menschen im dunklen Keller die alle Computersysteme auf der Erde lahm legen wollen - vielmehr beschreibt es kreative Menschen, die Technik verstehen und so nutzen wollen, wie sie ursprünglich nicht einmal gedacht war: Als Instrument für eigene Ideen.
 
 Der Reparier- und Techniktreff soll nun alle diese Welten miteinander verbinden.
+
+## Wie?
+
+Natürlich sind wir insbesondere bei den Fähigkeiten auf dich angewiesen!
+Matthias, der Initiator dieses Treffs, bringt umfangreiche Fähigkeiten im Bereich Elektronik und Software-Entwicklung mit.
+Andere Bereiche hängen dann von anderen Leuten mit Erfahrung ab - aber wir haben im Kanthaus in der Regel einige technikaffine Menschen mit verschiedenen Interessengebieten.
+
+Schön wäre es, wenn wir diesen Raum zum Erfahrungsaustausch nutzen, also du Lust hast, auch mal einen Workshop in einem Bereich zu geben, in dem du Experte bist.
+
 
 ## Ausstattung
 
@@ -42,12 +51,6 @@ Natürlich haben wir trotzdem schon so einiges an Werkzeugen da, sodass auch sch
 - Computerarbeitsplätze können nach Bedarf genutzt werden
 - Drucker, Scanner, Fax, Telefon (auch Mobil und Ausland in Maßen kostenfrei)
 
-## Fähigkeiten
-
-Natürlich sind wir insbesondere bei den Fähigkeiten auf dich angewiesen!
-Matthias, der Initiator dieses Treffs, bringt umfangreiche Fähigkeiten im Bereich Elektronik und Software-Entwicklung mit.
-Andere Bereiche hängen dann von anderen Leuten mit Erfahrung ab - aber wir haben im Kanthaus in der Regel einige technikaffine Menschen mit verschiedenen Interessengebieten.
-
 ## Räume
 
 Uns stehen in der Anfangszeit keine echten Werkstatträume zur Verfügung, sondern ein beheizter Gruppenarbeitsraum mit 2 Tischen auf etwa 12m².
@@ -56,11 +59,11 @@ Hier schauen wir erstmal, wer so kommt und wie wir uns weiter entwickeln.
 Fahrräder können im Innenhof oder bei schlechtem Wetter im Flur bewerkelt werden.
 
 ## Finanzierung
-Wir brauchen erstmal nicht viel.  
-Das genutzte Werkzeug und Material kommt aus zusammengesammelten Beständen und Privatbesitzen, deswegen wird um sorgfältigen Umgang gebeten.  
+Wir brauchen erstmal nicht viel.
+Das genutzte Werkzeug und Material kommt aus zusammengesammelten Beständen und Privatbesitzen, deswegen wird um sorgfältigen Umgang gebeten.
 Gerade im Reparierbereich benötigt man häufiger mal hochqualitative Ersatzteile, die nicht unbedingt herumliegen.
-Vorhandenes darf gerne genutzt werden, aber natürlich muss sich ein Gleichgewicht einpendeln zwischen nutzen und pflegen bzw. herbeischaffen von Materialien.  
-Schau doch mal auf [unsere Wunschliste](../wanted), ob du vielleicht etwas übrig hast?  
+Vorhandenes darf gerne genutzt werden, aber natürlich muss sich ein Gleichgewicht einpendeln zwischen nutzen und pflegen bzw. herbeischaffen von Materialien.
+Schau doch mal auf [unsere Wunschliste](../wanted), ob du vielleicht etwas übrig hast?
 Ansonsten darfst du natürlich auch im Rahmen deiner Möglichkeiten eine Spende in finanzieller Form da lassen.
 
 Du gehörst einer Firma an und möchtest uns gerne in größerem Rahmen mit Werkzeug und/oder Material unterstützen? Hier freuen wir uns insbesondere über sonst nicht mehr genutzte - also vor dem Müll oder Herumstehen gerettete Dinge. Tritt gerne mit uns in [Kontakt](../../contact).
