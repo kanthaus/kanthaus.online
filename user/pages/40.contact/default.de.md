@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 ---
-*Wenn Du uns besuchen möchtest, lies Dir bitte [diese Informationen](../about/visiting) zuerst durch und kontaktiere und wenn möglich bevor Du ankommst.*
+*Wenn Du uns besuchen möchtest, lies Dir bitte zunächst [diese Informationen](../about/visiting) durch und kontaktiere und wenn möglich bevor Du ankommst.*
 
 - Email: [hello@kanthaus.online](mailto:hello@kanthaus.online)
 - Telefon: <a href="tel:+4934258527995">+49 3425 8527995</a>
@@ -10,7 +10,7 @@ title: Kontakt
 - Bankverbindung:  IBAN: DE85 8605 0200 1041 0436 90  BIC: SOLADES1GRM
 
 
-## Impressum
+### Impressum
 Angaben gemäß § 5 TMG
 
 Wandel würzen e.V.  

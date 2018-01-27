@@ -11,7 +11,7 @@ title: "Contact"
 - bank details: IBAN: DE85 8605 0200 1041 0436 90  BIC: SOLADES1GRM
 
 
-## Imprint
+### Imprint
 Information according to § 5 TMG
 
 Wandel würzen e.V.  
