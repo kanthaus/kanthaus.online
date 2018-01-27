@@ -7,7 +7,7 @@ routes:
     - '/events/upcoming/2018-01-29_building-week'
 ---
 
-![Doug ready to screw](/pics/dougScrewdriver.jpg)
+![Adrian paints a window frame](/pics/adrianPaint.jpg)
 
 There's still a lot to do in Kanthaus and we have a lot of ideas for improvements!
 Be it building an extra room for our very own FoodShare-Point, improving the water system of the houses, redoing floors, making a shower stall from saved tiles or simply putting up curtains - there's plenty of projects. Do you have ideas of your own? We're happy to hear those, too!
@@ -18,4 +18,4 @@ So far we have [this pad](https://pad.systemli.org/p/buildingWeekPlanning) (in G
 
 **As always accomodation and food is completely free of charge!**
 
-![Adrian paints a window frame](/pics/adrianPaint.jpg)
+![Doug ready to screw](/pics/dougScrewdriver.jpg)
