@@ -1,5 +1,5 @@
 ---
-title: "About The Kanthaus"
+title: "About Kanthaus"
 description: "Living with self-determination, equality and acceptance."
 ---
 ===
@@ -14,10 +14,22 @@ description: "Living with self-determination, equality and acceptance."
 </div>
 <br></br>
 
-Since summer 2017 there is life again in the houses Kantstraße 20 and 22 (in Wurzen near Leipzig, Germany). We, a small group of people, are building a house, open for community and projects. Providing an environment for people to live to their full potential and create a conscious and responsible society is what we strive for. We want to base our actions on our values instead of the status quo, think and live independently and authentically. Self-determination, equality and acceptance are our main values and we would love them to be lived and spread over the world. To take the opposites: by our actions in Wurzen we want to minimize coercion, inequality and opposition.  
-Our main purposes are to develop free, libre and open source software, to provide and connect public and common pool resources and to give what we can, take what we need and facilitate others to do the same. In short this means creating room in the city: e.g. open workshops, working-/seminar-/ and social spaces and playing an active role in Wurzen and the wider world.
+The project house and housing project _Kanthaus_, located at Kantstraße 20 and 22 in Wurzen, exists since Summer 2017. The conscious and effective use of resources is the topic we chose for ourselves and [foodsharing](../foodsharing) is what brought us all together. The faces you encounter at Kanthaus can vary because we are part of a [big network](https://yunity.org) of ecological and social people from Germany and beyond. Normally there are around 10 people present at Kanthaus; when we hold events it can be way more but it's seldomly less.
 
-There are enough resources, they only need to be distributed more fairly.</br>
+We want to encourage exchange and true encounters of people. We want to establish a culture of sharing, repairing, reusing and appreciating. On the one hand to preserve the environment, on the other hand to bring the people together.
+
+As soon as people stop buying everything for themselves and start sharing with their neighbors again, they won't  grow lonely as easily anymore and they'll even avoid some expenses. In this part of the world there is already an abundance of material goods: food, furniture, books, clothes, objects of any kind. Only the immaterial lacks: time, content, contact.
+
+We want to take time again to establish contact. We want to make accessible all that of which we have too much already. We want to counter waste and strengthen appreciation of resources and humans instead of counting everything up in money.
+
+Our main projects are:
+- to develop free and [open source software](https://en.wikipedia.org/wiki/Open-source_software_movement),
+- to provide and connect [public and common pool resources](https://en.wikipedia.org/wiki/Commons) and
+- to give what we can, take what we need and facilitate others to do the same.
+
+In short this means creating room in the city, where our values are lived. First we'll build a functional local foodsharing infrastructure with regular meetings of active people. We'll start a regularly occuring [RepairCafe](../repaircafe), open a freeshop and establish to hold [events](../../events) on aregular basis. Thus we want to play an active role in Wurzen and the wider world.
+
+There are enough resources, they only need to be better distributed.</br>
 **Reduce Waste. Promote Sharing**
 
 <style>
