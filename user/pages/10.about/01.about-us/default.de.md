@@ -6,12 +6,12 @@ description: "Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben."
 ===
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="/pics/2017festivalmeeting.jpg" />
-  <img src="/pics/wurzenfront.jpg" />
+  <img src="/pics/kube01.jpg" />
   <img src="/pics/001.jpg" />
   <img src="/pics/002.jpg" />
   <img src="/pics/communalKino.jpg" />
-  <img src="/pics/wuwitaKitchen.jpg" />
-  <img src="/pics/005.jpg" />
+  <img src="/pics/kube02color.jpg" />
+  <sub>Fotos 2 und 6 von <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
 </div>
 
 <br></br>
