@@ -11,6 +11,6 @@ content:
 
 # Kanthaus
 
-## promoting sharing—preventing waste
+## A house for sharing
 
 ![Kanthaus Logo](/pics/dougintheyard.jpg)

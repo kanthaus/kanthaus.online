@@ -11,6 +11,6 @@ debugger: true
 ---
 # Kanthaus
 
-## Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben
+## Ein Haus zum Teilen
 
 ![Kanthaus Logo](/pics/dougintheyard.jpg)
