@@ -1,6 +1,9 @@
 ---
 title: "foodsharing Wurzen"
 description: "Save and share food together"
+routes:
+  aliases:
+    - '/foodsharing'
 ---
 
 Since 2012 the foodsharing movement is growing in Germany. On [foodsharing.de](https://foodsharing.de) people organize to pick up unsellable but still good food from businesses. Since 2017 this is also tackled in Wurzen thanks to Kanthaus.
@@ -16,4 +19,4 @@ Foodsharing is the topic that brought all of us together and for many of our mem
 2018 is going to be the year for this to happen: We will put up and take care of Food-Share Points, will hold informational events to get more citizens of Wurzen to participate and hopefully find many motivated companions. We will deepen our already existing contact to the local food bank and help as well as we can, so that the overworked ladies running it won't feel the need to close it down completely.
 
 You want to take part?  
-Awesome! Just write us a [mail](mailto:hello@kanthaus.online) and we'll gladly tell you how to go about it!
+Awesome! Have a look in the [events section](../events) to find out when the next meetup is due and drop by! Or simply write us a [mail](mailto:hello@kanthaus.online) and we'll gladly tell you how to go about it!
