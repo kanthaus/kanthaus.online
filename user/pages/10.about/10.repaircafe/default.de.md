@@ -2,9 +2,9 @@
 title: Reparier- und Techniktreff
 ---
 
-Du hast Interesse am Basteln?
-Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker kaputt gegangen ist?
-Dein Fahrrad braucht ein bisschen Pflege?
+Du hast Interesse am Basteln?  
+Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker kaputt gegangen ist?  
+Dein Fahrrad braucht ein bisschen Pflege?  
 
 Und mit all diesen Themen möchtest du nicht allein sein?
 
@@ -29,8 +29,8 @@ Der Reparier- und Techniktreff soll nun alle diese Welten miteinander verbinden.
 
 ## Wie?
 
-Natürlich sind wir insbesondere bei den Fähigkeiten auf dich angewiesen!
-Matthias, der Initiator dieses Treffs, bringt umfangreiche Fähigkeiten im Bereich Elektronik und Software-Entwicklung mit.
+Natürlich sind wir insbesondere bei den Fähigkeiten auf dich angewiesen!  
+Matthias, der Initiator dieses Treffs, bringt umfangreiche Fähigkeiten im Bereich Elektronik und Software-Entwicklung mit.  
 Andere Bereiche hängen dann von anderen Leuten mit Erfahrung ab - aber wir haben im Kanthaus in der Regel einige technikaffine Menschen mit verschiedenen Interessengebieten.
 
 Schön wäre es, wenn wir diesen Raum zum Erfahrungsaustausch nutzen, also du Lust hast, auch mal einen Workshop in einem Bereich zu geben, in dem du Experte bist.
@@ -38,7 +38,7 @@ Schön wäre es, wenn wir diesen Raum zum Erfahrungsaustausch nutzen, also du Lu
 
 ## Ausstattung
 
-Zu allererst: Wir sind neu hier.
+Zu allererst: Wir sind neu hier.  
 Das Ziel ist erst einmal interessierte Menschen miteinander zu vernetzen, der Rest kommt dann von selbst.
 
 Natürlich haben wir trotzdem schon so einiges an Werkzeugen da, sodass auch schon fleißig gebastelt werden kann:
@@ -53,17 +53,17 @@ Natürlich haben wir trotzdem schon so einiges an Werkzeugen da, sodass auch sch
 
 ## Räume
 
-Uns stehen in der Anfangszeit keine echten Werkstatträume zur Verfügung, sondern ein beheizter Gruppenarbeitsraum mit 2 Tischen auf etwa 12m².
+Uns stehen in der Anfangszeit keine echten Werkstatträume zur Verfügung, sondern ein beheizter Gruppenarbeitsraum mit 2 Tischen auf etwa 12m².  
 Hier schauen wir erstmal, wer so kommt und wie wir uns weiter entwickeln.
 
 Fahrräder können im Innenhof oder bei schlechtem Wetter im Flur bewerkelt werden.
 
 ## Finanzierung
-Wir brauchen erstmal nicht viel.
-Das genutzte Werkzeug und Material kommt aus zusammengesammelten Beständen und Privatbesitzen, deswegen wird um sorgfältigen Umgang gebeten.
+Wir brauchen erstmal nicht viel.  
+Das genutzte Werkzeug und Material kommt aus zusammengesammelten Beständen und Privatbesitzen, deswegen wird um sorgfältigen Umgang gebeten.  
 Gerade im Reparierbereich benötigt man häufiger mal hochqualitative Ersatzteile, die nicht unbedingt herumliegen.
-Vorhandenes darf gerne genutzt werden, aber natürlich muss sich ein Gleichgewicht einpendeln zwischen nutzen und pflegen bzw. herbeischaffen von Materialien.
+Vorhandenes darf gerne genutzt werden, aber natürlich muss sich ein Gleichgewicht einpendeln zwischen nutzen und pflegen bzw. herbeischaffen von Materialien.  
 Schau doch mal auf [unsere Wunschliste](../wanted), ob du vielleicht etwas übrig hast?
 Ansonsten darfst du natürlich auch im Rahmen deiner Möglichkeiten eine Spende in finanzieller Form da lassen.
 
-Du gehörst einer Firma an und möchtest uns gerne in größerem Rahmen mit Werkzeug und/oder Material unterstützen? Hier freuen wir uns insbesondere über sonst nicht mehr genutzte - also vor dem Müll oder Herumstehen gerettete Dinge. Tritt gerne mit uns in [Kontakt](../../contact).
+Du gehörst einer Firma an und möchtest uns gerne in größerem Rahmen mit Werkzeug und/oder Material unterstützen? Hier freuen wir uns insbesondere über sonst nicht mehr genutzte - also vor dem Müll oder Herumstehen gerettete Dinge. Tritt gerne mit uns in [Kontakt](../../contact)!
