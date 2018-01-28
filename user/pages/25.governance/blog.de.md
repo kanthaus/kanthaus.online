@@ -1,5 +1,5 @@
 ---
-title: "Self-governing"
+title: "Organisation"
 content:
     items: '@self.children'
     limit: 10

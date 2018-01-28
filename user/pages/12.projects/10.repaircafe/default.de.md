@@ -1,14 +1,18 @@
 ---
 title: Reparier- und Techniktreff
+routes:
+  aliases:
+    - '/about/repaircafe'
 ---
 
 Du hast Interesse am Basteln?  
 Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker kaputt gegangen ist?  
 Dein Fahrrad braucht ein bisschen Pflege?  
-
 Und mit all diesen Themen möchtest du nicht allein sein?
 
-## Komm zum offenen Reparier- und Techniktreff
+### Komm zum offenen Reparier- und Techniktreff
+
+===
 
 **jeden Dienstag, ab 17 Uhr, im Kanthaus**
 

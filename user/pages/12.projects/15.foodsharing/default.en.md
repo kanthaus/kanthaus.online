@@ -4,9 +4,12 @@ description: "Save and share food together"
 routes:
   aliases:
     - '/foodsharing'
+    - '/about/foodsharing'
 ---
 
 Since 2012 the foodsharing movement is growing in Germany. On [foodsharing.de](https://foodsharing.de) people organize to pick up unsellable but still good food from businesses. Since 2017 this is also tackled in Wurzen thanks to Kanthaus.
+
+===
 
 Foodsharing is the topic that brought all of us together and for many of our members and volunteers it's still a focus. Maintenance and [development of the online platform](https://devblog.foodsharing.de/index.en.html) as well as the [internationalization of the foodsaving movement](https://foodsaving.world) are progressed mainly at Kanthaus. Building up a functional foodsharing group locally is merely logical in this context.
 

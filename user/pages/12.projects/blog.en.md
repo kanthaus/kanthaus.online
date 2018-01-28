@@ -1,5 +1,5 @@
 ---
-title: "Selbstverwaltung"
+title: Projects
 content:
     items: '@self.children'
     limit: 10

@@ -4,9 +4,12 @@ description: "Gemeinsam Lebensmittel retten und teilen"
 routes:
   aliases:
     - '/foodsharing'
+    - '/about/foodsharing'
 ---
 
 Seit 2012 wächst die Lebensmittelretterbewegung in Deutschland. Auf [foodsharing.de](https://foodsharing.de) organisieren sich Menschen, um bei Betrieben, die mit Nahrung zu tun haben, das Essen abzuholen, das noch genießbar aber nicht mehr verkäuflich ist. Seit 2017 wird dies durch das Kanthaus auch in Wurzen angegangen.
+
+===
 
 Foodsharing ist das Thema, das alle Kanthaus-Menschen zusammengebracht hat und es ist nach wie vor der Interessenschwerpunkt vieler unserer Mitglieder und Freiwilligen. So wird die Instandhaltung und [Weiterentwicklung der Internetplattform](https://devblog.foodsharing.de/index.de.html), sowie die [Internationalisierung der Lebensmittelretterbewegung](https://foodsaving.world/) vor allem im Kanthaus vorangetrieben. Dass dann vor Ort auch eine funktionierende foodsharing-Gruppe aufgebaut wird, ist da nur naheliegend.
 

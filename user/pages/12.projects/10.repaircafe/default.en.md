@@ -1,14 +1,18 @@
 ---
 title: RepairCafe and technology meet-up
+routes:
+  aliases:
+    - '/about/repaircafe'
 ---
 
 You're interested in tinkering?  
 You're upset because your expensive 12V-power supply with custom plug is broken again?  
-Your bicycle needs some love?
-
+Your bicycle needs some love?  
 And you don't want to be alone with all these topics?
 
-## Join our open RepairCafe and technology meet-up!
+### Join our open RepairCafe and technology meet-up!
+
+===
 
 **every Tuesday starting around 5pm at Kanthaus**
 
