@@ -2,23 +2,44 @@
 title: Verfassung
 ---
 
-## § 1. Präambel
+### Inhalt
+[§1. Präambel](#preamble)  
+[§2. Ziele](#purposes)  
+[§3. Prinzipien](#principles)  
+[§4. Ressourcen](#resources)  
+[§5. Freiwillige](#volunteer)  
+[§6. Mitglieder](#member)  
+[§7. Bewerbungsverfahren](#application)  
+§8. Operationale Tätigkeiten  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8a. Handlungen Einzelner](#indact)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8b. Einstimmige Akzeptanz](#uniaccept)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8c. Bewertungswahl](#scorevote)  
+[§9. Änderungen an den Gemeinschaftlichen Vereinbarungen](#collagrchange)  
+[§10. Verfassungsänderung](#constchange)  
+§11. Konfliktlösung  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11a. Direkt](#directconflres)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11b. Freiwillige Mithilfe](#volass)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11c. Intervention](#intervention)
+
+---
+<a name="preamble"></a>
+## §1. Präambel
 
 Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinen Wohl gewidmet. Er wird auf drei Ebenen verwaltet: der Verfassungsebene, der Kollektivebene und die operative Ebene.
-
-===
 
 1. Die Verfassungsebene schreibt vor *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert.
 2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
 3. Die operative Ebene beschreibt *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
+<a name="purposes"></a>
 
-## § 2. Ziele
+## §2. Ziele
 
 1. Weniger Verschwendung. Mehr Teilen.
 2. Freie, libre und Open-Source Software zu entwickeln und zu verbreiten.
 3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung zu stellen und zusammen zu bringen.
 4. Zu geben, was wir können, zu nehmen, was wir brauchen und Anderen zu ermöglichen dasselbe zu tun.
 5. Allgemein, eine tolle Zeit zu haben.
+<a name="principles"></a>
 
 ## §3. Prinzipien
 
@@ -27,17 +48,18 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. Gleichwertigkeit - Ungleichheit minimieren, und
     3. Akzeptanz - Widerstand minimieren.
 2. Weitere leitende Prinzipien beinhalten von der Natur inspirierte Designs wie [Permakultur](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), sich in iterativen Entwicklungsumgebungen wie [Scrum](http://www.scrumguides.org/scrum-guide.html) finden lassende und solche wie die, die von [langanhaltenden Gemeingüter-Institutionen](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) eklärt werden.
+<a name="resources"></a>
 
-## § 4. Ressourcen
+## §4. Ressourcen
 
 1. Die Gebäude der [Kanntstraße 20&22, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (hierin "der Ort".) Dieser Ort ist legaler Besitz von [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) im Auftrag vom Kanthaus.
 2. Alle in diesem Ort befindlichen Güter, außer anderweitig angegeben.
 3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
 4. Der Haus Kante Wurzen w.V. selbst.
-
+<a name="volunteer"></a>
 <p align="center"><i>Rollen</i></p>
 
-## § 5. Freiwillige
+## §5. FreiwilligeR
 
 1. Die Position des Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und tiefer involviert sein möchten.
 2. EinE FreiwilligeR kann
@@ -57,8 +79,9 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. wenn er/sie ein Mitglied wird,
     3. auf seinen/ihren Wunsch, oder
     4. wenn es von einer Konfliktlösung durch Intervention (§11c.) verlangt wird.
+<a name="member"></a>
 
-## § 6. Mitglied
+## §6. Mitglied
 
 1. Die Rolle des Mitglieds ist für Personen gedacht, die mit dem Projekt vertraut sind und sich diesem verpflichten möchten.
 2. Ein Mitglied kann
@@ -77,10 +100,10 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. wenn sie 3 Monate am Stück nicht am Ort war (automatischer Wechsel auf FreiwilligeR),
     2. auf ihren Wunsch (automatischer Wechsel auf FreiwilligeR), oder
     3. wenn Konfliktlösung durch Intervention (§11c.) es vorschreibt.
-
+<a name="application"></a>
 <p align="center"><i>Verfahren</i></p>
 
-## § 7. Bewerbungsverfahren
+## §7. Bewerbungsverfahren
 
 1. Der/Die sich Bewerbende darf während des Verfahrens nicht anwesend sein.
 2. Zuerst sollten die Teilnehmenden eine einleitende Abstimmung vornehmen, in der sie sich anonym äußern, ob sie einem positiven Bewerbungsverfahren mit "Unterstützung" (+), "Einwilligung" (0) oder "Widerstand" (-) begegen.
@@ -89,10 +112,11 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. ist die Bewerbung erfolgreich, wenn es mindestens 3 mal mehr "Unterstützung"-Stimmen als "Widerstand"-Stimmen gibt,
     2. sonst schlägt die Bewerbung zu diesem Zeitpunkt fehl.
 5. Der/Die sich Bewerbende sollte umgehend informiert werden, ob die Bewerbung erfolgreich war oder fehlgeschlagen ist, nicht aber die Aufteilung der Stimmen erfahren.
+<a name="indact"></a>
 
-## § 8. Operative Tätigkeiten
+## §8. Operative Tätigkeiten
 
-### Handlungen Einzelner
+### §8a. Handlungen Einzelner
 
 1. JedeR Einzelne kann handeln, vorausgesetzt
     1. es gibt keine ausstehenden Widerstände gegenüber der Handlung, und
@@ -100,12 +124,14 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 2. Es gibt kein spezielles Format für Handlungen Einzelner. Während es in einigen Fällen möglicherweise für Einzelne angemessen ist einfach zu [ beginnen](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), ist es in anderen Fällen möglicherweise angebrachter sich vor Beginn zuerst <a href = "http:// www.reinventingorganizationswiki.com/Decision_Making "> zu beraten,</a> oder [ den Vorschlag zu äußern](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
 3. JedeR Einzelne, der Widerstand gegen eine derzeitige oder vorgeschlagene Handlung hat sollte dies frühzeitig, klar und freundlich äußern.
 4. Erhält eine derzeitige oder geplante Handlung Widerstand, sollte sie unterbrochen oder verschoben werden und die Betroffenen sollten mit Stufe 2, der einstimmigen Akzeptanz, fortfahren (§8b.)
+<a name ="uniaccept"></a>
 
 ### §8b. Einstimmige Akzeptanz
 
 1. Wenn niemand Widerstand gegen einen Vorschlag oder eine Handlung hat, dann ist dies Einstimmige Akzeptanz.
 2. Es gibt kein spezifisches Format um Einstimmige Akzeptanz zu erlangen. Viele hilfreiche Techniken erleichtern das Erreichen der Einstimmigen Akzeptanz, so wie z.B. kleinschrittiges Testen, Präsentationen, Diskussionen, Meetings mit [geplanten Abläufen](http://cultivate.coop/wiki/Agenda_Planning), Runden, [Talking Sticks](https://en.wikipedia.org/wiki/Talking_stick), [Hand-Signale](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [Sprecherlisten](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) oder Zeitbeschränkungen.
 3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, sollten die Betroffenen zur Bewertungswahl übergehen. In der Behandlung eines Sachverhalts zu Bewertungswahl (§8c.) überzugehen sollte mit Einstimmiger Akzeptanz geschehen. Wenn dies nicht möglich ist reicht einfache Mehrheit.
+<a name="scorevote"></a>
 
 ### §8c. Bewertungswahl
 
@@ -114,8 +140,9 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. ein 'Status Quo'-Kontrollvorschlag (z.B. 'alles so belassen wie es ist/keine Änderung') und
     3. ein Eskalationsverfahrens-Kontrollvorschlag (z.B. 'Wechsel zur Änderung der Gemeinschaftlichen Vereinbarungen') gesammelt werden.
 2. Nun sollten die Betroffenen jeden Vorschlag einzeln mit "Unterstützung", "Einwilligung" oder "Widerstand" bewerten. Danach werden die Stimmen als Punktwerte summiert, indem "Unterstützung" als 1, "Einwilligung" als 0 und "Widerstand" als -3 gezählt wird. Der Vorschlag mit dem höchsten Zahlenwert wird gewählt.
+<a name="collagrchange"></a>
 
-## §9 Änderungen an den Gemeinschaftlichen Vereinbarungen
+## §9. Änderungen an den Gemeinschaftlichen Vereinbarungen
 
 1. Jede Ergänzung, Löschung oder anderweitige Änderung an den Gemeinschaftlichen Vereinbarungen muss anhand des im Folgenden beschriebenen Verfahrens erfolgen.
 2. Das Verfahren beginnt, wenn alle Freiwilligen und Mitglieder, die sich zu diesem Zeitpunkt am Ort befinden, über einen klaren und eindeutigen Vorschlag eines Freiwilligen oder Mitglieds informiert wurden, der
@@ -130,6 +157,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. für jeden Vorschlag die Summe der angepassten Werte gebildet,
     3. der Vorschlag mit dem höchsten Zahlenwert gewählt und
     4. die gewählte Änderung in die Gemeinschaftlichen Vereinbarungen übernommen werden.
+<a name="constchange"></a>
 
 ## §10 Verfassungsänderung
 
@@ -150,6 +178,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
         3. das Verfahren zur Verfassungsänderung ist beendet.
     5. Andernfalls
         1. wird das Verfahren ab Unterpunkt 3 (also einer neuen ersten und dann zweiten Phase) wiederholt.
+<a name="directconflres"></a>
 
 ## §11 Konfliktlösung
 
@@ -157,6 +186,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 
 1. Personen werden generell ermutigt ihre Konflikte direkt zu lösen.
 2. Es gibt kein spezifisches Format für direkte Konfliktlösung. Viele hilfreiche Techniken erleichtern den Umgang mit Konflikten, wie z.B. der [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Gewaltfreie Kommunikation](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Kognitive Verhaltenstherapie](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [4-Augen Gespräche](url), [Listen Looping, Ich-Nachrichten und nicht-defensive Erklärungen](https://loomio.coop/conflict_resolution_resources.html).
+<a name="volass"></a>
 
 ### §11b. Freiwillige Mithilfe
 
@@ -166,6 +196,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. einE DritteR, der/die mehrere beteiligte Personen unterstützt ('direkte Brücke')
     3. Hilfspersonen, die anstelle der Betroffenen miteinander sprechen ('indirekre Brücke'), oder
     4. eine Gruppe von Dritten wohnt einem Treffen der Betroffenen bei, um zu bezeugen und/oder Rat anzubieten ('Panel').
+<a name="intervention"></a>
 
 ### §11c. Intervention
 
@@ -174,11 +205,6 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. Eine Person verpflichten an moderierten Konfliktlösungsverfahren teilzunehmen.
     2. Einer Person den Status FreiwilligeR oder Mitglied entziehen.
     3. Eine Person auffordern den Ort temporär oder für immer zu verlassen.
-
-## §12 Reduktion der Zeiträume
-
-1. Alle in den Abschnitten 9 und 10 spezifizierten Zeiträume sind um die Hälfte gekürzt.
-2. Dieser komplette Abschnitt wird am 5. November 2017 automatisch entfernt.
 
 * * *
 

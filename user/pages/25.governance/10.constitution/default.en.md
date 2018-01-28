@@ -2,14 +2,35 @@
 title: "Constitution"
 ---
 
-### §1. Preamble
-Kanthaus is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
+### Table of Contents
+[§1. Preamble](#preamble)  
+[§2. Purposes](#purposes)  
+[§3. Principles](#principles)  
+[§4. Resources](#resources)  
+[§5. Volunteer](#volunteer)  
+[§6. Member](#member)  
+[§7. Application Procedure](#application)  
+§8. Operational Activity  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8a. Individual Action](#indact)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8b. Unanimous Acceptance](#uniaccept)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8c. Score Voting](#scorevote)  
+[§9. Changing the Collective Agreements](#collagrchange)  
+[§10. Changing the Constitution](#constchange)  
+§11. Conflict Resolution  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11a. Direct Conflict Resolution](#directconflres)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11b. Voluntary Assistance](#volass)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11c. Intervention](#intervention)
 
-===
+---
+<a name="preamble"></a>
+
+### §1. Preamble<a name="application"></a>
+Kanthaus is an open-entry common-space in Germany dedicated to the common good. It is governed in three layers: the Constitutional layer, the Collective layer and the Operational layer—
 
 1. The Constitutional layer prescribes _who decides what should happen and how_. This layer contains the core agreements—such as Purposes, Positions and Procedures—which both support and supersede agreements at the following layers. It is documented in the Constitution (this document) and supported by the [FAQ](../governancefaq/).
 1. The Collective layer prescribes _what should happen_. This layer contains other formal agreements—such as policies, schedules and best-practices—which support and supersede agreements in the Operational layer. It is documented in [the Collective Agreements](../collectiveagreements/).
 1. The Operational layer describes _what actually happens_. This layer contains unconscious, informal and semi-formal agreements such as norms, sub-group agreements and spontaneous activity. It is not centrally documented.
+<a name="purposes"></a>
 
 ### §2. Purposes
 1. To reduce waste and promote sharing.
@@ -17,6 +38,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. To provide and connect public and common resources.
 1. To give what we can, take what need and facilitate others to do the same.
 1. To generally have a jolly good time.
+<a name="principles"></a>
 
 ### §3. Principles
 1. The three main principles which describe the intention behind the Constitution and how it should be interpreted are—
@@ -24,13 +46,14 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. Equality—minimize inequality, and
 	1. Acceptance—minimize opposition.
 1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those contained within iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those illustrated by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
+<a name="resources"></a>
 
 ### §4. Resources
 1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of Kanthaus by [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein.)
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
 1. Haus Kante Wurzen w.V. itself.
-
+<a name="volunteer"></a>
 <p align="center"><i>Positions</i></p>
 
 ### §5. Volunteer
@@ -52,6 +75,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. if they become a Member,
 	1. at their request, or
 	1. if Conflict Resolution by Intervention (§11c.) prescribes it.
+<a name="member"></a>
 
 ### §6. Member
 1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
@@ -71,7 +95,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. if they have been continuously absent from the space for more than 3 months (automatically switching to Volunteer,)
 	1. at their request (automatically switching to Volunteer,) or
 	1. if a Conflict Resolution by Intervention (§11c.) prescribes it.
-
+<a name="application"></a>
 <p align="center"><i>Procedures</i></p>
 
 ### §7. Application Procedure
@@ -82,6 +106,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the application succeeds, or
 	1. else the application fails at that time.
 1. The applicant should promptly be informed whether their application has succeeded or failed, but not the breakdown of which votes were cast.
+<a name="indact"></a>
 
 ### §8. Operational Activity
 #### §8a. Individual Action
@@ -91,11 +116,13 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 1. There is no specific format for Individual Action. Whilst in some cases it may be appropriate for the individual to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), in other cases it may be more appropriate to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
 1. Any individual who is opposed towards a current or proposed Individual Action should voice it early, clearly and kindly.
 1. If a current or proposed Individual Action receives opposition it should be paused or postponed and the individuals involved should proceed with Unanimous Acceptance (§8b.)
+<a name="uniaccept"></a>
 
 #### §8b. Unanimous Acceptance
 1. Unanimous Acceptance towards a proposal or action is attained while no one opposes it.
 1. There is no specific format for attaining Unanimous Acceptance. Many tools and techniques exist which may help, including: smaller-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
 1. If Unanimous Acceptance cannot be attained in a proportionate time-frame, the individuals involved should proceed with Score Voting. Proceeding to Score Voting (§8c.) on a topic should be done with Unanimous Acceptance but may otherwise be done by simple majority.
+<a name="scorevote"></a>
 
 #### §8c. Score Voting
 1. Firstly, individuals should discuss the current state-of-affairs, the initial proposal (if applicable) and generate alternative proposal(s). Afterwards, a list of proposals is created by gathering—
@@ -103,6 +130,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. a 'status quo' control proposal (i.e. 'keep things as they are/change nothing',) and
 	1. an 'escalate procedure' control proposal (i.e. 'switch to Collective Change'.)
 1. Secondly, the individuals should score the proposals as 'support’, ‘accept’ or ‘oppose'. Afterwards the scores for each proposal are totalled by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3: the proposal with the highest total is selected.
+<a name ="collagrchange"></a>
 
 ### §9. Changing the Collective Agreements
 1. Any addition, subtraction or other change to the Collective Agreements must be made according to the following procedure.
@@ -118,6 +146,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. the adjusted scores for each proposal are totalled,
 	1. the proposal with the highest total is selected, and
 	1. the Collective Agreements should be changed to reflect the decision.
+<a name="constchange"></a>
 
 ### §10. Changing the Constitution
 1. Any addition, subtraction or other change to the Constitution must be made using the following procedure.
@@ -137,11 +166,13 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 		1. the procedure of Constitutional Change is terminated. Or
 	1. else—
 		1. the procedure is repeated from subsection 3. (i.e. a further primary then secondary phase.)
+<a name="directconflres"></a>
 
 ### §11. Conflict Resolution
 #### §11a. Direct
 1. Individuals are generally encouraged to resolve their conflicts directly.
 1. There is no specific format for Direct Conflict Resolution. Many techniques and tools exist to prevent potential conflicts, manage ongoing conflicts and analyze resolved conflicts, including: the [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Non-violent Communication](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Cognitive Behavioral Therapy](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [1-on-1 dialogue](url), [Listen Looping, I-messages and Non-defensive Assertions.](https://loomio.coop/conflict_resolution_resources.html)
+<a name="volass"></a>
 
 #### §11b. Voluntary Assistance
 1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'actor') may voluntarily seek and/or accept assistance from third-parties.
@@ -150,6 +181,7 @@ Kanthaus is an open-entry common-space in Germany dedicated to the common good. 
 	1. a third-party individual supporting multiple actors ('direct bridge',)
 	1. support persons engaging in dialogue on behalf of the actors ('indirect bridge',) or
 	1. a group of third-party individuals attend a meeting of the actors to bear witness and/or offer advice ('panel'.)
+<a name="intervention"></a>
 
 #### §11c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, the Members may intervene as a last resort.
