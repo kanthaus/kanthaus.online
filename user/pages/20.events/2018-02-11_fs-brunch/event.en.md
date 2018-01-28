@@ -8,6 +8,8 @@ Bring what you have left over from last week and let's have a nice time while ea
 The foodsharing leftover brunch is about coming together.  
 Together we'll dare to open those dubious jars you found in the back of your pantry and find out how long this food _really_ lasts.
 
+===
+
 We want to exchange ideas - recipes and delicacies, special discoveries and unknown food, and talk about foodsharing.
 
 Are you having trouble with [foodsharing.de](https://foodsharing.de)? Do you need help with the quiz? Or are you absolutely clueless and still confused how this foodsaving is actually supposed to work?  

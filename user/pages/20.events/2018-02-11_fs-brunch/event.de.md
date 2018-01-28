@@ -8,6 +8,8 @@ Bring das mit, was bei dir diese Woche übrig geblieben ist und lass uns in gese
 Beim foodsharing Mitbring-Brunch geht es darum, zusammenzukommen.  
 Gemeinsam kann man inspizieren was aus den hintersten Ecken der Schränke gekramt wurde. Zusammen machen wir Gläser auf, denen du nicht mehr ganz traust und schauen wie lang sich Lebensmittel _wirklich_ halten.
 
+===
+
 Wir wollen uns autauschen  - über Rezepte und Spezialitäten, über besondere Funde und unbekannte Nahrungsmittel, und über foodsharing.
 
 Hast du Probleme mit [foodsharing.de](https://foodsharing.de)? Brauchst du Hilfe beim Quiz? Oder weisst du noch überhaupt nicht, wie das mit dem Lebensmittelretten überhaupt funktionieren soll?  
