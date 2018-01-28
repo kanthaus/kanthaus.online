@@ -11,7 +11,7 @@ There are 3 positions at Kanthaus, in ascending level of responsibility *and* po
 ===
 
 ## Evaluation
-Everyone* at Kanthaus gets evaluated—it's normal! Evaluation is a formal opportunity for you and the rest of the Kanthaus community to honestly inspect how that relationship is going and which Position suits you at this time: the whole thing lasts for ~1 hour. This document is a more human-readable version of the formal agreements located in the [Constitution](../governance/constitution) in §5., §6. & §7. There is also a [flow-chart](../positionflowchart) of the Position system.
+Everyone* at Kanthaus gets evaluated—it's normal! Evaluation is a formal opportunity for you and the rest of the Kanthaus community to honestly inspect how that relationship is going and which Position suits you at this time: the whole thing lasts for ~1 hour. This document is a more human-readable version of the formal agreements located in the [Constitution](../constitution) in §5., §6. & §7. There is also a flow-chart at the end of this page.
 
 ### 1. Meeting with Kanthaus Volunteers and Members (~30 minutes)
 When it is time for your evaluation, a meeting will be arranged with you in which only you and existing Kanthaus Members and Volunteers are invited. This will probably be done during a Coordination Meeting. No official notes will be taken, although you are welcome to take notes if you wish. The only question that needs to be answered is whether you want to apply to continue at your current Position (e.g. Visitor) or progress to the next Position (e.g. Volunteer); aside from that the discussion is open and you are warmly invited to ask anything you want an answer to. Questions to consider include—
