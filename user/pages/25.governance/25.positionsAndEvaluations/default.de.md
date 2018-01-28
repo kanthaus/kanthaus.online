@@ -5,19 +5,10 @@ title: "Positionen und Evaluation"
 # Positionen und Evaluationen
 Dieses Dokument soll einen Überblick über die Struktur der formalen sozialen Hierarchie im Kanthaus geben.
 
-===
-
 ## Positionen
-Es gibt 3 Positionen im kanthaus, mit ansteigenden Levels von Rechten *und* Pflichten. Diese sind: Gast, FreiwilligeR und Mitglied. Diese Positionen zeigen und regulieren die wirklichen Verantwortlichkeiten und Berechtigungen, die Menschen haben.  
-Eine kurze Zusammenfassung der Positionen:
+Es gibt 3 Positionen im kanthaus, mit ansteigenden Levels von Rechten *und* Pflichten. Diese sind: Gast, FreiwilligeR und Mitglied. Diese Positionen zeigen und regulieren die wirklichen Verantwortlichkeiten und Berechtigungen, die Menschen haben. Menschen kommen durch **Evaluationen** von einer Position in eine andere.
 
-| Position  | Generelle Handlungserlaubnis? | Gemeinschaftliche Vereinbarungen ändern? | Verfassung ändern? | Freiwillige mitwählen? | Mitglieder mitwählen? | Erwartete Beiträge  | Zeit bis Evaluation |
-|-----------|-----------------|--------------------|----------------------|--------------------|-----------------|------------------------|-------------------------|
-| Gast   | Ja             | Nein                 | Nein                   | Nein                 | Nein              | keine                   | 14 Tage                 |
-| FreiwilligeR | Ja             | Ja                | Nein                   | Ja                | Nein              | Haus                  | 3 Monate                |
-| Mitglied    | Ja             | Ja                | Ja                  | Ja                | Ja             | Haus und Wurzen/Welt | (9 Monate ?)            |
-
-Menschen kommen durch **Evaluationen** von einer Position in eine andere.
+===
 
 ## Evaluation
 Alle* im Kanthaus werden evaluiert - das ist ganz normal! Die Evaluation ist eine formal festgesetzte Gelegenheit für dich und den Rest der Kanthasu Community ehrlich zu ergründen, wie die Beziehung läuft und welche Position für dich gerade am besten passt. Das Ganze dauert so eine Stunde. Dieses Dokument ist eine netter ausformulierte Version der formellen Niederschrift in der [Verfassung](../constitution) in §5., §6. & §7. Es gibt auch ein [Flussdiagramm](../positionflowchart) über das Positionssystem.
@@ -47,3 +38,12 @@ Die Frage wird erneut gestellt: _"(Dein Name) hat sich um die Position (von dir 
 Direkt im Anschluss an die Wahl wird dir mitgeteilt werden, welche Position du ab jetzt inne hast, sowie weitere Infos, falls deine Bewerbung nicht erfolgreich war.
 
 _*Momentan werden Mitglieder noch nicht reevaluiert. Es gibt aber bereits Pläne die Verfassung zu ändern, um Mitgliederevaluationen einzuführen._
+
+---
+
+*Das folgende - leider nur auf Englisch verfügbare - Flussdiagramm visualisiert die Rollen im Kanthaus, wie definiert in den [ gemeinschaftlichen Vereinbarungen](../collectiveagreements/) (Besuchende) und der [ Verfassung](../constitution/) (Freiwillige und Mitglieder)*
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="/pics/currentPositionFlow.svg" />
+</div>
+<br></br>

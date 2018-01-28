@@ -5,18 +5,10 @@ title: "Positions and Evaluation"
 # Positions and Evaluations
 This document is meant to give an overview about the structure of social hierarchy at Kanthaus.
 
-===
-
 ## Positions
-There are 3 positions at Kanthaus, in ascending level of responsibility *and* power they are: Visitor, Volunteer and Member. These Positions reflect and regulate the actual responsibility and power people hold. A brief summary of the Positions—
+There are 3 positions at Kanthaus, in ascending level of responsibility *and* power they are: Visitor, Volunteer and Member. These Positions reflect and regulate the actual responsibility and power people hold. People move between Positions based on **evaluation.**
 
-| Position  | General action? | Change Agreements? | Change Constitution? | Select Volunteers? | Select Members? | Expected contribution  | Period until evaluation |
-|-----------|-----------------|--------------------|----------------------|--------------------|-----------------|------------------------|-------------------------|
-| Visitor   | Yes             | No                 | No                   | No                 | No              | None                   | 14 days                 |
-| Volunteer | Yes             | Yes                | No                   | Yes                | No              | House                  | 90 days                |
-| Member    | Yes             | Yes                | Yes                  | Yes                | Yes             | House and Wurzen/World | (180 days ?)            |
-
-People move between Positions based on **evaluation.**
+===
 
 ## Evaluation
 Everyone* at Kanthaus gets evaluated—it's normal! Evaluation is a formal opportunity for you and the rest of the Kanthaus community to honestly inspect how that relationship is going and which Position suits you at this time: the whole thing lasts for ~1 hour. This document is a more human-readable version of the formal agreements located in the [Constitution](../governance/constitution) in §5., §6. & §7. There is also a [flow-chart](../positionflowchart) of the Position system.
@@ -47,3 +39,12 @@ Again the question will be asked, _"Do you support, accept or oppose (your name)
 You will receive feedback immediately regarding which Position you are offered and further feedback if you weren't offered the Position you applied for.
 
 _*Right now Members do not get reevaluated. There are already plans to alter the Constitution to introduce it._
+
+---
+
+_The following flowchart visualizes the positions at Kanthaus as defined in the [Collective Agreements](../collectiveagreements/) (Visitors) and the [Constitution](../constitution/) (Volunteers and Members.)_
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="/pics/currentPositionFlow.svg" />
+</div>
+<br></br>
