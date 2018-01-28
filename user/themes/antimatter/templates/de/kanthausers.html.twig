@@ -4,10 +4,17 @@
     {% if config.plugins.breadcrumbs.enabled %}
         {% include 'partials/breadcrumbs.html.twig' %}
     {% endif %}
+    <h2>Mitglieder</h2>
     <ul>
     {% for v in page.header.imports.members %}
         <li><b>{{v.name}}</b> (seit {{v.joined}}{% if v.founder %}, Gründungsmitglied{% endif %})</li>
     {% endfor %}
+    </ul>
+    <h2>Freiwillige</h2>
+    <ul>
+      {% for v in page.header.imports.volunteers %}
+          <li><b>{{v.name}}</b> (seit {{v.joined}})</li>
+      {% endfor %}
     </ul>
 	{{ page.content }}
 {% endblock %}
