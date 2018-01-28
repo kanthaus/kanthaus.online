@@ -5,6 +5,8 @@ date: '2018-02-11'
 
 Bring das mit, was bei dir diese Woche übrig geblieben ist und lass uns in geselliger Runde gemeinsam essen und quatschen!
 
+**Von 10 bis 15 Uhr gibt es bei uns den Tisch dafür!**
+
 Beim foodsharing Mitbring-Brunch geht es darum, zusammenzukommen.  
 Gemeinsam kann man inspizieren was aus den hintersten Ecken der Schränke gekramt wurde. Zusammen machen wir Gläser auf, denen du nicht mehr ganz traust und schauen wie lang sich Lebensmittel _wirklich_ halten.
 
