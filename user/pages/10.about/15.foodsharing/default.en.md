@@ -1,5 +1,5 @@
 ---
-title: "foodsharing Wurzen"
+title: "Foodsharing Wurzen"
 description: "Save and share food together"
 routes:
   aliases:

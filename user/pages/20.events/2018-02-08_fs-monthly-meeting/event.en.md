@@ -1,5 +1,5 @@
 ---
-title: "Monthly foodsharing meeting"
+title: "Monthly Foodsharing meeting"
 date: "2018-02-08"
 ---
 

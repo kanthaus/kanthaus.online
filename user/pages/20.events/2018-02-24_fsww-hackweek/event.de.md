@@ -7,7 +7,7 @@ routes:
     - '/events/upcoming/2018-02-24_fsww-hackweek'
 ---
 
-Die foodsharing-Idee soll sich auf der ganzen Welt verbreiten!
+Die Foodsharing-Idee soll sich auf der ganzen Welt verbreiten!
 
 ![foodsaving worldwide](/pics/fsww_tinyppl.jpg)
 
