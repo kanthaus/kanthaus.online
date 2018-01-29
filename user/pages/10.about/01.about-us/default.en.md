@@ -2,15 +2,17 @@
 title: "About Kanthaus"
 description: "Living with self-determination, equality and acceptance."
 ---
+
 ===
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-<img src="/pics/2017festivalmeeting.jpg" />
-<img src="/pics/kube01.jpg" />
-<img src="/pics/001.jpg" />
-<img src="/pics/002.jpg" />
-<img src="/pics/communalKino.jpg" />
-<img src="/pics/kube02color.jpg" />
-<sub>Images 2 and 6 by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
+  <img src="/pics/2017festivalmeeting.jpg" />
+  <img src="/pics/kube01.jpg" />
+  <img src="/pics/fireworks.jpg" />"
+  <img src="/pics/001.jpg" />
+  <img src="/pics/002.jpg" />
+  <img src="/pics/communalKino.jpg" />
+  <img src="/pics/kube02color.jpg" />
+  <sub>Images 2 and 7 by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
 </div>
 <br></br>
 
