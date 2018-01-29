@@ -30,21 +30,21 @@ A14 to exit Wurzen, B6 to Wurzen. At lidl, a bit left and at the memorial 2x rig
 ### Imprint
 Information according to § 5 TMG
 
-Wandel würzen e.V.
-Kantstraße 20
-04808 Wurzen
-Represented by:
-Matthias Larisch, Janina Abels
-Contact:
-Phone: 03425-8527995
-Fax: 03425-8541805
-E-Mail: wandel-wuerzen@kanthaus.online
+Wandel würzen e.V.<br />
+Kantstraße 20<br />
+04808 Wurzen<br />
+Represented by:<br />
+Matthias Larisch, Janina Abels<br />
+Contact:<br />
+Phone: 03425-8527995<br />
+Fax: 03425-8541805<br />
+E-Mail: wandel-wuerzen@kanthaus.online<br />
 
-Registereintrag:
-Eintragung im Registergericht: Leipzig
-Registernummer: VR 6493
+Registereintrag:<br />
+Eintragung im Registergericht: Leipzig<br />
+Registernummer: VR 6493<br />
 
-Responsible for the content following § 55.2 RStV:
-Wandel würzen e.V.
-Kantstraße 20
-04808 Wurzen
+Responsible for the content following § 55.2 RStV:<br />
+Wandel würzen e.V.<br />
+Kantstraße 20<br />
+04808 Wurzen<br />

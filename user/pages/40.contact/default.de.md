@@ -31,21 +31,21 @@ A14 bis Anschlussstelle Wurzen, dann der B6 bis Wurzen folgen. Beim Lidl halb li
 ### Impressum
 Angaben gemäß § 5 TMG
 
-Wandel würzen e.V.
-Kantstraße 20
-04808 Wurzen
-Vertreten durch:
-Matthias Larisch, Janina Abels
-Kontakt:
-Telefon: 03425-8527995
-Fax: 03425-8541805
+Wandel würzen e.V.<br />
+Kantstraße 20<br />
+04808 Wurzen<br />
+Vertreten durch:<br />
+Matthias Larisch, Janina Abels<br />
+Kontakt:<br />
+Telefon: 03425-8527995<br />
+Fax: 03425-8541805<br />
 E-Mail: wandel-wuerzen@kanthaus.online
 
-Registereintrag:
-Eintragung im Registergericht: Leipzig
-Registernummer: VR 6493
+Registereintrag:<br />
+Eintragung im Registergericht: Leipzig<br />
+Registernummer: VR 6493<br />
 
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Wandel würzen e.V.
-Kantstraße 20
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:<br />
+Wandel würzen e.V.<br />
+Kantstraße 20<br />
 04808 Wurzen
