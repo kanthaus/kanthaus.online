@@ -1,10 +1,12 @@
 ---
-title: 'Küche für Alle'
+title: 'Kitchen for all'
 date: '2018-02-24'
 ---
 
 The grand finale of the foodsharing February comes with an invitation: Everyone who's interested shall come visit us at Kanthaus to feast with us!  
-For this Saturday afternoon we will celebrate food and the pleasure it gives!
+This Saturday afternoon we will celebrate food and the pleasure it gives!
+
+===
 
 Do you know the recipe for an extraordinarily amazing cake?  
 Do you know how to bake the best cookies?  
