@@ -11,6 +11,6 @@ debugger: true
 ---
 # Kanthaus
 
-## Ein Haus zum Teilen
+## Ein Haus des Teilens
 
 ![Kanthaus Logo](/pics/dougintheyard.jpg)
