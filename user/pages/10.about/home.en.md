@@ -13,4 +13,5 @@ content:
 
 ## A house for sharing
 
-![Kanthaus Logo](/pics/dougintheyard.jpg)
+![Kanthaus Logo](/pics/kube01.jpg)
+<sub>Image by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>

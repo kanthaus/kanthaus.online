@@ -13,4 +13,5 @@ debugger: true
 
 ## Ein Haus des Teilens
 
-![Kanthaus Logo](/pics/dougintheyard.jpg)
+![Kanthaus Logo](/pics/kube01.jpg)
+<sub>Foto von <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
