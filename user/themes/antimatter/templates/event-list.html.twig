@@ -1,7 +1,12 @@
 {% embed 'partials/base.html.twig' %}
 
-	{% set upcoming = page.collection().dateRange('now', '+10 years').order('date', 'asc') %}
+    {% set collection = page.collection() %}
+    {% set ongoing = page.collection().dateRange('now', false, 'header.enddate') %}
+	{% set upcoming = page.collection().dateRange('now', false).merge(ongoing).order('date', 'asc') %}
     {% set past = page.collection().dateRange('-10 years', 'now').order('date', 'desc') %}
+    {% for o in ongoing %}
+        {% do past.remove(o) %}
+    {% endfor %}
 
 	{% block content %}
 		{% set blog_image = page.media.images|first.grayscale().contrast(20).brightness(-100).colorize(-35,81,122) %}
@@ -23,10 +28,6 @@
 				{% for child in upcoming %}
 			        {% include 'partials/event_item.html.twig' with {'blog':page, 'page':child, 'truncate':true, 'showdate':header.showitemdates} %}
 			    {% endfor %}
-
-                {% if config.plugins.pagination.enabled and collection.params.pagination %}
-                    {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
-                {% endif %}
 
                 <h1>{{ 'EVENT.PAST'|t }}</h1>
                 {% for child in past %}
