@@ -6,6 +6,6 @@ content:
     pagination: true
     order:
         by: 'date'
-        dir: 'asc'
+        dir: 'desc'
 showitemdates: true
 ---

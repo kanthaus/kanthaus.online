@@ -99,12 +99,12 @@
     {% if show_prev_next %}
 
         <p class="prev-next">
-            {% if not page.isFirst %}
-                <a class="button" href="{{ page.nextSibling.url }}"><i class="fa fa-chevron-left"></i> {{ 'EVENT.ITEM.OLDER'|t }}</a>
+            {% if not page.isLast %}
+                <a class="button" href="{{ page.prevSibling.url }}"><i class="fa fa-chevron-left"></i> {{ 'EVENT.ITEM.OLDER'|t }}</a>
             {% endif %}
 
-            {% if not page.isLast %}
-                <a class="button" href="{{ page.prevSibling.url }}">{{ 'EVENT.ITEM.NEWER'|t }} <i class="fa fa-chevron-right"></i></a>
+            {% if not page.isFirst %}
+                <a class="button" href="{{ page.nextSibling.url }}">{{ 'EVENT.ITEM.NEWER'|t }} <i class="fa fa-chevron-right"></i></a>
             {% endif %}
         </p>
     {% endif %}
