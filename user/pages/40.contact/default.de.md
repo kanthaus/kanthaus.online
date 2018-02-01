@@ -15,7 +15,7 @@ title: Kontakt
 Ab Leipzig Hauptbahnhof einmal die Stunde mit dem RE Richtung Dresden (17 Minuten) oder mit der S-Bahn Richtung Oschatz/Wurzen (37 Minuten).
 Ticket: Bahncard 25 Einzelfahrt, MDV EasyGo App Hopperticket oder normales Ticket vom Automaten.
 
-### trampen
+### per Anhalter
 Auf A14 Richtung Dresden bis Autobahnanschluss Grimma.
 Von dort weiter nach Norden bis Wurzen (klappt im Dunkeln schlecht).
 
@@ -28,7 +28,7 @@ Alternativ nach Leipzig reinbringen lassen und dort direkt S-Bahn/RE.
 A14 bis Anschlussstelle Wurzen, dann der B6 bis Wurzen folgen. Beim Lidl halb links rein, bei der Kriegerdenkmalsäule 2x rechts in die Kantstraße.
 
 
-### Impressum
+## Impressum
 Angaben gemäß § 5 TMG
 
 Wandel würzen e.V.<br />

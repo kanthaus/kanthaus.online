@@ -11,11 +11,11 @@ title: "Contact"
 
 ## How to get here
 
-### via train
+### by train
 From Leipzig main station every hour via RE direction Dresden (17 minutes) or S-Bahn direction Oschatz/Wurzen (37 minutes).
 Ticket (sorted cheap to expensive): Bahncard 25 single ticket, MDV easy go app Hopperticket or just a plain ticket from the ticketing machine or in the S-Bahn.
 
-### hitchhiking
+### by hitchhiking
 A14 direction Dresden to exit Grimma.
 Stay near the exit and hithchike further north to Wurzen. You might not be very successful at night.
 
@@ -24,10 +24,10 @@ Here the MDV easygo app Hopperticket is much cheaper than a single ticket.
 
 If you make it into Leipzig, take any other S-Bahn.
 
-### via car
+### by car
 A14 to exit Wurzen, B6 to Wurzen. At lidl, a bit left and at the memorial 2x right into the Kantstraße.
 
-### Imprint
+## Imprint
 Information according to § 5 TMG
 
 Wandel würzen e.V.<br />
