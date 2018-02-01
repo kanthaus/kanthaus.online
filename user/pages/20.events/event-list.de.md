@@ -2,7 +2,7 @@
 title: "Veranstaltungen"
 content:
     items: '@self.children'
-    limit: 10
+    limit: 20
     pagination: true
     order:
         by: 'date'
