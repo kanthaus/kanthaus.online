@@ -9,7 +9,7 @@ routes:
 
 ![foodsharing-Logo](/pics/foodsharinglogo_positiv.png)
 
-The very first hackathon Kanthaus will host will benefit [foodsharing.de](https://foodsharing.de) of course!
+The very first hackathon Kanthaus we'll host will benefit [foodsharing.de](https://foodsharing.de) of course!
 
 Matthias is happy to invite developers, who want to work on the legacy PHP code with him. There will be focused work, saved food and a special atmosphere of community and everything is free of charge!
 
