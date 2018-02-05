@@ -1,12 +1,12 @@
 ---
 title: "RepairCafé and technology meet-up"
-date: "2018-01-30"
+date: "2018-02-06"
 ---
 
 ### RepairCafé and technology meet-up
 
-Broken devices clutter your apartment?  
-You fancy tinkering?  
+Broken devices clutter your apartment?
+You fancy tinkering?
 You're interested in exchanging experiences?
 
 Drop by: **Every Tuesday at 5pm**
