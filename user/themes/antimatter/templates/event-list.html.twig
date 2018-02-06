@@ -1,9 +1,9 @@
 {% embed 'partials/base.html.twig' %}
 
     {% set collection = page.collection() %}
-    {% set ongoing = page.collection().dateRange('now', false, 'header.enddate') %}
-	{% set upcoming = page.collection().dateRange('now', false).merge(ongoing).order('date', 'asc') %}
-    {% set past = page.collection().dateRange('-10 years', 'now').order('date', 'desc') %}
+    {% set ongoing = page.collection().dateRange('-6 hours', false, 'header.enddate') %}
+	{% set upcoming = page.collection().dateRange('-6 hours', false).merge(ongoing).order('date', 'asc') %}
+    {% set past = page.collection().dateRange('-10 years', '-6 hours').order('date', 'desc') %}
     {% for o in ongoing %}
         {% do past.remove(o) %}
     {% endfor %}

@@ -2,7 +2,7 @@
 
 {% set events = page
     .collection({'items':{'@page':'/events'}})
-    .dateRange('now', '+10 years')
+    .dateRange('-6 hours', '+10 years')
     .order('date', 'asc')
     .slice(0, 1)
 %}

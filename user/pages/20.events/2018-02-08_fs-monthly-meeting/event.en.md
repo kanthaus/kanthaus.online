@@ -1,9 +1,9 @@
 ---
 title: "Monthly Foodsharing meeting"
-date: "2018-02-08"
+date: "2018-02-08 17:00"
 ---
 
-**Every 2nd Thursday a month** we host the monthly meeting of [Wurzen's foodsavers](../../about/foodsharing) at Kanthaus.  
+**Every 2nd Thursday a month** we host the monthly meeting of [Wurzen's foodsavers](../../about/foodsharing) at Kanthaus.
 We plan the future of local foodsaving, strengthen our community, share food and spend a nice evening together. Be part of it!
 
 This month we'll already start **at 5pm**!

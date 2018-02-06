@@ -1,6 +1,6 @@
 ---
 title: "RepairCafé and technology meet-up"
-date: "2018-02-06"
+date: "2018-02-06 17:00"
 ---
 
 ### RepairCafé and technology meet-up

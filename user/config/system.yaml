@@ -1,4 +1,5 @@
 absolute_urls: false
+timezone: 'Europe/Berlin'
 
 home:
   alias: '/about'
