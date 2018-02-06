@@ -14,6 +14,7 @@ content:
 ## A house for sharing
 
 <p align="center">
-  ![Kanthaus Logo](/pics/kube01.jpg)
-  <sub>Image by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
+  <img src="/pics/kube01.jpg" alt="Kantstr 20 front with people">
+  <br/>
+  <sub>Photo by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
 </p>
