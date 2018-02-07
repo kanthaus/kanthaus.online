@@ -9,9 +9,13 @@ content:
         dir: desc
 debugger: true
 ---
+
 # Kanthaus
 
 ## Ein Haus des Teilens
 
-![Kanthaus Logo](/pics/kube01.jpg)
-<sub>Foto von <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
+<p align="center">
+  <img src="/pics/kube01.jpg" alt="Kantstr 20 front with people">
+  <br/>
+  <sub>Foto von <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
+</p>
