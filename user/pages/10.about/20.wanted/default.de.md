@@ -57,6 +57,8 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
 - Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 Adern)
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
+- Gürtel
+- Thermoskannen und große Teekannen
 
 ## Gern gesehen
 
@@ -64,7 +66,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Lautsprecher von guter Qualität
 - (moderne, energiesparende) Verstärker
 - Würfel
-- Fitness-Equipment (Hanteln, Hantelbank, Gewichte)
+- Fitness-Equipment (Hanteln, Gewichte, Klimmzugstange)
 - Kreidetafeln
 - Whiteboards
 - Pinnwände
