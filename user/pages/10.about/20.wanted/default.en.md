@@ -57,8 +57,13 @@ They might even be used to teach others or learn how to repair things.
  - Network cables (installation cable, min. Cat5)
  - Phone cables (J-2Y(St)Y oder J-YY, 4 or 8 wires)
  - Professional grade WiFi accesspoints (802.11ac, Ubiquiti/Cisco or good quality LEDE supported Hardware, TPLink RE450 or similar)
- - Belts
- - Thermoses and big teapots
+
+### Micscellaneous
+- Belts
+- Thermoses and big teapots
+- Toilet brushes
+- Brooms, scrubbers and mops
+- Window cleaning utensils
 
 ## Wanted
 - Projectors (preferably LED)

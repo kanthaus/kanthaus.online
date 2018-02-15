@@ -39,6 +39,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Mikroskop
 - Labornetzteile
 - elektronische Bauteile (aktive & passive Bauelemente)
+- Reagenzgläser
 
 ### Wohn- und Büroeinrichtung:
 
@@ -57,8 +58,13 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
 - Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 Adern)
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
+
+### Diverses
 - Gürtel
 - Thermoskannen und große Teekannen
+- Klobürsten
+- Besen, Schrubber und Wischer
+- Fensterputz-Equipment
 
 ## Gern gesehen
 
