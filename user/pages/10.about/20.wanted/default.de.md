@@ -62,6 +62,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 ### Diverses
 - Gürtel
 - Thermoskannen und große Teekannen
+- Pressstempelkannen und Espressokannen
 - Klobürsten
 - Besen, Schrubber und Wischer
 - Fensterputz-Equipment

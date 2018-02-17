@@ -61,6 +61,7 @@ They might even be used to teach others or learn how to repair things.
 ### Micscellaneous
 - Belts
 - Thermoses and big teapots
+- French presses and moka pots
 - Toilet brushes
 - Brooms, scrubbers and mops
 - Window cleaning utensils
