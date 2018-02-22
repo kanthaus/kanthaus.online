@@ -1,6 +1,6 @@
 ---
 title: "foodsaving worldwide hackweek"
-date: "2018-02-24"
+date: "2018-02-24 16:00"
 enddate: "2018-03-04"
 routes:
   aliases:
