@@ -6,6 +6,7 @@ title: Kontakt
 - Email: [hello@kanthaus.online](mailto:hello@kanthaus.online)
 - Telefon: <a href="tel:+4934258527995">+49 3425 8527995</a>
 - Slack: #kanthaus auf [yunity.slack.com](https://yunity.slack.com) (Lass dich auf [slackin.yunity.org](https://slackin.yunity.org) einladen)
+- Facebook: [Kanthaus](https://www.facebook.com/kanthaus.online/)
 - Adresse: [Kantstraße 20, 04808 Wurzen, Germany](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N)
 - Bankverbindung:
   - IBAN: DE85 8605 0200 1041 0436 90
