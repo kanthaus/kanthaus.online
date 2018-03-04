@@ -9,6 +9,7 @@ title: "Contact"
 - facebook: [Kanthaus](https://www.facebook.com/kanthaus.online/) (in German)
 - address: [Kantstraße 20, 04808 Wurzen, Germany](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N)
 - bank details: IBAN: DE85 8605 0200 1041 0436 90  BIC: SOLADES1GRM
+- charitable association account: Wandel Würzen e.V., IBAN: DE63 7002 2200 0020 3339 95 BIC: FDDODEMMXXX
 
 ## How to get here
 

@@ -11,6 +11,10 @@ title: Kontakt
 - Bankverbindung:
   - IBAN: DE85 8605 0200 1041 0436 90
   - BIC: SOLADES1GRM
+- Wir haben zudem einen gemeinnützigen Verein, sofern wir eine Spendenbeschenigung ausstellen sollen:
+  - Wandel Würzen e.V.
+  - IBAN: DE63 7002 2200 0020 3339 95
+  - BIC: FDDODEMMXXX
 
 ## Anfahrt
 
