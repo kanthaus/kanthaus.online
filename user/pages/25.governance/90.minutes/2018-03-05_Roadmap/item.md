@@ -7,7 +7,7 @@ taxonomy:
 
 - Date: 2018-03-05
 - Notary: Matthias
-- Present: Matthias, Isabell, Bodhi, Adam, Kurtis, Michal, Anja, Janina, Laurina, Lise
+- Present: Matthias, Isabel, Bodhi, Adam, Kurtis, Michal, Anja, Janina, Laurina, Lise, Tilmann
 
 _This meeting was to find out what we can do with regards to the general vision of the house. Something bigger than just repairing of the houses; something to remind us why we're actually here._
 
@@ -28,21 +28,21 @@ _This meeting was to find out what we can do with regards to the general vision 
     - Bring projects like freeshop, freecafe, repair cafe forwards; having more people coming to regular events
     - foodsharing: Being able to sustain own food requirements without having to go more than a few km by bike/train (more cooperations)
     - planning more "inside/open events" like Straßenfest, WuWiTa in summer, etc. -> organize events from here
-    - making kanthaus more visible in Wurzen
+    - making Kanthaus more visible in Wurzen
     - get more people who are interested in PR/socializing work (targeted recruitment)
 
 4. More longterm plan on how to use buildings/K22 in summer, e.g. breakthrough;
     - making single sleeping rooms there more usable e.g. for daytime working/multiple days for single person
     - how to free more rooms in K22-0?
-    - finding/resolving the sports room topic (matthias makes a proposal)
+    - finding/resolving the sports room topic (Matthias makes a proposal)
 
 5. House building projects for future season(s)
-    - dream/plan about Winter 2018 already in this season (e.g. isolating windows?; feedback round?(-------------))
+    - dream/plan about Winter 2018 already in this season (e.g. isolating windows?; feedback round?)
     - Find out if and how we want to replace the roof?
-    - renovating K20 basement: Crappy wall/supported beam/closing holes e.g. where heating pipes has been installed (see list from markus again)
+    - renovating K20 basement: Crappy wall/supported beam/closing holes e.g. where heating pipes has been installed (see list from Markus again)
     - Balcony instead of breakthrough?
         - finding out building regulations about those
-    - optimizing Rain/Grey water system
+    - optimizing rain/grey water system
         - automating pump
         - better filters
 
@@ -53,12 +53,12 @@ _This meeting was to find out what we can do with regards to the general vision 
     - creative projects on the outside of the house (banner, colorful door)
         - finding out regulations about that (Bebauungsplan / do we need to follow it for things like a door?)
 
-7. going forward with money related things like common economy (but at least in the topic of the project/houses)
+7. going forward with money related things like shared economy (but at least in the topic of the project/houses)
 
 ### How long are people planning to be here in the next 3 months?
 - Adam: 90
 - Bodhi: 50
-- Isabell: 90/ unsure
+- Isabel: 90/ unsure
 - Doug: 55
 - Anja: 20
 - Kurtis: 60
