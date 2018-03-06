@@ -1,6 +1,6 @@
 ---
 title:  Spring 2018 Roadmap meeting
-date: "2018-03-05"
+date: "2018-03-05 12:00"
 taxonomy:
     tag: [roadmap]
 ---
