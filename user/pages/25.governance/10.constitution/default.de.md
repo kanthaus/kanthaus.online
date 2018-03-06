@@ -82,7 +82,6 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
   1. weiterhin als Gast zu bleiben, oder
   1. zur/zum Freiwilligen aufzusteigen.
 1. Eine Person hört auf Gast zu sein, wenn zu zur/zum Freiwilligen aufsteigt.
-
 <a name="volunteer"></a>
 
 ## §5b. FreiwilligeR
