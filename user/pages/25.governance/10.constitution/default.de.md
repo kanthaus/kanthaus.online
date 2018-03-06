@@ -3,23 +3,25 @@ title: Verfassung
 ---
 
 ### Inhalt
-[§1. Präambel](#preamble)  
-[§2. Ziele](#purposes)  
-[§3. Prinzipien](#principles)  
-[§4. Ressourcen](#resources)  
-[§5. Freiwillige](#volunteer)  
-[§6. Mitglieder](#member)  
-[§7. Bewerbungsverfahren](#application)  
-§8. Operationale Tätigkeiten  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8a. Handlungen Einzelner](#indact)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8b. Einstimmige Akzeptanz](#uniaccept)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§8c. Bewertungswahl](#scorevote)  
-[§9. Änderungen an den Gemeinschaftlichen Vereinbarungen](#collagrchange)  
-[§10. Verfassungsänderung](#constchange)  
-§11. Konfliktlösung  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11a. Direkt](#directconflres)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11b. Freiwillige Mithilfe](#volass)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[§11c. Intervention](#intervention)
+- [§1. Präambel](#preamble)  
+- [§2. Ziele](#purposes)  
+- [§3. Prinzipien](#principles)  
+- [§4. Ressourcen](#resources)  
+- [§5. Positionen](#positions)  
+  - [§5a. Gast](#guest)
+  - [§5b. FreiwilligeR](#volunteer)
+  - [§5c. Mitglied](#member)
+- [§6. Evaluationsverfahren](#evaluation)  
+- §7. Operationale Tätigkeiten  
+  - [§7a. Handlungen Einzelner](#indact)  
+  - [§7b. Einstimmige Akzeptanz](#uniaccept)  
+  - [§7c. Bewertungswahl](#scorevote)  
+- [§8. Änderungen an den Gemeinschaftlichen Vereinbarungen](#collagrchange)  
+- [§9. Verfassungsänderung](#constchange)  
+- §10. Konfliktlösung  
+  - [§10a. Direkt](#directconflres)  
+  - [§10b. Freiwillige Mithilfe](#volass)  
+  - [§10c. Intervention](#intervention)
 
 ---
 <a name="preamble"></a>
@@ -27,8 +29,8 @@ title: Verfassung
 
 Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinen Wohl gewidmet. Er wird auf drei Ebenen verwaltet: der Verfassungsebene, der Kollektivebene und die operative Ebene.
 
-1. Die Verfassungsebene schreibt vor *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert.
-2. Die Kollektivebene schreibt vor *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
+1. Die Verfassungsebene beschreibt *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert.
+2. Die Kollektivebene  beschreibt *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
 3. Die operative Ebene beschreibt *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
 <a name="purposes"></a>
 
@@ -56,10 +58,34 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 2. Alle in diesem Ort befindlichen Güter, außer anderweitig angegeben.
 3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
 4. Der Haus Kante Wurzen w.V. selbst.
-<a name="volunteer"></a>
-<p align="center"><i>Rollen</i></p>
+<a name="positions"></a>
 
-## §5. FreiwilligeR
+### §5. Positionen
+1. Jede Person im Kanthaus hat eine Position inne.
+1. Die Positionen beinhalten proportionale Mengen an Verantwortlichkeiten und Rechten. In aufsteigender Reihenfolge sind diese:
+  1. Gast (§5a),
+  1. FreiwilligeR (§5b), und
+  1. Mitglied (§5c).
+<a name="guest"></a>
+
+#### §5a. Guest
+1. Die Position des Gastes wird Menschen zugedacht, die einfach mal vorbeikommen und etwas Zeit im Haus verbringen möchten.
+1. Ein Gast darf—
+	1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen, und
+	1. an operativen Aktivitäten teilnehmen.
+1. Eine Person wird einfach durch ihre Ankunft zum Gast.
+1. Ein Gast ist herzlich dazu eingeladen—
+	1. das [Besucherdokument](../about/visiting) zu lesen, und
+  1. mit einem Bewohner, möglichst einer/ einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
+1. Ein Gast akzeptiert implizit die Verfassung und die Gemeinschaftlichen Vereinbarungen.
+1. Nach zwei Wochen (14 Tagen) sollte ein Gast so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann ein Gast beantragen—
+  1. weiterhin als Gast zu bleiben, oder
+  1. zur/zum Freiwilligen aufzusteigen.
+1. Eine Person hört auf Gast zu sein, wenn zu zur/zum Freiwilligen aufsteigt.
+
+<a name="volunteer"></a>
+
+## §5b. FreiwilligeR
 
 1. Die Position des Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und tiefer involviert sein möchten.
 2. EinE FreiwilligeR kann
@@ -81,7 +107,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     4. wenn es von einer Konfliktlösung durch Intervention (§11c.) verlangt wird.
 <a name="member"></a>
 
-## §6. Mitglied
+## §5c. Mitglied
 
 1. Die Rolle des Mitglieds ist für Personen gedacht, die mit dem Projekt vertraut sind und sich diesem verpflichten möchten.
 2. Ein Mitglied kann
