@@ -122,7 +122,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
 <a name="application"></a>
 
-## §7. Evaluationsverfahren
+## §6. Evaluationsverfahren
 1. Freiwillige, Mitglieder und die zu evaluierende Person (hiernach 'die Person') haben ein Treffen. Die Person sollte die Position, die sie anstrebt, anfragen. Es folgt ein offenes Gespräch, in dem Themen, wie die folgenden besprochen werden können:
     1. Die Rolle, in der die Person sich sieht,
     2. Probleme und hindernde Umstände, sowie
@@ -132,88 +132,71 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. wenn die Person Mitglied werden möchte, stimmen nur die Mitglieder ab.
 3. Bevor es weitere Gespräche gibt, machen die Abstimmungsberechtigten eine Testwahl zur Frage, ob sie den Wunsch der Person an die angefragte Position zu gelangen unterstützen (+), akzeptieren (0) oder ablehnen (-).
 4. Nachfolgend können die Abstimmungsberechtigten über die Person, deren angestrebte Position und das Resultat der Testwahl diskutieren. Es sollte ein Fokus darauf liegen etwaige Bedenken anzusprechen.
-5. Danach wird in derselben Weise wie die der Testwahl (§7.3) bindend abgestimmt. Dieses Mal—
+5. Danach wird in derselben Weise wie die der Testwahl (§6.3) bindend abgestimmt. Dieses Mal—
     1. wird die Person an der angestrebten Position akzeptiert, wenn es mindestens dreimal soviele Unterstützerstimmen wie Ablehnungsstimmen gibt, oder
-    2. startet der Evaluationsverfahren nochmals von §7.2 für die nächst-niedrigere Position (vgl. §5).
+    2. startet der Evaluationsverfahren nochmals von §6.2 für die nächst-niedrigere Position (vgl. §5).
 6. Die Person sollte umgehend über das Ergebnis der Abstimmung, jedoch nicht die genaue Zusammensetzung der Stimmen, in Kenntnis gesetzt werden. Wichtige Themen, die in der privaten Diskussion unter den Abstimmungsberechtigten angesprochen wurden, sollten der Person in Form von hilfreichem Feedback übermittelt werden.
 <a name="indact"></a>
 
-## §8. Operative Tätigkeiten
-
-### §8a. Handlungen Einzelner
-
-1. JedeR Einzelne kann handeln, vorausgesetzt
+## §7. Operative Tätigkeiten
+### §7a. Handlungen Einzelner
+1. JedeR Einzelne kann handeln, vorausgesetzt—
     1. es gibt keine ausstehenden Widerstände gegenüber der Handlung, und
     2. es wird persönliche Verantwortung dafür übernommen die Handlung, wenn nötig, rückgängig zu machen.
 2. Es gibt kein spezielles Format für Handlungen Einzelner. Während es in einigen Fällen möglicherweise für Einzelne angemessen ist einfach zu [ beginnen](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), ist es in anderen Fällen möglicherweise angebrachter sich vor Beginn zuerst <a href = "http:// www.reinventingorganizationswiki.com/Decision_Making "> zu beraten,</a> oder [ den Vorschlag zu äußern](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
 3. JedeR Einzelne, der Widerstand gegen eine derzeitige oder vorgeschlagene Handlung hat sollte dies frühzeitig, klar und freundlich äußern.
-4. Erhält eine derzeitige oder geplante Handlung Widerstand, sollte sie unterbrochen oder verschoben werden und die Betroffenen sollten mit Stufe 2, der einstimmigen Akzeptanz, fortfahren (§8b.)
+4. Erhält eine derzeitige oder geplante Handlung Widerstand, sollte sie unterbrochen oder verschoben werden und die Betroffenen sollten mit Stufe 2, der einstimmigen Akzeptanz, fortfahren (§7b.)
 <a name ="uniaccept"></a>
 
-### §8b. Einstimmige Akzeptanz
-
+### §7b. Einstimmige Akzeptanz
 1. Wenn niemand Widerstand gegen einen Vorschlag oder eine Handlung hat, dann ist dies Einstimmige Akzeptanz.
 2. Es gibt kein spezifisches Format um Einstimmige Akzeptanz zu erlangen. Viele hilfreiche Techniken erleichtern das Erreichen der Einstimmigen Akzeptanz, so wie z.B. kleinschrittiges Testen, Präsentationen, Diskussionen, Meetings mit [geplanten Abläufen](http://cultivate.coop/wiki/Agenda_Planning), Runden, [Talking Sticks](https://en.wikipedia.org/wiki/Talking_stick), [Hand-Signale](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [Sprecherlisten](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) oder Zeitbeschränkungen.
-3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, sollten die Betroffenen zur Bewertungswahl übergehen. In der Behandlung eines Sachverhalts zu Bewertungswahl (§8c.) überzugehen sollte mit Einstimmiger Akzeptanz geschehen. Wenn dies nicht möglich ist reicht einfache Mehrheit.
+3. Wenn in angemessener Zeit keine Einstimmige Akzeptanz erreicht werden kann, sollten die Betroffenen zur Bewertungswahl übergehen. In der Behandlung eines Sachverhalts zu Bewertungswahl (§7c.) überzugehen sollte mit Einstimmiger Akzeptanz geschehen. Wenn dies nicht möglich ist reicht einfache Mehrheit.
 <a name="scorevote"></a>
 
-### §8c. Bewertungswahl
-
+### §7c. Bewertungswahl
 1. Zunächst sollten die Betroffenen die momentane Sachlage, den Ausgangsvorschlag, sowie potenzielle weitere Vorschläge diskutieren. Dann wird eine Liste von Vorschlägen erstellt, indem
     1. der Ausgangsvorschlag und/oder die erarbeiteten Vorschläge,
     2. ein 'Status Quo'-Kontrollvorschlag (z.B. 'alles so belassen wie es ist/keine Änderung') und
     3. ein Eskalationsverfahrens-Kontrollvorschlag (z.B. 'Wechsel zur Änderung der Gemeinschaftlichen Vereinbarungen') gesammelt werden.
-2. Nun sollten die Betroffenen jeden Vorschlag einzeln mit "Unterstützung", "Einwilligung" oder "Widerstand" bewerten. Danach werden die Stimmen als Punktwerte summiert, indem "Unterstützung" als 1, "Einwilligung" als 0 und "Widerstand" als -3 gezählt wird. Der Vorschlag mit dem höchsten Zahlenwert wird gewählt.
+2. Nun sollten die Betroffenen jeden Vorschlag einzeln mit "Unterstützung", "Akzeptanz" oder "Ablehnung" bewerten. Danach werden die Stimmen als Punktwerte summiert, indem "Unterstützung" als 1, "Akzeptanz" als 0 und "Ablehnung" als -3 gezählt wird. Der Vorschlag mit dem höchsten Zahlenwert wird gewählt.
 <a name="collagrchange"></a>
 
-## §9. Änderungen an den Gemeinschaftlichen Vereinbarungen
-
-1. Jede Ergänzung, Löschung oder anderweitige Änderung an den Gemeinschaftlichen Vereinbarungen muss anhand des im Folgenden beschriebenen Verfahrens erfolgen.
-2. Das Verfahren beginnt, wenn alle Freiwilligen und Mitglieder, die sich zu diesem Zeitpunkt am Ort befinden, über einen klaren und eindeutigen Vorschlag eines Freiwilligen oder Mitglieds informiert wurden, der
-    1. von mindestens einem anderen Frewilligen oder Mitglied unterstützt wird und
+## §8. Änderungen an den Gemeinschaftlichen Vereinbarungen
+1. Jede Änderung an den Gemeinschaftlichen Vereinbarungen muss anhand des im Folgenden beschriebenen Verfahrens erfolgen.
+2. Das Verfahren beginnt, wenn alle Freiwilligen und Mitglieder, die sich zu diesem Zeitpunkt am Ort befinden, über einen klaren und eindeutigen Vorschlag einer/eines Freiwilligen oder Mitglieds informiert wurden, der
+    1. von mindestens einer/einem anderen Frewilligen oder Mitglied unterstützt wird und
     2. nicht im Widerspruch zu jedweder anderen Änderung an den Gemeinschaftlichen Vereinbarungen steht, die innerhalb der letzten 6 Tage gemacht wurde.
-3. Die erste Phase des Verfahrens, in welcher die Betroffenen über den Ausgangsvorschlag nachdenken und ggfls weitere Vorschläge erarbeiten sollen, dauert mindestens 3 Tage. Am Ende dieser Phase wird eine Liste mit Vorschlägen erstellt, indem
-    1. der Ausgangsvorschlag und alle etwaigen weiteren Vorschläge,
-    2. ein 'Status Quo'-Kontrollvorschlag (z.B. 'alles so belassen wie es ist/keine Änderung') und
-    3. ein Eskalationsverfahrens-Kontrollvorschlag (z.B. 'Wechsel zur Verfassungsänderung') gesammelt werden.
-4. Die zweite Phase des Verfahrens, in dem die Betroffenen einzeln aber identifizierbar jeden gelisteten Vorschlag mit einem Wert zwischen +3 (für komplette Unterstützung) und -3 (für kompletten Widerstand) bewerten sollen, dauert mindestens 3 Tage. Am Ende der zweiten Phase
+3. Die Vorschlagsphase des Verfahrens, in welcher die Betroffenen über den Ausgangsvorschlag nachdenken und ggfls. weitere Vorschläge erarbeiten sollen, dauert mindestens 3 Tage. Am Ende dieser Phase wird eine Liste der Vorschläge erstellt, und durch zwei Kontrollvorschlägen ergänzt:
+    1. 'Status Quo' (z.B. 'alles so belassen wie es ist/keine Änderung') und
+    2. 'Eskalationsverfahren' (z.B. 'Wechsel zur Verfassungsänderung').
+4. Die Wahlphase des Verfahrens, in dem die Betroffenen einzeln aber identifizierbar jeden gelisteten Vorschlag mit einem Wert zwischen +3 (für maximale Unterstützung) und -3 (für maximale Ablehnung) bewerten sollen, dauert mindestens 3 Tage. Am Ende der zweiten Phase—
     1. wird jeder negative Wert mit dem Faktor 3 multipliziert (so wird bspw. ein Wert von -2 zu -6),
     2. für jeden Vorschlag die Summe der angepassten Werte gebildet,
     3. der Vorschlag mit dem höchsten Zahlenwert gewählt und
     4. die gewählte Änderung in die Gemeinschaftlichen Vereinbarungen übernommen werden.
 <a name="constchange"></a>
 
-## §10 Verfassungsänderung
-
-1. Jede Ergänzung, Löschung oder anderweitige Änderung an der Verfassung muss anhand des im Folgenden beschriebenen Verfahrens erfolgen.
+## §9 Verfassungsänderung
+1. Jede Änderung an der Verfassung muss anhand des im Folgenden beschriebenen Verfahrens erfolgen.
 2. Das Verfahren beginnt, wenn alle Mitglieder - wo auch immer sie sich aufhalten - über einen klaren und eindeutigen Vorschlag eines Freiwilligen oder Mitglieds informiert wurden, der
     1. von mindestens zwei weiteren Mitgliedern unterstützt wird und
     2. nicht im Widerspruch zu jedweder anderen Änderung an der Verfassung steht, die innerhalb der letzten 28 Tage gemacht wurde.
-3. Die erste Phase des Verfahrens, in welcher die Betroffenen über den Ausgangsvorschlag nachdenken und ggfls weitere Vorschläge erarbeiten sollen, dauert mindestens 7 Tage. Am Ende dieser Phase wird eine Liste mit Vorschlägen erstellt, indem
-    1. der Ausgangsvorschlag und alle etwaigen weiteren Vorschläge,
-    2. ein 'Status Quo'-Kontrollvorschlag (z.B. 'alles so belassen wie es ist/keine Änderung') gesammelt werden.
-4. Die zweite Phase des Verfahrens, in dem die Betroffenen einzeln aber identifizierbar jeden gelisteten Vorschlag mit einem Wert zwischen +3 (für komplette Unterstützung) und -3 (für kompletten Widerstand) bewerten sollen, dauert mindestens 7 Tage. Am Ende der zweiten Phase
+3. Die Vorschlagsphase des Verfahrens, in welcher die Betroffenen über den Ausgangsvorschlag nachdenken und ggfls. weitere Vorschläge erarbeiten sollen, dauert mindestens 7 Tage. Am Ende dieser Phase wird eine Liste der Vorschlägen erstellt, die durch den 'Status Quo' Kontrollvorschlag ergänzt wurde.
+4. Die Wahlphase des Verfahrens, in dem die Betroffenen einzeln aber identifizierbar jeden gelisteten Vorschlag mit einem Wert zwischen +3 (für vollständige Unterstützung) und -3 (für vollständige Ablehnung) bewerten sollen, dauert mindestens 7 Tage. Am Ende der zweiten Phase—
     1. wird jeder negative Wert mit dem Faktor 3 multipliziert (so wird bspw. ein Wert von -2 zu -6),
-    2. für jeden Vorschlag die Summe der angepassten Werte gebildet,
-    3. der Vorschlag mit dem höchsten Zahlenwert gewählt und
-    4. wenn der gewählte Vorschlag in einer vorhergehenden zweiten Phase schon einmal gewählt wurde, dann
-        1. wird der Vorschlag zur entgültugen Entscheidung,
-        2. die Verfassung sollte dementsprechend angepasst werden und
-        3. das Verfahren zur Verfassungsänderung ist beendet.
-    5. Andernfalls
-        1. wird das Verfahren ab Unterpunkt 3 (also einer neuen ersten und dann zweiten Phase) wiederholt.
+    2. für jeden Vorschlag die Summe der angepassten Werte gebildet, und
+    3. der Vorschlag mit dem höchsten Zahlenwert gewählt.
+5. Der Vorschlag wird zur endgültigen Entscheidung, wenn er in zwei aufeinanderfolgenden Abstimmungsrunden gewählt wird. Das bedeutet, dass mindestens zwei Vorschlags- und Wahlphasen nötig sind, um die Verfassung effektiv zu ändern, vielleicht auch mehr. Kam es zu einer Entscheidung sollte die Verfassung geändert werden, um die Entscheidung wiederzuspiegeln.
 <a name="directconflres"></a>
 
-## §11 Konfliktlösung
-
-### §11a. Direkt
-
+## §10 Konfliktlösung
+### §10a. Direkt
 1. Personen werden generell ermutigt ihre Konflikte direkt zu lösen.
-2. Es gibt kein spezifisches Format für direkte Konfliktlösung. Viele hilfreiche Techniken erleichtern den Umgang mit Konflikten, wie z.B. der [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Gewaltfreie Kommunikation](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Kognitive Verhaltenstherapie](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), [Sharing Circles](url), [4-Augen Gespräche](url), [Listen Looping, Ich-Nachrichten und nicht-defensive Erklärungen](https://loomio.coop/conflict_resolution_resources.html).
+2. Es gibt kein spezifisches Format für direkte Konfliktlösung. Viele hilfreiche Techniken erleichtern den Umgang mit Konflikten, wie z.B. der [Advice Process](http://www.reinventingorganizationswiki.com/Decision_Making), [Gewaltfreie Kommunikation](http://baynvc.org/key-assumptions-and-intentions-of-nvc/), [Kognitive Verhaltenstherapie](https://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/), Sharing Circles, 4-Augen Gespräche, [Listen Looping, Ich-Nachrichten und nicht-defensive Erklärungen](https://loomio.coop/conflict_resolution_resources.html).
 <a name="volass"></a>
 
-### §11b. Freiwillige Mithilfe
-
+### §10b. Freiwillige Mithilfe
 1. Wenn vernünftige Maßnahmen, um einen Konflikt direkt zu lösen, fehlschlagen, können sich die Betroffenen freiwillig um Mithilfe von Dritten bemühen und/oder sie in Anspruch nehmen.
 2. Es gibt kein spezifisches Format für Konfliktlösung mittels Freiwilliger Mithilfe. Basierend auf der Zustimmung aller Beteiligten sind viele Szenarios denkbar, z.B.
     1. einE DritteR, der/die eine einzelne betroffene Person unterstützt ('Hilfsperson')
@@ -222,10 +205,9 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     4. eine Gruppe von Dritten wohnt einem Treffen der Betroffenen bei, um zu bezeugen und/oder Rat anzubieten ('Panel').
 <a name="intervention"></a>
 
-### §11c. Intervention
-
+### §10c. Intervention
 1. Wenn vernünftige Maßnahmen, um einen Konflikt mittels Freiwilliger Mithilfe zu lösen, fehlschlagen, können als letzte Möglichkeit die Mitglieder einschreiten.
-2. Um zur Konfliktlösung durch Intervention zu gelangen wird Einstimmige Akzeptanz (§8b.) oder Bewertungswahl (§8c.) herangezogen. Zweiteres könnte folgende Vorschläge enthalten:
+2. Um zur Konfliktlösung durch Intervention zu gelangen wird Einstimmige Akzeptanz (§7b.) oder Bewertungswahl (§7c.) herangezogen. Zweiteres könnte folgende Vorschläge enthalten:
     1. Eine Person verpflichten an moderierten Konfliktlösungsverfahren teilzunehmen.
     2. Einer Person den Status FreiwilligeR oder Mitglied entziehen.
     3. Eine Person auffordern den Ort temporär oder für immer zu verlassen.
