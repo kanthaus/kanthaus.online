@@ -25,17 +25,16 @@ title: Verfassung
 
 ---
 <a name="preamble"></a>
+
 ## §1. Präambel
+Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinen Wohl gewidmet. Er wird auf drei Ebenen verwaltet—
 
-Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinen Wohl gewidmet. Er wird auf drei Ebenen verwaltet: der Verfassungsebene, der Kollektivebene und die operative Ebene.
-
-1. Die Verfassungsebene beschreibt *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert.
-2. Die Kollektivebene  beschreibt *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
-3. Die operative Ebene beschreibt *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
+1. **Die Verfassungsebene** beschreibt *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert.
+2. **Die Kollektivebene**  beschreibt *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
+3. **Die operative Ebene** beschreibt *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
 <a name="purposes"></a>
 
 ## §2. Ziele
-
 1. Weniger Verschwendung. Mehr Teilen.
 2. Freie, libre und Open-Source Software zu entwickeln und zu verbreiten.
 3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung zu stellen und zusammen zu bringen.
@@ -44,7 +43,6 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 <a name="principles"></a>
 
 ## §3. Prinzipien
-
 1. Die drei Hauptprinzipien, die die Absichten hinter der Verfassung beschreiben und aufzeigen, wie sie interpretiert werden sollte, sind:
     1. Unabhängigkeit - Zwang minimieren,
     2. Gleichwertigkeit - Ungleichheit minimieren, und
@@ -53,7 +51,6 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 <a name="resources"></a>
 
 ## §4. Ressourcen
-
 1. Die Gebäude der [Kanntstraße 20&22, 04808 Wurzen, Deutschland](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (hierin "der Ort".) Dieser Ort ist legaler Besitz von [Haus Kante Wurzen w.V.](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=89144524) (wirtschaftlicher Verein) im Auftrag vom Kanthaus.
 2. Alle in diesem Ort befindlichen Güter, außer anderweitig angegeben.
 3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
@@ -70,73 +67,75 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 
 #### §5a. Guest
 1. Die Position des Gastes wird Menschen zugedacht, die einfach mal vorbeikommen und etwas Zeit im Haus verbringen möchten.
-1. Ein Gast darf—
+1. Ein Gast kann—
 	1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen, und
 	1. an operativen Aktivitäten teilnehmen.
 1. Eine Person wird einfach durch ihre Ankunft zum Gast.
-1. Ein Gast ist herzlich dazu eingeladen—
+1. Einem Gast wird freundlich nahe gelegt—
 	1. das [Besucherdokument](../about/visiting) zu lesen, und
   1. mit einem Bewohner, möglichst einer/ einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
 1. Ein Gast akzeptiert implizit die Verfassung und die Gemeinschaftlichen Vereinbarungen.
 1. Nach zwei Wochen (14 Tagen) sollte ein Gast so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann ein Gast beantragen—
   1. weiterhin als Gast zu bleiben, oder
   1. zur/zum Freiwilligen aufzusteigen.
-1. Eine Person hört auf Gast zu sein, wenn zu zur/zum Freiwilligen aufsteigt.
+1. Eine Person hört auf Gast zu sein, wenn sie zu zur/zum Freiwilligen aufsteigt.
 <a name="volunteer"></a>
 
 ## §5b. FreiwilligeR
-
 1. Die Position des Freiwilligen richtet sich an Personen, die bereits am Projekt beteiligt waren und tiefer involviert sein möchten.
-2. EinE FreiwilligeR kann
+2. EinE FreiwilligeR kann—
     1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen,
     2. an operativen Aktivitäten teilnehmen und die Gemeinschaftlichen Vereinbarungen ändern,
     3. an der Auswahl anderer Freiwilliger teilnehmen, und
     4. an Freiwilliger Mithilfe zur Konfliktlösung teilnehmen.
-3. EinE FreiwilligeR sollte
+3. EinE FreiwilligeR sollte—
     1. einen Teil der Verantwortung für den Ort übernehmen und
     2. für Wurzen und/oder die weitere Welt einen Beitrag leisten.
-4. Um einE FreiwilligeR zu werden muss die Person
-    1. mindestens 14 Tage an dem Ort gelebt haben und
-    2. die Verfassung und Gemeinschaftlichen Vereinbarungen verstanden und akzeptiert haben.
-5. Eine Person wird einE FreiwilligeR, wenn ein Bewerbungsverfahren, an dem nur Freiwillige und Mitglieder beteiligt sein sollten, zu einem positiven Ergebnis geführt hat.
-6. Eine Person hört auf, einE FreiwilligeR zu sein
-    1. 3 Monate nachdem er/sie einE FreiwilligeR wurde,
-    2. wenn er/sie ein Mitglied wird,
-    3. auf seinen/ihren Wunsch, oder
-    4. wenn es von einer Konfliktlösung durch Intervention (§11c.) verlangt wird.
+4. Nach zwei Monaten (60 Tagen) sollte einE FreiwilligeR so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann einE FreiwilligeR beantragen—
+    1. wieder zum Gast zu werden,
+    2. weiterhin FreiwilligeR zu bleiben, oder
+    3. zum Mitglied zu werden.
+5. EinE FreiwilligeR kann jederzeit wieder zur Gast-Position zurückkehren.
+6. Eine Person hör auf FreiwilligeR zu sein, wenn—
+    1. sie zum Mitglied aufsteigt oder wieder zum Gast wird, oder
+    2. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
 <a name="member"></a>
 
 ## §5c. Mitglied
-
 1. Die Rolle des Mitglieds ist für Personen gedacht, die mit dem Projekt vertraut sind und sich diesem verpflichten möchten.
-2. Ein Mitglied kann
-    1. vor Ort wohnen und die anderen Ressourcen nutzen,
+2. Ein Mitglied kann—
+    1. vor Ort wohnen und alle weiteren Ressourcen nutzen,
     2. an operativen Aktivitäten teilnehmen, die Gemeinschaftlichen Vereinbarungen und die Verfassung ändern,
     3. an der Auswahl anderer Freiwilliger und Mitglieder teilnehmen, und
     4. an Freiwilliger Mithilfe und Intervention während Konfliktlösungen teilnehmen.
-3. Ein Mitglied sollte
+3. Ein Mitglied sollte—
     1. einen angemessenen Anteil der gesamten Verantwortung für den Ort, einschließlich der sozialen, rechtlichen und finanzielle Angelegenheiten übernehmen und
     2. für Wurzen und die weitere Welt einen Beitrag leisten.
-4. Um ein Mitglied zu werden muss die Person:
-    1. mindestens 28 Tage als FreiwilligeR an dem Ort gelebt haben und
-    2. nochmals bestätigen die Verfassung und die Gemeinschaftlichen Vereinbarungen verstanden und akzeptiert zu haben.
-5. Eine Person wird ein Mitglied, wenn ein Bewerbungsverfahren, an dem nur Mitglieder beteiligt sein sollten, zu einem positiven Ergebnis geführt hat.
-6. Eine Person hört auf, ein Mitglied zu sein:
-    1. wenn sie 3 Monate am Stück nicht am Ort war (automatischer Wechsel auf FreiwilligeR),
-    2. auf ihren Wunsch (automatischer Wechsel auf FreiwilligeR), oder
-    3. wenn Konfliktlösung durch Intervention (§11c.) es vorschreibt.
+4. Um ein Mitglied zu werden sollte die Person die Verfassung und die Gemeinschaftlichen Vereinbarungen explizit akzeptieren.
+5. Nach sechs Monaten (180 Tagen) sollte ein Mitglied so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann das Mitglied beantragen—
+    1. wieder zum Gast zu werden,
+    2. wieder zur/zum Freiwilligen zu werden, oder
+    3. weiterhin Mitglied zu bleiben.
+6. Ein Mitglied kann jederzeit zur Gast- oder Freiwilligen-Position zurückkehren.
+7. Eine Person hört auf, ein Mitglied zu sein, wenn—
+    1. sie wieder zum Gast oder Freiwilligen wird, oder
+    2. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
 <a name="application"></a>
-<p align="center"><i>Verfahren</i></p>
 
-## §7. Bewerbungsverfahren
-
-1. Der/Die sich Bewerbende darf während des Verfahrens nicht anwesend sein.
-2. Zuerst sollten die Teilnehmenden eine einleitende Abstimmung vornehmen, in der sie sich anonym äußern, ob sie einem positiven Bewerbungsverfahren mit "Unterstützung" (+), "Einwilligung" (0) oder "Widerstand" (-) begegen.
-3. Danach sollten die Teilnehmenden die Bewerbung diskutieren und alle potenziellen Bedenken ansprechen.
-4. Schließlich sollten die Teilnehmenden eine verbindliche Abstimmung in der gleichen Weise wie die erste vornehmen. Dieses Mal
-    1. ist die Bewerbung erfolgreich, wenn es mindestens 3 mal mehr "Unterstützung"-Stimmen als "Widerstand"-Stimmen gibt,
-    2. sonst schlägt die Bewerbung zu diesem Zeitpunkt fehl.
-5. Der/Die sich Bewerbende sollte umgehend informiert werden, ob die Bewerbung erfolgreich war oder fehlgeschlagen ist, nicht aber die Aufteilung der Stimmen erfahren.
+## §7. Evaluationsverfahren
+1. Freiwillige, Mitglieder und die zu evaluierende Person (hiernach 'die Person') haben ein Treffen. Die Person sollte die Position, die sie anstrebt, anfragen. Es folgt ein offenes Gespräch, in dem Themen, wie die folgenden besprochen werden können:
+    1. Die Rolle, in der die Person sich sieht,
+    2. Probleme und hindernde Umstände, sowie
+    3. das Verständnis von Verfassung und/oder Gemeinschaftlichen Vereinbarungen.
+2. Nach dem offenen Gespräch mit der Person treffen sich ausschließlich die Abstimmungsberechtigten:
+    1. Wenn die Person Gast oder FreiwilligeR werden möchte, stimmen die Frewilligen und Mitglieder ab, oder
+    2. wenn die Person Mitglied werden möchte, stimmen nur die Mitglieder ab.
+3. Bevor es weitere Gespräche gibt, machen die Abstimmungsberechtigten eine Testwahl zur Frage, ob sie den Wunsch der Person an die angefragte Position zu gelangen unterstützen (+), akzeptieren (0) oder ablehnen (-).
+4. Nachfolgend können die Abstimmungsberechtigten über die Person, deren angestrebte Position und das Resultat der Testwahl diskutieren. Es sollte ein Fokus darauf liegen etwaige Bedenken anzusprechen.
+5. Danach wird in derselben Weise wie die der Testwahl (§7.3) bindend abgestimmt. Dieses Mal—
+    1. wird die Person an der angestrebten Position akzeptiert, wenn es mindestens dreimal soviele Unterstützerstimmen wie Ablehnungsstimmen gibt, oder
+    2. startet der Evaluationsverfahren nochmals von §7.2 für die nächst-niedrigere Position (vgl. §5).
+6. Die Person sollte umgehend über das Ergebnis der Abstimmung, jedoch nicht die genaue Zusammensetzung der Stimmen, in Kenntnis gesetzt werden. Wichtige Themen, die in der privaten Diskussion unter den Abstimmungsberechtigten angesprochen wurden, sollten der Person in Form von hilfreichem Feedback übermittelt werden.
 <a name="indact"></a>
 
 ## §8. Operative Tätigkeiten
