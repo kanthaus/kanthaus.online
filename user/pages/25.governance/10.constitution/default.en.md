@@ -58,16 +58,16 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of Kanthaus by [Haus Kante Wurzen w.V.](/governance/satzung_hauskantewurzen) (wirtschaftlicher Verein.)
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
-1. Haus Kante Wurzen w.V. itself. 
+1. Haus Kante Wurzen w.V. itself.
 
 <a name="positions"></a>
 
 ### §5. Positions
 1. Every person at Kanthaus has a (one) position.
 1. The positions have proportional quantities of responsibilities and rights. In ascending order these are—
-  1. Guest (§6),
-  1. Volunteer (§7), and
-  1. Member (§8).
+  1. Guest (§5a),
+  1. Volunteer (§5b), and
+  1. Member (§5c).
 
 <a name="guest"></a>
 
@@ -81,7 +81,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. read the [Visitor's Document](../about/visiting), and
   1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Guest implicitly accepts the Constitution and Collective Agreements.
-1. A Guest should be evaluated (§9.) as soon as possible after two weeks (14 days). At their evaluation they may request to—
+1. A Guest should be evaluated (§6.) as soon as possible after two weeks (14 days). At their evaluation they may request to—
   1. continue as a Guest, or
   1. progress to Volunteer.
 1. A person ceases to be a Guest if they progress to Volunteer.
@@ -97,15 +97,15 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer should—
 	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. A Volunteer should be evaluated (§9.) as soon as possible after 2 months (60 days). At their evaluation they may request to—
+1. A Volunteer should be evaluated (§6.) as soon as possible after 2 months (60 days). At their evaluation they may request to—
   1. return to Guest,
   1. continue as a Volunteer, or
   1. progress to Member.
 1. A Volunteer may return to Guest at any point.
 1. A person ceases to be a Volunteer—
 	1. if they return to Guest or progress to Member,
-	1. if decided upon by Conflict Resolution by Intervention (§13c.)
-  
+	1. if decided upon by Conflict Resolution by Intervention (§10c.)
+
 <a name="member"></a>
 
 #### §5c. Member
@@ -119,15 +119,15 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. assume an equitable share of the total responsibility for the space including social, legal and financial matters, and
 	1. contribute in some way to Wurzen and the wider world.
 1. To become a Member, a person should explicitly accept the Constitution and the Collective Agreements.
-1. A Member should be evaluated (§9.) as soon as possible after 6 months (180 days). At their evaluation they may request to—
+1. A Member should be evaluated (§6.) as soon as possible after 6 months (180 days). At their evaluation they may request to—
   1. return to Guest,
   1. return to Volunteer, or
   1. continue as Member.
 1. A Member may return to Volunteer or Guest at any point.
 1. A person ceases to be a Member—
 	1. if they return to being a Guest or Volunteer,
-	1. if decided upon by Conflict Resolution by Intervention (§13c.)
-  
+	1. if decided upon by Conflict Resolution by Intervention (§10c.)
+
 <a name="evaluation"></a>
 
 ### §6. Evaluation Procedure
@@ -142,7 +142,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. The voters may then discuss the person, the Position they requested and the outcome of the test vote. There should be an emphasis to raise and address concerns.
 1. Finally the voters take a binding vote in the same way as the test vote (§9.3.) This time—
 	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the person is adopted at their requested position, or
-	1. else the evaluation returns to point §9.2. as if the person had requested the next lower position (cf. §5).
+	1. else the evaluation returns to point §6.2. as if the person had requested the next lower position (cf. §5).
 1. The person should be promptly informed of which position they were accepted at, but not the breakdown of votes. Any outstanding feedback from the private discussion should also be passed on as helpful feedback.
 
 <a name="indact"></a>
@@ -154,14 +154,14 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. they assume personal responsibility for it.
 1. There is no specific format for Individual Action. Depending on the situation it could be appropriate for a person to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or to [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
 1. Any person who is opposed towards an Individual Action should communicate it early, clearly and kindly.
-1. If an Individual Action receives opposition it should be stopped and the individuals involved should proceed with Unanimous Acceptance (§10b.)
+1. If an Individual Action receives opposition it should be stopped and the individuals involved should proceed with Unanimous Acceptance (§7b.)
 
 <a name="uniaccept"></a>
 
 #### §7b. Unanimous Acceptance
 1. Unanimous Acceptance towards an action is achieved when no person opposes it.
 1. There is no specific format for achieving Unanimous Acceptance. Many tools and techniques exist which may help, including: small-scale testing, presentation, debate, meetings with [planned agendas](http://cultivate.coop/wiki/Agenda_Planning), rounds, [talking sticks](https://en.wikipedia.org/wiki/Talking_stick), [hand-signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), [speaker-lists](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)) or time-limits.
-1. If Unanimous Acceptance cannot be achieved in an acceptable time-frame, the individuals involved should proceed with Score Voting (§10c.). Proceeding to Score Voting should be done with Unanimous Acceptance, or failing that, by simple majority.
+1. If Unanimous Acceptance cannot be achieved in an acceptable time-frame, the individuals involved should proceed with Score Voting (§7c.). Proceeding to Score Voting should be done with Unanimous Acceptance, or failing that, by simple majority.
 
 <a name="scorevote"></a>
 
@@ -186,7 +186,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. the adjusted scores for each proposal are totalled,
 	1. the proposal with the highest total is selected, and
 	1. the Collective Agreements should be changed to reflect the decision.
-  
+
 <a name="constchange"></a>
 
 ### §9. Changing the Constitution
@@ -222,7 +222,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 
 #### §10c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, Members may intervene as a last resort.
-1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include—
+1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (7b.) or Score Voting (7c.) procedure, where proposals may include—
 	1. requesting an individual to participate in assisted conflict resolution,
 	1. revoking an individuals' position of Volunteer or Member, or
 	1. instructing an individual to leave the space temporarily or indefinitely.
