@@ -1,6 +1,6 @@
 ---
 title: "Orgameeting of Humus-Crew North-East"
-startdate: "2018-04-05 15:00"
+date: "2018-04-05 15:00"
 enddate: "2018-04-08 15:00"
 ---
 
