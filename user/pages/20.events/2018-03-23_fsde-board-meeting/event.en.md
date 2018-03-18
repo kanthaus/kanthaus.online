@@ -6,7 +6,7 @@ enddate: '2018-03-25 20:00'
 
 We are happy to welcome the board of the federal foodsharing e.V. at Kanthaus!
 
-![](/pics/fsdeboard.jpg)
+![](/pics/fsdeBoard17.jpg)
 
 ===
 

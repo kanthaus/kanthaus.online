@@ -6,7 +6,7 @@ enddate: '2018-03-25 20:00'
 
 Wir freuen uns den Vorstand des überregionalen foodsharing e.V. bei uns begrüßen zu dürfen!
 
-![](/pics/fsdeboard.jpg)
+![](/pics/fsdeBoard17.jpg)
 
 ===
 
