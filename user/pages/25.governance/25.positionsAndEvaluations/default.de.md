@@ -13,8 +13,8 @@ Es gibt 3 Positionen im kanthaus, mit ansteigenden Levels von Rechten *und* Pfli
 ## Evaluation
 Alle* im Kanthaus werden evaluiert - das ist ganz normal! Die Evaluation ist eine formal festgesetzte Gelegenheit für dich und den Rest der Kanthasu Community ehrlich zu ergründen, wie die Beziehung läuft und welche Position für dich gerade am besten passt. Das Ganze dauert so eine Stunde. Dieses Dokument ist eine netter ausformulierte Version der formellen Niederschrift in der [Verfassung](../constitution) in §5., §6. & §7. Es gibt auch ein Flussdiagramm zum Positionssystem am Ende dieser Seite.
 
-### 1. Meeting mit den Frewilligen und Mitgliedern (ca. 30 Minuten)
-Wenn deine Evaluation ansteht, wird ein Meeting einberufen, an dem nur du und die Frewilligen und Mitglieder des Kanthauses teilnehmen. Das wird vermutlich in einem Koordinationsmeeting auf den Kalender gesetzt. Es werden keine offiziellen Mitschriften angefertigt, allerdings darfst du dir gern Notizen machen, falls du das möchtest. Die einzige Frage, die beantwortet werden muss ist die, ob du in deiner momentanen Position (z.B. Gast) verbleiben oder zur nächsthöheren (z.B. FreiwilligeR) aufsteigen möchtest. Davon abgesehen ist es ein freies Gespräch und du bist herzlich eingeladen jede Frage zu stellen, auf die du gern eine Antwort hättest. Relevante Fragen sind bspw.
+### 1. Meeting mit den Freiwilligen und Mitgliedern (ca. 30 Minuten)
+Wenn deine Evaluation ansteht, wird ein Meeting einberufen, an dem nur du und die Freiwilligen und Mitglieder des Kanthauses teilnehmen. Das wird vermutlich in einem Koordinationsmeeting auf den Kalender gesetzt. Es werden keine offiziellen Mitschriften angefertigt, allerdings darfst du dir gern Notizen machen, falls du das möchtest. Die einzige Frage, die beantwortet werden muss ist die, ob du in deiner momentanen Position (z.B. Gast) verbleiben oder zur nächsthöheren (z.B. FreiwilligeR) aufsteigen möchtest. Davon abgesehen ist es ein freies Gespräch und du bist herzlich eingeladen jede Frage zu stellen, auf die du gern eine Antwort hättest. Relevante Fragen sind bspw.
 - Was hat dir an deiner Zeit im Kanthaus bisher gefallen/nicht gefallen?
 - Auf welche Art möchtest du kritisches Feedback bekommen?
 - Hast du irgendwelche offenen Konflikte mit Menschen, die mit dem Kanthaus zu tun haben?
@@ -23,7 +23,7 @@ Wenn deine Evaluation ansteht, wird ein Meeting einberufen, an dem nur du und di
 - Hast du Allergien, spezielle Nahrungsbedürfnisse oder gesundheitliche Einschränkungen, die du uns mitteilen möchtest?
 
 ### 2. Die Mitglieder und Freiwilligen sprechen unter sich (ca. 20 Minuten)
-Nach dem Meeting mit dir, treffen sich die Mitglieder und Frewilligen des Kanthauses ohne dich, um zu bestimmen, welche Position sie momentan für dich angemessen finden. Das Meeting hat drei Phasen:
+Nach dem Meeting mit dir, treffen sich die Mitglieder und Freiwilligen des Kanthauses ohne dich, um zu bestimmen, welche Position sie momentan für dich angemessen finden. Das Meeting hat drei Phasen:
 
 **2.1. Testwahl**
 Bevor es Gespräche gibt, wird die folgende Frage gestellt: _"(Dein Name) hat sich um die Position (von dir gewünschte Position) beworben. Begegnest du dieser Bewerbung in diesem Moment mit Unterstützung, Akzeptanz oder Widerstand?"_ Die Teilnehmenden wählen anonym und sehen das vorläufige Ergebnis.
