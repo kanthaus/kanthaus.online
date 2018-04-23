@@ -5,8 +5,8 @@ taxonomy:
     tag: [retrospective]
 ---
 
-Date: 2018-04-23
-Participants: Isabelle, Matthias, Tilmann, Doug, Laurina, Mrkvon
+Date: 2018-04-23<br>
+Participants: Isabelle, Matthias, Tilmann, Doug, Laurina, Mrkvon<br>
 Facilitation/notes: Doug (summarized later)
 
 Context: this was the biggest group of 'new people' to be hosted by Kanthaus.
