@@ -1,8 +1,15 @@
-# Retrospective on hosting die Kritische Psychologen
+---
+title: Retrospective: hosting die Kritische Psychologen
+date: "2018-04-23"
+taxonomy:
+    tag: [retrospective]
+---
 
 Date: 2018-04-23
 Participants: Isabelle, Matthias, Tilmann, Doug, Laurina, Mrkvon
-Facilitation/notes: Doug
+Facilitation/notes: Doug (summarized later)
+
+Context: this was the biggest group of 'new people' to be hosted by Kanthaus.
 
 Feelings: some felt a bit confused about the planning, but everyone enjoyed the event
 
@@ -16,6 +23,17 @@ Change:
 - not knowing clearly the aim of the group (i.e. group formation/building)
 - no initial meeting to get to know people
 - no simple document to let people know our costs
+
+Possible changes:
+- request groups to have a short 'get to know eachother' at the beginning of event
+- request groups to decide how they want to cater for themselves
+- have agreements in written form and shared with house and group before event
+- request group to interact through Slack or email
+- create a standard 'form' for applying groups (e.g. when, how many, why, etc)
+- last people at table should clear table: late eaters can still get food from storage areas
+- better advertise plate shelf
+- create basic finance poster
+- focus on positively describing desired behavior instead of requesting people not to do things (i.e. how to use a plate)
 
 Repeat:
 - cooking and eating together
