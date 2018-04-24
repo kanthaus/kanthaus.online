@@ -18,6 +18,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 
 - Kalkputz (eine ganze Menge)
 - eine 2-4m große Leiter
+- Heizungsrohre (20m 1")
 - Wärmeschutzverglaste Fenster (zum Austausch einiger bzw. aller Fenster der Häuser)
 - Dachbedeckung für beide Häuser (die Dächer werden in 1-2 Jahren neugedeckt - verschiedene Materialien möglich)
 - Feuchtigkeitssperre für Keller-Außenwände
