@@ -53,7 +53,6 @@ They might even be used to teach others or learn how to repair things.
  - Computer monitors bigger than 19 inch
  - Laptops or computers with at least Intel Core I performance
  - Optical mouses, keyboards (also German, UK, US layout)
- - A3 printing machine/plotter
  - Network cables (installation cable, min. Cat5)
  - Phone cables (J-2Y(St)Y oder J-YY, 4 or 8 wires)
  - Professional grade WiFi accesspoints (802.11ac, Ubiquiti/Cisco or good quality LEDE supported Hardware, TPLink RE450 or similar)
