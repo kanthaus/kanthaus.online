@@ -13,11 +13,11 @@ taxonomy:
 ===
 
 ### 1. People arriving and leaving
-Michal is thinking about leaving sometime between Wednesday and Friday.
+- Michal is thinking about leaving sometime between Wednesday and Friday.
 - Bodhi and lise come back on friday
 - Silvan comes back this week as well
-Findus and other Living Utopia peeps (~30?)
-Doug and Matthias leave for tuesday
+- Findus and other Living Utopia peeps (~30?)
+- Doug and Matthias leave for tuesday
 
 ### 2. Evaluations 
 Findus, will be scheduled next week.
