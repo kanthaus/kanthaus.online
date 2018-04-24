@@ -17,7 +17,6 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 ### Baustoffe:
 
 - Kalkputz (eine ganze Menge)
-- Heizungsrohre (20m 1")
 - eine 2-4m große Leiter
 - Wärmeschutzverglaste Fenster (zum Austausch einiger bzw. aller Fenster der Häuser)
 - Dachbedeckung für beide Häuser (die Dächer werden in 1-2 Jahren neugedeckt - verschiedene Materialien möglich)
@@ -45,7 +44,6 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 
 - große Spannbettlaken (1,40-1,60m)
 - Bettdecken, Kopfkissen, Polster
-- Essen (bitte nichts extra für uns kaufen!)
 - offene Regale und Hängeregale zum Sortieren und Aufbewahren
 - Büroeinrichtung: Schreibtische, Bürostühle
 - Mehrfachsteckdosen
@@ -54,7 +52,6 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Computermonitore mit mindestens 19 Zoll (keine Röhrenmonitore)
 - Laptops und Computer, welche mindestens der Intel Core-I Leistungsklasse angehören
 - optische Mäuse, Tastaturen (deutsches, UK, US layout)
-- A3 Drucker oder Plotter
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
 - Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 Adern)
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
