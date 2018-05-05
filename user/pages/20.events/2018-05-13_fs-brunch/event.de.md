@@ -1,6 +1,6 @@
 ---
 title: 'foodsharing Mitbring-Brunch'
-date: '2018-04-08 11:00'
+date: '2018-05-08 11:00'
 ---
 
 Bring das mit, was bei dir diese Woche übrig geblieben ist und lass uns in geselliger Runde gemeinsam essen und quatschen!
