@@ -2,6 +2,7 @@
 title: 'Neugründung der Kritischen Psychologie Dresen'
 date: '2018-04-20 10:00'
 enddate: '2018-04-22 18:00'
+header_image: false
 ---
 
 Die kritische Psychologie Dresden hat sich neu als Hochschulgruppe gegründet!

@@ -2,6 +2,7 @@
 title: 'Founding of the new Kritische Psychologie Dresen'
 date: '2018-04-20 10:00'
 enddate: '2018-04-22 18:00'
+header_image: false
 ---
 
 The critical psychology Dresden has founded a new university group!
