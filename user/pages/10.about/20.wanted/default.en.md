@@ -6,6 +6,7 @@ draft: false
 ---
 
 ## People
+
 - interested in doing work on the house (construction, maintainance)
 - interested in participating in existing projects (foodsharing, Repair-Café)
 - interested in creating their own projects in/with the house (trying to incorporate the public)
@@ -19,6 +20,7 @@ We also take broken or slightly broken things, that are repairable.
 They might even be used to teach others or learn how to repair things.
 
 ### Building material:
+
 - Lime plaster (a lot)
 - Heatpipes (20m 1")
 - A 2-4m ladder
@@ -28,6 +30,7 @@ They might even be used to teach others or learn how to repair things.
 - Thermal insulation for roof
 
 ### Workshop equipment:
+
 - Hammer drill machine (SDS)
 - Table saw
 - Miter saw
@@ -37,11 +40,14 @@ They might even be used to teach others or learn how to repair things.
 - Bicycle tools and material
 
 ### Lab equipment:
+
 - Microscope
 - Laboratory power supplies
 - Electronic components
 
 ### Things of everyday life:
+
+ - a big cullender
  - Big fitted sheets (1,40-1,60m)
  - Duvets and pillows
  - Food (but don't go out to buy stuff for us!)
@@ -58,14 +64,15 @@ They might even be used to teach others or learn how to repair things.
  - Professional grade WiFi accesspoints (802.11ac, Ubiquiti/Cisco or good quality LEDE supported Hardware, TPLink RE450 or similar)
 
 ### Micscellaneous
-- Belts
+
+- Watering cans (mainly big ones for the garden)
 - Thermoses and big teapots
 - French presses and moka pots
-- Toilet brushes
 - Brooms, scrubbers and mops
 - Window cleaning utensils
 
 ## Wanted
+
 - Projectors (preferably LED)
 - Good quality speakers
 - amplifiers (modern, low energy usage)
@@ -77,4 +84,5 @@ They might even be used to teach others or learn how to repair things.
 - [Money](../../contact) (but only if you can afford to give it!)
 
 ## Places to find Items
+
 You can for example use [ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [jasprtrades](https://jasprtrades.com/), the local recycling company, [freecycle](https://www.freecycle.org/), the projekteverteiler Leipzig and other sharing websites

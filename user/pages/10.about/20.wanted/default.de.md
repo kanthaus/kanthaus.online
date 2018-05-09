@@ -43,6 +43,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 
 ### Wohn- und Büroeinrichtung:
 
+- ein großes Nudelsieb
 - große Spannbettlaken (1,40-1,60m)
 - Bettdecken, Kopfkissen, Polster
 - offene Regale und Hängeregale zum Sortieren und Aufbewahren
@@ -58,10 +59,9 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
 
 ### Diverses
-- Gürtel
+- Gießkannen (vor allem große für den Garten)
 - Thermoskannen und große Teekannen
 - Pressstempelkannen und Espressokannen
-- Klobürsten
 - Besen, Schrubber und Wischer
 - Fensterputz-Equipment
 
