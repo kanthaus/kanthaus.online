@@ -25,6 +25,7 @@ So you'd like to visit us? Great! Read on...
 - Unfortunately our houses come with a lot of stairs and are thus not very accessible. We'll happily help physically impaired people to visit us anyways, but the amount of stairs is something we want to inform visitors about.
 - There is a record of people who come by. Tell us if you don't want your name to appear on there!
 - You can use out internet connection, but never up- or download any illegal content.
+- We won't reserve a private room for you if you don't explicitly ask for it. There are only 4 private rooms and we prefer them to be occupied only if there is a real need for privacy. Our [room booking system](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/privateRoomBooking.md) is still a work-in-progress and may be subject to change, the underlying thoughts, however, are quite figured out.
 
 ## Resources we have
 - Water: drinkable water comes out of the taps. There is the possibility to shower hot.
@@ -33,7 +34,7 @@ So you'd like to visit us? Great! Read on...
 - Cooking: a well equipped kitchen with gas stove, oven, also a barbecue and charcoal for the garden.
 - Clothing: quite a lot of work clothes and normal clothes.
 - Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
-- Other: a guitar, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff...
+- Other: a guitar, a piano, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff, some bikes...
 
 Please include the phrase "basic-infrastructure-ready" when you first contact us so we know you've read this document.
 
