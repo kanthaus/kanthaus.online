@@ -14,7 +14,6 @@ content:
 ## A house for sharing
 
 <p align="center">
-  <img src="/pics/kube01.jpg" alt="Kantstr 20 front with people">
+  <img src="/pics/kanthausFolk1.jpg" alt="Kantstr 20 front with people">
   <br/>
-  <sub>Photo by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
 </p>
