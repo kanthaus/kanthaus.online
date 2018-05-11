@@ -22,4 +22,4 @@ Foodsharing ist das Thema, das alle Kanthaus-Menschen zusammengebracht hat und e
 2018 soll das Jahr sein, in dem dies geschieht: Wir werden [Fairteiler](https://wiki.foodsharing.de/Fair-Teiler) aufstellen und pflegen, Informationsveranstaltungen abhalten, um mehr Wurzener BürgerInnen mit ins Boot zu holen und hoffentlich viele motivierte MitstreiterInnen gewinnen. Wir werden unseren bereits bestehenden Kontakt zum Tafelservice im Mehrgenerationenhaus ausbauen und auch dort helfen, wo wir können, damit die überlasteten Damen nicht im Sommer die Wurzener Tafel komplett schließen müssen.
 
 Du möchtest uns dabei unterstützen?  
-Wunderbar! Schau bei den [Veranstaltungen](../events) wann das nächste Treffen stattfindet und komm vorbei! Oder schreib uns einfach eine [Mail](mailto:hello@kanthaus.online) und wir werden dir mit Freuden Genaueres erklären!
+Wunderbar! Schau bei den [Veranstaltungen](/events) wann das nächste Treffen stattfindet und komm vorbei! Oder schreib uns einfach eine [Mail](mailto:hello@kanthaus.online) und wir werden dir mit Freuden Genaueres erklären!
