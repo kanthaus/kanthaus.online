@@ -25,6 +25,7 @@ So you'd like to visit us? Great! Read on...
 - There is a record of people who come by. Tell us if you don't want your name to appear on there!
 - You can use out internet connection, but never up- or download any illegal content.
 - We won't reserve a private room for you if you don't explicitly ask for it. There are only 4 private rooms and we prefer them to be occupied only if there is a real need for privacy. Our [room booking system](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/privateRoomBooking.md) is still a work-in-progress and may be subject to change, the underlying thoughts, however, are quite figured out.
+- We have neighbours. Respect them regarding noise (be quiet after 22.00) or your wish about a fire in the garden (not every day).
 
 ## Resources we have
 - Water: drinkable water comes out of the taps. There is the possibility to shower hot.
