@@ -20,7 +20,6 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 - Wir haben (noch) keine Rauchmelder oder Feuerlöscher. Bitte behalte jegliche Feuer (Kocher, Kerzen) ständig im Blick.
 - Es können spitze Gegenstände auf dem Boden sein: Pass auf, wenn du barfuß läufst.
-- Möglicherweise gibt es Bereiche mit unbehandeltem Schimmel: Sei bitte vorsichtig während wir daran arbeiten.
 - Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) auf dem Dachbodenholz: Lies dir bitte die vor Ort angebrachten Hinweise durch, bevor du dorthin gehst.
 
 ## Infos
@@ -36,7 +35,7 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 - Internet: Ssid "wuppdays", Passwort "dragonlove". (Download ~25 Mbps, upload ~5 Mbps.)
 - Kochen: Eine gut ausgestatte Küche mit Gaskochfeldern, Ofen. Ein Grill und Kohle für den Garten.
 - Kleidung: Arbeits- und normale Kleidung zum Hiertragen da.
-- Schlafen: Drei Räume mit Matratzen/Betten/Sofas/Decken für ~15 Menschen, viele Isomatten/Schlafsäcke.
+- Schlafen: Drei Räume mit Matratzen/Betten/Sofas/Decken für ~15 Menschen, Vier Rückzugsräume für je 1-3 Personen, viele Isomatten/Schlafsäcke und weitere leere Räume.
 - Anderes: Gitarren, ein Klavier, Schach, ein [set](https://en.wikipedia.org/wiki/Set_(game)) Spiel, verschiedene Bücher, eine Shisha, Arbeitswerkzeuge, Elektronikbastelkrams, ein paar Fahrräder...
 
 Bitte bau den Wortlaut "grundinfrastruktur-vorhanden" in deinen ersten Kontakt zu uns ein, damit wir wissen, dass du dieses Dokument gelesen hast.
