@@ -27,6 +27,7 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 - Wir haben eine Liste, in der wir aufzeichnen, wer wann vorbeikommt. Wenn du nicht möchtest, dass dein Name dort vermerkt wird, sag uns bitte Bescheid!
 - Du kannst gern unsere Internetverbindung nutzen, aber niemals um illegalen Inhalte hoch oder runter zu laden.
 - Wenn du nicht explizit darauf bestehst, werden wir keinen privaten Raum für dich reservieren. Wir haben insgesamt nur 4 private Rückzugsräume und bevorzugen es, wenn sie wirklich nur belegt werden, falls es ein starkes Bedürfnis danach gibt. Unser [Raumreservierungssystem](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/privateRoomBooking.md) ist noch dabei erarbeitet zu werden und kann sich ändern, die grundlegende Überlegung wird aber Bestand haben.
+- Wir haben auch Nachbarn. Bitte respektiere ihre Bedürfnisse indem du nach 22.00 Uhr nicht mehr laut bist und nicht jeden Tag Feuer machst oder grillst.
 
 ## Ressourcen, die wir haben
 
