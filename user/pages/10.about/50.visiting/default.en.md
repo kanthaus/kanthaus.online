@@ -18,7 +18,6 @@ So you'd like to visit us? Great! Read on...
 ## Safety
 - There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
 - There may be sharp objects on the floor/ground: take care if walking barefoot.
-- There may be areas with untreated mold: please be careful whilst we work on them.
 - There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the attic wood: please watch out for and read the info poster before going there.
 
 ## Info
@@ -33,7 +32,7 @@ So you'd like to visit us? Great! Read on...
 - Internet: name "wuppdays", password "dragonlove". (Download ~25 Mbps, upload ~5 Mbps.)
 - Cooking: a well equipped kitchen with gas stove, oven, also a barbecue and charcoal for the garden.
 - Clothing: quite a lot of work clothes and normal clothes.
-- Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
+- Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, four privately bookable rooms for 1-3 people each, also a lot of camping mattresses/sleeping bags that can be used in even more empty rooms.
 - Other: a guitar, a piano, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff, some bikes...
 
 Please include the phrase "basic-infrastructure-ready" when you first contact us so we know you've read this document.
