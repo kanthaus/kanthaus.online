@@ -21,6 +21,7 @@ So you'd like to visit us? Great! Read on...
 - There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the attic wood: please watch out for and read the info poster before going there.
 
 ## Info
+- Upon arrival your main contact will give you a house tour and explain all the basics to you. If you want a sneak peak you can already read [the accompanying document](visiTour).
 - Unfortunately our houses come with a lot of stairs and are thus not very accessible. We'll happily help physically impaired people to visit us anyways, but the amount of stairs is something we want to inform visitors about.
 - There is a record of people who come by. Tell us if you don't want your name to appear on there!
 - You can use out internet connection, but never up- or download any illegal content.
@@ -33,8 +34,7 @@ So you'd like to visit us? Great! Read on...
 - Internet: name "wuppdays", password "dragonlove". (Download ~25 Mbps, upload ~5 Mbps.)
 - Cooking: a well equipped kitchen with gas stove, oven, also a barbecue and charcoal for the garden.
 - Clothing: quite a lot of work clothes and normal clothes.
-- Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, four privately bookable rooms for 1-3 people each, also a lot of camping mattresses/sleeping bags that can be used in even more empty rooms.
-- Other: a guitar, a piano, a chess set, a [set](https://en.wikipedia.org/wiki/Set_(game)) set, various books, a shisha, basic hand tools, some electronics stuff, some bikes...
+- Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
 
 Please include the phrase "basic-infrastructure-ready" when you first contact us so we know you've read this document.
 
