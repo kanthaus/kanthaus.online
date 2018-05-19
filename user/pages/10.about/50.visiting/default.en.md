@@ -8,7 +8,7 @@ routes:
 So you'd like to visit us? Great! Read on...
 
 ## In general
-- Be welcome for a week. To be welcome longer, please chat with a [Volunteer](/governance/volunteers/) or [Member](/governance/members/) once you get here.
+- Be welcome for a week. To be welcome longer, please chat with a [Volunteer or Member](/governance/kanthausers) once you get here.
 - There is no price for staying here. If you have money that you want to give, you can.
 - We have [Collective Agreements](/governance/collectiveagreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and feel welcome to join the coordination meetings and cleaning hours (10:00 on Mondays and Thursdays respectively.)
 - We have a [Constitution](/governance/constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](/governance/constitution/#8c-score-voting).

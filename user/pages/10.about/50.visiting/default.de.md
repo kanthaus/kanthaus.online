@@ -9,7 +9,7 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 ## Allgemein
 
-- Sei für eine Woche willkommen. Wenn du gerne länger bleiben magst, sprich bitte mit einem [Freiwilligen](/governance/volunteers) oder [Mitglied](/governance/members), sobald du angekommen bist.
+- Sei für eine Woche willkommen. Wenn du gerne länger bleiben magst, sprich bitte mit einer/einem [Freiwilligen oder Mitglied](/governance/kanthausers), sobald du angekommen bist.
 - Es gibt keine Kosten für den Aufenthalt hier. Wenn du Geld geben möchtest, kannst du das gerne machen.
 - Wir haben [Gemeinschaftliche Vereinbarungen](/governance/collectiveagreements), welchen du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn du Tiere mitbringst. Außerdem würden wir uns freuen, wenn du an unseren Koordinationstreffen und Putzstunden teilnimmst (10 Uhr montags bzw. donnerstags).
 - Unsere Gemeinschaft basiert auf einer [Verfassung](/governance/constitution), die du akzeptierst, wenn du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](/governance/constitution/#8c-score-voting) um weiterzukommen.
