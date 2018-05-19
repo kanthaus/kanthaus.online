@@ -23,6 +23,8 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 - Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) auf dem Dachbodenholz: Lies dir bitte die vor Ort angebrachten Hinweise durch, bevor du dorthin gehst.
 
 ## Infos
+- Wenn du ankommst, wird dir dein Hauptkontakt eine Haustour geben und dir alles Grundlegende erklären. Wenn du schonmal spinksen möchtest, kannst du [das zugehörige Dokument](visiTour) lesen.
+Upon arrival your main contact will give you a house tour and explain all the basics to you. If you want a sneak peak you can already read [the accompanying document](visiTour).
 - Leider sind unsere Häuser _nicht_ barrierefrei. Alles erstreckt sich über drei Etagen und schon vor der Haustür finden sich einige Stufen. Wir helfen Menschen mit physischen Einschränkungen gern dabei uns trotzdem zu besuchen, aber sie sollten sich auf viele Treppen einstellen.
 - Wir haben eine Liste, in der wir aufzeichnen, wer wann vorbeikommt. Wenn du nicht möchtest, dass dein Name dort vermerkt wird, sag uns bitte Bescheid!
 - Du kannst gern unsere Internetverbindung nutzen, aber niemals um illegalen Inhalte hoch oder runter zu laden.
