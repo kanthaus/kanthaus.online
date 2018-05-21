@@ -40,6 +40,6 @@ Upon arrival your main contact will give you a house tour and explain all the ba
 - Kleidung: Arbeits- und normale Kleidung zum Hiertragen da.
 - Schlafen: Drei Räume mit Matratzen/Betten/Sofas/Decken für ~15 Menschen, viele Isomatten/Schlafsäcke.
 
-Bitte bau den Wortlaut "grundinfrastruktur-vorhanden" in deinen ersten Kontakt zu uns ein, damit wir wissen, dass du dieses Dokument gelesen hast.
+Bitte erwähne eine "phancy Physalis", wenn du uns erstmalig kontaktierst, damit wir wissen, dass du dieses Dokument gelesen hast.
 
 Das Kanthaus erwartet dich schon!

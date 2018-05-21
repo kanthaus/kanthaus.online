@@ -36,6 +36,6 @@ So you'd like to visit us? Great! Read on...
 - Clothing: quite a lot of work clothes and normal clothes.
 - Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
 
-Please include the phrase "basic-infrastructure-ready" when you first contact us so we know you've read this document.
+Please include something about a "phancy physalis" when you first contact us so we know you've read this document.
 
 Kanthaus eagerly awaits you!
