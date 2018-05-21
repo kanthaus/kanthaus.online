@@ -4,17 +4,17 @@ title: "Gemeinschaftliche Vereinbarungen"
 
 ### Koordinierungstreffen
 
-Wir treffen uns Montags um, oder vor 10:00 zum Informationen zu teilen, Pläne zu machen und grundsätzlich zu koordinieren. Allen Bewohnenden wird empfohlen dabeizusein.
+Wir treffen uns Montags um, oder vor 10:00 um Informationen zu teilen, Pläne zu machen und grundsätzlich zu koordinieren. Allen Bewohnenden wird empfohlen dabeizusein.
 
 ===
 
 ### Power Hour
 
-Wir treffen uns Donnerstags um 10:00 Uhr, um kurz gemeinschaftliche Reinigungsaufgaben zu überblicken, zu priorisieren und aufzuteilen. Dann Trennen wir uns und putzen für eine Stunde. Dies ist eine Ergänzung zu normalem Putzen, kein Ersatz. Allen Bewohnenden wird empfohlen dabeizusein.
+Wir treffen uns Donnerstags um 10:00 Uhr, um kurz gemeinschaftliche Reinigungsaufgaben zu überblicken, zu priorisieren und aufzuteilen. Dann trennen wir uns und putzen für eine Stunde. Dies ist eine Ergänzung zu normalem Putzen, kein Ersatz. Allen Bewohnenden wird empfohlen dabeizusein.
 
 ### Besuchen
 
-Besuchende sind nach 7 Tagen vor Ort eingeladen, sich über ihre Erfahrungen mit ein paar der Freiwilligen/Mitglieder auszutauschen. Von Besuchenden wird nach 14 - 21 vor Ort verbrachten Tagen erwartet, eine* Freiwilligen/Mitglied mitzuteilen, ob sie sich als [ Volunteer](../constitution#5-volunteer), oder erneut als Besuchender bewerben möchten.
+Besuchende sind nach 7 Tagen vor Ort eingeladen, sich über ihre Erfahrungen mit ein paar der Freiwilligen/Mitglieder auszutauschen. Von Besuchenden wird nach 14 - 21 vor Ort verbrachten Tagen erwartet, einer/einem Freiwilligen/Mitglied mitzuteilen, ob sie sich als [ Volunteer](../constitution#5-volunteer), oder erneut als Besuchender bewerben möchten.
 
 ### Rauchen
 
@@ -22,7 +22,7 @@ Bitte rauche nicht innerhalb der Gebäude. Wenn Du draußen rauchst, achte bitte
 
 ### Trinken
 
-Kanthaus ist keine Bar: bitte komme nicht mit Trinken alkoholischer Getränke als Hauptziel und sei dir bewusst, dass Alkoholkonsum nicht als Entschuldigung oder Rechtfertigung für Verhalten angesehen wird. Das heißt auch, dass Einzelne verantwortungsbewusst an diesem Ort Alkohol konsumieren können. Bitte frage eine*n der Freiwilligen oder Mitglieder mit Bedenken oder Fragen zu diesem Thema.
+Kanthaus ist keine Bar: bitte komme nicht mit Hauptziel Alkohol zu trinken vorbei und sei dir bewusst, dass Alkoholkonsum nicht als Entschuldigung oder Rechtfertigung für dein Verhalten angesehen wird. Das heißt auch, dass Einzelne verantwortungsbewusst an diesem Ort Alkohol konsumieren können. Bitte frage eine/einen der Freiwilligen oder Mitglieder, wenn du mehr Informationen zu diesem Thema haben möchtest.
 
 ### Barrierefreiheit
 
