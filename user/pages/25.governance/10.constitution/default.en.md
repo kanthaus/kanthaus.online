@@ -11,7 +11,7 @@ title: "Constitution"
   - [§5a. Guest](#guest)  
   - [§5b. Volunteer](#volunteer)
   - [§5c. Member](#member)  
-- §6 Evaluation Procedure](#evaluation)   
+- §6 [Evaluation Procedure](#evaluation)   
 - §7. Operational Activity  
   - [§7a. Individual Action](#indact)  
   - [§7b. Unanimous Acceptance](#uniaccept)  
@@ -58,7 +58,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. The buildings of [Kantstraße 20 & 22, 04808 Wurzen, Germany](https://www.openstreetmap.org/?mlat=51.36705&mlon=12.74081#map=19/51.36705/12.74081) (herein, 'the space'.) The space is legally held on behalf of Kanthaus by [Haus Kante Wurzen w.V.](/governance/satzung_hauskantewurzen) (wirtschaftlicher Verein.)
 1. All items located within the space, unless specified otherwise.
 1. Money and any other resources held by Haus Kante Wurzen w.V.
-1. Haus Kante Wurzen w.V. itself. 
+1. Haus Kante Wurzen w.V. itself.
 
 <a name="positions"></a>
 
@@ -105,7 +105,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A person ceases to be a Volunteer—
 	1. if they return to Guest or progress to Member,
 	1. if decided upon by Conflict Resolution by Intervention (§13c.)
-  
+
 <a name="member"></a>
 
 #### §5c. Member
@@ -127,7 +127,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A person ceases to be a Member—
 	1. if they return to being a Guest or Volunteer,
 	1. if decided upon by Conflict Resolution by Intervention (§13c.)
-  
+
 <a name="evaluation"></a>
 
 ### §6. Evaluation Procedure
@@ -186,7 +186,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. the adjusted scores for each proposal are totalled,
 	1. the proposal with the highest total is selected, and
 	1. the Collective Agreements should be changed to reflect the decision.
-  
+
 <a name="constchange"></a>
 
 ### §9. Changing the Constitution

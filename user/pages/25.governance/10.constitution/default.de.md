@@ -120,7 +120,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 7. Eine Person hört auf, ein Mitglied zu sein, wenn—
     1. sie wieder zum Gast oder Freiwilligen wird, oder
     2. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
-<a name="application"></a>
+<a name="evaluation"></a>
 
 ## §6. Evaluationsverfahren
 1. Freiwillige, Mitglieder und die zu evaluierende Person (hiernach 'die Person') haben ein Treffen. Die Person sollte die Position, die sie anstrebt, anfragen. Es folgt ein offenes Gespräch, in dem Themen, wie die folgenden besprochen werden können:
@@ -143,8 +143,8 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 1. JedeR Einzelne kann handeln, vorausgesetzt—
     1. es gibt keine ausstehenden Widerstände gegenüber der Handlung, und
     2. es wird persönliche Verantwortung dafür übernommen die Handlung, wenn nötig, rückgängig zu machen.
-2. Es gibt kein spezielles Format für Handlungen Einzelner. Während es in einigen Fällen möglicherweise für Einzelne angemessen ist einfach zu [ beginnen](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), ist es in anderen Fällen möglicherweise angebrachter sich vor Beginn zuerst <a href = "http:// www.reinventingorganizationswiki.com/Decision_Making "> zu beraten,</a> oder [ den Vorschlag zu äußern](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
-3. JedeR Einzelne, der Widerstand gegen eine derzeitige oder vorgeschlagene Handlung hat sollte dies frühzeitig, klar und freundlich äußern.
+2. Es gibt kein spezielles Format für Handlungen Einzelner. Während es in einigen Fällen möglicherweise für Einzelne angemessen ist einfach zu [ beginnen](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), ist es in anderen Fällen möglicherweise angebrachter sich vor Beginn zuerst [zu beraten](http:// www.reinventingorganizationswiki.com/Decision_Making), oder [den Vorschlag zu äußern](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
+3. JedeR Einzelne, der/die Widerstand gegen eine derzeitige oder vorgeschlagene Handlung hat sollte dies frühzeitig, klar und freundlich äußern.
 4. Erhält eine derzeitige oder geplante Handlung Widerstand, sollte sie unterbrochen oder verschoben werden und die Betroffenen sollten mit Stufe 2, der einstimmigen Akzeptanz, fortfahren (§7b.)
 <a name ="uniaccept"></a>
 
