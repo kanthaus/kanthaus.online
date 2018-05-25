@@ -26,4 +26,4 @@ The space is not very accessible right now, making it generally unsuitable for i
 The space is not very safe right now, making generally unsuitable for animals. Even if it was safe, animals are not necessarily welcome due to factors such as: allergic reactions, hair-shedding, defecation, damage to resources, biting and other undesirable behaviors. Potential animal residents will be considered on a case by case basis. Please contact a Member to discuss bringing an animal.
 
 ### Changes to the Collective Agreements
-Any addition, subtraction or other change to this document should be made according to the [Constitution, §9](../constitution#9-changing-the-collective-agreements).
+Any addition, subtraction or other change to this document should be made according to the [Constitution](../constitution#collagrchange).
