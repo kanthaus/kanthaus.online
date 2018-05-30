@@ -78,7 +78,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. participate in Operational Activity.
 1. A person first becomes a Guest simply by arriving.
 1. A Guest is warmly recommended to—
-	1. read the [Visitor's Document](../about/visiting), and
+	1. read the [Visitor's Document](/about/visiting), and
   1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Guest implicitly accepts the Constitution and Collective Agreements.
 1. A Guest should be evaluated (§9.) as soon as possible after two weeks (14 days). At their evaluation they may request to—

@@ -72,7 +72,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 	1. an operativen Aktivitäten teilnehmen.
 1. Eine Person wird einfach durch ihre Ankunft zum Gast.
 1. Einem Gast wird freundlich nahe gelegt—
-	1. das [Besucherdokument](../about/visiting) zu lesen, und
+	1. das [Besucherdokument](/about/visiting) zu lesen, und
   1. mit einem Bewohner, möglichst einer/ einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
 1. Ein Gast akzeptiert implizit die Verfassung und die Gemeinschaftlichen Vereinbarungen.
 1. Nach zwei Wochen (14 Tagen) sollte ein Gast so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann ein Gast beantragen—
