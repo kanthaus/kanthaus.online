@@ -47,7 +47,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 
 ### §3. Principles
 1. The principles guiding this Constitution are—
-	1. Autonomy—minimize coercion,
+	1. Self-determination—minimize coercion,
 	1. Equivalence—minimize inequality, and
 	1. Acceptance—minimize conflict.
 1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those used by iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those exhibited by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
