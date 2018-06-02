@@ -44,7 +44,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 
 ## §3. Prinzipien
 1. Die drei Hauptprinzipien, die die Absichten hinter der Verfassung beschreiben und aufzeigen, wie sie interpretiert werden sollte, sind:
-    1. Unabhängigkeit - Zwang minimieren,
+    1. Selbstbestimmung - Zwang minimieren,
     2. Gleichwertigkeit - Ungleichheit minimieren, und
     3. Akzeptanz - Widerstand minimieren.
 2. Weitere leitende Prinzipien beinhalten von der Natur inspirierte Designs wie [Permakultur](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), sich in iterativen Entwicklungsumgebungen wie [Scrum](http://www.scrumguides.org/scrum-guide.html) finden lassende und solche wie die, die von [langanhaltenden Gemeingüter-Institutionen](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) eklärt werden.
