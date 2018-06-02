@@ -30,7 +30,7 @@
             </h2>
         {% else %}
             <h2 class="p-name">
-                {% if next %}{{ 'HOME.NEXT_EVENT'|t }}:&nbsp;{% endif %}
+                {% if on_home_page %}{{ 'HOME.NEXT_EVENT'|t }}:&nbsp;{% endif %}
                 <a href="{{ page.url }}" class="u-url">{{ page.title }}</a>
             </h2>
         {% endif %}
@@ -77,12 +77,18 @@
     {% elseif truncate and page.summary != page.content %}
         <div class="p-summary e-content">
             {{ page.summary }}
-            <p><a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a></p>
+            <p>
+                <a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a>
+                {% if on_home_page %}<a style="display:block" href="{{ page.find('/events').url }}">{{ 'HOME.MORE_EVENTS'|t }}</a>{% endif %}
+            </p>
         </div>
     {% elseif truncate %}
         <div class="p-summary e-content">
             {{ page.content }}
-            <p><a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a></p>
+            <p>
+                <a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a>
+                {% if on_home_page %}<a style="display:block" href="{{ page.find('/events').url }}">{{ 'HOME.MORE_EVENTS'|t }}</a>{% endif %}
+            </p>
         </div>
     {% else %}
         <div class="e-content">

@@ -7,6 +7,13 @@
     .slice(0, 1)
 %}
 
+{% set blog = page
+    .collection({'items':{'@page':'/blog'}})
+    .order('date', 'desc')
+    .slice(0, 1)
+%}
+{% set blog_page = { 'url': '/blog/' } %}
+
 {% block content %}
     {% if config.plugins.breadcrumbs.enabled %}
         {% include 'partials/breadcrumbs.html.twig' %}
@@ -15,8 +22,15 @@
 
     {% if events is not empty %}
         {% for event in events %}
-            {% include 'partials/event_item.html.twig' with {'blog':page, 'page':event, 'truncate':true, 'showdate':true, 'next':true} %}
+            {% include 'partials/event_item.html.twig' with {'page':event, 'truncate':true, 'showdate':true, 'on_home_page':true} %}
         {% endfor %}
-        <a href="{{ page.find('/events').url }}">{{ 'HOME.MORE_EVENTS'|t }}</a>
+    {% endif %}
+
+    <div style="height: 5em"></div>
+
+    {% if blog is not empty %}
+        {% for blog_item in blog %}
+            {% include 'partials/blog_item.html.twig' with {'blog':blog_page, 'page':blog_item, 'truncate':true, 'showdate':true, 'on_home_page':true} %}
+        {% endfor %}
     {% endif %}
 {% endblock %}
