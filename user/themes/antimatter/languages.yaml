@@ -4,11 +4,14 @@ en:
   HOME:
     NEXT_EVENT: Soon
     MORE_EVENTS: More Events...
+    MORE_BLOG_POSTS: More Blog posts...
   BLOG:
     ITEM:
       CONTINUE_READING: Continue reading...
       NEXT_POST: Next Post
       PREV_POST: Previous Post
+    AUTHOR:
+      BY: by
   EVENT:
     PAST: Past Events
     ITEM:
@@ -39,12 +42,15 @@ de:
   EDIT_PAGE: Seite bearbeiten
   HOME:
     NEXT_EVENT: Bald
-    MORE_EVENTS: Mehr Veranstaltungen...
+    MORE_EVENTS: Weitere Veranstaltungen...
+    MORE_BLOG_POSTS: Weitere Blogeinträge...
   BLOG:
     ITEM:
       CONTINUE_READING: Weiterlesen...
       NEXT_POST: Nächster Beitrag
       PREV_POST: Vorheriger Beitrag
+    AUTHOR:
+      BY: von
   EVENT:
     PAST: Vergangene Veranstaltungen
     ITEM:

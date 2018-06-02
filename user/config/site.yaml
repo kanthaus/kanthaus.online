@@ -5,3 +5,9 @@ metadata:
 summary:
     enabled: true
     size: 100
+
+author:
+    name: Kanthaus
+    email: hello@kanthaus.online
+
+taxonomies: [tag,author]

@@ -22,15 +22,28 @@
                 <a href="{{ page.header.link }}" class="u-url">{{ page.title }}</a>
             </h2>
         {% else %}
-            <h2 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}{% if showdateintitle %} {{ page.date|date('Y-m-d') }}{% endif %}</a></h2>
+            <h2 class="p-name">
+                {% if on_home_page %}Blog:&nbsp;{% endif %}
+                <a href="{{ page.url }}" class="u-url">{{ page.title }}{% if showdateintitle %} {{ page.date|date('Y-m-d') }}{% endif %}</a>
+            </h2>
         {% endif %}
 
-        {% if page.taxonomy.tag %}
+        <div style="position: relative; min-width: 100%; min-height: 1em">
+        {% if page.taxonomy.tag and not on_home_page %}
         <span class="tags">
             {% for tag in page.taxonomy.tag %}
             <a href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}" class="p-category">{{ tag }}</a>
             {% endfor %}
         </span>
+        {% endif %}
+        {% if page.taxonomy.author %}
+        <span style="position: absolute; right: 0; font-weight: bold">
+            {{ 'BLOG.AUTHOR.BY'|t }}
+            {% for author in page.taxonomy.author %}
+            <a href="{{ blog.url|rtrim('/') }}/author{{ config.system.param_sep }}{{ author }}" class="p-author">{{ author }}</a>
+            {% endfor %}
+        </span>
+        </div>
         {% endif %}
         {% if header_image %}
             {% if header_image_file %}
@@ -55,12 +68,18 @@
     {% elseif truncate and page.summary != page.content %}
         <div class="p-summary e-content">
             {{ page.summary }}
-            <p><a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a></p>
+            <p>
+                <a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a>
+                {% if on_home_page %}<a style="display:block" href="{{ page.find('/blog').url }}">{{ 'HOME.MORE_BLOG_POSTS'|t }}</a>{% endif %}
+            </p>
         </div>
     {% elseif truncate %}
         <div class="p-summary e-content">
             {{ page.content }}
-            <p><a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a></p>
+            <p>
+                <a href="{{ page.url }}">{{ 'BLOG.ITEM.CONTINUE_READING'|t }}</a>
+                {% if on_home_page %}<a style="display:block" href="{{ page.find('/blog').url }}">{{ 'HOME.MORE_BLOG_POSTS'|t }}</a>{% endif %}
+            </p>
         </div>
     {% else %}
         <div class="e-content">

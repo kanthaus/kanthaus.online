@@ -1,5 +1,5 @@
 ---
-title: "Aktuelles"
+title: "Blog"
 content:
     items: '@self.children'
     order:
@@ -8,5 +8,5 @@ content:
     limit: 10
     pagination: true
 showitemdates: true
-showitemdateintitle: true
+showitemdateintitle: false
 ---
