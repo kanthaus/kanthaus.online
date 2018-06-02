@@ -11,7 +11,7 @@ members:
   - name: Doug Webb
     joined: "2017-08-05"
     founder: true
-  - name: Bodhi N
+  - name: Bodhi Neiser
     joined: "2018-01-10"
     founder: false
     participants: Janina, Matthias, Laurina, Doug
@@ -32,9 +32,9 @@ volunteers:
   - name: Nick
     joined: "2017-10-26"
     participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
-  - name: Cille
-    joined: "2017-10-26"
-    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
+#  - name: Cille
+#   joined: "2017-10-26"
+#    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
   - name: Tilmann
     joined: "2017-11-14"
     participants: Doug, Matthias, Lou, Janina
