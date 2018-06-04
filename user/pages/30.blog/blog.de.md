@@ -12,6 +12,6 @@ showitemdateintitle: false
 ---
 Wilkommen auf dem Kanthaus blog!
 
-Die Idee des Blogs ist es, Wissen verfügbar zu machen, Inhalte und Lehrmaterialien zu teilen und Lernen und Lehren zu können.  
-Kommentare gerne per e-mail oder slack.  
-und viel Spaß :-).
+Die Idee des Blogs ist es, Wissen verfügbar zu machen, Inhalte und Lehrmaterialien zu teilen und lernen und lehren zu können.  
+Kommentare gerne per [Mail](mailto:hello@kanthaus.online) oder [Slack](https://yunity.slack.com/messages/C3RS56Z38/) ([Klicke hier](https://slackin.yunity.org), falls du noch keinen Account in unserem Slack hast).  
+...und viel Spaß! :)
