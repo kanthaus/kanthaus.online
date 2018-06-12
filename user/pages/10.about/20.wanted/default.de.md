@@ -17,7 +17,6 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 ### Baustoffe:
 
 - Kalkputz (eine ganze Menge)
-- eine 2-4m große Leiter
 - Heizungsrohre (20m 1")
 - Wärmeschutzverglaste Fenster (zum Austausch einiger bzw. aller Fenster der Häuser)
 - Dachbedeckung für beide Häuser (die Dächer werden in 1-2 Jahren neugedeckt - verschiedene Materialien möglich)
@@ -28,15 +27,21 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 
 - Bohrhammer (SDS)
 - Handkreissäge
-- Kappsäge
-- Kreissäge
-- Schieblehre
+- Hobelmaschine
+- Kernbohrer & -maschine
 - Schrauben und anderes Verbrauchsmaterial
 - Fahrradwerkzeug und Material
+- Leiter, 2-4m groß
+
+## Garten
+
+- Sonnenschirm (am liebsten in groß)
+- Pflanzstangen für Tomaten etc.
+- Spaten
+- Schaufel
 
 ### Laboreinrichtung:
 
-- Mikroskop
 - Labornetzteile
 - elektronische Bauteile (aktive & passive Bauelemente)
 - Reagenzgläser
@@ -49,9 +54,9 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - offene Regale und Hängeregale zum Sortieren und Aufbewahren
 - Büroeinrichtung: Schreibtische, Bürostühle
 - Mehrfachsteckdosen
-- Verlängerungskabel (kürzer als 5m)
+- Verlängerungskabel (gerne auch kürzer als 5m)
 - LED-Leuchtmittel (E14, E27)
-- Computermonitore mit mindestens 19 Zoll (keine Röhrenmonitore)
+- Flachbildschirme mit mindestens 19 Zoll
 - Laptops und Computer, welche mindestens der Intel Core-I Leistungsklasse angehören
 - optische Mäuse, Tastaturen (deutsches, UK, US layout)
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
