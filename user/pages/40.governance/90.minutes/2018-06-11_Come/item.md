@@ -1,6 +1,13 @@
+---
+title: Coordination Meeting
+date: "2018-06-11"
+taxonomy:
+    tag: [come]
+---
+
 - Date: 2018-06-11
 - Facilitator: Matthias, Bodhi
-- Notary:
+- Notary: Matthias, Bodhi
 - Present: Bodhi, Laurina, Doug, Anja, Adam, Anna, Matthias
 
 ===

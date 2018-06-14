@@ -5,21 +5,6 @@ taxonomy:
     tag: [come]
 ---
 
-<!--
-Hello facilitator/notary! Thank you for your services. Here is some advice for facilitating coordination meetings:
-  - Prepare the meeting a bit beforehand (find out about evaluations, gas, electricity and water usages, waste collections, income, scheduled events). You can ask others to assist you.
-  - Notify people 10 minutes before the meeting starts. (Watching the clock is not super fun, people will be grateful if you do it for them.)
-  - Start at 10:00 sharp, or earlier if everyone is there. (Waiting is time-wasting, be a time-saver!)
-  - If you don't want to take notes yourself ask someone else to take care of that. (This pad can easily be used to read from and write in simultaneously.)
-  - Go through the ordered points in order, even if nothing has changed. (They are arranged to try and get the most relevant information to most people.)
-  - Feel welcome to moderate conversation if off-topic or too detailed. (Are listeners interested? Are speakers satisfied? Can you identify a sub-group?)
-  - Try to finish the meeting before 11:00. (There is always more to talk about and it's important for people to know that CoMes don't take forever.)
-  - Leave the room once the meeting has ended. (This sends a clear signal to everyone else that they can also leave and get on with their day.)
-  - Take care that the meeting minutes will be put to kanthaus.online. (If you don't know how to do it, ask someone to help you with it. But do it today!)
-  - As soon as the minutes are online, empty the pad from all irrelevant things and get it ready for the next facilitator. (Only keep regular events such as CoMe, power hour, regular food pickups and such. Move the counter figures from 'last 7 days' to '7 days before that' and adjust the date to next week.)
-  - Have fun!
--->
-
 - Date: 2018-05-14
 - Facilitator: Doug
 - Notary: Doug
@@ -33,7 +18,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Chandi and Findus leave Wednesday
 - Arnulf leaves Thursday
 
-### 2. Evaluations 
+### 2. Evaluations
 - Chandi and Findus, 13:00 tomorrow
 
 ### 3. Changes to Governance
@@ -64,7 +49,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
   - Power Hour, 10 am
 - Freitag:
   - Market pickup, 2 pm (Janina, Isabel)
-- Samstag: 
+- Samstag:
 - Sonntag:
 - Big things next week
   -Rotter Party and Landgut Nemt Hof Fest
@@ -77,7 +62,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Proposal: set up sharing event defaults
   - Default time: 17:00 - 18:00, Wednesdays. (Reasoning: far enough from Monday for reflection, doesn't clash with Landgut Nemt or regular events, allows 'community week' to end after the power hour)
   - Default room: cloud room. (Reasoning: comfy, calm)
-  - Default format: 
+  - Default format:
     - 2-3 minutes silence
     - one round where people briefly share just their emotions (e.g. with explicit words, or metaphors: not reasons, solutions, etc)
     - 'open' circle until time runs out
