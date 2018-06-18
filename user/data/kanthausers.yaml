@@ -15,6 +15,10 @@ members:
     joined: "2018-01-10"
     founder: false
     participants: Janina, Matthias, Laurina, Doug
+  - name: Tilmann Becker
+    joined: "2018-06-18"
+    founder: false
+    participants: Janina, Doug
 
 volunteers:
   - name: Wolfi
@@ -35,9 +39,9 @@ volunteers:
 #  - name: Cille
 #   joined: "2017-10-26"
 #    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
-  - name: Tilmann
-    joined: "2017-11-14"
-    participants: Doug, Matthias, Lou, Janina
+#  - name: Tilmann
+#    joined: "2017-11-14"
+#    participants: Doug, Matthias, Lou, Janina
   - name: Björn
     joined: "2017-12-11"
     participants: Janina, Matthias, Bodhi, Wolfi, Lou, Mona
