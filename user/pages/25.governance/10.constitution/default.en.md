@@ -84,7 +84,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Guest should be evaluated (§6.) as soon as possible after two weeks (14 days). At their evaluation they may request to—
   1. continue as a Guest, or
   1. progress to Volunteer.
-1. A person ceases to be a Guest if they progress to Volunteer.
+1. A person ceases to be a Guest if they leave the space or progress to Volunteer.
 
 <a name="volunteer"></a>
 
@@ -104,6 +104,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer may return to Guest at any point.
 1. A person ceases to be a Volunteer—
 	1. if they return to Guest or progress to Member,
+  1. if they did not spend time in the space for 3 months, in which case they return to Guest,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="member"></a>
@@ -126,6 +127,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Member may return to Volunteer or Guest at any point.
 1. A person ceases to be a Member—
 	1. if they return to being a Guest or Volunteer,
+  1. if they did not spend time in the space for 6 months, in which case they return to Volunteer,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="evaluation"></a>
