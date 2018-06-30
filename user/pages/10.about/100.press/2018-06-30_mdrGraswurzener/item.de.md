@@ -8,7 +8,7 @@ date: "2018-06-30"
 ===
 
 #### Beitrag
-![MDR Radiofeature: Die Graswurzener](https://cloud.kanthaus.online/s/dzKj656D4RLiD5o)
+[MDR Radiofeature: Die Graswurzener](https://cloud.kanthaus.online/s/dzKj656D4RLiD5o)
 
 Wir finden das Feature sehr gelungen und danken Jörg für seine Arbeit und Zeit, die er investiert hat.
 Es war sehr angenehm, ihn im Kanthaus zu Besuch zu haben.
