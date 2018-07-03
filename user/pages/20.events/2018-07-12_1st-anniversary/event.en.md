@@ -6,8 +6,7 @@ header_image: false
 
 Kanthaus turns 1! And you're invited to celebrate this with us! :D
 
-![](emptyLiving.jpg)
-_This is where now is a cozy living room!_
+![](birthday.jpg)
 
 ===
 

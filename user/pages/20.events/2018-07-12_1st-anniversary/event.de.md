@@ -6,8 +6,7 @@ header_image: false
 
 Das Kanthaus wird 1! Und du bist herzlich eingeladen das mit uns zu feiern! :D
 
-![](emptyLiving.jpg)
-_Hier ist nun ein gemütliches Wohn- und Esszimmer!_
+![](birthday.jpg)
 
 ===
 
