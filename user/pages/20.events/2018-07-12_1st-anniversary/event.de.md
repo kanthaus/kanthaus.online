@@ -24,3 +24,7 @@ Soviel ist passiert seit wir vor einem Jahr die Schlüssel für Kantstraße 20 u
 - ...und viel mehr!
 
 Falls du es immernoch nicht geschafft haben solltest mal vorbeizukommen, ist das die Gelegenheit! Wir können ein paar Happen essen und einen Tee zusammen trinken, durch die Häuser schlendern und einfach zusammen feiern, was wir bereits erreicht haben. Wirst du an diesem besonderen Tag dabei sein? :)
+
+Es ein Video geben vom Tag unseres ersten Besuchs und dann dasselbe nochmal auf heutigem Stand, Haustouren nach Wunsch, gerettetes Essen und natürlich Erfahrungsberichte und generellen Austausch. Also fast alles wie immer... ;)
+
+Wir freuen uns über Musik und fröhliche, neugierige und hungrige Menschen! :)

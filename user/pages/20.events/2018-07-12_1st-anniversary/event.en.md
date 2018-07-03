@@ -24,3 +24,7 @@ A lot has happened since we got the keys for Kantstraße 20 and 22 a year ago:
 - ...and much more!
 
 If you still did not manage to come by, this is your chance! We can have some snacks and drinks together, stroll through the houses and just celebrate what we already achieved. Will you be there with us on this special day? :)
+
+We will screen a video that was shot on the day of our first visit and then one from the current state that retraces the same path. We'll have on-demand house tours, saved food and general exchange of thought and experiences. So basically everything almost as usual... ;)
+
+We're looking forward to having music, as well as happy, curious and hungry people! :)
