@@ -5,8 +5,8 @@ taxonomy:
     tag: [governance]
 ---
 
-Present: Nick, Tilmann, Tais, Janina, Alex, Talita
-Notary: Janina, Nick
+Present: Nick, Tilmann, Tais, Janina, Alex, Talita<br>
+Notary: Janina, Nick<br>
 Date: 2018-07-31, 10:30 am - 12:00 pm
 
 ## Expectations for the meeting
