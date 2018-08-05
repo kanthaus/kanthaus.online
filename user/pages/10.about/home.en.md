@@ -24,7 +24,7 @@ content:
   _worldwide network of foodsaving groups_
 - [Karrot](https://github.com/yunity/karrot-frontend)<br>
   _planning and development of the multilingual webapp to support foodsaving groups_
-- [Programmierung von Foodsharing.de](https://devblog.foodsharing.de)</a><br>
+- [Programmierung von Foodsharing.de](https://devblog.foodsharing.de)<br>
   _modernizing and improving foodsharing.de_
 - [Ukuvota](https://gitlab.com/yunity/ukuvota)<br>
   _webapp for decision making in groups_
