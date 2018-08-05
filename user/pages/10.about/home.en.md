@@ -36,6 +36,8 @@ content:
   _take back the control over your technical devices_
 - [Auerworld-Festival](https://auerworld-festival.de/)<br>
   _planning and organizing of a sustainable festival_
+- [Trichter](https://trichter.cc/)<br>
+  _calendar of alternative events for Leipzig_
 
 You are welcome to stay with us and participate at these projects!
 

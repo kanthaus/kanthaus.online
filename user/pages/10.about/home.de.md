@@ -37,6 +37,8 @@ debugger: true
   _Beherrsche die Technik, nicht andersherum_
 - [Auerworld-Festival](https://auerworld-festival.de/)<br>
   _Planung und Organisation eines nachhaltigen Festivals_
+- [Der Trichter](https://trichter.cc/)<br>
+  _Veranstaltungskalender für Leipzig_
 
 Du bist herzlich eingeladen, bei uns zu bleiben und bei diesen Projekten beizutragen!
 
