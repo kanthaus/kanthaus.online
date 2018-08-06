@@ -9,7 +9,7 @@ So you'd like to visit us? Great! Read on...
 
 ## In general
 - Ask us if you can come. You can contact us via [Slack](https://slackin.yunity.org) or [email](mailto:info@kanthaus.online).
-- Be welcome for a week. To be welcome longer, please chat with a [Volunteer or Member](/governance/kanthausers) once you get here.
+- We're especially interested in supporting people who work on projects that resonate with the values of the house.
 - There is no price for staying here. If you have money that you want to give, you can.
 - We have [Collective Agreements](/governance/collectiveagreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and feel welcome to join the coordination meetings and cleaning hours (10:00 on Mondays and Thursdays respectively.)
 - We have a [Constitution](/governance/constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](/governance/constitution/#8c-score-voting).
@@ -27,7 +27,7 @@ So you'd like to visit us? Great! Read on...
 - There is a record of people who come by. Tell us if you don't want your name to appear on there!
 - You can use out internet connection, but never up- or download any illegal content.
 - We won't reserve a private room for you if you don't explicitly ask for it. There are only 4 private rooms and we prefer them to be occupied only if there is a real need for privacy. Our [room booking system](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/privateRoomBooking.md) is still a work-in-progress and may be subject to change, the underlying thoughts, however, are quite figured out.
-- We have neighbours. Respect them regarding noise (be quiet after 22.00) or your wish about a fire in the garden (not every day).
+- We have neighbors. Respect them regarding noise (be quiet after 22.00) or your wish about a fire in the garden (not every day).
 
 ## Resources we have
 - Water: drinkable water comes out of the taps. There is the possibility to shower hot.
