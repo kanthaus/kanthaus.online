@@ -8,6 +8,7 @@ routes:
 So you'd like to visit us? Great! Read on...
 
 ## In general
+- Ask us if you can come. You can contact us via [Slack](https://slackin.yunity.org) or [email](mailto:info@kanthaus.online).
 - Be welcome for a week. To be welcome longer, please chat with a [Volunteer or Member](/governance/kanthausers) once you get here.
 - There is no price for staying here. If you have money that you want to give, you can.
 - We have [Collective Agreements](/governance/collectiveagreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and feel welcome to join the coordination meetings and cleaning hours (10:00 on Mondays and Thursdays respectively.)
