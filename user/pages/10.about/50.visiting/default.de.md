@@ -15,7 +15,6 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 - Wir haben [Gemeinschaftliche Vereinbarungen](/governance/collectiveagreements), welchen du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn du Tiere mitbringst. Außerdem würden wir uns freuen, wenn du an unseren Koordinationstreffen und Putzstunden teilnimmst (10 Uhr montags bzw. donnerstags).
 - Unsere Gemeinschaft basiert auf einer [Verfassung](/governance/constitution), die du akzeptierst, wenn du zu uns kommst. Kurz gesagt: Handele, nimm Unstimmigkeiten wahr und versuche sie zu lösen. Sollte eine Situation zu komplex oder nicht lösbar scheinen, verwende [Bewertungswahl](/governance/constitution/#8c-score-voting) um weiterzukommen.
 - Die Adresse ist [Kantstraße 20, 04808 Wurzen](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- [Melde dich](/contact) am besten bei uns, bevor du ankommst.
 
 ## Aufenthaltsdauer
 - Auch wenn du nur mal für einen Nachmittag vorbeischauen möchtest macht es trotzdem Sinn uns vorher zu kontaktieren. Wir sind ziemlich beschäftigte Leute und haben lieber klare Termine mit Menschen, damit wir uns Zeit für sie nehmen können, um sie kennenzulernen und herumzugühren.
@@ -31,7 +30,6 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 ## Infos
 - Wenn du ankommst, wird dir dein Hauptkontakt eine Haustour geben und dir alles Grundlegende erklären. Wenn du schonmal spinksen möchtest, kannst du [das zugehörige Dokument](visiTour) lesen.
-Upon arrival your main contact will give you a house tour and explain all the basics to you. If you want a sneak peak you can already read [the accompanying document](visiTour).
 - Leider sind unsere Häuser _nicht_ barrierefrei. Alles erstreckt sich über drei Etagen und schon vor der Haustür finden sich einige Stufen. Wir helfen Menschen mit physischen Einschränkungen gern dabei uns trotzdem zu besuchen, aber sie sollten sich auf viele Treppen einstellen.
 - Wir haben eine Liste, in der wir aufzeichnen, wer wann vorbeikommt. Wenn du nicht möchtest, dass dein Name dort vermerkt wird, sag uns bitte Bescheid!
 - Du kannst gern unsere Internetverbindung nutzen, aber niemals um illegalen Inhalte hoch oder runter zu laden.
