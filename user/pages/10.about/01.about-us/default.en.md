@@ -24,7 +24,7 @@ As soon as people stop buying everything for themselves and start sharing with t
 
 We want to take time again to establish contact. We want to make accessible all that of which we have too much already. We want to counter waste and strengthen appreciation of resources and humans instead of counting everything up in money.
 
-Our main projects are:
+Our main topics are:
 - to develop free and [open source software](https://en.wikipedia.org/wiki/Open-source_software_movement),
 - to provide and connect [public and common pool resources](https://en.wikipedia.org/wiki/Commons) and
 - to give what we can, take what we need and facilitate others to do the same.

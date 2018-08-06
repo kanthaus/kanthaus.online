@@ -25,7 +25,7 @@ Wenn Menschen nicht mehr alles selbst kaufen, sondern mal wieder mit den Nachbar
 
 Wir wollen uns wieder die Zeit nehmen, um Kontakt herzustellen. Wir wollen all das, wovon es zuviel gibt, zugänglich machen. Wir wollen der Verschwendung entgegenwirken und die Wertschätzung von Ressourcen und Menschen fördern, anstatt alles in Geld aufzurechnen.
 
-Unsere Hauptprojekte sind es:
+Unsere Hauptanliegen sind es:
 - freie und kostenlose [Open Source Software](https://de.wikipedia.org/wiki/Open_Source) zu entwickeln,
 - [Gemeingüter bzw. Commons](https://de.wikipedia.org/wiki/Commons) bereitzustellen, zu verwalten und miteinander in Verbindung zu setzen,
 - zu geben, was wir können und zu nehmen, was wir brauchen und dies auch Anderen zu ermöglichen.
