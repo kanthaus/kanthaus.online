@@ -14,7 +14,6 @@ So you'd like to visit us? Great! Read on...
 - We have [Collective Agreements](/governance/collectiveagreements/) which you accept by coming here. In short: smoke outside, drink responsibly, talk to us before bringing animals and feel welcome to join the coordination meetings and cleaning hours (10:00 on Mondays and Thursdays respectively.)
 - We have a [Constitution](/governance/constitution) which you accept by coming here. In short: act, acknowledge and try to resolve disagreements, and if a situation is too complex or otherwise unresolvable use [score voting](/governance/constitution/#8c-score-voting).
 - The address is [Kantstraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N).
-- [Contact us](/contact/) before you arrive if possible.
 
 ## Duration
 - If you just want to come over for an afternoon it still makes sense to contact us first. We are quite busy people and prefer having clear appointments with people, so that we can take time for getting to know them and showing them around.
