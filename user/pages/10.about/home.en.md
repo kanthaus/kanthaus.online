@@ -25,7 +25,7 @@ content:
   <small>Contact: Janina</small>
 - [Karrot](https://github.com/yunity/karrot-frontend)<br>
   _planning and development of the multilingual webapp to support foodsaving groups_<br>
-  <small>Contact: Tilmann, Nick</small>
+  <small>Contact: Tilmann, Nick, Janina</small>
 - [Foodsharing.de code](https://devblog.foodsharing.de)<br>
   _modernizing and improving foodsharing.de_<br>
   <small>Contact: Matthias, Nick</small>
@@ -47,9 +47,9 @@ content:
 - [Auerworld-Festival](https://auerworld-festival.de/)<br>
   _planning and organizing of a sustainable festival_<br>
   <small>Contact: Silvan</small>
-- [Trichter](https://trichter.cc/)<br>
+<!--- - [Trichter](https://trichter.cc/)<br>
   _calendar of alternative events for Leipzig_<br>
-  <small>Contact: Chandi</small>
+  <small>Contact: Chandi</small> -->
 - [Foodsharing on festivals](https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals)<br>
   _organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals_<br>
   <small>Contact: Bodhi, Lise</small>

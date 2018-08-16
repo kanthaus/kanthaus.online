@@ -26,7 +26,7 @@ debugger: true
   <small>Kontakt: Janina</small>
 - [Karrot](https://github.com/yunity/karrot-frontend)<br>
   _Planung und Entwicklung der mehrsprachigen Foodsaving-Webapp_<br>
-  <small>Kontakt: Tilmann, Nick</small>
+  <small>Kontakt: Tilmann, Nick, Janina</small>
 - [Programmierung von Foodsharing.de](https://devblog.foodsharing.de)</a><br>
   _Foodsharing.de modernisieren und verbessern_<br>
   <small>Kontakt: Matthias, Nick</small>
@@ -48,11 +48,11 @@ debugger: true
 - [Auerworld-Festival](https://auerworld-festival.de/)<br>
   _Planung und Organisation eines nachhaltigen Festivals_<br>
   <small>Kontakt: Silvan</small>
-- [Der Trichter](https://trichter.cc/)<br>
+<!--- - [Der Trichter](https://trichter.cc/)<br>
   _Veranstaltungskalender für Leipzig_<br>
-  <small>Kontakt: Chandi</small>
+  <small>Kontakt: Chandi</small> -->
 - [Foodsharing auf Festivals](https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals)<br>
-  _Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Rettn auf kommerzielle Festivals zu schicken_<br>
+  _Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken_<br>
   <small>Kontakt: Bodhi, Lise</small>
 
 Du bist herzlich eingeladen, bei uns zu bleiben und dich in diesen Projekten einzubringen!
