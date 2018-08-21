@@ -258,16 +258,18 @@ b, strong, label, th {
     background-color: rgba(255, 255, 255, 0.7) !important; }
 
 .langswitcher {
-  position: fixed;
+  position: absolute;
   right: 10px; }
-
-.langswitcher li {
-  display: inline-block;
-  margin-left: 0.5rem; }
-
-.langswitcher .active {
-  font-weight: bold;
-  text-decoration: underline; }
+  @media only all and (max-width: 59.938em) {
+    .langswitcher {
+      right: auto;
+      left: 10px; } }
+  .langswitcher li {
+    display: inline-block;
+    margin-left: 0.5rem; }
+  .langswitcher .active {
+    font-weight: bold;
+    text-decoration: underline; }
 
 #footer {
   position: absolute;

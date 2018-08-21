@@ -279,16 +279,19 @@ $dropdown-color: #f6f6f6;
 }
 
 .langswitcher {
-    position: fixed;
+    position: absolute;
     right: 10px;
-}
-
-.langswitcher li {
-    display: inline-block;
-    margin-left: 0.5rem;
-}
-
-.langswitcher .active {
-    font-weight: bold;
-    text-decoration: underline;
+    @include breakpoint(desktop-only) {
+        // move the lang switcher to the left on desktop
+        right: auto;
+        left: 10px;
+    }
+    li {
+        display: inline-block;
+        margin-left: 0.5rem;
+    }
+    .active {
+        font-weight: bold;
+        text-decoration: underline;
+    }
 }

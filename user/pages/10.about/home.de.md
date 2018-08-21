@@ -15,7 +15,7 @@ debugger: true
 ## Haus für nachhaltige Projekte
 
 <p align="center">
-  <img src="/pics/kanthausFolk1.jpg" alt="Kantstr 20 front with people" height="600px">
+  <img src="/pics/kanthausFolk1.jpg" alt="Kantstr 20 front with people" style="width: 100%; max-width: 600px">
   <br/>
 </p>
 
