@@ -64,8 +64,8 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Thursday:
   - PowerHour: 10:00 (Bodhi)
 - Friday:
-  - Market pickup: around 12.00 already (it's hot and they finish early) 13.00-13.30 (Future note: the week 28.8 - 4.9 it's not going to happen. They're away.) (Tilmann, Michal)
-. Saturday:
+  - Market pickup: around 12.00 <!--already (it's hot and they finish early) 13.00-13.30 (Future note: the week 28.8 - 4.9 it's not going to happen. They're away.)--> (Tilmann, Michal)
+- Saturday:
 - Sunday:
 - Next Monday:
   - CoMe Facilitator: Bodhi
@@ -93,6 +93,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - On Monday (20-08-18) we took what seems to be the last full gas bottle from the storage in K20.0.the-room-with-grill. Plan to buy some? (Will be combined with returning the Pfand. While being at the gas station the car can get more gas as well.)
 - Reskip/rest waste situation. There is a bucket marked with RESKIP in the basement. Put there old cooked food, bread, meat, any organic waste that doesn't go to compost. It will be returned to supermarket dumpster then. Bread can go back to Aldi and not be mixed with the other.
 - No popcorn in the communal sleeping room, please! If you want to have the full cinema experience, go to the piano room to watch a movie while eating popcorn. (Janina, Tilmann, Matthias, Bodhi)
-- Matthias has a point about high hygiene levels in sleeping rooms including private sleeping rooms.
+- Matthias has a point about keeping high hygiene standards in sleeping rooms including private sleeping rooms.
 - A nice laugh about rollmops and spoken language.
 - Possible reappearance of wound infection. Refill the disinfectant on toilets, infected people should sleep in separate, own bed. We'll get updated if the alert is valid.
