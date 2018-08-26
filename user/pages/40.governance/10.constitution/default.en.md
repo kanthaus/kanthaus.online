@@ -82,7 +82,6 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
     1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Visitor implicitly accepts the Constitution and Collective Agreements.
 1. A Visitor is allowed to stay up to two consecutive nights. Before the third night, they need to gather informal agreement among the other residents to stay longer.
-1. To stay longer than 7 nights, a Visitor need to participate in an informal check-in round where other residents are invited to share feedback. Again, informal agreement is required for the Visitor to stay longer.
 1. A Visitor should be evaluated (§6.) as soon as possible after three weeks (21 days). At their evaluation they may request to—
   1. continue as a Visitor, or
   1. progress to Volunteer.
@@ -101,6 +100,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer should—
 	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
+1. A Volunteer should not take it for granted to use Kanthaus as a permanent living space. Their evaluation should be seen as the feedback process to be invited to stay longer - or become a member when there is enough trust from other members to be seen as a face of the project.
 1. A Volunteer should be evaluated (§6.) as soon as possible after 2 months (60 days). At their evaluation they may request to—
   1. return to Visitor,
   1. continue as a Volunteer, or
