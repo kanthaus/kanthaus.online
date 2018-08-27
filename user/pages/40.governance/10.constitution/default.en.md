@@ -11,14 +11,14 @@ title: "Constitution"
   - [§5a. Visitor](#visitor)
   - [§5b. Volunteer](#volunteer)
   - [§5c. Member](#member)
-- §6 [Evaluation Procedure](#evaluation)
-- §7. Operational Activity
+- [§6 Evaluation Procedure](#evaluation)
+- [§7. Operational Activity](#indact)
   - [§7a. Individual Action](#indact)
   - [§7b. Unanimous Acceptance](#uniaccept)
   - [§7c. Score Voting](#scorevote)
 - [§8. Changing the Collective Agreements](#collagrchange)
 - [§9. Changing the Constitution](#constchange)
-- §10. Conflict Resolution
+- [§10. Conflict Resolution](#directconflres)
   - [§10a. Direct Conflict Resolution](#directconflres)
   - [§10b. Voluntary Assistance](#volass)
   - [§10c. Intervention](#intervention)
