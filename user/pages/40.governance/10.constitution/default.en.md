@@ -101,7 +101,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer should—
 	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. A Volunteer should be evaluated (§6.) as soon as possible after they spend 2 months (60 days) in the house. At their evaluation they may request to—
+1. A Volunteer should be evaluated (§6.) as soon as possible after they spend 2 months (60 days) in the house or 3 months (90 days) elapsed since their last evaluation. At their evaluation they may request to—
   1. return to Visitor,
   1. continue as a Volunteer, or
   1. progress to Member.
@@ -125,7 +125,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. assume an equitable share of the total responsibility for the space including social, legal and financial matters, and
 	1. contribute in some way to Wurzen and the wider world.
 1. To become a Member, a person should explicitly accept the Constitution and the Collective Agreements.
-1. A Member should be evaluated (§6.) as soon as possible after they spend 6 months (180 days) in the house. At their evaluation they may request to—
+1. A Member should be evaluated (§6.) as soon as possible after 6 months (180 days) elapsed since their last evaluation. At their evaluation they may request to—
   1. return to Visitor,
   1. return to Volunteer, or
   1. continue as Member.
