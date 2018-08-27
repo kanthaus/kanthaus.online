@@ -86,6 +86,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
   1. continue as a Visitor, or
   1. progress to Volunteer.
 1. A person ceases to be a Visitor-
+    1. if they leave the space,
     1. if they progress to Volunteer,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
@@ -100,20 +101,21 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer should—
 	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. A Volunteer should not take it for granted to use Kanthaus as a permanent living space. Their evaluation should be seen as the feedback process to be invited to stay longer - or become a member when there is enough trust from other members to be seen as a face of the project.
 1. A Volunteer should be evaluated (§6.) as soon as possible after 2 months (60 days). At their evaluation they may request to—
   1. return to Visitor,
   1. continue as a Volunteer, or
   1. progress to Member.
+1. When a volunteer sees themselves as a long-term Kanthaus resident, they should aim to become a member.
 1. A Volunteer may return to Visitor at any point.
 1. A person ceases to be a Volunteer—
 	1. if they return to Visitor or progress to Member,
+    1. if they did not spend time in the space for 3 months,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="member"></a>
 
 #### §5c. Member
-1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
+1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it. People who would like to see Kanthaus as their primary place to live should aim to become a Member at some point.
 1. A Member may—
 	1. reside in the space and use the other Resources,
 	1. participate in Operational Activity, Collective Change and Constitutional Change,
@@ -130,6 +132,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Member may return to Volunteer or Visitor at any point.
 1. A person ceases to be a Member—
 	1. if they return to being a Visitor or Volunteer,
+    1. if they did not spend time in the space for 6 months,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="evaluation"></a>
