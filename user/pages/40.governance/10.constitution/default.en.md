@@ -81,7 +81,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. read the [Visitor's Document](/about/visiting), and
     1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Visitor implicitly accepts the Constitution and Collective Agreements.
-1. A Visitor should be evaluated (§6.) as soon as possible after three weeks (21 days). At their evaluation they may request to—
+1. A Visitor should be evaluated (§6.) as soon as possible after two weeks (14 days). At their evaluation they may request to—
   1. continue as a Visitor, or
   1. progress to Volunteer.
 1. A person ceases to be a Visitor-
