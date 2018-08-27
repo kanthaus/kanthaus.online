@@ -77,7 +77,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. reside in the space and use its resources, and
 	1. participate in Operational Activity.
 1. A person first becomes a Visitor simply by arriving.
-1. A Visitor who wants to stay overnight is required, otherwise warmly recommended, to—
+1. A Visitor who wants to stay overnight is required, a visitor who does not stay overnight warmly recommended, to—
 	1. read the [Visitor's Document](/about/visiting), and
     1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Visitor implicitly accepts the Constitution and Collective Agreements.
@@ -101,11 +101,10 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer should—
 	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. A Volunteer should be evaluated (§6.) as soon as possible after they spend 2 months (60 days) in the house or 3 months (90 days) elapsed since their last evaluation. At their evaluation they may request to—
+1. A Volunteer should be evaluated (§6.) as soon as possible after 2 months (60 days) elapsed since their last evaluation. At their evaluation they may request to—
   1. return to Visitor,
   1. continue as a Volunteer, or
   1. progress to Member.
-1. When a volunteer sees themselves as a long-term Kanthaus resident, they should aim to become a member.
 1. A Volunteer may return to Visitor at any point.
 1. A person ceases to be a Volunteer—
 	1. if they return to Visitor or progress to Member,
@@ -115,7 +114,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 <a name="member"></a>
 
 #### §5c. Member
-1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it. People who would like to see Kanthaus as their primary place to live should aim to become a Member at some point.
+1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
 1. A Member may—
 	1. reside in the space and use the other Resources,
 	1. participate in Operational Activity, Collective Change and Constitutional Change,
