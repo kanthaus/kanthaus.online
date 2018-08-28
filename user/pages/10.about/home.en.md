@@ -41,8 +41,8 @@ content:
 - [Foodsharing Wurzen](/projects/foodsharing)<br>
   _starting a local foodsharing initiative and keeping it running_<br>
   <small>Contact: Janina, Lise</small>
-- [Repaircafe](/projects/repaircafe)<br>
-  _reclaim control over your technical devices_<br>
+- [Repair Cafe](/projects/repaircafe)<br>
+  _reclaim control over your technological devices_<br>
   <small>Contact: Matthias</small>
 - [Auerworld-Festival](https://auerworld-festival.de/)<br>
   _planning and organizing of a sustainable festival_<br>
