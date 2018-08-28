@@ -48,9 +48,9 @@ debugger: true
 - [Auerworld-Festival](https://auerworld-festival.de/)<br>
   _Planung und Organisation eines nachhaltigen Festivals_<br>
   <small>Kontakt: Silvan</small>
-<!--- - [Der Trichter](https://trichter.cc/)<br>
+- [Der Trichter](https://trichter.cc/)<br>
   _Veranstaltungskalender für Leipzig_<br>
-  <small>Kontakt: Chandi</small> -->
+  <small>Kontakt: chandi</small>
 - [Foodsharing auf Festivals](https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals)<br>
   _Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken_<br>
   <small>Kontakt: Bodhi, Lise</small>
