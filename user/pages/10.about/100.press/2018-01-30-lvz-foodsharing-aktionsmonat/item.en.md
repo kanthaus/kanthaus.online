@@ -3,7 +3,7 @@ title: Foodsharing-Aktionsmonat (LVZ)
 date: "2018-01-30"
 header_image: false
 ---
-*Zur Bekanntmachung des Foodsharing-Aktionsmonats haben wir Stephanie Helm von der LVZ eingeladen.*
+*Tp promote the a month of activity for foodsharing in Wurzen we invited Stephanie Helm of the LVZ.*
 
 ===
 
