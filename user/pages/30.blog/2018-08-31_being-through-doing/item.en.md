@@ -6,15 +6,18 @@ taxonomy:
     tag: [blog]
     author: Matthias
 ---
-"Stop _doing_ so much, try to _be_ more" or similar sentences is what I get to hear often.
-I am a person who gets up early, is busy with a lot of different things throughout the day, not managing to just "lie down and relax" often.
-When I feel the need to relax from task A, I grab task B instead. When that feels too much for me, I might be inclined to even start a new task.
-There might be a task management problem with that, which actually sometimes stresses me out a bit, but I get happiness through the underlying process.
+"Stop _doing_ so much, try to _be_ more" or similar sentences is what I get to hear often. I am a person who gets up early, is busy with a lot of different things throughout the day, not managing to just "lie down and relax" often.
+
+When I feel the need to relax from task A, I grab task B instead. When that feels too much for me, I might be inclined to even start a new task. There might be a task management problem with that, which actually sometimes stresses me out a bit, but I get happiness through the underlying process.
+
+===
 
 The point is: I really like what I do.
 I am intrinsically motivated to look out for problems, grab them, analyze them, think about them, read about them and try to solve them.
 
 I feel happy, get calm, can get rid of a headache by executing a fulfilling task.
+
+![](matthias_desk.jpg)
 
 "But can't you also just stop for a moment?"
 Well, yes, I can. It often leads to me being bored.
@@ -40,6 +43,8 @@ Still, whenever something arises in me, I feel that I would like to do something
 It feels like I am not bringing a change to the world I would like to see? Well, back to work. Alternatively, think about and try a different work.
 Too many things going on in my head? Make a list, start at the top. Be fulfilled, whenever a thing gets ticked.
 Feeling sad through emotions I cannot change? Grab a task. Either a simple one to be able to go deeper into the feelings, otherwise something that occupies my brain.
+
+![](nerdOnTheLawn.jpg)
 
 I was inspired to writing this blog post two weeks ago when I read one about more being than doing.
 I am not 100% satisfied with the way I laid out the points as I would like to make you understand how I feel, be and do.
