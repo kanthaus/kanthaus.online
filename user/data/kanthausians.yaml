@@ -19,6 +19,9 @@ members:
     joined: "2018-06-18"
     founder: false
     participants: Janina, Doug
+  - name: Silvan Haselbach
+    joined: "2018-08-30"
+    founder: false
 
 volunteers:
   - name: Wolfi
@@ -48,15 +51,12 @@ volunteers:
   - name: Lise
     joined: "2017-12-11"
     participants: Janina, Matthias, Bodhi, Wolfi, Lou, Mona
-  - name: Silvan
-    joined: "2018-02-02"
-    participants: Janina, Matthias, Bodhi, Doug, Tilmann
+#  - name: Silvan
+#    joined: "2018-02-02"
+#    participants: Janina, Matthias, Bodhi, Doug, Tilmann
   - name: Chandi
     joined: "2018-02-09"
     participants: Janina, Matthias, Bodhi, Wolfi, Tilmann, Nick
-  - name: Michal
-    joined: "2018-03-12"
-    participants: Matthias, Bodhi, Nick, Silvan, Björn, Lise, Wolfi
   - name: Isabel
     joined: "2018-05-07"
     participants: Doug, Janina, Silvan, Bodhi
@@ -66,3 +66,5 @@ volunteers:
   - name: Anja
     joined: "2018-05-21"
     participants: Doug, Janina, Tilmann
+  - name: Lena
+    joined: "2018-07-11"

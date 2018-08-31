@@ -1,6 +1,6 @@
 ---
-title: "Kanthausers"
-imports: 'user://data/kanthausers.yaml'
+title: "Kanthäusler"
+imports: 'user://data/kanthausians.yaml'
 routes:
   aliases:
     - '/governance/members'
