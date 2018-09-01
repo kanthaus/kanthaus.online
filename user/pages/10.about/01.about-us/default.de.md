@@ -35,6 +35,11 @@ Praktisch heißt das entsprechende Angebote zu schaffen. Als erstes bemühen wir
 Es gibt genügend Ressourcen, sie müssen nur besser verteilt werden.  
 **Weniger Verschwendung. Mehr Teilen.**
 
+---
+
+Eine Video-Erklärung, was das Kanthaus eigentlich ist, gibt es auch: <br>
+[Hier](/blog/2018-04-23_was-ist-das-kanthaus) hat Laurina für euch ihre Perspektive in knapp 8 Minuten aufgenommen. Viel Spaß! :)
+
 <style>
 img {
   height: 200px;
