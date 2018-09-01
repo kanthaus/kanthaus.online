@@ -8,6 +8,8 @@ taxonomy:
 
 Introductions to who we are, what we do and why are often given here at Kanthaus and each person does that differently. Here is a filmed introduction, in order to allow you to prepare, get inspired or just procrastinate :-) and to possibly allow you to ask more detailed questions.
 
+===
+
 I would say this introduction is best for:
 - people who are not entirely new to the topics of saving and sharing
 - and for (potential) kanthausians

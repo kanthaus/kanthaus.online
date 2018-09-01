@@ -8,6 +8,8 @@ taxonomy:
 
 Einführungen in wer wir sind, was wir machen und warum werden hier im Kanthaus oft gegeben und jede*r macht es anders. Aber diese Frage stellen sich viel mehr Leute, als Einführungen gegeben werden können. Daher hier eine gefilmte Einführung, zur Vorbereitung, Inspiration oder zum Prokrastinieren :-)
 
+===
+
 Ich würde sagen sie ist am Besten für:
 - Menschen, die nicht-ganz neu sind zu den Themen der Rettens und Teilens
 - und für (potentielle) Kanthausers

@@ -10,6 +10,8 @@ It's summer! :D
 
 The sun is out, it's nice and warm outside and people go on holiday. That's great, but also the reason for a lot of store coordinators of bigger foodsaving groups to worry about not finding enough people to reliably carry out pickups...
 
+===
+
 That so happens for [foodsharing Leipzig](https://foodsharing.de/?page=fairteiler&bid=23) as well. So when I heard a cry for support I decided to go to Leipzig to help with a pickup not far from the main station. It was an outside market and we were able to save approximately 10 crates of veggies, fruits and herbs. I alone took 10kg of asparagus, 8 broccolis, 1kg of peppers, some kiwis, carrots, turnips and a crazy amount of coriander and parsley - and we were 7 people.
 
 I successfully handed out three peppers to a punk who assured me that he'd eat them and not throw them at somebody or something similar, but the rest I brought home.

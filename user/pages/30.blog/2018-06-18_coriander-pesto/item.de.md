@@ -10,6 +10,8 @@ Es ist Sommer! :D
 
 Die Sonne ist da, es ist schön warm draußen und die Leute fahren in den Urlaub. Das ist toll, aber auch der Grund für viele Kopfschmerzen von Betriebsverantwortlichen größerer Lebensmittelretter-Gruppen. Sie fürchten nicht genügend Abholer zu finden, um regelmäßg alle Kooperationsbetriebe zu besuchen...
 
+===
+
 Genauso geht es [foodsharing Leipzig](https://foodsharing.de/?page=fairteiler&bid=23). Als ich also einen Hilferuf auf [foodsharing.de](https://foodsharing.de) las, entschloss ich bei einer Abholung nicht weit vom Hauptbahnhof entfernt zu helfen. Es war ein Markt und wir haben insgesamt ca. 10 Kisten voller Obst, Gemüse und Kräuter gerettet. Ich selbst habe ungefähr 10 kg Spargel, 8 Brokkolis, 1 kg Paprika, einige Kiwis, Karotten, Rübchen und einen kleinen Berg an Koriander und Petersilie mitgenommen. Und insgesamt waren wir 7 Abholer...
 
 Auf dem Weg zurück zum Bahnhof konnte ich schon einen Punker mit 3 Paprikas erfreuen, der mir auch versicherte sie zu essen und sie nicht für irgendeinen Unfug zu verwenden. Den ganzen Rest habe ich mit nach Hause genommen.

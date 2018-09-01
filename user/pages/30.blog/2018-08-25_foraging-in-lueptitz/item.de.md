@@ -8,6 +8,8 @@ taxonomy:
 
 Wenn du jemals vom Kanthaus nach Lüptitz geradelt sein solltest, dann bist du wahrscheinlich über einen Radweg gefahren, an dem Unmengen von Obstbäumen stehen. In diesem Blogpost will ich erklären, was du dort für Essen finden kannst und wie es verarbeitet werden kann.
 
+===
+
 ![](harvestedWalnuts.jpg)
 _Ein Fahrradkorb ist genug um grüne Walnüsse zu ernten_
 

@@ -8,6 +8,8 @@ taxonomy:
 
 If you have ever cycled from Kanthaus to Lüptitz, you've probably been on a cycle path lined with a LOT of fruit trees.  This is a guide to explain what food there is to forage around the Wurzen/Lüptitz area, and how you might put it to use.
 
+===
+
 ![](harvestedWalnuts.jpg)
 _A bike basket is enough to start foraging walnuts_
 
