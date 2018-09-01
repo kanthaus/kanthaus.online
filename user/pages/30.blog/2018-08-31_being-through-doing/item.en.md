@@ -1,7 +1,7 @@
 ---
 title: Being through doing
 date: "2018-08-31"
-published: false
+published: true
 taxonomy:
     tag: [blog]
     author: Matthias
@@ -12,15 +12,15 @@ When I feel the need to relax from task A, I grab task B instead. When that feel
 
 ===
 
-The point is: I really like what I do.
+The point is: I really like what I do. <br>
 I am intrinsically motivated to look out for problems, grab them, analyze them, think about them, read about them and try to solve them.
 
 I feel happy, get calm, can get rid of a headache by executing a fulfilling task.
 
 ![](matthias_desk.jpg)
 
-"But can't you also just stop for a moment?"
-Well, yes, I can. It often leads to me being bored.
+"But can't you also just stop for a moment?" <br>
+Well, yes, I can. It often leads to me being bored. <br>
 I notice a strong urge arising in myself.
 When my thoughts start appearing, I might get focused and lost in something so much that I cannot concentrate on anything else anymore.
 It would be sooo cool if I did it like that, could it work out? How do I start? I want to do that now.
@@ -32,22 +32,22 @@ I am unable to be on holiday for weeks, I would rather use the time to continue 
 That does not mean that I don't need time to think about thoughts, feelings, emotions and meaning.
 A simple, repetitive task is where I can do this best.
 
-Washing up, mow the lawn, preparing tea, mopping the floor, sitting in a meeting I am not interested in - these are good opportunities for me to reflect, think about myself, etc.
-It gives me energy, provides me with an overview of what is going on with m: what do I want, what am I missing?
+Washing up, mowing the lawn, preparing tea, mopping the floor, sitting in a meeting I am not interested in - these are good opportunities for me to reflect, think about myself, etc.
+It gives me energy, provides me with an overview of what is going on with me: what do I want, what am I missing?
 
 Meditating, sitting with a group of people, just sitting somewhere with a notebook - it is not that this doesn't work at all for me, but it is draining.
 It may allow me to focus on some feelings, get some details clear, but I don't enjoy it.
 Invite me into two hours of such a section and I might fall asleep afterwards.
 
-Still, whenever something arises in me, I feel that I would like to do something about it by getting active.
-It feels like I am not bringing a change to the world I would like to see? Well, back to work. Alternatively, think about and try a different work.
-Too many things going on in my head? Make a list, start at the top. Be fulfilled, whenever a thing gets ticked.
-Feeling sad through emotions I cannot change? Grab a task. Either a simple one to be able to go deeper into the feelings, otherwise something that occupies my brain.
+Whenever something arises in me, I feel that I would like to do something about it by getting active.
+- It feels like I am not bringing a change to the world I would like to see? Well, back to work. Alternatively, think about and try a different work.
+- Too many things going on in my head? Make a list, start at the top. Be fulfilled, whenever a thing gets ticked.
+- Feeling sad through emotions I cannot change? Grab a task. Either a simple one to be able to go deeper into the feelings, otherwise something that occupies my brain.
 
 ![](nerdOnTheLawn.jpg)
 
-I was inspired to writing this blog post two weeks ago when I read one about more being than doing.
-I am not 100% satisfied with the way I laid out the points as I would like to make you understand how I feel, be and do.
-That doing is right for me :-)
-That I am happy even when I complain a bit.
+I was inspired to writing this blog post two weeks ago when I read [one about more being than doing](../2018-08-16_balance-doing-being).
+I am not 100% satisfied with the way I laid out the points as I would like to make you understand how I feel, be and do. <br>
+That doing is right for me :-) <br>
+That I am happy even when I complain a bit. <br>
 That I generally enjoy my life although there is always room to change it.
