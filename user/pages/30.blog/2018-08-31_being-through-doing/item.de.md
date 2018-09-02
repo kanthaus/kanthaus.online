@@ -25,7 +25,6 @@ Doch schon, das kann ich. Meistens führt es dazu, dass ich mich langweile. <br>
 Ich fühle, wie ein starker Drang in mir aufsteigt. Wenn meine Gedanken loslegen und einen Fokus erzeugen, verliere ich mich oft so sehr in etwas, dass ich mich auf nichts anderes mehr konzentrieren kann. Es wäre sooo cool, wenn ich das so machen könnte, würde es wohl funktionieren? Wie fange ich am besten an? Ich will das jetzt machen!
 
 Natürlich gibt es auch Situationen, in denen ich es genieße Zeit mit einer Person oder einer Gruppe von Menschen zu verbringen, ohne irgendwas zu machen. Es kann sogar eine ziemlich intensive Zeit sein. Trotzdem fühlt sich das für mich an wie Ferien. Und ich kann nicht wochenlang Ferien machen. Da würde ich die Zeit lieber nutzen, um eins der Tausend Dinge in meinem Kopf weiter zu entwicklen - oder Ding 1001 anzufangen.
-For sure, I might also be in situations where I enjoy spending time with a person or a group of people
 
 Das bedeutet nicht, dass ich nicht auch mal Zeit brauche, um Gedanken, Gefühle und Sinn zu reflektieren. Für mich klappt das am besten bei einer simplen, repetitiven Aufgabe.
 
