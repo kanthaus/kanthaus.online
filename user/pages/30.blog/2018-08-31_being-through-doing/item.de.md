@@ -41,7 +41,7 @@ Immer wenn etwas in mir aufsteigt, dann will ich es dahingehend bearbeiten, dass
 
 ![](nerdOnTheLawn.jpg)
 
-Vor zwei Wochen las ich [diesen Blog Post darüber mehr zu sein als zu tun](../2018-08-16_balance-doing-being), der mich dazu inspirierte dies hier zu schreiben. Ich bin nicht zu 100% zufrieden mit der Art, wie ich meine Punkte formuliert habe, denn ich möchte euch verstehen lassen, wie ich fühle, bin und tue. <br>
+Vor zwei Wochen las ich [diesen Blog Post über die Balance zwischen Sein und Tun](../2018-08-16_balance-doing-being), der mich dazu inspirierte dies hier zu schreiben. Ich bin nicht zu 100% zufrieden mit der Art, wie ich meine Punkte formuliert habe, denn ich möchte verständlich rüberbringen, wie ich fühle, bin und tue. <br>
 Dass es für mich richtig ist zu tun :-) <br>
 Dass ich glücklich bin, auch wenn ich mich ein bisschen beschwere. <br>
 Dass ich mein Leben grundsätzlich genieße, auch wenn es immer Raum für Veränderungen gibt.

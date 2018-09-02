@@ -46,7 +46,7 @@ Whenever something arises in me, I feel that I would like to do something about 
 
 ![](nerdOnTheLawn.jpg)
 
-I was inspired to writing this blog post two weeks ago when I read [one about more being than doing](../2018-08-16_balance-doing-being).
+I was inspired to writing this blog post two weeks ago when I read [one about the balance between being and doing](../2018-08-16_balance-doing-being).
 I am not 100% satisfied with the way I laid out the points as I would like to make you understand how I feel, be and do. <br>
 That doing is right for me :-) <br>
 That I am happy even when I complain a bit. <br>
