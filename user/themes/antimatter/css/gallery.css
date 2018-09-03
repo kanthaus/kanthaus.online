@@ -1,0 +1,76 @@
+.ellipsis {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.gallery {
+    position: relative;
+    width: 98vw;
+    max-width: 1100px;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.photo-box {
+    overflow: hidden;
+    position: relative;
+    height: 200px;
+}
+
+.gallery-card {
+    -webkit-box-shadow: 0 1px 5px rgba(0,0,0,.2),0 2px 2px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    border-radius: 3px;
+    box-shadow: 0 1px 5px rgba(0,0,0,.2),0 2px 2px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    vertical-align: top;
+    margin: 8px;
+    overflow: hidden;
+    position: relative;
+    height: 350px;
+}
+
+.gallery-card-main {
+    padding: 16px;
+    font-size: 14px;
+    background: rgb(49, 49, 49);
+    color: white;
+    height: 100%;
+}
+
+    .photo-box img {
+        max-width: 100%;
+        height: auto;
+        min-height: 190px;
+        display: block;
+        margin: 0 auto;
+        max-height: 240px;
+        width: auto;
+    }
+
+    .photo-box .caption {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        padding: 8px;
+        padding-left: 16px;
+        color: white;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.7);
+    }
+
+    .photo-box .caption a:hover {
+        color: white;
+    }
+
+    .photo-box .caption a {
+        color: rgb(255, 190, 94);
+    }
+
+    .photo-box .caption .title {
+        font-weight: 400;
+        font-size: 18px;
+    }
+
+    .photo-box .caption .subtitle {
+        font-size: 12px;
+    }

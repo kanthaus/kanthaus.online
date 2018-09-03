@@ -11,6 +11,12 @@
     <link rel="canonical" href="{{ page.url(true, true) }}" />
 
     {% block stylesheets %}
+        <!-- only needed for home page, could be somehow extracted -->
+        {% do assets.addCss('theme://css/gallery.css', 103) %}
+        {% do assets.addCss('theme://css/pure-1.0.0/grids-min.css', 103) %}
+        {% do assets.addCss('theme://css/pure-1.0.0/grids-responsive-min.css', 103) %}
+
+        <!-- site-wide style -->
         {% do assets.addCss('theme://css-compiled/nucleus.css', 102) %}
         {% do assets.addCss('theme://css-compiled/template.css', 101) %}
         {% do assets.addCss('theme://css/custom.css', 100) %}

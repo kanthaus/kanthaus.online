@@ -14,10 +14,51 @@
 %}
 {% set blog_page = { 'url': '/blog/' } %}
 
+{% set lang = grav.language.getLanguage ?: 'en' %}
+
 {% block content %}
     {% if config.plugins.breadcrumbs.enabled %}
         {% include 'partials/breadcrumbs.html.twig' %}
     {% endif %}
+    <h1>{{ page.header.title }}</h1>
+    <h2>{{ page.header.slogan }}</h2>
+
+    <p align="center">
+        <img src="/pics/kanthausFolk1.jpg" alt="Kantstr 20 front with people" style="width: 100%; max-width: 600px">
+        <br/>
+    </p>
+
+    <h2 style="text-align: center">{{ 'CURRENT_PROJECTS'|t }}</h2>
+
+    <div class="gallery pure-g">
+        {% for p in page.header.imports.current | randomize %}
+            <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+                <div class="gallery-card">
+                    <div class="photo-box">
+                        {% if p.image %}
+                            {{ page.media[p.image].html() }}
+                        {% endif %}
+
+                        <div class="caption ellipsis">
+                            <div class="title ellipsis">
+                                <a href="{{ p.url }}">
+                                    {{ p.name[lang] ?: p.name }}
+                                </a>
+                            </div>
+                            <div class="subtitle ellipsis">
+                                {% if p.contact %}
+                                    {{ 'CONTACT'|t }}: {{ p.contact }}
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-card-main">
+                        {{ p.sub[lang] ?: p.sub }}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
 	{{ page.content }}
 
     {% if events is not empty %}
