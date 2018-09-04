@@ -4,6 +4,7 @@ description: ""
 weight: 4
 draft: false
 ---
+
 ## Menschen
 
 - interessiert daran, am Haus selbst mitzuarbeiten (bauen, einrichten, instandhaltung)
@@ -12,7 +13,15 @@ draft: false
 
 ## Dinge, die gebraucht werden:
 
-Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht gebraucht werden (beispielsweise zu viel gekauft oder etwas liegt einfach ungenutzt herum) oder nicht gewollt werden (beispielsweise optische Mängel, geringe Reparaturen notwendig, entspricht nicht mehr dem aktuellsten Stand). Wir brauchen Material und Werkzeuge für Instandhaltungs- und Sanierungsarbeiten am Haus sowie für Projekte, welche durchgeführt werden sollen. Wenn du glaubst, etwas von der folgenden Liste (oder ähnliche Dinge) abgeben zu möchten, oder eventuell eine Firma kennst, welche Material übrig hat (Herstellungsfehler etc.), so kontaktiere uns bitte. Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuell nutzen wir diese sogar, um einen Reparaturworkshop durchzuführen.
+Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht gebraucht werden (beispielsweise zu viel gekauft oder etwas liegt einfach ungenutzt herum) oder nicht gewollt werden (beispielsweise optische Mängel, geringe Reparaturen notwendig, entspricht nicht mehr dem aktuellsten Stand).
+Wir brauchen Material und Werkzeuge für Instandhaltungs- und Sanierungsarbeiten am Haus sowie für Projekte, welche durchgeführt werden sollen.
+Wenn du glaubst, etwas von der folgenden Liste (oder ähnliche Dinge) abgeben zu möchten, oder eventuell eine Firma kennst, welche Material übrig hat (Herstellungsfehler etc.), so kontaktiere uns bitte.
+Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuell nutzen wir diese sogar, um einen Reparaturworkshop durchzuführen.
+
+### Küchenausstattung:
+- Induktionskochfeld (Einzelkochplatte, Doppelkochplatte, Einbaukochfeld; darf gerne auch defekt sein, sofern das Glas noch heile ist)
+- Thermos- und Teekannen (ab 2 Liter)
+- Kaffeebereiter, Mokka-Kannen
 
 ### Baustoffe:
 
@@ -33,18 +42,17 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Fahrradwerkzeug und Material
 - Leiter, 2-4m groß
 
-## Garten
-
-- Sonnenschirm (am liebsten in groß)
-- Pflanzstangen für Tomaten etc.
-- Spaten
-- Schaufel
-
 ### Laboreinrichtung:
 
 - Labornetzteile
 - elektronische Bauteile (aktive & passive Bauelemente)
 - Reagenzgläser
+
+## Garten
+
+- Sonnenschirm (am liebsten in groß)
+- Pflanzstangen für Tomaten etc.
+- Schaufel
 
 ### Wohn- und Büroeinrichtung:
 
@@ -67,7 +75,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Gießkannen (vor allem große für den Garten)
 - Thermoskannen und große Teekannen
 - Pressstempelkannen und Espressokannen
-- Besen, Schrubber und Wischer
+- Besen, Schrubber und Wischer (in guter Qualität)
 - Fensterputz-Equipment
 
 ## Gern gesehen
