@@ -46,7 +46,7 @@ current:
   - name:
         de: Hausrenovierung
         en: Renovation of the house
-    url: https://gitlab.com/kanthaus/kanthaus-public/issues
+    url: /projects/house-renovation
     sub:
         de: Wasser, Strom, Heizung und dichte Dächer
         en: Water, electricity, heating and rain-proof roofs
@@ -96,5 +96,3 @@ current:
         en: organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals
     contact: Bodhi, Lise
     image: foodsharing_festivals.jpg
-
-
