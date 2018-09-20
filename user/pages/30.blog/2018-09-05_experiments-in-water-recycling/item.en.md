@@ -26,10 +26,10 @@ We found out that washing machine waste water is rich in nutrients and low in ox
 This is an ideal environment for the growth of anaerobic bacteria, which like to produce smelly gas.
 As we did never empty the tank in the basement completely, sludge did accumulate at the bottom, making it impossible to pump it out.
 
-![](tank_sludge.jpg)<br />
+![](tank_sludge.jpg)<br>
 _Reserve tank, 4 months in: it's only pieces of clothing in water, but it looks and smells like shit._
 
-![](matthias_and_the_pump.jpg)<br />
+![](matthias_and_the_pump.jpg)<br>
 _The jet pump that we used to move greywater to the buffer tank_
 
 We had some ideas how to solve this:
@@ -60,8 +60,8 @@ There's many ideas how to improve the system, but it takes time and energy to tr
 For now, all of us decided to invest our time in other projects.
 But maybe the future will bring us another round of in-house water recycling :)
 
-![](1IBC_basement.jpg)<br />
+![](1IBC_basement.jpg)<br>
 _IBC tank that was use as reserve for the second version. The pump on bottom is filled with water by default._
 
-![](buffer_tank.jpg)<br />
+![](buffer_tank.jpg)<br>
 _Greywater buffer on the attic_
