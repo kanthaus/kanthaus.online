@@ -1,5 +1,5 @@
 ---
-title: "Kanthäusler"
+title: "Kanthausianer"
 imports: 'user://data/kanthausians.yaml'
 routes:
   aliases:
