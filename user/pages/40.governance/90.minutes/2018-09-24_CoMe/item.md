@@ -43,16 +43,13 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 
 ### 4. Last week review
 - Water (€4.5 per m³):
-
-      - Last 7 days: €2.48/day (+29.8%)
-
+  - Last 7 days: €2.48/day (+29.8%)
   - 7 days before that: €1.91/day
 - Electricity usage (€0.2595 per kWh): <!-- https://grafana.yunity.org -->
   - Last 7 days: €2.11/day (-13.5%)
   - 7 days before that: €2.44/day
 - Gas bottles bought (€12 each):
 - Income (please check the shoe and the box):
-
 - Bodhi, Q and Matthias installed water in k22 (top bathroom working!) N.B. The toilet leaks at multiple places: must turn water on and off per use. "Tallete"
 - Heating system in k22 checked for leaks: non-leaky. All that needs to be added is heating connection.
 - Aggi and Laurina installed decorative sound muffling in the dining/eating room.
