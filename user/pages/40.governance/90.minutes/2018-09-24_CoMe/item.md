@@ -1,7 +1,7 @@
 
 ---
 title: Coordination Meeting
-date: "2018-09-24
+date: "2018-09-24"
 taxonomy:
     tag: [come]
 ---
