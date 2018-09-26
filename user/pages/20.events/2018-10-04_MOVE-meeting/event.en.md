@@ -13,6 +13,6 @@ There will be a MOVE Utopia again in 2019 :-) and the second orga meeting will t
 People can still join the Orga. To receive the invitation mail and for more info write to mail[ÄTT]move-utopia[PUNKT]de.
 
 
-![The Vision für MOVE 2019](move_19_vision.jpg)
+![The Vision for MOVE 2019](move_19_vision.jpg)
 
 Some people from kanthaus will be part and many are happy to again join the worlds of _living utopia_ and _yunity_ .
