@@ -2,10 +2,12 @@
 title: 'MOVE Utopia Orga Meeting'
 date: '2018-10-04 15:00'
 enddate: '2018-10-07 20:00'
-header_image_file: 'MOVE_logo.jpg'
+header_image: false
 ---
 
-Es wird 2019 wieder ein MOVE Utopia geben :-) und das zweite Orgameeting wird im Kanthaus stattfinden. Über das letzte MOVE könnt ihr auf der [website](https://move-utopia.de) stöbern.
+2019 wird es wieder ein MOVE Utopia geben :-) und das zweite Orgameeting wird im Kanthaus stattfinden. Über das letzte MOVE könnt ihr auf dessen [Website](https://move-utopia.de) lesen.
+
+![](MOVE_logo.jpg)
 
 ===
 
@@ -13,5 +15,6 @@ Es können auch noch Menschen bei der Orga mitmachen. Um die Einladungsmail zu e
 
 
 ![Die Vision für MOVE 2019](move_19_vision.jpg)
+_Die Vision fürs MOVE 2019_
 
-Einige Menschen aus dem Kanthaus werden auch dabei sein und viele freuen sich mal wieder die [Living Utopia](http://livingutopia.org/) und die [yunity](https://yunity.org) -Welten zu verbinden.
+Einige Menschen aus dem Kanthaus werden auch dabei sein und viele freuen sich die Welten von [Living Utopia](http://livingutopia.org/) und [yunity](https://yunity.org) mal wieder zu verbinden.
