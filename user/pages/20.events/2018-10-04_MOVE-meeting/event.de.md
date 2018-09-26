@@ -14,4 +14,4 @@ Es können auch noch Menschen bei der Orga mitmachen. Um die Einladungsmail zu e
 
 ![Die Vision für MOVE 2019](move_19_vision.jpg)
 
-Einige Menschen aus dem Kanthaus werden auch dabei sein und viele freuen sich mal wieder die _Living Utopia_ und die _yunity_ -welten zu verbinden.
+Einige Menschen aus dem Kanthaus werden auch dabei sein und viele freuen sich mal wieder die [Living Utopia](http://livingutopia.org/) und die [yunity](https://yunity.org) -Welten zu verbinden.

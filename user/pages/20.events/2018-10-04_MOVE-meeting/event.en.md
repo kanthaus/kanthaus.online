@@ -15,4 +15,4 @@ People can still join the Orga. To receive the invitation mail and for more info
 
 ![The Vision for MOVE 2019](move_19_vision.jpg)
 
-Some people from kanthaus will be part and many are happy to again join the worlds of _living utopia_ and _yunity_ .
+Some people from kanthaus will be part and many are happy to again join the worlds of [living utopia](http://livingutopia.org/) and [yunity](https://yunity.org) .
