@@ -1,7 +1,7 @@
 ---
 title: Der Reparier-und Techniktreff im Kanthaus
 date: "2018-09-25"
-published: false
+published: true
 taxonomy:
     tag: [blog]
     author: Laurina
