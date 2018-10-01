@@ -2,6 +2,7 @@
 title: 'MOVE Utopia Orga Meeting'
 date: '2018-10-04 15:00'
 enddate: '2018-10-07 20:00'
+published: false
 header_image: false
 ---
 
