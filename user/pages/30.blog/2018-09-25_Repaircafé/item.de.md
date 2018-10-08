@@ -14,7 +14,7 @@ Die Einladung dazu findet ihr [hier](https://kanthaus.online/de/projects/repairc
 
 ===
 
- Matthias ist der Hauptbetreuer und empfängt seit April 2018 jede Woche zwischen 2 und 3 Menschen. Manche sind gerade sowieso im Kanthaus, andere wohnen in der Stadt und kommen extra in die Kantstraße. Mit engerer oder weniger enger Anleitung - je nach Fähigkeiten - wird hier alles Mögliche repariert. Von Fahrrädern über Lampen, Toastern und Salstreuern bis hin zu Laptops, Verstärkern und Handies. Wenn etwas nicht mehr zu reparieren ist, werden meist noch funktionierende Teile ausgebaut und weiter verwertet. Dann wird zum Beispiel der Kippschalter aus einer nicht mehr zu rettenden Lampe in eine andere Lampe, deren eigener Schalter defekt war, wieder eingebaut.
+Matthias ist der Hauptbetreuer und empfängt seit April 2018 jede Woche zwischen 2 und 3 Menschen. Manche sind gerade sowieso im Kanthaus, andere wohnen in der Stadt und kommen extra in die Kantstraße. Mit engerer oder weniger enger Anleitung - je nach Fähigkeiten - wird hier alles Mögliche repariert. Von Fahrrädern über Lampen, Toastern und Salstreuern bis hin zu Laptops, Verstärkern und Handies. Wenn etwas nicht mehr zu reparieren ist, werden meist noch funktionierende Teile ausgebaut und weiter verwertet. Dann wird zum Beispiel der Kippschalter aus einer nicht mehr zu rettenden Lampe in eine andere Lampe, deren eigener Schalter defekt war, wieder eingebaut.
 
 Hier zwei Erfahrungsberichte von September 2018:
 
