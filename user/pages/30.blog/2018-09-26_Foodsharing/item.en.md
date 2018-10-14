@@ -1,5 +1,5 @@
 ---
-title: What happens with regards to foodsharing at Kanthaus?
+title: Kanthaus as foodsharing hub
 date: "2018-09-26"
 published: true
 header_image_file: 'fswesten_im_garten.jpg'

@@ -1,5 +1,5 @@
 ---
-title: Was passiert Foodsharing betreffend im Kanthaus?
+title: Das Kanthaus als Foodsharing-Zentrale
 date: "2018-09-26"
 published: true
 header_image_file: 'fswesten_im_garten.jpg'
