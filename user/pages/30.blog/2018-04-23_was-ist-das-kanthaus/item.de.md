@@ -20,11 +20,13 @@ Hier sind die wichtigsten Punkte stickpunktmäßig nochmal, wir hoffen, dass es 
 
 Viel Spaß beim Schauen :-)
 
+Falls das Video unten nicht funktioniert, kannst du es [hier](https://cloud.kanthaus.online/s/gQDA9CL8oaZkdtt) herunterladen.
+
 <div class="grav-youtube">
     <iframe src="https://emb.d.tube/#!/kanthaus/ibv3q9vr" frameborder="0" allowfullscreen></iframe>
 </div>
 
-#Stichpunkte zum Video:
+## Stichpunkte zum Video:
 
 ### Geschichte
 - Verschwendung in der Welt
@@ -32,12 +34,12 @@ Viel Spaß beim Schauen :-)
 - yunity - alles retten und teilen
 - langfristiger und nachhaltiger - 2 Häuser als permanenten Ort dafür
 
-###Werte
+### Werte
 - Gleichwertigkeit, Idee, dass alle Menschen gleich viel wert sind- nicht gleich
 - Selbstbestimmung,
 - Akzeptanz (insbesondere auf Entscheidungsfindung bezogen)
 
-###Ziele
+### Ziele
 - Gemeingüter bereitstellen
 - zu nehmen, was wir brauchen, zu geben, was wir können- anderen ermöglichen das zu tun
 - Open Source Software entwickeln
