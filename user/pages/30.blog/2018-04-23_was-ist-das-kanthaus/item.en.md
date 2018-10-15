@@ -19,29 +19,31 @@ Doug has written something nice about the values before: [what's the real deal w
 I have put down the most important bullet points below. We hope everything is working with d.tube. Feedback via e-mail.
 Have fun watching :-)
 
+If the video below doesn't work, you can also [download it](https://cloud.kanthaus.online/s/gQDA9CL8oaZkdtt).
+
 <div class="grav-youtube">
     <iframe src="https://emb.d.tube/#!/kanthaus/ibv3q9vr" frameborder="0" allowfullscreen></iframe>
 </div>
 
-#Bulletpoints for the video:
-###History
+## Content of the video
+### History
 - wastefulness in the world
 - foodsharing - saving and sharing food
 - yunity - saving and sharing everything
 - more long-term and more sustainable - 2 houses as permanent place for it
 
-###Values
+### Values
 - Self-determination
 - Equivalence
 - Acceptance
 
-###Aims
+### Aims
 - provide and connect public and common resources.
 - give what we can, take what need and facilitate others to do the same.
 - develop free and open-source software.
 - promote sharing and reduce waste.
 
-###what does that mean (in practice)?
+### what does that mean (in practice)?
 - provide infrastructure
 - a project house - a house for the realization of projects, one of which is the community/the house, people have own projects
 - constitution (decision making, responsibility, who is staying for how long)
