@@ -22,6 +22,7 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 - Induktionskochfeld (Einzelkochplatte, Doppelkochplatte, Einbaukochfeld; darf gerne auch defekt sein, sofern das Glas noch heile ist)
 - Thermos- und Teekannen (ab 2 Liter)
 - Kaffeebereiter, Mokka-Kannen
+- Edelstahl Kochgeschirr (Vor allem große Töpfe ab 8 Liter, große Pfannen ab 28 cm)
 
 ### Baustoffe:
 
