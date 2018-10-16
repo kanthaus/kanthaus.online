@@ -23,24 +23,26 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 - Wenn du längerfristig bei uns bleiben möchtest erwarten wir, dass du dich in einem Projekt engagierst. Wenn du kein Projekt hast oder findest, dann kann das Kanthaus selbst dein Projekt sein.
 
 ## Sicherheit
-
-- Wir haben (noch) keine Rauchmelder oder Feuerlöscher. Bitte behalte jegliche Feuer (Kocher, Kerzen) ständig im Blick.
 - Es können spitze Gegenstände auf dem Boden sein: Pass auf, wenn du barfuß läufst.
 - Wir haben [Hylotox 59 Holzschutzmittel](https://de.wikipedia.org/wiki/Hylotox) (Lindan und DDT) auf dem Dachbodenholz: Lies dir bitte die vor Ort angebrachten Hinweise durch, bevor du dorthin gehst.
 
+## Barrierefreiheit
+- Leider sind unsere Häuser _nicht_ barrierefrei und generell eher ungeeignet für Menschen, die zusätzliche Unterstützung benötigen (z.B. Rollstuhlfahrer\*innen, Blinde, etc.)
+- Alles erstreckt sich über drei Etagen und schon vor der Haustür finden sich einige Stufen.
+- Menschen mit physischen Einschränkungen sind nicht vom Besuch ausgeschlossen, aber wir haben eventuell nicht die Infrastruktur oder Ressourcen, um ihnen einen angenehmen Aufenthalt zu ermöglichen. Kontaktiere uns gern, falls du zusätzliche Fragen in diese Richtung hast.
+
 ## Infos
 - Wenn du ankommst, wird dir dein Hauptkontakt eine Haustour geben und dir alles Grundlegende erklären. Wenn du schonmal spinksen möchtest, kannst du [das zugehörige Dokument](visiTour) lesen.
-- Leider sind unsere Häuser _nicht_ barrierefrei. Alles erstreckt sich über drei Etagen und schon vor der Haustür finden sich einige Stufen. Wir helfen Menschen mit physischen Einschränkungen gern dabei uns trotzdem zu besuchen, aber sie sollten sich auf viele Treppen einstellen.
 - Wir haben eine Liste, in der wir aufzeichnen, wer wann vorbeikommt. Wenn du nicht möchtest, dass dein Name dort vermerkt wird, sag uns bitte Bescheid!
 - Du kannst gern unsere Internetverbindung nutzen, aber niemals um illegalen Inhalte hoch oder runter zu laden.
 - Wenn du nicht explizit darauf bestehst, werden wir keinen privaten Raum für dich reservieren. Wir haben insgesamt nur 4 private Rückzugsräume und bevorzugen es, wenn sie wirklich nur belegt werden, falls es ein starkes Bedürfnis danach gibt. Unser [Raumreservierungssystem](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/privateRoomBooking.md) ist noch dabei erarbeitet zu werden und kann sich ändern, die grundlegende Überlegung wird aber Bestand haben.
 - Wir haben auch Nachbarn. Bitte respektiere ihre Bedürfnisse indem du nach 22.00 Uhr nicht mehr laut bist und nicht jeden Tag Feuer machst oder grillst.
 
 ## Ressourcen, die wir haben
-
-- Wasser: Trinkwasser aus den Leitungen. Es gibt die Möglichkeit heiß zu duschen.
+- Wasser: Trinkwasser kommt aus den Leitungen in K20. Es gibt die Möglichkeit heiß zu duschen.
 - Essen: Einiges an haltbarem Essen, eine regelmäßige Zufuhr von Brot und eine unregelmäßige Versorgung an frischem Essen. Du bist herzlich eingeladen Essen mitzubringen, wenn du selbst zuviel hast.
 - Internet: Ssid "wuppdays", Passwort "dragonlove". (Download ~25 Mbps, upload ~5 Mbps.)
+- Strom: Kommt aus den meisten Steckdosen in K20 und aus einigen in K22.
 - Kochen: Eine gut ausgestatte Küche mit Gaskochfeldern, Ofen. Ein Grill und Kohle für den Garten.
 - Kleidung: Arbeits- und normale Kleidung zum Hiertragen da.
 - Schlafen: Drei Räume mit Matratzen/Betten/Sofas/Decken für ~15 Menschen, viele Isomatten/Schlafsäcke.

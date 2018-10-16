@@ -18,26 +18,30 @@ So you'd like to visit us? Great! Read on...
 ## Duration
 - If you just want to come over for an afternoon it still makes sense to contact us first. We are quite busy people and prefer having clear appointments with people, so that we can take time for getting to know them and showing them around.
 - If you want to stay overnight it is definitely necessary to make a request via [Slack](https://slackin.yunity.org) or [email](mailto:info@kanthaus.online) and to wait for a positive response before assuming anything.
-- If you'd like to stay for multiple days, weeks or even months that can very well be possible - it depends completely on how well we get along. That's why we can't promise anything before actually having gotten to know you as a person.
+- If you'd like to stay for multiple days, weeks or even months, that can very well be possible - it depends completely on how well we get along. That's why we can't promise anything before actually having gotten to know you as a person.
 - If you want to stay with us for a longer period of time we expect you to commit to a project. If you don't have a project, Kanthaus itself can become your project.
 
 ## Safety
-- There are no smoke detectors or fire extinguishers: don't leave naked flames unattended.
 - There may be sharp objects on the floor/ground: take care if walking barefoot.
 - There is [Hylotox 59 pesticide](https://de.wikipedia.org/wiki/Hylotox) (Lindane and DDT) in the attic wood: please watch out for and read the info poster before going there.
 
+### Accessibility
+- Unfortunately the space is not very accessible right now, making it generally unsuitable for individuals requiring additional support (e.g. blind, wheelchair user, etc.).
+- Everything is spread out over 3 stories and before even entering the front door you need to climb three steps.
+- Individuals requiring additional support are not restricted from coming, however we may not have the infrastructure or resources to make the visit enjoyable. Feel free to contact a Member or Volunteer to get an update on the current building status or for any other inquiry.
+
 ## Info
 - Upon arrival your main contact will give you a house tour and explain all the basics to you. If you want a sneak peak you can already read [the accompanying document](visiTour).
-- Unfortunately our houses come with a lot of stairs and are thus not very accessible. We'll happily help physically impaired people to visit us anyways, but the amount of stairs is something we want to inform visitors about.
 - There is a record of people who come by. Tell us if you don't want your name to appear on there!
-- You can use out internet connection, but never up- or download any illegal content.
+- You can use our internet connection, but never up- or download any illegal content.
 - We won't reserve a private room for you if you don't explicitly ask for it. There are only 4 private rooms and we prefer them to be occupied only if there is a real need for privacy. Our [room booking system](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/privateRoomBooking.md) is still a work-in-progress and may be subject to change, the underlying thoughts, however, are quite figured out.
 - We have neighbors. Respect them regarding noise (be quiet after 22.00) or your wish about a fire in the garden (not every day).
 
 ## Resources we have
-- Water: drinkable water comes out of the taps. There is the possibility to shower hot.
+- Water: drinkable water comes out of the taps in K20. There is the possibility to shower hot.
 - Food: some long-life food, a regular supply of bread and an irregular supply of fresh food. You are warmly invited to bring food if you have an abundance.
 - Internet: name "wuppdays", password "dragonlove". (Download ~25 Mbps, upload ~5 Mbps.)
+- Electricity: comes out of most plugs in K20 and some in K22.
 - Cooking: a well equipped kitchen with gas stove, oven, also a barbecue and charcoal for the garden.
 - Clothing: quite a lot of work clothes and normal clothes.
 - Sleeping: three rooms with mattresses/beds/sofas/sheets for ~15 people, also a lot of camping mattresses/sleeping bags.
