@@ -8,7 +8,7 @@ title: Verfassung
 - [§3. Prinzipien](#principles)  
 - [§4. Ressourcen](#resources)  
 - [§5. Positionen](#positions)  
-  - [§5a. Gast](#guest)
+  - [§5a. BesucherIn](#visitor)
   - [§5b. FreiwilligeR](#volunteer)
   - [§5c. Mitglied](#member)
 - [§6. Evaluationsverfahren](#evaluation)  
@@ -24,14 +24,16 @@ title: Verfassung
   - [§10c. Intervention](#intervention)
 
 ---
+
 <a name="preamble"></a>
 
 ## §1. Präambel
 Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinen Wohl gewidmet. Er wird auf drei Ebenen verwaltet—
 
-1. **Die Verfassungsebene** beschreibt *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert.
+1. **Die Verfassungsebene** beschreibt *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert. Nur die englische Originalversion ist bindend.
 2. **Die Kollektivebene**  beschreibt *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
 3. **Die operative Ebene** beschreibt *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
+
 <a name="purposes"></a>
 
 ## §2. Ziele
@@ -40,6 +42,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 3. Öffentliche und gemeinschaftliche Ressourcen zur Verfügung zu stellen und zusammen zu bringen.
 4. Zu geben, was wir können, zu nehmen, was wir brauchen und Anderen zu ermöglichen dasselbe zu tun.
 5. Allgemein, eine tolle Zeit zu haben.
+
 <a name="principles"></a>
 
 ## §3. Prinzipien
@@ -48,6 +51,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. Gleichwertigkeit - Ungleichheit minimieren, und
     3. Akzeptanz - Widerstand minimieren.
 2. Weitere leitende Prinzipien beinhalten von der Natur inspirierte Designs wie [Permakultur](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), sich in iterativen Entwicklungsumgebungen wie [Scrum](http://www.scrumguides.org/scrum-guide.html) finden lassende und solche wie die, die von [langanhaltenden Gemeingüter-Institutionen](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md) eklärt werden.
+
 <a name="resources"></a>
 
 ## §4. Ressourcen
@@ -55,30 +59,37 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 2. Alle in diesem Ort befindlichen Güter, außer anderweitig angegeben.
 3. Geld und jegliche anderen Ressourcen im Besitz von Haus Kante Wurzen w.V.
 4. Der Haus Kante Wurzen w.V. selbst.
+
 <a name="positions"></a>
 
 ### §5. Positionen
 1. Jede Person im Kanthaus hat eine Position inne.
 1. Die Positionen beinhalten proportionale Mengen an Verantwortlichkeiten und Rechten. In aufsteigender Reihenfolge sind diese:
-  1. Gast (§5a),
+  1. BesucherIn (§5a),
   1. FreiwilligeR (§5b), und
   1. Mitglied (§5c).
-<a name="guest"></a>
 
-#### §5a. Guest
-1. Die Position des Gastes wird Menschen zugedacht, die einfach mal vorbeikommen und etwas Zeit im Haus verbringen möchten.
-1. Ein Gast kann—
+<a name="visitor"></a>
+
+#### §5a. BesucherIn
+1. Die Position der BesucherIn wird Menschen zugedacht, die einfach mal vorbeikommen und etwas Zeit im Haus verbringen möchten.
+1. EinE BesucherIn kann—
 	1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen, und
 	1. an operativen Aktivitäten teilnehmen.
-1. Eine Person wird einfach durch ihre Ankunft zum Gast.
-1. Einem Gast wird freundlich nahe gelegt—
+1. Eine Person wird einfach durch ihre Ankunft zur BesucherIn.
+1. Einer BesucherIn, die über Nacht bleiben möchte ist verpflichtet, andernfalls freundlich dazu aufgefordert—
 	1. das [Besucherdokument](/about/visiting) zu lesen, und
-  1. mit einem Bewohner, möglichst einer/ einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
-1. Ein Gast akzeptiert implizit die Verfassung und die Gemeinschaftlichen Vereinbarungen.
-1. Nach zwei Wochen (14 Tagen) sollte ein Gast so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann ein Gast beantragen—
-  1. weiterhin als Gast zu bleiben, oder
+  1. mit einem Bewohner, möglichst einer/einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
+1. BesucherInnen akzeptieren implizit die Verfassung und die Gemeinschaftlichen Vereinbarungen.
+1. BesucherInnen dürfen zwei Nächte in Folge bleiben. Vor der dritten Nacht müssen sie informelle Zustimmung von den anderen Bewohnis einholen, um länger zu bleiben.
+1. Nach drei Wochen (21 Tagen) sollten BesucherInnen so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann einE BesucherIn beantragen—
+  1. weiterhin als BesucherIn zu bleiben, oder
   1. zur/zum Freiwilligen aufzusteigen.
-1. Eine Person hört auf Gast zu sein, wenn sie zu zur/zum Freiwilligen aufsteigt.
+1. Eine Person hört auf BesucherIn zu sein, wenn–
+  1. sie den Ort verlässt,
+  1. sie zu zur/zum Freiwilligen aufsteigt, oder
+  1. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
+
 <a name="volunteer"></a>
 
 ## §5b. FreiwilligeR
@@ -91,14 +102,16 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 3. EinE FreiwilligeR sollte—
     1. einen Teil der Verantwortung für den Ort übernehmen und
     2. für Wurzen und/oder die weitere Welt einen Beitrag leisten.
-4. Nach zwei Monaten (60 Tagen) sollte einE FreiwilligeR so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann einE FreiwilligeR beantragen—
-    1. wieder zum Gast zu werden,
+4. Wenn zwei Monate (60 Tagen) seit ihrer letzten Evaluation vergangen sind, sollten Freiwillige so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann einE FreiwilligeR beantragen—
+    1. wieder zur BesucherIn zu werden,
     2. weiterhin FreiwilligeR zu bleiben, oder
     3. zum Mitglied zu werden.
-5. EinE FreiwilligeR kann jederzeit wieder zur Gast-Position zurückkehren.
-6. Eine Person hör auf FreiwilligeR zu sein, wenn—
-    1. sie zum Mitglied aufsteigt oder wieder zum Gast wird, oder
-    2. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
+5. EinE FreiwilligeR kann jederzeit wieder zur BesucherIn-Position zurückkehren.
+6. Eine Person hört auf FreiwilligeR zu sein, wenn—
+    1. sie zum Mitglied aufsteigt oder wieder zur BesucherIn wird,
+    1. sie drei Monate (90 Tage) lang keine Zeit vor Ort verbracht hat, oder
+    1. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
+
 <a name="member"></a>
 
 ## §5c. Mitglied
@@ -112,14 +125,15 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. einen angemessenen Anteil der gesamten Verantwortung für den Ort, einschließlich der sozialen, rechtlichen und finanzielle Angelegenheiten übernehmen und
     2. für Wurzen und die weitere Welt einen Beitrag leisten.
 4. Um ein Mitglied zu werden sollte die Person die Verfassung und die Gemeinschaftlichen Vereinbarungen explizit akzeptieren.
-5. Nach sechs Monaten (180 Tagen) sollte ein Mitglied so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann das Mitglied beantragen—
-    1. wieder zum Gast zu werden,
+5. Wenn sechs Monate (180 Tagen) seit ihrer letzten Evaluation vergangen sind, sollten Mitglieder so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann das Mitglied beantragen—
+    1. wieder zur BesucherIn zu werden,
     2. wieder zur/zum Freiwilligen zu werden, oder
     3. weiterhin Mitglied zu bleiben.
-6. Ein Mitglied kann jederzeit zur Gast- oder Freiwilligen-Position zurückkehren.
+6. Ein Mitglied kann jederzeit zur BesucherIn- oder Freiwilligen-Position zurückkehren.
 7. Eine Person hört auf, ein Mitglied zu sein, wenn—
-    1. sie wieder zum Gast oder Freiwilligen wird, oder
+    1. sie wieder zu BesucherIn oder FreiwilligeR wird, oder
     2. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
+
 <a name="evaluation"></a>
 
 ## §6. Evaluationsverfahren
@@ -128,14 +142,15 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. Probleme und hindernde Umstände, sowie
     3. das Verständnis von Verfassung und/oder Gemeinschaftlichen Vereinbarungen.
 2. Nach dem offenen Gespräch mit der Person treffen sich ausschließlich die Abstimmungsberechtigten:
-    1. Wenn die Person Gast oder FreiwilligeR werden möchte, stimmen die Frewilligen und Mitglieder ab, oder
+    1. Wenn die Person BesucherIn oder FreiwilligeR werden möchte, stimmen die Frewilligen und Mitglieder ab, oder
     2. wenn die Person Mitglied werden möchte, stimmen nur die Mitglieder ab.
 3. Bevor es weitere Gespräche gibt, machen die Abstimmungsberechtigten eine Testwahl zur Frage, ob sie den Wunsch der Person an die angefragte Position zu gelangen unterstützen (+), akzeptieren (0) oder ablehnen (-).
 4. Nachfolgend können die Abstimmungsberechtigten über die Person, deren angestrebte Position und das Resultat der Testwahl diskutieren. Es sollte ein Fokus darauf liegen etwaige Bedenken anzusprechen.
 5. Danach wird in derselben Weise wie die der Testwahl (§6.3) bindend abgestimmt. Dieses Mal—
     1. wird die Person an der angestrebten Position akzeptiert, wenn es mindestens dreimal soviele Unterstützerstimmen wie Ablehnungsstimmen gibt, oder
-    2. startet der Evaluationsverfahren nochmals von §6.2 für die nächst-niedrigere Position (vgl. §5).
+    2. startet das Evaluationsverfahren nochmals von §6.2 für die nächst-niedrigere Position (vgl. §5).
 6. Die Person sollte umgehend über das Ergebnis der Abstimmung, jedoch nicht die genaue Zusammensetzung der Stimmen, in Kenntnis gesetzt werden. Wichtige Themen, die in der privaten Diskussion unter den Abstimmungsberechtigten angesprochen wurden, sollten der Person in Form von hilfreichem Feedback übermittelt werden.
+
 <a name="indact"></a>
 
 ## §7. Operative Tätigkeiten
