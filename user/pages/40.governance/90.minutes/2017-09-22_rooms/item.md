@@ -2,7 +2,7 @@
 title: Room Assignment Meeting
 date: "2017-09-22"
 taxonomy:
-    tag: [come]
+    tag: [rooms]
 ---
 
 Date: 2017-09-22
