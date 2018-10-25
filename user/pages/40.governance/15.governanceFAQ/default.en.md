@@ -15,8 +15,10 @@ _The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "
 
 ### §5a.6: What does it mean for a visitor to 'gather informal agreement'?
 §5a.6 of the constitution reads:
+
 > "A Visitor is allowed to stay up to two consecutive nights. Before the third night, they need to gather informal agreement among the other residents to stay longer."
-A visitor should interpret this to mean that they should talk to their host about staying longer than 2 days, with a further recommendation that visitors generally consider their interaction with the residents. Residents should communicate pressing issues with a visitor directly, or with their host. <br>
+
+This means a visitor should talk to their host about staying longer than 2 days, and is further recommended to observe and enquire about their compatibility with the existing residents. Residents should communicate pressing issues with a visitor directly, or with their host. <br>
 This section is to make sure that nobody assumes they can stay for a week or more without checking in with the residents. Kanthaus only works because of our functional social dynamics and we want to make sure that those are not disturbed by people who just don't fit in. But we still want to be open and make it possible for complete strangers to visit us – who knows, maybe that random hitchhiker will be our next Member? This balance can only be maintained with regular communication. <br>
 There's no need to run around and actively look for every single person in the space, but a general awareness that a prolonged stay is not a given. Normally, Kanthausians who have a problem with you will approach you on their own, but they'll definitely appreciate your proactivity!
 
