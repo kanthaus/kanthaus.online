@@ -29,14 +29,14 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 ===
 
 ### 1. People arriving and leaving
-Thore arrives Today
-Joe (friend of doug, from Edinbo) arrives on Thursday
-Chandi might come back during the week..?
-Tilmann and Janina leave on Sunday?
-Doug today (maybe..)
-Lise leaves wednesday or thursday
-Silvan leaves maybe on wednesday 
-Jasmin will be in L a lot..
+- Thore arrives Today
+- Joe (friend of doug, from Edinbo) arrives on Thursday
+- Chandi might come back during the week..?
+- Tilmann and Janina leave on Sunday?
+- Doug today (maybe..)
+- Lise leaves wednesday or thursday
+- Silvan leaves maybe on wednesday 
+- Jasmin will be in L a lot..
 
 ### 2. Evaluations and check-ins <!-- press the play button on https://gitlab.com/kanthaus/kanthaus-private/pipeline_schedules and it will print to #kanthaus-residence -->
 
@@ -55,13 +55,14 @@ nothing really changed, discussion ongoing
   - 7 days before that: 2.99€/day (26.8 ct/day*person)
 - Gas bottles bought (€12 each): 0
 - Income (please check the shoe and the box): 150 €
+
 Stuff that happened last week:
-lots of short exercise sessions
-wall in living room painted
-more plastering
-more heating preperations
-Raclete and Game
-light in dry food storage
+- lots of short exercise sessions
+- wall in living room painted
+- more plastering
+- more heating preperations
+- Raclete and Game
+- light in dry food storage
 
 
 ### 5. Schedule and commitments <!-- https://cloud.kanthaus.online/apps/calendar/ -->
@@ -85,10 +86,10 @@ light in dry food storage
   - CoMe facilitator: Matthias
 
 ### 6. Food planning
-eat lises cake instead of lunch today
-Nathalie cooking tonight
-need more veggies
-dumpster diving appreciated
+- eat lises cake instead of lunch today
+- Nathalie cooking tonight
+- need more veggies
+- dumpster diving appreciated
 
 ### 7. Discussion (e.g. questions, proposals, updates, requests, etc)
 - proposal: every second (?) sharing event as an internal event (Lise)
