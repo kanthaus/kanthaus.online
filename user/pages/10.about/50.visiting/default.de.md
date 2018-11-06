@@ -9,7 +9,7 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 ## Allgemein
 
-- Frag uns, ob du kommen kannst. Du kannst uns via [Slack](https://slackin.yunity.org) oder [email](mailto:info@kanthaus.online) kontaktieren.
+- Frag uns, ob du kommen kannst. Du kannst uns via [Slack](https://slackin.yunity.org) oder [email](mailto:hello@kanthaus.online) kontaktieren.
 - Wir sind besonders interessiert daran Menschen zu unterstützen, die an Projekten arbeiten, die mit den Werten des Hauses resonieren. Das kann bedeuten bei einem der Projekte mitzuwirken, die sowieso schon im Haus laufen, oder dein eigenes Ding mitzubringen.
 - Es gibt keine Kosten für den Aufenthalt hier. Wenn du Geld geben möchtest, kannst du das gerne machen.
 - Wir haben [Gemeinschaftliche Vereinbarungen](/governance/collectiveagreements), welchen du automatisch zustimmst, wenn du hier bist. Kurzum: Draußen rauchen, verantwortungsbewusst Trinken, uns vorher kontaktieren, wenn du Tiere mitbringst. Außerdem würden wir uns freuen, wenn du an unseren Koordinationstreffen und Putzstunden teilnimmst (10 Uhr montags bzw. donnerstags).
@@ -18,7 +18,7 @@ Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 ## Aufenthaltsdauer
 - Auch wenn du nur mal für einen Nachmittag vorbeischauen möchtest macht es trotzdem Sinn uns vorher zu kontaktieren. Wir sind ziemlich beschäftigte Leute und haben lieber klare Termine mit Menschen, damit wir uns Zeit für sie nehmen können, um sie kennenzulernen und herumzugühren.
-- Wenn du über Nacht bleiben möchtest musst du das definitiv vorher per [Slack](https://slackin.yunity.org) oder [email](mailto:info@kanthaus.online) anfragen und auf eine positive Antwort warten, bevor du irgendwelche Reisevorbereitungen triffst.
+- Wenn du über Nacht bleiben möchtest musst du das definitiv vorher per [Slack](https://slackin.yunity.org) oder [email](mailto:hello@kanthaus.online) anfragen und auf eine positive Antwort warten, bevor du irgendwelche Reisevorbereitungen triffst.
 - Wenn du für mehrere Tage, Wochen oder sogar Monate bleiben möchtest, dann kann das durchaus funktionieren - das ist komplett abhängig davon wie gut wir uns verstehen. Aus diesem Grund können wir nichts versprechen bevor wir dich nicht persönlich kennengelernt haben.
 - Wenn du längerfristig bei uns bleiben möchtest erwarten wir, dass du dich in einem Projekt engagierst. Wenn du kein Projekt hast oder findest, dann kann das Kanthaus selbst dein Projekt sein.
 
