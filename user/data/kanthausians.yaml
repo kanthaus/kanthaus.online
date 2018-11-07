@@ -24,9 +24,9 @@ members:
     founder: false
 
 volunteers:
-  - name: Wolfi
-    joined: "2017-09-07"
-    participants: Doug, Matthias, Laurina, Janina
+#  - name: Wolfi
+#    joined: "2017-09-07"
+#    participants: Doug, Matthias, Laurina, Janina
 #  - name: Bodhi
 #    joined: "2017-09-25"
 #    participants: Doug, Matthias, Laurina, Janina, Wolfi
@@ -36,9 +36,9 @@ volunteers:
 #  - name: Lou
 #    joined: "2017-10-07"
 #    participants: Doug, Matthias, Laurina, Mona
-  - name: Nick
-    joined: "2017-10-26"
-    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
+#  - name: Nick
+#    joined: "2017-10-26"
+#    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
 #  - name: Cille
 #   joined: "2017-10-26"
 #    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
@@ -57,9 +57,9 @@ volunteers:
   - name: Chandi
     joined: "2018-02-09"
     participants: Janina, Matthias, Bodhi, Wolfi, Tilmann, Nick
-  - name: Isabel
-    joined: "2018-05-07"
-    participants: Doug, Janina, Silvan, Bodhi
+#  - name: Isabel
+#    joined: "2018-05-07"
+#    participants: Doug, Janina, Silvan, Bodhi
   - name: Findus
     joined: "2018-05-15"
     participants: Doug, Janina, Laurina, Matthias, Isabel, Tilmann, Chandi
