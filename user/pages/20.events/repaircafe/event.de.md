@@ -1,6 +1,7 @@
 ---
 title: "Reparier- und Techniktreff"
 date: "2018-11-13 17:00"
+header_image: false
 ---
 
 ### Reparier- und Techniktreff
