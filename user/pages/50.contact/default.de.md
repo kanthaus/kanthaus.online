@@ -9,6 +9,7 @@ title: Kontakt
 - Facebook: [Kanthaus](https://www.facebook.com/kanthaus.online/)
 - Adresse: [Kantstraße 20, 04808 Wurzen, Germany](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N)
 - Bankverbindung:
+  - Haus Kante Wurzen w.V.
   - IBAN: DE85 8605 0200 1041 0436 90
   - BIC: SOLADES1GRM
 - Wir haben zudem einen gemeinnützigen Verein, sofern wir eine Spendenbeschenigung ausstellen sollen:
