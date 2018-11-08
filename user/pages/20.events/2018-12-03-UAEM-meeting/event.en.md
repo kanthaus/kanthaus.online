@@ -1,7 +1,7 @@
 ---
 title: 'UAEM Leipzig Vision Meeting'
 date: '2018-12-03'
-published: false
+published: true
 header_image: false
 ---
 
