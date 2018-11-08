@@ -3,7 +3,7 @@ title: "Monatliches Foodsharing Treffen"
 date: "2018-11-16 19:00"
 ---
 
-Wir veranstalten normalerweise jeden 2. Donnerstag im Monat um 19 Uhr das monatliche Treffen der Wurzener Foodsaver bei uns im Kanthaus. Wegen des Sommerlochs verschiebt sich der Termin diesen Monat auf den 3. Donnerstag, ansonsten ist alles wie immer.
+Wir veranstalten normalerweise jeden 2. Donnerstag im Monat um 19 Uhr das monatliche Treffen der Wurzener Foodsaver bei uns im Kanthaus. Diesmal verschiebt sich der Termin auf den 3. Donnerstag, ansonsten ist alles wie immer.
 Wir planen die Zukunft des lokalen Lebensmittelrettens, pflegen unsere Community, tauschen und teilen Essen und verbringen einen netten Abend zusammen. Sei dabei!
 
 ===
