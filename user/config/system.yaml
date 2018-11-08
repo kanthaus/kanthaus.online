@@ -7,7 +7,7 @@ home:
 pages:
   theme: antimatter
   markdown:
-    extra: false
+    extra: true
   process:
     markdown: true
     twig: false
