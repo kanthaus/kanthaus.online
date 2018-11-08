@@ -9,7 +9,9 @@ Give what you have too much of and/or take what you need!
 
 **Kantstraße 22, 7 pm to 8 pm**
 
+<div markdown="1" style="text-align:center;">
 ![](fairteiler_small.jpg)
+</div>
 
 ===
 

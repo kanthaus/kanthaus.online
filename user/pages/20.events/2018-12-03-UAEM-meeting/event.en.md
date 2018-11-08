@@ -7,7 +7,9 @@ header_image: false
 
 The [student group UAEM Leipzig](https://sturamed-leipzig.de/partner/uaem-leipzig/) meets at Kanthaus to plan their future actions.
 
+<div markdown="1" style="text-align:center;">
 ![](uaemLogo.png)
+</div>
 
 ===
 

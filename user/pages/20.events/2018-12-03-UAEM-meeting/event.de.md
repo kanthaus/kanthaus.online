@@ -7,7 +7,9 @@ header_image: false
 
 Die [Leipziger Studierendengruppe der UAEM](https://sturamed-leipzig.de/partner/uaem-leipzig/) trifft sich im Kanthaus, um ihr weiteres Vorgehen zu planen.
 
+<div markdown="1" style="text-align:center;">
 ![](uaemLogo.png)
+</div>
 
 ===
 

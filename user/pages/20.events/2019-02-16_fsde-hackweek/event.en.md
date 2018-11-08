@@ -9,8 +9,9 @@ The next [foodsharing.de](https://foodsharing.de) hackweek is due!
 
 In the middle of February we invite all new and old members of the foodsharing development team to gather at Kanthaus! The refactoring will continue and the goal to make foodsharing.de a platform that is not only open source but also future-proof is still on. So come and join us to help us make the light at the end of the tunnel become brighter!
 
+<div markdown="1" style="text-align:center;">
 ![](https://user-images.githubusercontent.com/31616/42413241-8802b03c-821c-11e8-91c5-f94930313290.png)
-
+</div>
 
 ===
 

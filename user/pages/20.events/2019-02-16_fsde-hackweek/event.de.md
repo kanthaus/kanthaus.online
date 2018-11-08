@@ -9,7 +9,9 @@ Die nächste [foodsharing.de](https://foodsharing.de) Hackweek steht an!
 
 Ab Mitte Februar laden wir zum fröhlich-produktiven gemeinsamen Coden ins Kanthaus und hoffen, dass möglichst viele der neuen und alten Mitglieder des foodsharing-dev-teams sich bei uns einfinden. Das Refactoring wird weitergehen und das Ziel foodsharing.de nicht nur Open Source sondern auch zukunftssicher zu machen ist inzwischen am Horizont erkennbar. Also kommt vorbei und helft uns dabei das Licht am Ende des Tunnels heller werden zu lassen!
 
+<div markdown="1" style="text-align:center;">
 ![](https://user-images.githubusercontent.com/31616/42413241-8802b03c-821c-11e8-91c5-f94930313290.png)
+</div>
 
 ===
 

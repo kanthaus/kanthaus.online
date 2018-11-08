@@ -9,7 +9,9 @@ Bring mit, wovon du zuviel hast und/oder nimm mit, was du brauchst!
 
 **Kantstraße 22, 19 bis 20 Uhr**
 
+<div markdown="1" style="text-align:center;">
 ![](fairteiler_small.jpg)
+</div>
 
 ===
 
