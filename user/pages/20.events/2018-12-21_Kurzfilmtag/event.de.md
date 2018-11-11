@@ -1,7 +1,6 @@
 ---
 title: 'Stadt.Land.Fluss: Der Kurzfilmtag 2018'
 date: '2018-12-21 10:00'
-enddate: '2018-12-21 22:00'
 published: true
 header_image: false
 ---
