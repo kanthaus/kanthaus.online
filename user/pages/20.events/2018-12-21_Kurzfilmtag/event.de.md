@@ -9,6 +9,8 @@ Am Kürzesten Tag des Jahres zeigen wir euch in Kooperation mit [dem Laden](http
 
 ![](kft18-querformat.png)
 
+===
+
 Kurzfilmalarm!
 
 Geboren wurde der Kurzfilmtag 2011 in Frankreich als „Le jour le plus court“.
