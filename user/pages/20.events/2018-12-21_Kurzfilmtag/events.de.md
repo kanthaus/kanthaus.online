@@ -7,17 +7,9 @@ header_image: false
 ---
 Am Kürzesten Tag des Jahres zeigen wir euch in Kooperation mit [dem Laden](https://schweizerhaus-puechau.jimdo.com/der-laden/) in dessen Räumlichkeiten ein großes Angebot an Kurzfilmen.
 
-
-
-2019 wird es wieder ein MOVE Utopia geben :-) und das zweite Orgameeting wird im Kanthaus stattfinden. Über das letzte MOVE könnt ihr auf dessen [Website](https://move-utopia.de) lesen.
-
-![](MOVE_logo.jpg)
-
-
+![](kft18-querformat.png)
 
 Kurzfilmalarm!
-
-In Kooperation mit dem Kanthaus in Wurzen
 
 Geboren wurde der Kurzfilmtag 2011 in Frankreich als „Le jour le plus court“.
 
