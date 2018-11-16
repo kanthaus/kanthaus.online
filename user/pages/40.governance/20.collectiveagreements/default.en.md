@@ -34,6 +34,8 @@ Do not smoke at all within the buildings. If you smoke outside, please ensure th
 ### Alcohol
 Kanthaus is not a bar: please do not come here with drinking as a primary purpose and be aware that alcohol consumption will not be considered as an excuse or justification of behavior. That said, responsible alcohol consumption is tolerated. Please contact a Volunteer or Member with concerns or questions regarding this topic.
 
+### Animals
+Animals are not necessarily welcome due to factors such as: allergic reactions, hair-shedding, defecation, damage to resources, biting and other undesirable behaviors. Potential animal residents will be considered on a case by case basis. Please contact a Member to discuss bringing an animal.
 
 ### Changes to the Collective Agreements
 Any addition, subtraction or other change to this document should be made according to the [Constitution](../constitution#collagrchange).
