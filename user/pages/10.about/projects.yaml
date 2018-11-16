@@ -9,6 +9,16 @@ current:
     contact: Silvan
     image: auerworld.png
 
+#  - name:
+#      de: Foodsharing Akademie
+#      en: Foodsharing academy
+#    url: https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf
+#    sub:
+#      de: Bildungsarbeit zum Thema Lebensmittelverschwendung
+#      en: Educational work about food waste
+#    contact: Thore
+#    image: foodsharing_academy.jpg
+
   - name:
       de: Programmierung von Foodsharing.de
       en: Foodsharing.de code
@@ -28,6 +38,16 @@ current:
       en: organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals
     contact: Bodhi, Lise
     image: foodsharing_festivals.jpg
+
+  - name:
+      de: Foodsharing PolKa
+      en: Foodsharing PolCa
+    url: https://wiki.foodsharing.de/images/c/c6/Forderugen_lang_2017-12.pdf
+    sub:
+      de: Konzeptualisierung und Ausführung politischer Kampagnen gegen Lebensmittelverschwendung
+      en: Conceptualization and actualization of political campaigns against food waste
+    contact: Nathalie
+    image: foodsharing_polKa.jpg
 
   - name: Foodsharing Wurzen
     url: /projects/foodsharing
