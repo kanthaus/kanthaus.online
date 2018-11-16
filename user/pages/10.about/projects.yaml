@@ -1,98 +1,98 @@
 current:
+  - name:
+      de: Auerworld-Festival
+      en: Auerworld festival
+    url: https://auerworld-festival.de/
+    sub:
+      de: Planung und Organisation eines nachhaltigen Festivals
+      en: Planning and organizing of a sustainable festival
+    contact: Silvan
+    image: auerworld.png
+
+  - name:
+      de: Programmierung von Foodsharing.de
+      en: Foodsharing.de code
+    url: https://devblog.foodsharing.de
+    sub:
+      de: Foodsharing.de modernisieren und verbessern
+      en: Modernizing and improving foodsharing.de
+    contact: Matthias, Nick
+    image: foodsharing.png
+
+  - name:
+      de: Foodsharing auf Festivals
+      en: Foodsharing on festivals
+    url: https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals
+    sub:
+      de: Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken
+      en: organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals
+    contact: Bodhi, Lise
+    image: foodsharing_festivals.jpg
+
+  - name: Foodsharing Wurzen
+    url: /projects/foodsharing
+    sub:
+      de: eine lokale Foodsharing-Initiative starten und am Laufen halten
+      en: Starting a local foodsharing initiative and keeping it running
+    contact: Janina, Lise
+    image: foodsharing_wurzen.jpg
+
   - name: Foodsaving Worldwide
     url: http://foodsaving.world/
     sub:
-        de: Ein weltweites Netzwerk von Foodsaving-Gruppen
-        en: Worldwide network of foodsaving groups
+      de: Ein weltweites Netzwerk von Foodsaving-Gruppen
+      en: Worldwide network of foodsaving groups
     contact: Janina
     image: foodsaving_worldwide.jpg
 
   - name: Karrot
     url: https://github.com/yunity/karrot-frontend
     sub:
-        de: Planung und Entwicklung der mehrsprachigen Foodsaving-Webapp
-        en: Planning and development of the multilingual webapp to support foodsaving groups
+      de: Planung und Entwicklung der mehrsprachigen Foodsaving-Webapp
+      en: Planning and development of the multilingual webapp to support foodsaving groups
     contact: Tilmann, Nick, Janina
     image: karrot.png
 
   - name:
-        de: Programmierung von Foodsharing.de
-        en: Foodsharing.de code
-    url: https://devblog.foodsharing.de
-    sub:
-        de: Foodsharing.de modernisieren und verbessern
-        en: Modernizing and improving foodsharing.de
-    contact: Matthias, Nick
-    image: foodsharing.png
-
-  - name:
-        de: Progressive Administration
-        en: Progressive governance
-    url: /governance/constitution
-    sub:
-        de: Zukunftstaugliche Arten des Zusammenlebens und -arbeitens recherchieren, kondensieren und verbessern
-        en: Researching, condensing and refining future-proof ways of living and working together
-    contact: Doug
-    image: progressive_governance.png
-
-  - name: Ukuvota
-    url: https://gitlab.com/yunity/ukuvota
-    sub:
-        de: Webapp zur Entscheidungsfindung in Gruppen
-        en: Webapp for decision making in groups
-    contact: Wolfi, Doug
-    image: ukuvota.png
-
-  - name:
-        de: Hausrenovierung
-        en: Renovation of the house
+      de: Hausrenovierung
+      en: Renovation of the house
     url: /projects/house-renovation
     sub:
-        de: Wasser, Strom, Heizung und dichte Dächer
-        en: Water, electricity, heating and rain-proof roofs
+      de: Wasser, Strom, Heizung und dichte Dächer
+      en: Water, electricity, heating and rain-proof roofs
     contact: Matthias, Bodhi
     image: renovation.png
-
-  - name: Foodsharing Wurzen
-    url: /projects/foodsharing
-    sub:
-        de: eine lokale Foodsharing-Initiative starten und am Laufen halten
-        en: Starting a local foodsharing initiative and keeping it running
-    contact: Janina, Lise
-    image: foodsharing_wurzen.jpg
 
   - name: Repair Cafe
     url: /projects/repaircafe
     sub:
-        de: Beherrsche die Technik, nicht andersherum
-        en: Reclaim control over your technological devices
+      de: Beherrsche die Technik, nicht andersherum
+      en: Reclaim control over your technological devices
     contact: Matthias
     image: repaircafe.jpg
 
   - name:
-        de: Auerworld-Festival
-        en: Auerworld festival
-    url: https://auerworld-festival.de/
+      de: Progressive Administration
+      en: Progressive governance
+    url: /governance/constitution
     sub:
-        de: Planung und Organisation eines nachhaltigen Festivals
-        en: Planning and organizing of a sustainable festival
-    contact: Silvan
-    image: auerworld.png
+      de: Zukunftstaugliche Arten des Zusammenlebens und -arbeitens recherchieren, kondensieren und verbessern
+      en: Researching, condensing and refining future-proof ways of living and working together
+    contact: Doug
+    image: progressive_governance.png
 
   - name: Trichter
     url: https://trichter.cc/
     sub:
-        de: Veranstaltungskalender für Leipzig
-        en: Calendar of alternative events for Leipzig
+      de: Veranstaltungskalender für Leipzig
+      en: Calendar of alternative events for Leipzig
     contact: chandi
     image: trichter.png
 
-  - name:
-        de: Foodsharing auf Festivals
-        en: Foodsharing on festivals
-    url: https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals
+  - name: Ukuvota
+    url: https://gitlab.com/yunity/ukuvota
     sub:
-        de: Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken
-        en: organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals
-    contact: Bodhi, Lise
-    image: foodsharing_festivals.jpg
+      de: Webapp zur Entscheidungsfindung in Gruppen
+      en: Webapp for decision making in groups
+    contact: Wolfi, Doug
+    image: ukuvota.png
