@@ -41,7 +41,7 @@
 
                         <div class="caption ellipsis">
                             <div class="title ellipsis">
-                                <a href="{{ p.url }}">
+                                <a href="{{ (p.url starts with '/') ? ('/' ~ html_lang ~ p.url) : p.url }}">
                                     {{ p.name[lang] ?: p.name }}
                                 </a>
                             </div>

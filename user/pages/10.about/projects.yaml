@@ -50,7 +50,7 @@ current:
     image: foodsharing_polKa.jpg
 
   - name: Foodsharing Wurzen
-    url: projects/foodsharing
+    url: /projects/foodsharing
     sub:
       de: eine lokale Foodsharing-Initiative starten und am Laufen halten
       en: Starting a local foodsharing initiative and keeping it running
@@ -58,7 +58,7 @@ current:
     image: foodsharing_wurzen.jpg
 
   - name: Foodsaving Worldwide
-    url: http://foodsaving.world/
+    url: https://foodsaving.world/
     sub:
       de: Ein weltweites Netzwerk von Foodsaving-Gruppen
       en: Worldwide network of foodsaving groups
@@ -76,7 +76,7 @@ current:
   - name:
       de: Hausrenovierung
       en: Renovation of the house
-    url: projects/house-renovation
+    url: /projects/house-renovation
     sub:
       de: Wasser, Strom, Heizung und dichte Dächer
       en: Water, electricity, heating and rain-proof roofs
@@ -84,7 +84,7 @@ current:
     image: renovation.png
 
   - name: Repair Cafe
-    url: projects/repaircafe
+    url: /projects/repaircafe
     sub:
       de: Beherrsche die Technik, nicht andersherum
       en: Reclaim control over your technological devices
