@@ -116,3 +116,13 @@ current:
       en: Webapp for decision making in groups
     contact: Wolfi, Doug
     image: ukuvota.png
+
+  - name:
+      de: Verkehrswende
+      en: Sustainable mobility
+    url: https://de.wikipedia.org/wiki/Verkehrswende
+    sub:
+      de: Organisation von Aktionen für eine nachhaltigere Mobilität
+      en: Organization of actions for sustainable mobility
+    contact: Lise, Bodhi
+    image: verkehrswende.jpg
