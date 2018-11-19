@@ -36,7 +36,7 @@ en:
   FORM_DATA:
     SUMMARY: "Here is the summary of what you wrote to us:"
   ERROR: Error
-  CURRENT_PROJECTS: Current projects
+  ABOUT_US: About us
 
 de:
   TRANSLATION_TEST: Antimatter!
@@ -76,7 +76,7 @@ de:
   FORM_DATA:
     SUMMARY: "Folgendes haben Sie uns mitgeteilt:"
   ERROR: Fehler
-  CURRENT_PROJECTS: Aktuelle Projekte
+  ABOUT_US: Übers Kanthaus
 
 es:
   TRANSLATION_TEST: Antimatter!
