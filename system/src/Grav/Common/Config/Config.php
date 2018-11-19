@@ -2,7 +2,7 @@
 /**
  * @package    Grav.Common.Config
  *
- * @copyright  Copyright (C) 2014 - 2017 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (C) 2015 - 2018 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -16,6 +16,7 @@ use Grav\Common\Utils;
 
 class Config extends Data
 {
+    /** @var string */
     protected $checksum;
     protected $modified = false;
     protected $timestamp = 0;
@@ -108,6 +109,8 @@ class Config extends Data
      */
     public function getLanguages()
     {
+        user_error(__CLASS__ . '::' . __FUNCTION__ . '() is deprecated since Grav 1.5, use Grav::instance()[\'languages\'] instead', E_USER_DEPRECATED);
+
         return Grav::instance()['languages'];
     }
 }

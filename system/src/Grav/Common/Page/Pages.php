@@ -2,7 +2,7 @@
 /**
  * @package    Grav.Common.Page
  *
- * @copyright  Copyright (C) 2014 - 2017 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (C) 2015 - 2018 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -49,7 +49,7 @@ class Pages
     /**
      * @var array|string[]
      */
-    protected $baseUrl = [];
+    protected $baseRoute = [];
 
     /**
      * @var array|string[]
@@ -120,7 +120,7 @@ class Pages
         if ($path !== null) {
             $path = trim($path, '/');
             $this->base = $path ? '/' . $path : null;
-            $this->baseUrl = [];
+            $this->baseRoute = [];
         }
 
         return $this->base;
@@ -128,39 +128,61 @@ class Pages
 
     /**
      *
+     * Get base route for Grav pages.
+     *
+     * @param  string $lang     Optional language code for multilingual routes.
+     *
+     * @return string
+     */
+    public function baseRoute($lang = null)
+    {
+        $key = $lang ?: 'default';
+
+        if (!isset($this->baseRoute[$key])) {
+            /** @var Language $language */
+            $language = $this->grav['language'];
+
+            $path_base = rtrim($this->base(), '/');
+            $path_lang = $language->enabled() ? $language->getLanguageURLPrefix($lang) : '';
+
+            $this->baseRoute[$key] = $path_base . $path_lang;
+        }
+
+        return $this->baseRoute[$key];
+    }
+
+    /**
+     *
+     * Get route for Grav site.
+     *
+     * @param  string $route    Optional route to the page.
+     * @param  string $lang     Optional language code for multilingual links.
+     *
+     * @return string
+     */
+    public function route($route = '/', $lang = null)
+    {
+        if (!$route || $route === '/') {
+            return $this->baseRoute($lang) ?: '/';
+        }
+
+        return $this->baseRoute($lang) . $route;
+    }
+
+    /**
+     *
      * Get base URL for Grav pages.
      *
-     * @param  string $lang     Optional language code for multilingual links.
-     * @param  bool   $absolute If true, return absolute url, if false, return relative url. Otherwise return default.
+     * @param  string     $lang     Optional language code for multilingual links.
+     * @param  bool|null  $absolute If true, return absolute url, if false, return relative url. Otherwise return default.
      *
      * @return string
      */
     public function baseUrl($lang = null, $absolute = null)
     {
-        $lang = (string) $lang;
         $type = $absolute === null ? 'base_url' : ($absolute ? 'base_url_absolute' : 'base_url_relative');
-        $key = "{$lang} {$type}";
 
-        if (!isset($this->baseUrl[$key])) {
-            /** @var Config $config */
-            $config = $this->grav['config'];
-
-            /** @var Language $language */
-            $language = $this->grav['language'];
-
-            if (!$lang) {
-                $lang = $language->getActive();
-            }
-
-            $path_append = rtrim($this->grav['pages']->base(), '/');
-            if ($language->getDefault() !== $lang || $config->get('system.languages.include_default_lang') === true) {
-                $path_append .= $lang ? '/' . $lang : '';
-            }
-
-            $this->baseUrl[$key] = $this->grav[$type] . $path_append;
-        }
-
-        return $this->baseUrl[$key];
+        return $this->grav[$type] . $this->baseRoute($lang);
     }
 
     /**
@@ -179,7 +201,7 @@ class Pages
 
     /**
      *
-     * Get home URL for Grav site.
+     * Get URL for Grav site.
      *
      * @param  string $route    Optional route to the page.
      * @param  string $lang     Optional language code for multilingual links.
@@ -189,7 +211,7 @@ class Pages
      */
     public function url($route = '/', $lang = null, $absolute = null)
     {
-        if ($route === '/') {
+        if (!$route || $route === '/') {
             return $this->homeUrl($lang, $absolute);
         }
 
@@ -469,14 +491,13 @@ class Pages
                 if ($site_route) {
                     $page = $this->dispatch($site_route, $all);
                 } else {
-                    // Try Regex style redirects
-                    $uri = $this->grav['uri'];
-                    $source_url = $route;
-                    $extension = $uri->extension();
-                    if (isset($extension) && !Utils::endsWith($uri->url(), $extension)) {
-                        $source_url.= '.' . $extension;
-                    }
 
+                    /** @var Uri $uri */
+                    $uri = $this->grav['uri'];
+                    /** @var \Grav\Framework\Uri\Uri $source_url */
+                    $source_url = $uri->uri(false);
+
+                    // Try Regex style redirects
                     $site_redirects = $config->get("site.redirects");
                     if (is_array($site_redirects)) {
                         foreach ((array)$site_redirects as $pattern => $replace) {
@@ -1008,32 +1029,63 @@ class Pages
             throw new \RuntimeException('Fatal error when creating page instances.');
         }
 
-        $content_exists = false;
-        $pages_found = new \GlobIterator($directory . '/*' . CONTENT_EXT);
+        // Build regular expression for all the allowed page extensions.
+        $page_extensions = $language->getFallbackPageExtensions();
+        $regex = '/^[^\.]*(' . implode('|', array_map(
+            function ($str) {
+                return preg_quote($str, '/');
+            },
+            $page_extensions
+        )) . ')$/';
+
+        $folders = [];
         $page_found = null;
-
         $page_extension = '';
+        $last_modified = 0;
 
-        if ($pages_found && count($pages_found) > 0) {
+        $iterator = new \FilesystemIterator($directory);
+        /** @var \FilesystemIterator $file */
+        foreach ($iterator as $file) {
+            $filename = $file->getFilename();
 
-            $page_extensions = $language->getFallbackPageExtensions();
+            // Ignore all hidden files if set.
+            if ($this->ignore_hidden && $filename && $filename[0] === '.') {
+                continue;
+            }
 
-            foreach ($page_extensions as $extension) {
-                foreach ($pages_found as $found) {
-                    if ($found->isDir()) {
-                        continue;
-                    }
-                    $regex = '/^[^\.]*' . preg_quote($extension, '/') . '$/';
-                    if (preg_match($regex, $found->getFilename())) {
-                        $page_found = $found;
-                        $page_extension = $extension;
-                        break 2;
-                    }
+            // Handle folders later.
+            if ($file->isDir()) {
+                // But ignore all folders in ignore list.
+                if (!\in_array($filename, $this->ignore_folders, true)) {
+                    $folders[] = $file;
+                }
+                continue;
+            }
+
+            // Ignore all files in ignore list.
+            if (\in_array($filename, $this->ignore_files, true)) {
+                continue;
+            }
+
+            // Update last modified date to match the last updated file in the folder.
+            $modified = $file->getMTime();
+            if ($modified > $last_modified) {
+                $last_modified = $modified;
+            }
+
+            // Page is the one that matches to $page_extensions list with the lowest index number.
+            if (preg_match($regex, $filename, $matches, PREG_OFFSET_CAPTURE)) {
+                $ext = $matches[1][0];
+
+                if ($page_found === null || array_search($ext, $page_extensions, true) < array_search($page_extension, $page_extensions, true)) {
+                    $page_found = $file;
+                    $page_extension = $ext;
                 }
             }
         }
 
-        if ($parent && !empty($page_found)) {
+        $content_exists = false;
+        if ($parent && $page_found) {
             $page->init($page_found, $page_extension);
 
             $content_exists = true;
@@ -1043,48 +1095,31 @@ class Pages
             }
         }
 
-        // set current modified of page
-        $last_modified = $page->modified();
+        // Now handle all the folders under the page.
+        /** @var \FilesystemIterator $file */
+        foreach ($folders as $file) {
+            $filename = $file->getFilename();
 
-        $iterator = new \FilesystemIterator($directory);
-
-        /** @var \DirectoryIterator $file */
-        foreach ($iterator as $file) {
-            $name = $file->getFilename();
-
-            // Ignore all hidden files if set.
-            if ($this->ignore_hidden && $name && $name[0] === '.') {
+            // if folder contains separator, continue
+            if (Utils::contains($file->getFilename(), $config->get('system.param_sep', ':'))) {
                 continue;
             }
 
-            if ($file->isFile()) {
-                // Update the last modified if it's newer than already found
-                if (!in_array($file->getBasename(), $this->ignore_files) && ($modified = $file->getMTime()) > $last_modified) {
-                    $last_modified = $modified;
-                }
-            } elseif ($file->isDir() && !in_array($file->getFilename(), $this->ignore_folders)) {
+            if (!$page->path()) {
+                $page->path($file->getPath());
+            }
 
-                // if folder contains separator, continue
-                if (Utils::contains($file->getFilename(), $config->get('system.param_sep', ':'))) {
-                    continue;
-                }
+            $path = $directory . DS . $filename;
+            $child = $this->recurse($path, $page);
 
-                if (!$page->path()) {
-                    $page->path($file->getPath());
-                }
+            if (Utils::startsWith($filename, '_')) {
+                $child->routable(false);
+            }
 
-                $path = $directory . DS . $name;
-                $child = $this->recurse($path, $page);
+            $this->children[$page->path()][$child->path()] = ['slug' => $child->slug()];
 
-                if (Utils::startsWith($name, '_')) {
-                    $child->routable(false);
-                }
-
-                $this->children[$page->path()][$child->path()] = ['slug' => $child->slug()];
-
-                if ($config->get('system.pages.events.page')) {
-                    $this->grav->fireEvent('onFolderProcessed', new Event(['page' => $page]));
-                }
+            if ($config->get('system.pages.events.page')) {
+                $this->grav->fireEvent('onFolderProcessed', new Event(['page' => $page]));
             }
         }
 

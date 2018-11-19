@@ -2,7 +2,7 @@
 /**
  * @package    Grav.Common.Page
  *
- * @copyright  Copyright (C) 2014 - 2017 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (C) 2015 - 2018 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -12,23 +12,26 @@ use Exception;
 use Grav\Common\Cache;
 use Grav\Common\Config\Config;
 use Grav\Common\Data\Blueprint;
+use Grav\Common\File\CompiledYamlFile;
 use Grav\Common\Filesystem\Folder;
 use Grav\Common\Grav;
-use Grav\Common\Language\Language;
 use Grav\Common\Markdown\Parsedown;
 use Grav\Common\Markdown\ParsedownExtra;
+use Grav\Common\Page\Interfaces\PageInterface;
+use Grav\Common\Media\Traits\MediaTrait;
 use Grav\Common\Taxonomy;
 use Grav\Common\Uri;
 use Grav\Common\Utils;
+use Grav\Common\Yaml;
 use RocketTheme\Toolbox\Event\Event;
 use RocketTheme\Toolbox\File\MarkdownFile;
-use Symfony\Component\Yaml\Exception\ParseException;
-use Symfony\Component\Yaml\Yaml;
 
 define('PAGE_ORDER_PREFIX_REGEX', '/^[0-9]+\./u');
 
-class Page
+class Page implements PageInterface
 {
+    use MediaTrait;
+
     /**
      * @var string Filename. Leave as null if page is folder.
      */
@@ -65,7 +68,6 @@ class Page
     protected $summary;
     protected $raw_content;
     protected $pagination;
-    protected $media;
     protected $metadata;
     protected $title;
     protected $max_count;
@@ -135,7 +137,7 @@ class Page
         $this->metadata();
         $this->url();
         $this->visible();
-        $this->modularTwig($this->slug[0] === '_');
+        $this->modularTwig(strpos($this->slug(), '_') === 0);
         $this->setPublishState();
         $this->published();
         $this->urlExtension();
@@ -193,7 +195,7 @@ class Page
 
                 $route = isset($aPage->header()->routes['default']) ? $aPage->header()->routes['default'] : $aPage->rawRoute();
                 if (!$route) {
-                    $route = $aPage->slug();
+                    $route = $aPage->route();
                 }
 
                 if ($onlyPublished && !$aPage->published()) {
@@ -318,8 +320,6 @@ class Page
         if (!$this->header) {
             $file = $this->file();
             if ($file) {
-                // Set some options
-                $file->settings(['native' => true, 'compat' => true]);
                 try {
                     $this->raw_content = $file->markdown();
                     $this->frontmatter = $file->frontmatter();
@@ -328,11 +328,12 @@ class Page
                     if (!Utils::isAdminPlugin()) {
                         // If there's a `frontmatter.yaml` file merge that in with the page header
                         // note page's own frontmatter has precedence and will overwrite any defaults
-                        $frontmatter_file = $this->path . '/' . $this->folder . '/frontmatter.yaml';
-                        if (file_exists($frontmatter_file)) {
-                            $frontmatter_data = (array)Yaml::parse(file_get_contents($frontmatter_file));
+                        $frontmatterFile = CompiledYamlFile::instance($this->path . '/' . $this->folder . '/frontmatter.yaml');
+                        if ($frontmatterFile->exists()) {
+                            $frontmatter_data = (array)$frontmatterFile->content();
                             $this->header = (object)array_replace_recursive($frontmatter_data,
                                 (array)$this->header);
+                            $frontmatterFile->free();
                         }
                         // Process frontmatter with Twig if enabled
                         if (Grav::instance()['config']->get('system.pages.frontmatter.process_twig') === true) {
@@ -763,6 +764,8 @@ class Page
 
         // pages.markdown_extra is deprecated, but still check it...
         if (!isset($defaults['extra']) && (isset($this->markdown_extra) || $config->get('system.pages.markdown_extra') !== null)) {
+            user_error('Configuration option \'system.pages.markdown_extra\' is deprecated since Grav 1.5, use \'system.pages.markdown.extra\' instead', E_USER_DEPRECATED);
+
             $defaults['extra'] = $this->markdown_extra ?: $config->get('system.pages.markdown_extra');
         }
 
@@ -813,6 +816,8 @@ class Page
      */
     public function setRawContent($content)
     {
+        $content = $content === null ? '': $content;
+
         $this->content = $content;
     }
 
@@ -1109,7 +1114,7 @@ class Page
      */
     public function toYaml()
     {
-        return Yaml::dump($this->toArray(), 10);
+        return Yaml::dump($this->toArray(), 20);
     }
 
     /**
@@ -1123,6 +1128,14 @@ class Page
     }
 
     /**
+     * @return string
+     */
+    protected function getCacheKey()
+    {
+        return $this->id();
+    }
+
+    /**
      * Gets and sets the associated media as found in the page folder.
      *
      * @param  Media $var Representation of associated media.
@@ -1131,23 +1144,33 @@ class Page
      */
     public function media($var = null)
     {
-        /** @var Cache $cache */
-        $cache = Grav::instance()['cache'];
-
         if ($var) {
-            $this->media = $var;
-        }
-        if ($this->media === null) {
-            // Use cached media if possible.
-            $media_cache_id = md5('media' . $this->id());
-            if (!$media = $cache->fetch($media_cache_id)) {
-                $media = new Media($this->path());
-                $cache->save($media_cache_id, $media);
-            }
-            $this->media = $media;
+            $this->setMedia($var);
         }
 
-        return $this->media;
+        return $this->getMedia();
+    }
+
+    /**
+     * Get filesystem path to the associated media.
+     *
+     * @return string|null
+     */
+    public function getMediaFolder()
+    {
+        return $this->path();
+    }
+
+    /**
+     * Get display order for the associated media.
+     *
+     * @return array Empty array means default ordering.
+     */
+    public function getMediaOrder()
+    {
+        $header = $this->header();
+
+        return isset($header->media_order) ? array_map('trim', explode(',', (string)$header->media_order)) : [];
     }
 
     /**
@@ -1499,6 +1522,8 @@ class Page
 
             // Build an array of meta objects..
             foreach ((array)$metadata as $key => $value) {
+                // Lowercase the key
+                $key = strtolower($key);
                 // If this is a property type metadata: "og", "twitter", "facebook" etc
                 // Backward compatibility for nested arrays in metas
                 if (is_array($value)) {
@@ -1525,12 +1550,13 @@ class Page
                             $separator = strpos($key, ':');
                             $hasSeparator = $separator && $separator < strlen($key) - 1;
                             $entry = [
-                                'name' => $key,
                                 'content' => htmlspecialchars($value, ENT_QUOTES, 'UTF-8')
                             ];
 
-                            if ($hasSeparator) {
+                            if ($hasSeparator && !Utils::startsWith($key, 'twitter')) {
                                 $entry['property'] = $key;
+                            } else {
+                                $entry['name'] = $key;
                             }
 
                             $this->metadata[$key] = $entry;
@@ -1558,7 +1584,7 @@ class Page
         }
 
         if (empty($this->slug)) {
-            $this->slug = $this->adjustRouteCase(preg_replace(PAGE_ORDER_PREFIX_REGEX, '', $this->folder));
+            $this->slug = $this->adjustRouteCase(preg_replace(PAGE_ORDER_PREFIX_REGEX, '', $this->folder)) ?: null;
         }
 
 
@@ -1623,14 +1649,19 @@ class Page
      * Gets the url for the Page.
      *
      * @param bool $include_host Defaults false, but true would include http://yourhost.com
-     * @param bool $canonical true to return the canonical URL
-     * @param bool $include_lang
+     * @param bool $canonical    True to return the canonical URL
+     * @param bool $include_base Include base url on multisite as well as language code
      * @param bool $raw_route
      *
      * @return string The url.
      */
-    public function url($include_host = false, $canonical = false, $include_lang = true, $raw_route = false)
+    public function url($include_host = false, $canonical = false, $include_base = true, $raw_route = false)
     {
+        // Override any URL when external_url is set
+        if (isset($this->external_url)) {
+            return $this->external_url;
+        }
+
         $grav = Grav::instance();
 
         /** @var Pages $pages */
@@ -1639,41 +1670,25 @@ class Page
         /** @var Config $config */
         $config = $grav['config'];
 
-        /** @var Language $language */
-        $language = $grav['language'];
-
-        /** @var Uri $uri */
-        $uri = $grav['uri'];
-
-        // Override any URL when external_url is set
-        if (isset($this->external_url)) {
-            return $this->external_url;
-        }
-
-        // get pre-route
-        if ($include_lang && $language->enabled()) {
-            $pre_route = $language->getLanguageURLPrefix();
-        } else {
-            $pre_route = '';
-        }
+        // get base route (multisite base and language)
+        $route = $include_base ? $pages->baseRoute() : '';
 
         // add full route if configured to do so
-        if ($config->get('system.absolute_urls', false)) {
+        if (!$include_host && $config->get('system.absolute_urls', false)) {
             $include_host = true;
         }
 
-        // get canonical route if requested
         if ($canonical) {
-            $route = $pre_route . $this->routeCanonical();
+            $route .= $this->routeCanonical();
         } elseif ($raw_route) {
-            $route = $pre_route . $this->rawRoute();
+            $route .= $this->rawRoute();
         } else {
-            $route = $pre_route . $this->route();
+            $route .= $this->route();
         }
 
-        $rootUrl = $uri->rootUrl($include_host) . $pages->base();
-
-        $url = $rootUrl . '/' . trim($route, '/') . $this->urlExtension();
+        /** @var Uri $uri */
+        $uri = $grav['uri'];
+        $url = $uri->rootUrl($include_host) . '/' . trim($route, '/') . $this->urlExtension();
 
         // trim trailing / if not root
         if ($url !== '/') {
@@ -1787,7 +1802,7 @@ class Page
     public function routeCanonical($var = null)
     {
         if ($var !== null) {
-            $this->routes['canonical'] = (array)$var;
+            $this->routes['canonical'] = $var;
         }
 
         if (!empty($this->routes) && isset($this->routes['canonical'])) {
@@ -2471,7 +2486,15 @@ class Page
             return new Collection();
         }
 
-        $collection = $this->evaluate($params['items']);
+        // See if require published filter is set and use that, if assume published=true
+        $only_published = true;
+        if (isset($params['filter']['published']) && $params['filter']['published']) {
+            $only_published = false;
+        } elseif (isset($params['filter']['non-published']) && $params['filter']['non-published']) {
+            $only_published = false;
+        }
+
+        $collection = $this->evaluate($params['items'], $only_published);
         if (!$collection instanceof Collection) {
             $collection = new Collection();
         }
@@ -2486,7 +2509,7 @@ class Page
 
         if ($process_taxonomy) {
             foreach ((array)$config->get('site.taxonomies') as $taxonomy) {
-                if ($uri->param($taxonomy)) {
+                if ($uri->param(rawurlencode($taxonomy))) {
                     $items = explode(',', $uri->param($taxonomy));
                     $collection->setParams(['taxonomies' => [$taxonomy => $items]]);
 
@@ -2510,25 +2533,60 @@ class Page
 
         // If  a filter or filters are set, filter the collection...
         if (isset($params['filter'])) {
+
+            // remove any inclusive sets from filer:
+            $sets = ['published', 'visible', 'modular', 'routable'];
+            foreach ($sets as $type) {
+                if (isset($params['filter'][$type]) && isset($params['filter']['non-'.$type])) {
+                    if ($params['filter'][$type] && $params['filter']['non-'.$type]) {
+                        unset ($params['filter'][$type]);
+                        unset ($params['filter']['non-'.$type]);
+                    }
+
+                }
+            }
+
             foreach ((array)$params['filter'] as $type => $filter) {
                 switch ($type) {
+                    case 'published':
+                        if ((bool) $filter) {
+                            $collection->published();
+                        }
+                        break;
+                    case 'non-published':
+                        if ((bool) $filter) {
+                            $collection->nonPublished();
+                        }
+                        break;
                     case 'visible':
-                        $collection->visible($filter);
+                        if ((bool) $filter) {
+                            $collection->visible();
+                        }
                         break;
                     case 'non-visible':
-                        $collection->nonVisible($filter);
+                        if ((bool) $filter) {
+                            $collection->nonVisible();
+                        }
                         break;
                     case 'modular':
-                        $collection->modular($filter);
+                        if ((bool) $filter) {
+                            $collection->modular();
+                        }
                         break;
                     case 'non-modular':
-                        $collection->nonModular($filter);
+                        if ((bool) $filter) {
+                            $collection->nonModular();
+                        }
                         break;
                     case 'routable':
-                        $collection->routable($filter);
+                        if ((bool) $filter) {
+                            $collection->routable();
+                        }
                         break;
                     case 'non-routable':
-                        $collection->nonRoutable($filter);
+                        if ((bool) $filter) {
+                            $collection->nonRoutable();
+                        }
                         break;
                     case 'type':
                         $collection->ofType($filter);
@@ -2589,11 +2647,11 @@ class Page
 
     /**
      * @param string|array $value
-     *
+     * @param bool $only_published
      * @return mixed
      * @internal
      */
-    public function evaluate($value)
+    public function evaluate($value, $only_published = true)
     {
         // Parse command.
         if (is_string($value)) {
@@ -2662,7 +2720,7 @@ class Page
                     }
                 }
 
-                $results = $results->published();
+
                 break;
 
             case 'page@':
@@ -2706,16 +2764,14 @@ class Page
                     $results = $page->children()->nonModular();
                 }
 
-                $results = $results->published();
-
                 break;
 
             case 'root@':
             case '@root':
                 if (!empty($parts) && $parts[0] === 'descendants') {
-                    $results = $pages->all($pages->root())->nonModular()->published();
+                    $results = $pages->all($pages->root())->nonModular();
                 } else {
-                    $results = $pages->root()->children()->nonModular()->published();
+                    $results = $pages->root()->children()->nonModular();
                 }
                 break;
 
@@ -2732,8 +2788,12 @@ class Page
                 if (!empty($parts)) {
                     $params = [implode('.', $parts) => $params];
                 }
-                $results = $taxonomy_map->findTaxonomy($params)->published();
+                $results = $taxonomy_map->findTaxonomy($params);
                 break;
+        }
+
+        if ($only_published) {
+            $results = $results->published();
         }
 
         return $results;
@@ -2906,5 +2966,27 @@ class Page
         } else {
             return $route;
         }
+    }
+
+    /**
+     * Gets the Page Unmodified (original) version of the page.
+     *
+     * @return Page
+     *   The original version of the page.
+     */
+    public function getOriginal()
+    {
+      return $this->_original;
+    }
+
+    /**
+     * Gets the action.
+     *
+     * @return string
+     *   The Action string.
+     */
+    public function getAction()
+    {
+      return $this->_action;
     }
 }

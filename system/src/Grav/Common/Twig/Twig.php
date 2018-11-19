@@ -2,7 +2,7 @@
 /**
  * @package    Grav.Common.Twig
  *
- * @copyright  Copyright (C) 2014 - 2017 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (C) 2015 - 2018 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -102,6 +102,28 @@ class Twig
 
             $this->loader = new \Twig_Loader_Filesystem($this->twig_paths);
 
+            // Register all other prefixes as namespaces in twig
+            foreach ($locator->getPaths('theme') as $prefix => $_) {
+                if ($prefix === '') {
+                    continue;
+                }
+
+                $twig_paths = [];
+
+                // handle language templates if available
+                if ($language->enabled()) {
+                    $lang_templates = $locator->findResource('theme://'.$prefix.'templates/' . ($active_language ? $active_language : $language->getDefault()));
+                    if ($lang_templates) {
+                        $twig_paths[] = $lang_templates;
+                    }
+                }
+
+                $twig_paths = array_merge($twig_paths, $locator->findResources('theme://'.$prefix.'templates'));
+
+                $namespace = trim($prefix, '/');
+                $this->loader->setPaths($twig_paths, $namespace);
+            }
+
             $this->grav->fireEvent('onTwigLoader');
 
             $this->loaderArray = new \Twig_Loader_Array([]);
@@ -113,8 +135,15 @@ class Twig
                 $params['cache'] = new \Twig_Cache_Filesystem($cachePath, \Twig_Cache_Filesystem::FORCE_BYTECODE_INVALIDATION);
             }
 
-            if (!empty($this->autoescape)) {
-                $params['autoescape'] = $this->autoescape;
+            if (!$config->get('system.strict_mode.twig_compat', true)) {
+                // Force autoescape on for all files if in strict mode.
+                $params['autoescape'] = 'html';
+            } elseif (!empty($this->autoescape)) {
+                $params['autoescape'] = $this->autoescape ? 'html' : false;
+            }
+
+            if (empty($params['autoescape'])) {
+                user_error('Grav 2.0 will have Twig auto-escaping forced on (can be emulated by turning off \'system.strict_mode.twig_compat\' setting in your configuration)', E_USER_DEPRECATED);
             }
 
             $this->twig = new TwigEnvironment($loader_chain, $params);
@@ -122,10 +151,10 @@ class Twig
             if ($config->get('system.twig.undefined_functions')) {
                 $this->twig->registerUndefinedFunctionCallback(function ($name) {
                     if (function_exists($name)) {
-                        return new \Twig_Function_Function($name);
+                        return new \Twig_SimpleFunction($name, $name);
                     }
 
-                    return new \Twig_Function_Function(function () {
+                    return new \Twig_SimpleFunction($name, function () {
                     });
                 });
             }
@@ -133,10 +162,10 @@ class Twig
             if ($config->get('system.twig.undefined_filters')) {
                 $this->twig->registerUndefinedFilterCallback(function ($name) {
                     if (function_exists($name)) {
-                        return new \Twig_Filter_Function($name);
+                        return new \Twig_SimpleFilter($name, $name);
                     }
 
-                    return new \Twig_Filter_Function(function () {
+                    return new \Twig_SimpleFilter($name, function () {
                     });
                 });
             }
@@ -145,7 +174,7 @@ class Twig
 
             // set default date format if set in config
             if ($config->get('system.pages.dateformat.long')) {
-                $this->twig->getExtension('core')->setDateFormat($config->get('system.pages.dateformat.long'));
+                $this->twig->getExtension('Twig_Extension_Core')->setDateFormat($config->get('system.pages.dateformat.long'));
             }
             // enable the debug extension if required
             if ($config->get('system.twig.debug')) {
@@ -159,7 +188,7 @@ class Twig
             $pages = $this->grav['pages'];
 
             // Set some standard variables for twig
-            $this->twig_vars = $this->twig_vars + [
+            $this->twig_vars += [
                     'config'            => $config,
                     'system'            => $config->get('system'),
                     'theme'             => $config->get('theme'),
@@ -238,7 +267,9 @@ class Twig
             // Process Modular Twig
             if ($item->modularTwig()) {
                 $twig_vars['content'] = $content;
-                $template = $item->template() . TEMPLATE_EXT;
+                $extension = $item->templateFormat();
+                $extension = $extension ? ".{$extension}.twig" : TEMPLATE_EXT;
+                $template = $item->template() . $extension;
                 $output = $content = $local_twig->render($template, $twig_vars);
             }
 
@@ -406,8 +437,14 @@ class Twig
      * Overrides the autoescape setting
      *
      * @param boolean $state
+     * @deprecated 1.5
      */
-    public function setAutoescape($state) {
+    public function setAutoescape($state)
+    {
+        if (!$state) {
+            user_error(__CLASS__ . '::' . __FUNCTION__ . '(false) is deprecated since Grav 1.5', E_USER_DEPRECATED);
+        }
+
         $this->autoescape = (bool) $state;
     }
 }
