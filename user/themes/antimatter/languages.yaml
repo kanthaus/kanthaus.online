@@ -36,7 +36,6 @@ en:
   FORM_DATA:
     SUMMARY: "Here is the summary of what you wrote to us:"
   ERROR: Error
-  CONTACT: Contact
   CURRENT_PROJECTS: Current projects
 
 de:
@@ -77,7 +76,6 @@ de:
   FORM_DATA:
     SUMMARY: "Folgendes haben Sie uns mitgeteilt:"
   ERROR: Fehler
-  CONTACT: Kontakt
   CURRENT_PROJECTS: Aktuelle Projekte
 
 es:
