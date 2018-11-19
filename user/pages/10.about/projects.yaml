@@ -50,7 +50,7 @@ current:
     image: foodsharing_polKa.jpg
 
   - name: Foodsharing Wurzen
-    url: /projects/foodsharing
+    url: projects/foodsharing
     sub:
       de: eine lokale Foodsharing-Initiative starten und am Laufen halten
       en: Starting a local foodsharing initiative and keeping it running
@@ -76,7 +76,7 @@ current:
   - name:
       de: Hausrenovierung
       en: Renovation of the house
-    url: /projects/house-renovation
+    url: projects/house-renovation
     sub:
       de: Wasser, Strom, Heizung und dichte Dächer
       en: Water, electricity, heating and rain-proof roofs
@@ -84,7 +84,7 @@ current:
     image: renovation.png
 
   - name: Repair Cafe
-    url: /projects/repaircafe
+    url: projects/repaircafe
     sub:
       de: Beherrsche die Technik, nicht andersherum
       en: Reclaim control over your technological devices
@@ -94,7 +94,7 @@ current:
   - name:
       de: Progressive Administration
       en: Progressive governance
-    url: /governance/constitution
+    url: governance/constitution
     sub:
       de: Zukunftstaugliche Arten des Zusammenlebens und -arbeitens recherchieren, kondensieren und verbessern
       en: Researching, condensing and refining future-proof ways of living and working together
