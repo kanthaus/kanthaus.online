@@ -9,15 +9,15 @@ current:
     contact: Silvan
     image: auerworld.png
 
-#  - name:
-#      de: Foodsharing Akademie
-#      en: Foodsharing academy
-#    url: https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf
-#    sub:
-#      de: Bildungsarbeit zum Thema Lebensmittelverschwendung
-#      en: Educational work about food waste
-#    contact: Thore
-#    image: foodsharing_academy.jpg
+  - name:
+      de: Foodsharing Akademie
+      en: Foodsharing academy
+    url: https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf
+    sub:
+      de: Bildungsarbeit zum Thema Lebensmittelverschwendung
+      en: Educational work about food waste
+    contact: Thore
+    image: foodsharing_academy.jpg
 
   - name:
       de: Programmierung von Foodsharing.de
