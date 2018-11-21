@@ -37,9 +37,3 @@ Again the question will be asked, _"Do you support, accept or oppose (your name)
 
 ### 3. Position outcome and feedback (~5 minutes)
 You will receive feedback immediately regarding which Position you are offered and further feedback if you weren't offered the Position you applied for.
-
-_*Right now Members do not get reevaluated. There are already plans to alter the Constitution to introduce it._
-
----
-
-_The following flowchart visualizes the positions at Kanthaus as defined in the [Collective Agreements](../collectiveagreements/) (Visitors) and the [Constitution](../constitution/) (Volunteers and Members.)_
