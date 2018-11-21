@@ -36,7 +36,9 @@ en:
   FORM_DATA:
     SUMMARY: "Here is the summary of what you wrote to us:"
   ERROR: Error
-  ABOUT_US: About us
+  ABOUT_US: About Kanthaus
+  KANTHAUS_PROJECT: The house that brings everything together
+  CONTACT_US: Get in touch
 
 de:
   TRANSLATION_TEST: Antimatter!
@@ -77,6 +79,8 @@ de:
     SUMMARY: "Folgendes haben Sie uns mitgeteilt:"
   ERROR: Fehler
   ABOUT_US: Übers Kanthaus
+  KANTHAUS_PROJECT: Das Haus, das alles zusammenbringt
+  CONTACT_US: Sprich mit uns
 
 es:
   TRANSLATION_TEST: Antimatter!
