@@ -36,9 +36,3 @@ Die Frage wird erneut gestellt: _"(Dein Name) hat sich um die Position (von dir 
 
 ### 3. Resultat und Feedback (ca. 5 Minuten)
 Direkt im Anschluss an die Wahl wird dir mitgeteilt werden, welche Position du ab jetzt inne hast, sowie weitere Infos, falls deine Bewerbung nicht erfolgreich war.
-
-_*Momentan werden Mitglieder noch nicht reevaluiert. Es gibt aber bereits Pläne die Verfassung zu ändern, um Mitgliederevaluationen einzuführen._
-
----
-
-*Das folgende - leider nur auf Englisch verfügbare - Flussdiagramm visualisiert die Rollen im Kanthaus, wie definiert in den [ gemeinschaftlichen Vereinbarungen](../collectiveagreements/) (Besuchende) und der [ Verfassung](../constitution/) (Freiwillige und Mitglieder)*
