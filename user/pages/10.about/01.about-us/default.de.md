@@ -4,21 +4,22 @@ description: "Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben."
 ---
 
 ===
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="/pics/facade.jpg" />
-  <img src="/pics/kube02color.jpg" />
-  <img src="/pics/lijaGarden.jpg" />
-  <img src="/pics/fireworks.jpg" />"
-  <img src="/pics/communalKino.jpg" />
-  <img src="/pics/2017festivalmeeting.jpg" />
-  <img src="/pics/claraVeggies.jpg" />
-  <img src="/pics/gardenPpl.jpg" />
-  <img src="/pics/courtyard_doorClose.jpg" />
-  <img src="/pics/dougintheyard.jpg" />
-  <img src="/pics/tablePpl.jpg" />
+<div markdown="1" style="text-align: center;">
+  ![](/pics/facade.jpg?lightbox)
+  ![](/pics/kube02color.jpg?lightbox)
+  ![](/pics/lijaGarden.jpg?lightbox)
+  ![](/pics/fireworks.jpg?lightbox)
+  ![](/pics/communalKino.jpg?lightbox)
+  ![](/pics/2017festivalmeeting.jpg?lightbox)
+  ![](/pics/claraVeggies.jpg?lightbox)
+  ![](/pics/gardenPpl.jpg?lightbox)
+  ![](/pics/courtyard_doorClose.jpg?lightbox)
+  ![](/pics/dougintheyard.jpg?lightbox)
+  ![](/pics/tablePpl.jpg?lightbox)
+  <br>
+  <sub>Foto 2 von <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
 </div>
-<sub>Foto 2 von <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
-<br></br>
+<br>
 
 Seit Sommer 2017 gibt es das Projekthaus und Wohnprojekt _Kanthaus_ in den Häusern in der Kantstraße 20 und 22 in Wurzen. Den bewussten und effektiven Umgang mit Ressourcen haben wir uns auf die Fahne geschrieben und [Foodsharing](../foodsharing) ist das Thema, das uns alle zusammengebracht hat. Die Gesichter, die Ihnen im Kanthaus begegnen, sind immer mal andere, denn wir sind Teil [eines großen Netzwerkes](https://yunity.org) von ökologisch und sozial eingestellten Menschen aus ganz Deutschland und darüber hinaus. Normalerweise halten sich um die zehn Menschen im Kanthaus auf; bei Veranstaltungen auch mal deutlich mehr, selten weniger.
 

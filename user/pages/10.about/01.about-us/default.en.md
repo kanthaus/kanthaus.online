@@ -4,21 +4,22 @@ description: "Living with self-determination, equality and acceptance."
 ---
 
 ===
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="/pics/facade.jpg" />
-  <img src="/pics/kube02color.jpg" />
-  <img src="/pics/lijaGarden.jpg" />
-  <img src="/pics/fireworks.jpg" />"
-  <img src="/pics/communalKino.jpg" />
-  <img src="/pics/2017festivalmeeting.jpg" />
-  <img src="/pics/claraVeggies.jpg" />
-  <img src="/pics/gardenPpl.jpg" />
-  <img src="/pics/courtyard_doorClose.jpg" />
-  <img src="/pics/dougintheyard.jpg" />
-  <img src="/pics/tablePpl.jpg" />
+<div markdown="1" style="text-align: center;">
+  ![](/pics/facade.jpg?lightbox)
+  ![](/pics/kube02color.jpg?lightbox)
+  ![](/pics/lijaGarden.jpg?lightbox)
+  ![](/pics/fireworks.jpg?lightbox)
+  ![](/pics/communalKino.jpg?lightbox)
+  ![](/pics/2017festivalmeeting.jpg?lightbox)
+  ![](/pics/claraVeggies.jpg?lightbox)
+  ![](/pics/gardenPpl.jpg?lightbox)
+  ![](/pics/courtyard_doorClose.jpg?lightbox)
+  ![](/pics/dougintheyard.jpg?lightbox)
+  ![](/pics/tablePpl.jpg?lightbox)
+  <br>
+  <sub>Photo 2 by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
 </div>
-<sub>Image 2 by <a href="http://thomaskube.de">Thomas Kube</a>.</sub>
-<br></br>
+<br>
 
 The project house and housing project _Kanthaus_, located at Kantstraße 20 and 22 in Wurzen, exists since Summer 2017. Conscious and effective use of resources is the topic we chose for ourselves and [foodsharing](../foodsharing) is what brought us all together. The faces you encounter at Kanthaus can vary because we are part of a [big network](https://yunity.org) of ecological and social people from Germany and beyond. Normally there are around 10 people present at Kanthaus; when we hold events it can be way more but it's seldomly less.
 
