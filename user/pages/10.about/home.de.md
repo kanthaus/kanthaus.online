@@ -13,7 +13,7 @@ content:
 
 <!-- projects are included from projects.yaml, template from home.html.twig, style from gallery.css -->
 
-<p style="text-align: center">Du bist herzlich eingeladen, bei uns zu bleiben und dich in diesen Projekten einzubringen!</p>
+<p style="text-align: center">Du bist herzlich eingeladen, bei uns zu bleiben und dich in diese Projekte einzubringen!</p>
 
 ## Ideen für zukünftige Projekte
 
@@ -26,4 +26,4 @@ content:
 - Unmengen zusätzlicher Regale und Aufbewahrungsmöglichkeiten bauen
 - ...
 
-Wenn du dich für längere Zeit mit einer dieser Ideen beschäftigen willst oder eine neue Idee hast, die gut zu uns passen würde, schreib uns gerne eine [Nachricht](/contakt)!
+Wenn du dich für längere Zeit mit einer dieser Ideen beschäftigen willst oder eine neue Idee hast, die gut zu uns passen würde, schreib uns gerne eine [Nachricht](/contact)!
