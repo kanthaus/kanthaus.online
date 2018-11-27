@@ -53,7 +53,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
   - Last 7 days:  2.54 € / day (25.8 ct / day*person)
   - 7 days before that: 2.12€/day (7 days before: 23.0 ct)
 - Gas bottles bought (€12 each): 0
-- Income (please check the shoe and the box): € (will look later!)
+- Income (please check the shoe and the box): 50€ 
 
 
 
