@@ -22,8 +22,8 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 -->
 
 - Date: 2018-11-05
-- Facilitator: matthias
-- Notary:
+- Facilitator: Matthias
+- Notary: Matthias
 - Present: Anja, Isabel, Chandi, Matthias, Bodhi, Janina, Joe, Nathalie, Doug, Jasmin
 ===
 
@@ -126,8 +126,3 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
   - by default, don't start before 10 so a short meeting with decision what should be done can happen.
 - Brooms will be stored in the snack kitchen shelf from now on. Bodhi will install hangers.
 - Dumpster log: Please fill out the dumpster log after dumpster diving. Bodhi will put it up in Spülküche or K20 hallway.
-
-### 8. For next week
-
-
-
