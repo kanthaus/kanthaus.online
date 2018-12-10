@@ -25,6 +25,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Facilitator: Matthias
 - Notary: Matthias
 - Present: Anja, Isabel, Chandi, Matthias, Bodhi, Janina, Joe, Nathalie, Doug, Jasmin
+
 ===
 
 ### 1. People arriving and leaving
