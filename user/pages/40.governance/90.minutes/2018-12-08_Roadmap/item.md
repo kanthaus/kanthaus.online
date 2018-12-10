@@ -49,17 +49,17 @@ _(We separated and thought about the three categories of tasks mentioned below f
  * [Continue sorting/improving Communal Closet](https://gitlab.com/kanthaus/kanthaus-public/issues/163)
  * Position system: Spread and discuss the idea of a 4th status, get clearer on what the positions actually mean (especially in the context of evaluations)
 
- * Tilmann
-   * draft plan to improve heating situation. goals: reduce fossil energy usage, maintain comfort; methods: dry walls, better wall insulation, window replacement, roof insulation, electric heat pump
-   * [collect more rainwater](https://gitlab.com/kanthaus/kanthaus-public/issues/143)
-   * [analyze current electricity usage & make plan for possible reductions](https://gitlab.com/kanthaus/kanthaus-public/issues/165)
-   * make hallway light k22 switchable (help Matthias)
-   * [improve ventilation in communal: install bigger and longer air ducts](https://gitlab.com/kanthaus/kanthaus-public/issues/166)
-   * [install fume exhaust in kitchen (depends when kitchen should be moved)](https://gitlab.com/kanthaus/kanthaus-public/issues/114)
-   * [more temporary cloth hangers in communal closet](https://gitlab.com/kanthaus/kanthaus-public/issues/167)
-   * [improve project updates](https://gitlab.com/kanthaus/kanthaus-public/issues/141)
+* Tilmann
+    * draft plan to improve heating situation. goals: reduce fossil energy usage, maintain comfort; methods: dry walls, better wall insulation, window replacement, roof insulation, electric heat pump
+    * [collect more rainwater](https://gitlab.com/kanthaus/kanthaus-public/issues/143)
+    * [analyze current electricity usage & make plan for possible reductions](https://gitlab.com/kanthaus/kanthaus-public/issues/165)
+    * make hallway light k22 switchable (help Matthias)
+    * [improve ventilation in communal: install bigger and longer air ducts](https://gitlab.com/kanthaus/kanthaus-public/issues/166)
+    * [install fume exhaust in kitchen (depends when kitchen should be moved)](https://gitlab.com/kanthaus/kanthaus-public/issues/114)
+    * [more temporary cloth hangers in communal closet](https://gitlab.com/kanthaus/kanthaus-public/issues/167)
+    * [improve project updates](https://gitlab.com/kanthaus/kanthaus-public/issues/141)
 
- * Janina
+* Janina
    * [Make the upper staircase toilet nice (remove wallpaper, plaster, paint)](https://gitlab.com/kanthaus/kanthaus-public/issues/164)
    * [Move bed sheets and covers into spare closet in communal closet](https://gitlab.com/kanthaus/kanthaus-public/issues/163)
    * [Progress implementation of intermediate room plan (move things, refine implementation plan)](https://gitlab.com/kanthaus/kanthaus-public/issues/168)
@@ -68,7 +68,7 @@ _(We separated and thought about the three categories of tasks mentioned below f
    * [Find better tea solution (reusable tea marking system)](https://gitlab.com/kanthaus/kanthaus-public/issues/179)
    * [Make some desks explicitly claimable (some in silent office, some in office)](https://gitlab.com/kanthaus/kanthaus-public/issues/181)
 
- * Doug
+* Doug
    * [Report on Silicate paint](https://gitlab.com/kanthaus/kanthaus-public/issues/170)
    * [Winter window tasks: re-glue kupplungen, scrape/grease hinges, etc](https://gitlab.com/kanthaus/kanthaus-public/issues/171)
    * [Curtains: make a prototype, try it out, then research ;p](https://gitlab.com/kanthaus/kanthaus-public/issues/180)
