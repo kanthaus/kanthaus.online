@@ -32,22 +32,22 @@ _(We separated and thought about the three categories of tasks mentioned below f
 ### Tasks we want to personally commit to:
 
 * Matthias
-  * [Progressing humidity alarms](https://gitlab.com/kanthaus/kanthaus-public/issues/173)
-  * ["Food is ready"-signalling (to be advanced into doorbell signalling)](https://gitlab.com/kanthaus/kanthaus-public/issues/174)
-  * [Time controlled lighting for K22](https://gitlab.com/kanthaus/kanthaus-public/issues/175)
-  * [Redoing WiFi Setup to increase coverage, speed and reliability (Goal: 5 GHz with at least -75 dBm in all rooms)](https://gitlab.com/kanthaus/kanthaus-public/issues/176)
-  * [Financial breakdown / update](https://gitlab.com/kanthaus/kanthaus-public/issues/177)
-  * [Exchanging one window (preferably for a sleeping room or otherwise used room)](https://gitlab.com/kanthaus/kanthaus-public/issues/178)
-  * [Hold association meetings (first week of January ?)](https://gitlab.com/kanthaus/kanthaus-public/issues/74)
+    * [Progressing humidity alarms](https://gitlab.com/kanthaus/kanthaus-public/issues/173)
+    * ["Food is ready"-signalling (to be advanced into doorbell signalling)](https://gitlab.com/kanthaus/kanthaus-public/issues/174)
+    * [Time controlled lighting for K22](https://gitlab.com/kanthaus/kanthaus-public/issues/175)
+    * [Redoing WiFi Setup to increase coverage, speed and reliability (Goal: 5 GHz with at least -75 dBm in all rooms)](https://gitlab.com/kanthaus/kanthaus-public/issues/176)
+    * [Financial breakdown / update](https://gitlab.com/kanthaus/kanthaus-public/issues/177)
+    * [Exchanging one window (preferably for a sleeping room or otherwise used room)](https://gitlab.com/kanthaus/kanthaus-public/issues/178)
+    * [Hold association meetings (first week of January ?)](https://gitlab.com/kanthaus/kanthaus-public/issues/74)
 
 * Thore
- * [Separation of Communal Closet and Private Storage]()
- * [Sort Long-term Food Storage](https://gitlab.com/kanthaus/kanthaus-public/issues/184)
+    * [Separation of Communal Closet and Private Storage]()
+    * [Sort Long-term Food Storage](https://gitlab.com/kanthaus/kanthaus-public/issues/184)
 
 * Lise
- * [Sort and move Dry Food Storage (K22-B)](https://gitlab.com/kanthaus/kanthaus-public/issues/184)
- * [Continue sorting/improving Communal Closet](https://gitlab.com/kanthaus/kanthaus-public/issues/163)
- * Position system: Spread and discuss the idea of a 4th status, get clearer on what the positions actually mean (especially in the context of evaluations)
+    * [Sort and move Dry Food Storage (K22-B)](https://gitlab.com/kanthaus/kanthaus-public/issues/184)
+    * [Continue sorting/improving Communal Closet](https://gitlab.com/kanthaus/kanthaus-public/issues/163)
+    * Position system: Spread and discuss the idea of a 4th status, get clearer on what the positions actually mean (especially in the context of evaluations)
 
 * Tilmann
     * draft plan to improve heating situation. goals: reduce fossil energy usage, maintain comfort; methods: dry walls, better wall insulation, window replacement, roof insulation, electric heat pump
@@ -76,29 +76,29 @@ _(We separated and thought about the three categories of tasks mentioned below f
    * [Make covers for cellar-street openings (excavate)](https://gitlab.com/kanthaus/kanthaus-public/issues/169)
 
 * chandi
- * Solar based charging station for laptops & phones
- * implement an RFID door system
- * include water utilities data calculation in weekly script
+    * Solar based charging station for laptops & phones
+    * implement an RFID door system
+    * include water utilities data calculation in weekly script
 
 * Bodhi
- * finish 1 compost toilet (Tilmann offers help)
- * sorting stuff in the workshop and establishing a system where tools and other things have a clear place and can be put back easily
- * move stuff storage to K20-B (combined action with many people)
- * move food storage to K22-B (combined action with many people)
- * find a cool kitchen (Einbauküche) and start setting it up in K-22-1-1, parallel to the working kitchen in K20-1-2
- * Bike-locks: harder to lose
+    * finish 1 compost toilet (Tilmann offers help)
+    * sorting stuff in the workshop and establishing a system where tools and other things have a clear place and can be put back easily
+    * move stuff storage to K20-B (combined action with many people)
+    * move food storage to K22-B (combined action with many people)
+    * find a cool kitchen (Einbauküche) and start setting it up in K-22-1-1, parallel to the working kitchen in K20-1-2
+    * Bike-locks: harder to lose
 
 * Nathalie
- * [Sorting things in the basement (Drinks Storage, Pfand storage)](https://gitlab.com/kanthaus/kanthaus-public/issues/182)
- * [Refining crap room purpose (implement storage/sorting room)](https://gitlab.com/kanthaus/kanthaus-public/issues/183)
- * [Implementing jar system (only collecting jars of certain sizes)](https://gitlab.com/kanthaus/kanthaus-public/issues/185)
+    * [Sorting things in the basement (Drinks Storage, Pfand storage)](https://gitlab.com/kanthaus/kanthaus-public/issues/182)
+    * [Refining crap room purpose (implement storage/sorting room)](https://gitlab.com/kanthaus/kanthaus-public/issues/183)
+    * [Implementing jar system (only collecting jars of certain sizes)](https://gitlab.com/kanthaus/kanthaus-public/issues/185)
 
 ### Tasks we would help with but won't lead ourselves:
 
 * Matthias
-  * Progressing Grundstücksvereinigung
-  * [Roof planning](https://gitlab.com/kanthaus/kanthaus-public/issues/100) (-> Including Corinna; Money?)
-  * Making new rooms nice and working (e.g. proper floor/wall/shelf preparation; explicitly not any decorational aspects)
+    * Progressing Grundstücksvereinigung
+    * [Roof planning](https://gitlab.com/kanthaus/kanthaus-public/issues/100) (-> Including Corinna; Money?)
+    * Making new rooms nice and working (e.g. proper floor/wall/shelf preparation; explicitly not any decorational aspects)
 
 * Lise
   * Improve foyer in K20
