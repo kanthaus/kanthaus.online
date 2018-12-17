@@ -24,15 +24,16 @@ taxonomy:
 - None
 
 ### 3. Last week review
-*Present:* 9.3 people / day
-*Spent nights:* 65 nights
-*Outdoor temperature (min|avg|max):* 1.0 | 3.0 | 6.4 °C _(7 days before: 1.3 | 7.8 | 14.5 *C)_
-*Electricity usage:* 3.1 € / day _(7 days before: 3.74 € /day)_
-*Electricity efficiency:* 33.4 ct / day*person _(7 days before: 27.3 ct)_
-*Gas usage:* 4.1 € / day _(7 days before: 3.9 € /day)_
-*Gas efficiency:* 44.2 ct / day*person _(7 days before: 28.5 ct)_
-*Water usage:* 1.7 € / day _(7 days before: 2.42 € /day)_
-*Water efficiency:* 18.3 ct / day*person _(7 days before: 17.6 ct)_
+
+- *Present:* 9.3 people / day
+- *Spent nights:* 65 nights
+- *Outdoor temperature (min|avg|max):* 1.0 | 3.0 | 6.4 °C _(7 days before: 1.3 | 7.8 | 14.5 *C)_
+- *Electricity usage:* 3.1 € / day _(7 days before: 3.74 € /day)_
+- *Electricity efficiency:* 33.4 ct / day*person _(7 days before: 27.3 ct)_
+- *Gas usage:* 4.1 € / day _(7 days before: 3.9 € /day)_
+- *Gas efficiency:* 44.2 ct / day*person _(7 days before: 28.5 ct)_
+- *Water usage:* 1.7 € / day _(7 days before: 2.42 € /day)_
+- *Water efficiency:* 18.3 ct / day*person _(7 days before: 17.6 ct)_
 
 - Income (please check the shoe, the box and the account):
 - foodsharing Wurzen meeting took place and was quite successful
