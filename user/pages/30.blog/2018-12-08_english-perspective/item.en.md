@@ -7,7 +7,7 @@ taxonomy:
     author: James
 ---
 
-_“There was lots of cheese, yogurt and sausage, but the packages were sliced open, so we can’t take it. It’s not the usual thing, but this is what supermarkets do sometimes when they realise that people are bin-diving.”_
+_“There was lots of cheese, yogurt and sausage, but the packages were sliced open, and we can’t take it. It’s not the usual thing, but this is what supermarkets do sometimes when they realise that people are bin-diving.”_
 
 Hidden in the nook of a cobbled street in Wurzen, and just a few stops on the S-Bahn outside of  Leipzig, is Kanthaus. At the entrance, a billowing colourful banner welcomes  weary travellers and fellow foodsavers.
 
@@ -15,7 +15,7 @@ Hidden in the nook of a cobbled street in Wurzen, and just a few stops on the S-
 
 Kanthaus is the [new European headquarters for foodsharing](/blog/2018-09-26_foodsharing). A dedicated space for the development of the European food sharing movement, the community here is committed to developing the tools and structures to help make that happen.
 
-Kanthausians live in a dedicated sharing community. When you walk through the door, a member of the community helps you navigate the two buildings with its numerous rooms dedicated to computer work, meetings, crafts, food storage and preparation, recreation, and dorms.
+Kanthausians live in a dedicated sharing collective. When you walk through the door, a member of the community helps you navigate the two buildings with its numerous rooms dedicated to computer work, meetings, crafts, food storage and preparation, recreation, and dorms.
 
 ![](kanthaus-front.jpg)
 
