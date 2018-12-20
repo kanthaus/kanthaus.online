@@ -61,7 +61,7 @@ current:
     url: https://foodsaving.world/
     sub:
       de: Ein weltweites Netzwerk von Foodsaving-Gruppen
-      en: Worldwide network of foodsaving groups
+      en: Global network of foodsaving groups
     contact: Janina
     image: foodsaving_worldwide.jpg
 
@@ -119,10 +119,10 @@ current:
 
   - name:
       de: Verkehrswende
-      en: Sustainable mobility
+      en: Traffic transformation
     url: https://de.wikipedia.org/wiki/Verkehrswende
     sub:
       de: Organisation von Aktionen für eine nachhaltigere Mobilität
-      en: Organization of actions for sustainable mobility
+      en: Organizing actions for sustainable mobility
     contact: Lise, Bodhi
     image: verkehrswende.jpg
