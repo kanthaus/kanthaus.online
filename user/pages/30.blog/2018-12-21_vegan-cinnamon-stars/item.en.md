@@ -7,9 +7,11 @@ taxonomy:
 ---
 Ah, how delightful is wintertime!
 
-Even in Kanthaus there are 4 candles of which 3 are already lit and in whose flickering light subversive Christmas carols are sung. An advent calendar is put up on the wall and the cotton bags are filled carefully by many different people. They put self-composed poems in there, dumpster-dived treasures, wintery fables, words of praise or handy kitchen utensils. It's a new surprise every day!
+Even in Kanthaus there are 4 candles of which 3 are already lit and in whose flickering light [subversive Christmas carols](/media/konsumkritischeWeihnachtslieder.pdf) are sung. An advent calendar is put up on the wall and the cotton bags are filled carefully by many different people. They put self-composed poems in there, dumpster-dived treasures, wintery fables, words of praise or handy kitchen utensils. It's a new surprise every day!
 
 Once every few days you can smell a scent of cookies in the staircase which lures the Kanthausianer to the cozy dining room. Then they all sit together around the big oak table, sip tea, crack tons of walnuts and nibble the Christmassy treats. Until all the cookie jars are empty and production needs to start again. That was the case yesterday….
+
+===
 
 ![](stars.jpg)<br>
 _Cookies in the making_

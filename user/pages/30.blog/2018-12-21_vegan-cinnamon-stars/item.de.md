@@ -7,9 +7,11 @@ taxonomy:
 ---
 Ach wie herrlich ist die Winterzeit!
 
-Sogar im Kanthaus gibt es vier Kerzen, von denen mittlerweile drei angezündet werden und in deren flackerndem Licht konsumkritische Weihnachtslieder gesungen werden. Es hängt ein Adventskalender an der Wand, dessen Säckchen liebevoll von immer anderen Menschen befüllt werden. Ob mit selbstgschriebenen Gedichten, containerten Schätzen, Wintermärchen, Komplimenten oder praktischen Küchenutensilien, jedes Mal gibt es eine andere Überraschung.
+Sogar im Kanthaus gibt es vier Kerzen, von denen mittlerweile drei angezündet werden und in deren flackerndem Licht [konsumkritische Weihnachtslieder](/media/konsumkritischeWeihnachtslieder.pdf) gesungen werden. Es hängt ein Adventskalender an der Wand, dessen Säckchen liebevoll von immer anderen Menschen befüllt werden. Ob mit selbstgschriebenen Gedichten, containerten Schätzen, Wintermärchen, Komplimenten oder praktischen Küchenutensilien, jedes Mal gibt es eine andere Überraschung.
 
 Alle paar Tage weht Plätzchenduft durchs Treppenhaus und lockt die Kanthausianer\*innen ins kuschelige Esszimmer. Und dann sitzen alle um den großen Eichentisch, schlürfen Tee, knacken säckeweise Walnüsse und knuspern genüsslich die weihnachtlichen Leckereien. Bis die Keksdosen leer sind und Nachschub produziert werden muss. So war‘s gestern der Fall….
+
+===
 
 ![](stars.jpg)<br>
 _Weihnachtskekse im Werden_
