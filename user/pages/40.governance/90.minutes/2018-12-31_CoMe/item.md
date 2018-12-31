@@ -41,15 +41,15 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 #### Overview:
 <!-- Read counters in heating room and append to water.csv and gas.csv in https://gitlab.com/kanthaus/kanthaus-public/tree/master/resourcesUsed, otherwise the script will complain -->
 <!-- press the play button on https://gitlab.com/kanthaus/kanthaus-private/pipeline_schedules and it will print to #kanthaus-residence -->
-*Present:* 5.7 people / day
-*Spent nights:* 40 nights
-*Outdoor temperature (min|avg|max):* 1.7 | 5.3 | 7.8 °C _(7 days before: 1 | 6.3 | 11.6 *C)_
-*Electricity usage:* 1.84 € / day _(7 days before: 2.58 € /day)_
-*Electricity efficiency:* 32.3 ct / day*person _(7 days before: 39.3 ct)_
-*Gas usage:* 1.95 € / day _(7 days before: 3.34 € /day)_
-*Gas efficiency:* 34.1 ct / day*person _(7 days before: 50.8 ct)_
-*Water usage:* 0.57 € / day _(7 days before: 1.17 € /day)_
-*Water efficiency:* 10.1 ct / day*person _(7 days before: 17.9 ct)_
+- **Present:** 5.7 people / day
+- **Spent nights:** 40 nights
+- **Outdoor temperature (min|avg|max):** 1.7 | 5.3 | 7.8 °C _(7 days before: 1 | 6.3 | 11.6 *C)_
+- **Electricity usage:** 1.84 € / day _(7 days before: 2.58 € /day)_
+- **Electricity efficiency:** 32.3 ct / day*person _(7 days before: 39.3 ct)_
+- **Gas usage:** 1.95 € / day _(7 days before: 3.34 € /day)_
+- **Gas efficiency:** 34.1 ct / day*person _(7 days before: 50.8 ct)_
+- **Water usage:** 0.57 € / day _(7 days before: 1.17 € /day)_
+- **Water efficiency:** 10.1 ct / day*person _(7 days before: 17.9 ct)_
 
 
 #### Income: (please check the shoe, the box and the account): 100€
@@ -63,9 +63,9 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 
 ### 4. Evaluations and check-ins
 
-*Anja* _Volunteer_ : _Absolute Days_ threshold 224/60
-*Chandi* _Volunteer_ : _Absolute Days_ threshold 75/60
-*Laurina* _Volunteer_ : _Absolute Days_ threshold 98/60
+- **Anja** _Volunteer_ : _Absolute Days_ threshold 224/60
+- **Chandi** _Volunteer_ : _Absolute Days_ threshold 75/60
+- **Laurina** _Volunteer_ : _Absolute Days_ threshold 98/60
 
 -> Scheduling happens during end of the week
 
