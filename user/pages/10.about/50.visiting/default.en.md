@@ -5,6 +5,11 @@ routes:
         - '/docs/visiting'
 ---
 
+**No new Visitors: Jan 18th - Feb 15th 2019**
+We are having a ['Month of Calm'](https://kanthaus.online/en/events/2019-01-18_month-of-calm) during which we will be accepting no new Visitors. We're taken this time to allow the existing house community to get to know itself better without a flow of new faces and energies (as lovely as you are). We hope you can understand and look forward to seeing you from mid February onwards!
+
+---
+
 So you'd like to visit us? Great! Read on...
 
 ## In general
