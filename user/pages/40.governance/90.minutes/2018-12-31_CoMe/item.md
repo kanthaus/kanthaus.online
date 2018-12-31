@@ -1,6 +1,6 @@
 ---
 title: Coordination Meeting
-date: "2018-12-31" 11:50Uhr
+date: "2018-12-31"
 taxonomy:
     tag: [come]
 ---
