@@ -73,6 +73,14 @@ current:
     contact: Tilmann, Nick, Janina
     image: karrot.png
 
+  - name: KeinMüllWagen
+    url: /projects/kmw
+    sub:
+      de: Transportkapazität für Nachhaltigkeitsprojekte
+      en: Managing logistics for sustainability projects
+    contact: Matthias, Bodhi
+    image: KMW.jpg
+
   - name:
       de: Hausrenovierung
       en: Renovation of the house
