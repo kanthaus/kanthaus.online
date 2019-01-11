@@ -1,6 +1,6 @@
 ---
 title: "Reparier- und Techniktreff"
-date: "2018-12-18 17:00"
+date: "2019-01-15 17:00"
 header_image: false
 ---
 
