@@ -22,6 +22,9 @@ members:
   - name: Silvan Haselbach
     joined: "2018-08-30"
     founder: false
+  - name: Chandi Langecker
+    joined: "2019-01-10"
+    founder: false
 
 volunteers:
 #  - name: Wolfi
@@ -54,9 +57,9 @@ volunteers:
 #  - name: Silvan
 #    joined: "2018-02-02"
 #    participants: Janina, Matthias, Bodhi, Doug, Tilmann
-  - name: Chandi
-    joined: "2018-02-09"
-    participants: Janina, Matthias, Bodhi, Wolfi, Tilmann, Nick
+#  - name: Chandi
+#    joined: "2018-02-09"
+#    participants: Janina, Matthias, Bodhi, Wolfi, Tilmann, Nick
 #  - name: Isabel
 #    joined: "2018-05-07"
 #    participants: Doug, Janina, Silvan, Bodhi
