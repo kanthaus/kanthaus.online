@@ -52,7 +52,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - *Water usage:* 2.43 € / day _(7 days before: 2.44 € /day)_
 - *Water efficiency:* 15.4 ct / day*person _(7 days before: 13.7 ct)_
 
-#### Income: (please check the shoe and the box):
+#### Income: 47€
 
 #### Things that happend:
 - Chandi became member! :D
