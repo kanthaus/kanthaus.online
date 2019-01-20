@@ -1,10 +1,12 @@
 ---
 title: "RepairCafé and technology meet-up"
-date: "2019-01-22 17:00"
+date: "2019-02-26 17:00"
 header_image: false
 ---
 
 ### RepairCafé and technology meet-up
+
+_Paused during month of calm and foodsharing hackweek!_
 
 Broken devices clutter your apartment? You fancy tinkering? You're interested in exchanging experiences?
 
