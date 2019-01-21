@@ -24,8 +24,9 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 
 - Date: 2019-01-21
 - Facilitator: Janina
-- Notary:
+- Notary: Janina
 - Present: Nick, Matthias, Nathalie, Doug, Thore, Bodhi, Tais, Tilmann, Chandi, Findus, Lise, Janina, Clara
+
 ===
 
 ### 1. People arriving and leaving
