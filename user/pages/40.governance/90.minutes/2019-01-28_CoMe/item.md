@@ -26,6 +26,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Facilitator: Nick
 - Notary:
 - Present: nathalie, thore, clara, tais, janina, tilmann, nick, findus, bodhi, mathias, lise, chandi, doug, silvan
+
 ===
 
 ### 1. People arriving and leaving
