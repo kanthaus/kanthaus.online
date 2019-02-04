@@ -119,17 +119,17 @@ _Disclaimer: I have implemented the logic to the best of my knowledge, it could 
 - room situation during hackweek/ board meeting / butze people
 
 ### 8. Month of calm activities to schedules
-how to put the dumpster data into a nice grafana graph (Nathalie, Bodhi, Janina, Nick) (wednesday)
-house bus related topics:
-hardware: soldering(2-3h) (Thore, Lise, ~Nathalie, ~Chandi), putting up a node(2h) (Wednesday 16.00-18.00)
-software development (2++h) (Chandi, ~Nick)
-material cooperations organizing session (finding co-operations with junkyards, etc... finding old lithium batteries, and other stuff; to be able to go there to look for things) (bodhi, thore, lise) Bodhi prepares a list for lise to call
-technical housetour and or projector & audio-set up introduction (lise, nathalie)
-what is utopia like
-how do you imagine living together in the future? (20 year realistic view) (bodhi, nathalie, thore, lise, ~nick, janina (lise said so) (monday, 11.2.)
-how do you want the future world to be, what changes do you imagine? (50+ years from now, utopia world) ()
-CNC-Mill-Session (cleaning, repairing, talking about what to build/buy) (Silvan)
-CNC-Mill introduction (learning how to use it and what to do with it) (Bodhi, Thore, Lise, ~Matthias) Tuesday, 10.00
-Baby sharing circle (Lise, Doug (Bodhi said so), Janina (Lise said so), Nathalie (Friday, sharing event)
-Making money! Hippy co-op etc (Matthias, Nick, Lise, Bodhi, Nathalie) (next week+)
+- how to put the dumpster data into a nice grafana graph (Nathalie, Bodhi, Janina, Nick) (wednesday)
+- house bus related topics:
+  - hardware: soldering(2-3h) (Thore, Lise, ~Nathalie, ~Chandi), putting up a node(2h) (Wednesday 16.00-18.00)
+  - software development (2++h) (Chandi, ~Nick)
+- material cooperations organizing session (finding co-operations with junkyards, etc... finding old lithium batteries, and other stuff; to be able to go there to look for things) (bodhi, thore, lise) Bodhi prepares a list for lise to call
+- technical housetour and or projector & audio-set up introduction (lise, nathalie)
+- what is utopia like
+  - how do you imagine living together in the future? (20 year realistic view) (bodhi, nathalie, thore, lise, ~nick, janina (lise said so) (monday, 11.2.)
+  - how do you want the future world to be, what changes do you imagine? (50+ years from now, utopia world) ()
+- CNC-Mill-Session (cleaning, repairing, talking about what to build/buy) (Silvan)
+- CNC-Mill introduction (learning how to use it and what to do with it) (Bodhi, Thore, Lise, ~Matthias) Tuesday, 10.00
+- Baby sharing circle (Lise, Doug (Bodhi said so), Janina (Lise said so), Nathalie (Friday, sharing event)
+- Making money! Hippy co-op etc (Matthias, Nick, Lise, Bodhi, Nathalie) (next week+)
 
