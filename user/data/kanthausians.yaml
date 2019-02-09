@@ -45,9 +45,10 @@ volunteers:
 #  - name: Lou
 #    joined: "2017-10-07"
 #    participants: Doug, Matthias, Laurina, Mona
-#  - name: Nick
-#    joined: "2017-10-26"
-#    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
+  - name: Nick
+  #    joined: "2017-10-26"
+    joined: "2018-01-28"
+    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
 #  - name: Cille
 #   joined: "2017-10-26"
 #    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
