@@ -45,4 +45,4 @@ Und jetzt denk nochmal an die Optionen, die ich vorhin hatte: Lernen, brechen, m
 
 Fröhliches Designen und [Testen](https://de.wikipedia.org/wiki/Usability-Test)!
 
-_Der Englische Originalartikel wurde zuerst auf [Doug's persönlichem Blog](https://douginamug.gitlab.io/posts/2018-06-19_cashboxdesign/) veröffentlicht._
+_Der Englische Originalartikel wurde zuerst auf [Doug's persönlichem Blog](https://dougwebb.site/posts/redesigning-a-cash-box/) veröffentlicht._
