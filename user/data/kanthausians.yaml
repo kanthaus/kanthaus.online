@@ -1,7 +1,4 @@
 members:
-  # - name: Laurina M
-  #  joined: "2017-08-05"
-  #  founder: true
   - name: Matthias Larisch
     joined: "2017-08-05"
     founder: true
@@ -33,53 +30,15 @@ members:
     participants: Janina, Tilmann, Matthias, Chandi, Bodhi, Doug
 
 volunteers:
-#  - name: Wolfi
-#    joined: "2017-09-07"
-#    participants: Doug, Matthias, Laurina, Janina
-#  - name: Bodhi
-#    joined: "2017-09-25"
-#    participants: Doug, Matthias, Laurina, Janina, Wolfi
-#  - name: Mona
-#    joined: "2017-10-04"
-#    participants: Doug, Matthias, Laurina
-#  - name: Lou
-#    joined: "2017-10-07"
-#    participants: Doug, Matthias, Laurina, Mona
   - name: Nick
-#    joined: "2017-10-26"
-#  participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
     joined: "2019-01-28"
     participants: Janina, Tilmann, Clara, Nathalie, Thore, Doug
-#  - name: Cille
-#   joined: "2017-10-26"
-#    participants: Doug, Matthias, Mona, Wolfi, Bodhi, Janina
-#  - name: Tilmann
-#    joined: "2017-11-14"
-#    participants: Doug, Matthias, Lou, Janina
-#  - name: Björn
-#    joined: "2017-12-11"
-#    participants: Janina, Matthias, Bodhi, Wolfi, Lou, Mona
-#  - name: Lise
-#    joined: "2017-12-11"
-#    participants: Janina, Matthias, Bodhi, Wolfi, Lou, Mona
-#  - name: Silvan
-#    joined: "2018-02-02"
-#    participants: Janina, Matthias, Bodhi, Doug, Tilmann
-#  - name: Chandi
-#    joined: "2018-02-09"
-#    participants: Janina, Matthias, Bodhi, Wolfi, Tilmann, Nick
-#  - name: Isabel
-#    joined: "2018-05-07"
-#    participants: Doug, Janina, Silvan, Bodhi
   - name: Findus
     joined: "2018-05-15"
     participants: Doug, Janina, Laurina, Matthias, Isabel, Tilmann, Chandi
   - name: Anja
     joined: "2018-05-21"
     participants: Doug, Janina, Tilmann
-#  - name: Lena
-#    joined: "2018-07-11"
-#    participants: Janina, Bodhi, Tilmann, Nick
   - name: Laurina
     joined: "2017-08-05"
   - name: Nathalie
@@ -91,3 +50,6 @@ volunteers:
   - name: Clara
     joined: "2019-01-25"
     participants: Bodhi, Janina, Silvan, Chandi, Lise, Matthias, Tilmann, Doug, Findus, Nathalie, Thore
+  - name: Michal
+    joined: "2019-02-19"
+    participants: Doug, Janina, Tilmann, Thore, Nick
