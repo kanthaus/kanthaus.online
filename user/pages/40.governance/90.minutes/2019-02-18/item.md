@@ -78,7 +78,6 @@ taxonomy:
     - 17:00 Evaluation
     - 19:00 Fairteiler (Thore)
 - Wednesday
-    -
     - 10-11 Shoe-Boxes pickup
     - 10:00 Wupphours
     - 17:00 AcroYoga @ Kanthaus
