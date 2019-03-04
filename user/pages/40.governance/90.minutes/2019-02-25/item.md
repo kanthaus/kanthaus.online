@@ -10,23 +10,23 @@ taxonomy:
 - Notary: Janina
 - Present: Thore, Anja, Tilmann, Doug, Michal, Chandi, Janina, Silvan, Nick, Matthias, Nathalie
 
-----
+===
 <!-- 0. Minute of silence -->
 
 ### 1. People arriving and leaving
 - **Monday:** Anja is leaving today straight after CoMe
 - **Tuesday:** Lise and Bodhi arriving, Silvan will leave in the morning and come back at night
-- **Wednesday:** 
-- **Thursday:** 
-- **Friday:** 
+- **Wednesday:**
+- **Thursday:**
+- **Friday:**
 - **Saturday:**
 - **Sunday:**
-- **Monday:** 
+- **Monday:**
 
 ### 2. Changes to Governance
 - none
 
-### 3. Last week review 
+### 3. Last week review
 ##### Stats
 <!-- Read counters in heating room and append to water.csv and gas.csv in https://gitlab.com/kanthaus/kanthaus-public/tree/master/resourcesUsed, otherwise the script will complain -->
 <!-- press the play button on https://gitlab.com/kanthaus/kanthaus-private/pipeline_schedules and it will print to #kanthaus-residence -->
@@ -41,7 +41,7 @@ taxonomy:
    - *Water usage:* 3.66 € / day _⬈ +0.84 €_
    - *Water efficiency:* 21.9 ct / day*person _⬊ +2.34 ct_
 
-##### Income (please check the shoe and the ~~box~~ jar): 
+##### Income (please check the shoe and the ~~box~~ jar):
 - no income
 
 ##### Things that happened
@@ -50,7 +50,7 @@ taxonomy:
 - foodsharing.de is open-source now and we had a great open-source party!
 - lots of people participated in the wupp-hours and many things were achieved!
     - work in the basement K22 continued
-    - first scaffolding elements were built up 
+    - first scaffolding elements were built up
     - walls in free shop toilet were painted (..but the paint came off again :( )
     - upper staircase toilet sink unblocked
     - lots of foam transferred from the car to K22 attic
@@ -86,7 +86,7 @@ taxonomy:
 - Friday
     - 12:00 Market pickup (active again!) (managed via [foodsharing](https://beta.foodsharing.de/?page=fsbetrieb&id=20993))
     - 15:00 roadmap review @ cloud room
-    - 17:30 Landgut Nemt via [foodsharing.de](https://beta.foodsharing.de/?page=fsbetrieb&id=18626) 
+    - 17:30 Landgut Nemt via [foodsharing.de](https://beta.foodsharing.de/?page=fsbetrieb&id=18626)
 - Saturday
 - Sunday
     - 15:00 sharing event @ cloud room
@@ -126,7 +126,7 @@ taxonomy:
     - [doug] I have ideas.
 - [tilmann] which pad for next CoMe? -> facilitator decides and announces in #kanthaus?
     - [nick] The codimd pad on Kanthaus server is now managed by chandi, talk to him about it if necessary.
-    - [doug] @janina: pad link soon please :) 
+    - [doug] @janina: pad link soon please :)
 - [Tilmann] reminder about securing the solar battery pack in the office; would like to figure out solutions in next two weeks, otherwise remove it.
     - [matthias] It's disconnected for now.
     - [tilmann] We still should figure something out...

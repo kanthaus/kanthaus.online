@@ -10,7 +10,7 @@ taxonomy:
 - Notary:
 - Present: Doug, Matthias, Chandi, Nick, Kristijan, Clara, Felix, Michal, Nathalie, Thore, Janina, Tilmann
 
-----
+===
 <!-- 0. Minute of silence -->
 
 ### 1. People arriving and leaving

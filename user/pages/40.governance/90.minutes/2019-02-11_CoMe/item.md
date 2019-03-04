@@ -26,7 +26,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Notary: Janina
 - Present: Doug, Clara, Matthias, Larissa, Nick, Tilmann, Lise, Bodhi, Chandi, Janina, Laurina
 
-----
+===
 <!-- 0. Minute of silence -->
 
 ### 1. People arriving and leaving
