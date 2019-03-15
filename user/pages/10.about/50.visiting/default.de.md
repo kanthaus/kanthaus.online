@@ -4,12 +4,6 @@ routes:
     aliases:
         - '/docs/visiting'
 ---
-
-# Keine neuen BesucherInnen: 18.01. - 15.02 2019
-
-Wir haben einen ['Ruhemonat'](https://kanthaus.online/events/2019-01-18_month-of-calm) während dem wir keine neuen BesucherInnen empfangen. Wir nehmen uns diese Zeit, um den vorhandenen Bewohnis zu erlauben sich (noch) besser kennen zu lernen, ohne sich einem ständigen Fluss neuer Gesichter und Energien anpassen zu müssen (wie wundervoll sie auch immer sein mögen). Wir hoffen auf dein Verständnis und freuen uns darauf dich ab Mitte Februar begrüßen zu dürfen!
-
----
 Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 ## Allgemein
