@@ -42,6 +42,8 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 - Schrauben und anderes Verbrauchsmaterial
 - Fahrradwerkzeug und Material
 - Leiter, 2-4m groß
+- Teppichmesser und -klingen
+- Kreuzschraubendreher
 
 ### Laboreinrichtung:
 
@@ -53,7 +55,7 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 
 - Sonnenschirm (am liebsten in groß)
 - Pflanzstangen für Tomaten etc.
-- Schaufel
+- Schaufel, Spaten
 
 ### Wohn- und Büroeinrichtung:
 
@@ -73,11 +75,13 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
 
 ### Diverses
+- Knöpfe aller Art
 - Gießkannen (vor allem große für den Garten)
 - Thermoskannen und große Teekannen
 - Pressstempelkannen und Espressokannen
 - Besen, Schrubber und Wischer (in guter Qualität)
 - Fensterputz-Equipment
+- Kletterseile
 
 ## Gern gesehen
 
