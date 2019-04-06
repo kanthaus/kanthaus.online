@@ -1,89 +1,109 @@
 current:
   - name:
-      de: Auerworld-Festival
       en: Auerworld festival
+      de: Auerworld-Festival
     url: https://auerworld-festival.de/
     sub:
-      de: Planung und Organisation eines nachhaltigen Festivals
       en: Planning and organizing of a sustainable festival
+      de: Planung und Organisation eines nachhaltigen Festivals
     contact: Silvan
     image: auerworld.png
 
-  - name:
-      de: Foodsharing Akademie
-      en: Foodsharing academy
-    url: https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf
-    sub:
-      de: Bildungsarbeit zum Thema Lebensmittelverschwendung
-      en: Educational work about food waste
-    contact: Thore
-    image: foodsharing_academy.jpg
+#  - name:
+#      de: Foodsharing Akademie
+#      en: Foodsharing academy
+#    url: https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf
+#    sub:
+#      de: Bildungsarbeit zum Thema Lebensmittelverschwendung
+#      en: Educational work about food waste
+#    contact: Thore
+#    image: foodsharing_academy.jpg
 
   - name:
-      de: Programmierung von Foodsharing.de
       en: Foodsharing.de code
+      de: Programmierung von Foodsharing.de
     url: https://devblog.foodsharing.de
     sub:
-      de: Foodsharing.de modernisieren und verbessern
       en: Modernizing and improving foodsharing.de
+      de: Foodsharing.de modernisieren und verbessern
     contact: Matthias, Nick
     image: foodsharing.png
 
   - name:
-      de: Foodsharing auf Festivals
       en: Foodsharing on festivals
+      de: Foodsharing auf Festivals
     url: https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals
     sub:
-      de: Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken
       en: Organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals
+      de: Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken
     contact: Bodhi, Lise
     image: foodsharing_festivals.jpg
 
-  - name:
-      de: Foodsharing PolKa
-      en: Foodsharing PolCa
-    url: https://www.duh.de/fileadmin/user_upload/download/Projektinformation/Kreislaufwirtschaft/Lebensmittelverschwendung/181210_Aktionsplan_foodsharing_DUH_FINAL.pdf
-    sub:
-      de: Konzeptualisierung und Ausführung politischer Kampagnen gegen Lebensmittelverschwendung
-      en: Conceptualization and actualization of political campaigns against food waste
-    contact: Nathalie
-    image: foodsharing_polKa.jpg
+#  - name:
+#      en: Foodsharing PolCa
+#      de: Foodsharing PolKa
+#    url: https://www.duh.de/fileadmin/user_upload/download/Projektinformation/Kreislaufwirtschaft/Lebensmittelverschwendung/181210_Aktionsplan_foodsharing_DUH_FINAL.pdf
+#    sub:
+#      en: Conceptualization and actualization of political campaigns against food waste
+#      de: Konzeptualisierung und Ausführung politischer Kampagnen gegen Lebensmittelverschwendung
+#    contact: Nathalie
+#    image: foodsharing_polKa.jpg
 
   - name: Foodsharing Wurzen
     url: /projects/foodsharing
     sub:
-      de: eine lokale Foodsharing-Initiative starten und am Laufen halten
+      de: Eine lokale Foodsharing-Initiative starten und am Laufen halten
       en: Starting a local foodsharing initiative and keeping it running
-    contact: Janina, Lise
+    contact: Janina, Lise, Thore
     image: foodsharing_wurzen.jpg
 
   - name: Foodsaving Worldwide
     url: https://foodsaving.world/
     sub:
-      de: Ein weltweites Netzwerk von Foodsaving-Gruppen
       en: Global network of foodsaving groups
+      de: Ein weltweites Netzwerk von Foodsaving-Gruppen
     contact: Janina
     image: foodsaving_worldwide.jpg
 
   - name: Karrot
     url: https://github.com/yunity/karrot-frontend
     sub:
-      de: Planung und Entwicklung der mehrsprachigen Foodsaving-Webapp
       en: Planning and development of the multilingual webapp to support foodsaving groups
+      de: Planung und Entwicklung der mehrsprachigen Foodsaving-Webapp
     contact: Tilmann, Nick, Janina
     image: karrot.png
 
   - name: KeinMüllWagen
     url: /projects/kmw
     sub:
-      de: Transportkapazität für Nachhaltigkeitsprojekte
       en: Managing logistics for sustainability projects
+      de: Transportkapazität für Nachhaltigkeitsprojekte
     contact: Matthias, Bodhi
     image: KMW.jpg
 
   - name:
-      de: Hausrenovierung
+      en: Modular 48V lithium batteries
+      de: Modularer 48V Lithium-Solarspeicher
+    url: /projects/postcode
+    sub:
+      en: Decommissioned laptop batteries are given new life
+      de: Ausrangierten Laptopzellen ein zweites Leben geben
+    contact: Bodhi, chandi
+    image: modularLithiumBatteries.jpg
+
+  - name:
+      en: Progressive governance
+      de: Progressive Administration
+    url: governance/constitution
+    sub:
+      en: Researching, condensing and refining future-proof ways of living and working together
+      de: Zukunftstaugliche Arten des Zusammenlebens und -arbeitens recherchieren, kondensieren und verbessern
+    contact: Doug
+    image: progressive_governance.png
+
+  - name:
       en: Renovation of the house
+      de: Hausrenovierung
     url: /projects/house-renovation
     sub:
       de: Wasser, Strom, Heizung und dichte Dächer
@@ -91,46 +111,48 @@ current:
     contact: Matthias, Bodhi
     image: renovation.png
 
-  - name: Repair Cafe
+  - name:
+      en: Repair cafe and maker space
+      de: Tüfteltreff
     url: /projects/repaircafe
     sub:
       de: Beherrsche die Technik, nicht andersherum
       en: Reclaim control over your technological devices
-    contact: Matthias
+    contact: Matthias, Silvan
     image: repaircafe.jpg
 
   - name:
-      de: Progressive Administration
-      en: Progressive governance
-    url: governance/constitution
+      en: The foodsharing festival
+      de: Das foodsharing Festival
+    url: http://www.foodsharing-festival.org/
     sub:
-      de: Zukunftstaugliche Arten des Zusammenlebens und -arbeitens recherchieren, kondensieren und verbessern
-      en: Researching, condensing and refining future-proof ways of living and working together
-    contact: Doug
-    image: progressive_governance.png
+      en: Everything that's needed to hold the annual foodsharing Festival in Berlin
+      de: Alles was notwendig ist um das alljährliche foodsharing Festival in Berlin stattfinden zu lassen
+    contact: Nathalie, Thore
+    image: foodsharing_festival.jpg
 
   - name: Trichter
     url: https://trichter.cc/
     sub:
-      de: Veranstaltungskalender für Leipzig
       en: Calendar of alternative events for Leipzig
+      de: Veranstaltungskalender für Leipzig
     contact: chandi
     image: trichter.png
+
+  - name:
+      en: Traffic transformation
+      de: Verkehrswende
+    url: https://de.wikipedia.org/wiki/Verkehrswende
+    sub:
+      en: Organizing actions for sustainable mobility
+      de: Organisation von Aktionen für eine nachhaltigere Mobilität
+    contact: Lise, Bodhi
+    image: verkehrswende.jpg
 
   - name: Ukuvota
     url: https://gitlab.com/yunity/ukuvota
     sub:
-      de: Webapp zur Entscheidungsfindung in Gruppen
       en: Webapp for decision making in groups
-    contact: Wolfi, Doug
+      de: Webapp zur Entscheidungsfindung in Gruppen
+    contact: Doug, Tilmann
     image: ukuvota.png
-
-  - name:
-      de: Verkehrswende
-      en: Traffic transformation
-    url: https://de.wikipedia.org/wiki/Verkehrswende
-    sub:
-      de: Organisation von Aktionen für eine nachhaltigere Mobilität
-      en: Organizing actions for sustainable mobility
-    contact: Lise, Bodhi
-    image: verkehrswende.jpg
