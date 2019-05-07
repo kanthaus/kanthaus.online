@@ -20,6 +20,16 @@ current:
 #    image: foodsharing_academy.jpg
 
   - name:
+      en: MOVE Utopia
+      de: MOVE Utopia
+    url: https://move-utopia.de
+    sub:
+      en: Congress for a world of needs and abilities 
+      de: Kongress für eine Welt nach Bedürfnisse und Fähigkeiten
+    contact: chandi, findus, Matthias, Bodhi, Lise
+    image: move.jpg
+
+  - name:
       en: Foodsharing.de code
       de: Programmierung von Foodsharing.de
     url: https://devblog.foodsharing.de
