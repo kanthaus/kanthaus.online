@@ -14,7 +14,7 @@ Und mit all diesen Themen möchtest du nicht allein sein?
 
 ===
 
-**jeden Dienstag, ab 17 Uhr, im Kanthaus**
+**jeden Dienstag, ab 16 Uhr, im Kanthaus**
 
 ## Warum?
 
