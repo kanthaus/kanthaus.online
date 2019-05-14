@@ -14,7 +14,7 @@ And you don't want to be alone with all these topics?
 
 ===
 
-**every Tuesday starting around 5pm at Kanthaus**
+**every Tuesday from 4 pm to 6 pm at Kanthaus**
 
 ## Why?
 

@@ -10,11 +10,11 @@ Du ärgerst dich, dass schon wieder das teure 12V-Netzteil mit Spezialstecker ka
 Dein Fahrrad braucht ein bisschen Pflege?  
 Und mit all diesen Themen möchtest du nicht allein sein?
 
-### Komm zum offenen Reparier- und Techniktreff
+### Komm zum offenen Reparier- und Techniktreff - jetzt auch Tüfteltreff genannt
 
 ===
 
-**jeden Dienstag, ab 16 Uhr, im Kanthaus**
+**jeden Dienstag von 16 bis 18 Uhr im Kanthaus**
 
 ## Warum?
 
