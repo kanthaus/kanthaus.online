@@ -28,23 +28,23 @@ members:
     joined: "2019-01-17"
     founder: false
     participants: Janina, Tilmann, Matthias, Chandi, Bodhi, Doug
-
-volunteers:
-  - name: Nick
-    joined: "2019-01-28"
-    participants: Janina, Tilmann, Clara, Nathalie, Thore, Doug
-  - name: Findus
-    joined: "2018-05-15"
-    participants: Doug, Janina, Laurina, Matthias, Isabel, Tilmann, Chandi
-  - name: Anja
-    joined: "2018-05-21"
-    participants: Doug, Janina, Tilmann
   - name: Nathalie
     joined: "2018-11-12"
     participants: Bodhi, Matthias, Chandi, Silvan
   - name: Thore
     joined: "2018-11-20"
     participants: Bodhi, Janina, Silvan, Chandi, Lise, Nathalie
+
+volunteers:
+#  - name: Nick
+#    joined: "2019-01-28"
+#    participants: Janina, Tilmann, Clara, Nathalie, Thore, Doug
+  - name: Findus
+    joined: "2018-05-15"
+    participants: Doug, Janina, Laurina, Matthias, Isabel, Tilmann, Chandi
+  - name: Anja
+    joined: "2018-05-21"
+    participants: Doug, Janina, Tilmann
   - name: Clara
     joined: "2019-01-25"
     participants: Bodhi, Janina, Silvan, Chandi, Lise, Matthias, Tilmann, Doug, Findus, Nathalie, Thore
