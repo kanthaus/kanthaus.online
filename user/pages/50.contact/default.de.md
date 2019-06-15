@@ -12,7 +12,7 @@ title: Kontakt
   - Haus Kante Wurzen w.V.
   - IBAN: DE85 8605 0200 1041 0436 90
   - BIC: SOLADES1GRM
-- Wir haben zudem einen gemeinnützigen Verein, sofern wir eine Spendenbeschenigung ausstellen sollen:
+- Wir haben zudem einen gemeinnützigen Verein, sofern wir eine Spendenbescheinigung ausstellen sollen:
   - Wandel Würzen e.V.
   - IBAN: DE78 4306 0967 1233 1253 00
   - BIC: GENODEM1GLS
