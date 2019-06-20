@@ -27,7 +27,7 @@ We have a [Constitution](/governance/constitution) and [Collective Agreements](/
 ## Other info
 - There is no individual price for staying here; we have collective costs of ~€15,000 p.a. If you would like to donate, you can.
 - We practice functional living and don't allocate personal rooms by default. If this topic is new to you or if you'd like a room reserved for you, please talk to your host.
-- It is possible to stay at Kanthaus longer , but it depends on multiple factors. First just come for a visit and see how that works out. If staying longer is of interest to you, talk to your host about evaluations and positions.
+- It is possible to stay at Kanthaus longer, but it depends on multiple factors. First just come for a visit and see how that works out. If staying longer is of interest to you, talk to your host about [positions and evaluations](/governance/positionsandevaluations).
 - You're host should give you a house tour and explain the basics soon after your arrival. If you want a sneak peak you can already read [the accompanying document](visiTour).
 
 The address is [Kantstraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N). Please mention "phancy physalis" when you first contact us so that we know you've read this document.

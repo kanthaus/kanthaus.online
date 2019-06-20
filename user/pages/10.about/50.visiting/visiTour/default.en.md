@@ -24,7 +24,7 @@ _Kanthaus is a commons; a community resource. The Kanthaus resource is centred a
 -   Wooden things: don't leave them wet! Hand-wash if necessary then towel-dry and return to storage immediately after use.
 -   Smoking: outside the house and away from open windows. Please dispose of smoking waste safely in the black bin.
 
-**Do your fair share.** How to not create work for other Kanthäusler:
+**Do your fair share.** How to not create work for other Kanthausians:
 -   Surfaces: keep away personal and communal items after use, clean if required.
 -   Sinks: leave them empty, suitably clean and with the strainer in place.
 -   Cups, plates and cutlery: leave them in the reuse shelf or put them in the dishwasher after use.
@@ -41,5 +41,5 @@ _Kanthaus is a commons; a community resource. The Kanthaus resource is centred a
 
 Further info:
 -   our [community constitution](https://kanthaus.online/governance/constitution)
--   [if you're thinking about staying longer than 14 days](https://kanthaus.online/governance/positionsandevaluations)
+-   [if you're thinking about staying longer than some days](https://kanthaus.online/governance/positionsandevaluations)
 -   our developing [handbook](https://handbook.kanthaus.online)

@@ -24,14 +24,14 @@ _Kanthaus ist ein Commons; ein Gemeingut. Die Ressource 'Kanthaus' besteht aus d
 -   Dinge aus Holz: Bitte nicht im Wasser stehen lassen. Wenn nötig per Hand abwaschen, abtrocknen und direkt wieder wegräumen.
 -   Rauchen: Außerhalb des Hauses und außer Reichweite offener Fenster. Bitte entsorge deine Kippenstummel sicher im Restmüll.
 
-**Leiste deinen Anteil.** Wie man anderen Kanthäuslern keine zusätzliche Arbeit macht:
+**Leiste deinen Anteil.** Wie man anderen Kanthausianern keine zusätzliche Arbeit macht:
 -   Oberflächen: Räum private und gemeinschaftliche Dinge nach Benutzung wieder weg. Wisch einmal drüber, falls nötig.
 -   Waschbecken: Bitte leer, angemessen sauber und mit eingelegtem Sieb hinterlassen.
 -   Geschirr und Besteck: Räume deine benutzten Sache ins Regal zur Wiederverwendung oder in den Geschirrspüler.
 -   Klopapier: Wenn du eine Rolle leer machst, füll eine neue nach (findest du im Lagerraum an der Snack Kitchen K20-1-1).
 -   Mülleimer: Wenn du einen Mülleimer voll machst, dann mach ihn leer, mach ihn sauber falls nötig und stell ihn zurück.
 
-**Mach etwas Großartiges.** Was würdest du tun, wenn du hier leben würdest? Also jetzt gerade tust du es, und du bist herzlich eingeladen zu beobachten, zu phantasieren, zu planen und Dinge umzusetzen. Vertrau deinem Bauch oder such dir Hilfe. Du brauchst keine Erlaubnis der Gruppe, wenn du nicht gerade großangelegte Umbaumaßnahmen vorhast, wesentliche Mengen rarer Ressourcen verbrauchen willst, im Namen des Hauses handeln möchtest oder dramatische Änderungen an einem laufenden System planst. Bitte beachte alle Bedenken andere Menschen äußern und halte ein, wenn jemand Widerstand hat. Wenn die folgenden Aufgaben erledigt werden, freuen wir uns immer:
+**Mach etwas Großartiges.** Was würdest du tun, wenn du hier leben würdest? Also jetzt gerade tust du es, und du bist herzlich eingeladen zu beobachten, zu phantasieren, zu planen und Dinge umzusetzen. Vertrau deinem Bauch oder such dir Hilfe. Du brauchst nicht die Erlaubnis der ganzen Gruppe, wenn du nicht gerade großangelegte Umbaumaßnahmen vorhast, wesentliche Mengen rarer Ressourcen verbrauchen willst, im Namen des Hauses handeln möchtest oder dramatische Änderungen an einem laufenden System planst. Bitte beachte alle Bedenken, die andere Menschen äußern und halte ein, falls jemand Widerstand hat. Wenn die folgenden Aufgaben erledigt werden, freuen wir uns immer:
 - Lebensmittel retten, waschen und wegsortieren
 - Essen zubereiten und Tee kochen
 - Dinge abspülen, die nicht in den Spüler gehören
@@ -41,5 +41,5 @@ _Kanthaus ist ein Commons; ein Gemeingut. Die Ressource 'Kanthaus' besteht aus d
 
 Weitere Infos:
 -   Unsere [Gemeinschaftsverfassung](https://kanthaus.online/governance/constitution)
--   [Falls du darüber nachdenkst länger als 14 Tage zu bleiben](https://kanthaus.online/governance/positionsandevaluations)
+-   [Falls du darüber nachdenkst länger als ein paar Tage zu bleiben](https://kanthaus.online/governance/positionsandevaluations)
 -   Unser in Entwicklung befindliches, englischsprachiges [Handbuch fürs Haus](https://handbook.kanthaus.online)
