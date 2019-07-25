@@ -7,7 +7,7 @@ draft: false
 
 ## Menschen
 
-- interessiert daran, am Haus selbst mitzuarbeiten (bauen, einrichten, instandhaltung)
+- interessiert daran, am Haus selbst mitzuarbeiten (bauen, einrichten, Instandhaltung)
 - interessiert daran, an bestehenden oder im Aufbau befindlichen Projekten mitzuarbeiten (foodsharing, Repair-Café)
 - interessiert daran, eigene Projekte im oder mit dem Haus einzubringen (insbesondere solche, die eine Außenwirkung erzielen)
 

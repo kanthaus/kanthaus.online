@@ -1,5 +1,5 @@
 ---
-title: "Press"
+title: "Press about us"
 content:
     items: '@self.children'
     order:

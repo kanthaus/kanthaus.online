@@ -1,5 +1,5 @@
 ---
-title: "Presse"
+title: "Wir in der Presse"
 content:
     items: '@self.children'
     order:
