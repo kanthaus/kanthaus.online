@@ -24,9 +24,20 @@ We have a [Constitution](/governance/constitution) and [Collective Agreements](/
 - Please do not up- or download any illegal content.
 - Please be quiet in the garden after 22.00 and limit grilling/garden fires out of respect for our neighbors.
 
+## Groups
+If you want to use our spaces with your group to work on projects in line with our values, we're happy about it! Everything written on this page is also true for groups. Only exception: A group only needs one host and not one for every individual.
+We already had quite some groups here and this process proved useful:
+- Write to us and explain your ideas.
+- The more info you can give, the easier for us. The amount of people, your room needs and the time frame are the points of most interest.
+- We really appreciate having one person acting as the main contact to ensure good communication.
+- If nobody of you has ever visited Kanthaus, we recommend you send someone before your planned meeting to check out in person if your expectations and our house fit together.
+- If possible, the main contact should arrive on the evening before your event starts to discuss the details and do all potential prep work together with us.
+- During your stay here your group should get involved in saving food and/or cooking. Before you leave you should make sure the rooms you were using are in the same state as they were when you arrived.
+
 ## Other info
 - There is no individual price for staying here; we have collective costs of ~€15,000 p.a. If you would like to donate, you can.
 - We practice functional living and don't allocate personal rooms by default. If this topic is new to you or if you'd like a room reserved for you, please talk to your host.
+- We save almost all food we eat. That means you don't do anybody a favor if you buy food for us. If you want to be nice and contribute something, it's much better to simply put some money into our donation box.
 - It is possible to stay at Kanthaus longer, but it depends on multiple factors. First just come for a visit and see how that works out. If staying longer is of interest to you, talk to your host about [positions and evaluations](/governance/positionsandevaluations).
 - You're host should give you a house tour and explain the basics soon after your arrival. If you want a sneak peak you can already read [the accompanying document](visiTour).
 
