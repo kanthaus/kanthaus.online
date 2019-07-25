@@ -4,8 +4,8 @@ current:
       de: Auerworld-Festival
     url: https://auerworld-festival.de/
     sub:
-      en: Planning and organizing of a sustainable festival
-      de: Planung und Organisation eines nachhaltigen Festivals
+      en: Planning and organizing of an alternative festival
+      de: Planung und Organisation eines alternativen Festivals
     contact: Silvan
     image: auerworld.png
 
@@ -24,9 +24,9 @@ current:
       de: MOVE Utopia
     url: https://move-utopia.de
     sub:
-      en: Congress for a world of needs and abilities 
+      en: Congress for a world of needs and abilities
       de: Kongress für eine Welt nach Bedürfnisse und Fähigkeiten
-    contact: chandi, findus, Matthias, Bodhi, Lise
+    contact: chandi, findus, Matthias, Bodhi, Lise, Clara
     image: move.jpg
 
   - name:
@@ -36,7 +36,7 @@ current:
     sub:
       en: Modernizing and improving foodsharing.de
       de: Foodsharing.de modernisieren und verbessern
-    contact: Matthias, Nick
+    contact: Matthias
     image: foodsharing.png
 
   - name:
@@ -70,8 +70,8 @@ current:
   - name: Foodsaving Worldwide
     url: https://foodsaving.world/
     sub:
-      en: Global network of foodsaving groups
-      de: Ein weltweites Netzwerk von Foodsaving-Gruppen
+      en: Facilitate the global network of foodsaving groups
+      de: Unterstützung eines weltweites Netzwerk von Foodsaving-Gruppen
     contact: Janina
     image: foodsaving_worldwide.jpg
 
@@ -149,15 +149,15 @@ current:
     contact: chandi
     image: trichter.png
 
-  - name:
-      en: Traffic transformation
-      de: Verkehrswende
-    url: https://de.wikipedia.org/wiki/Verkehrswende
-    sub:
-      en: Organizing actions for sustainable mobility
-      de: Organisation von Aktionen für eine nachhaltigere Mobilität
-    contact: Lise, Bodhi
-    image: verkehrswende.jpg
+#  - name:
+#      en: Traffic transformation
+#      de: Verkehrswende
+#    url: https://de.wikipedia.org/wiki/Verkehrswende
+#    sub:
+#      en: Organizing actions for sustainable mobility
+#      de: Organisation von Aktionen für eine nachhaltigere Mobilität
+#    contact: Lise, Bodhi
+#    image: verkehrswende.jpg
 
   - name: Ukuvota
     url: https://gitlab.com/yunity/ukuvota
