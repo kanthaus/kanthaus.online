@@ -19,7 +19,7 @@ Wenn du glaubst, etwas von der folgenden Liste (oder ähnliche Dinge) abgeben zu
 Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuell nutzen wir diese sogar, um einen Reparaturworkshop durchzuführen.
 
 ### Küchenausstattung:
-- Induktionskochfeld (Einzelkochplatte, Doppelkochplatte, Einbaukochfeld; darf gerne auch defekt sein, sofern das Glas noch heile ist)
+- Spaghettilöffel
 - Thermos- und Teekannen (ab 2 Liter)
 - Kaffeebereiter, Mokka-Kannen
 - Edelstahl Kochgeschirr (Vor allem große Töpfe ab 8 Liter, große Pfannen ab 28 cm)
@@ -59,11 +59,12 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 
 ### Wohn- und Büroeinrichtung:
 
-- ein großes Nudelsieb
 - große Spannbettlaken (1,40-1,60m)
 - Bettdecken, Kopfkissen, Polster
 - offene Regale und Hängeregale zum Sortieren und Aufbewahren
+- metallene Schwerlastregale
 - Büroeinrichtung: Schreibtische, Bürostühle
+- Flipcharts
 - Mehrfachsteckdosen
 - Verlängerungskabel (gerne auch kürzer als 5m)
 - LED-Leuchtmittel (E14, E27)
@@ -75,10 +76,9 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
 
 ### Diverses
+
 - Knöpfe aller Art
 - Gießkannen (vor allem große für den Garten)
-- Thermoskannen und große Teekannen
-- Pressstempelkannen und Espressokannen
 - Besen, Schrubber und Wischer (in guter Qualität)
 - Fensterputz-Equipment
 - Kletterseile
@@ -91,10 +91,11 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 - Würfel
 - Fitness-Equipment (Hanteln, Gewichte, Klimmzugstange)
 - Kreidetafeln
+- Tafel- oder Straßenkreide
 - Whiteboards
 - Pinnwände
 - [Geld](../../contact) (aber nur wenn du es entbehren kannst!)
 
-## Orte, an denen Dinge gesucht werden können
+## Orte, an denen Dinge gesucht werden kann
 
 Du kannst beispielsweise auf [ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [jasprtrades](https://jasprtrades.com/), der lokalen Recyclingfirma, [freecycle](https://www.freecycle.org/), dem Projektverteiler Leipzig oder auf Webseiten, die sich dem Teilen widmen, suchen.
