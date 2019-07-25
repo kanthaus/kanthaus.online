@@ -21,9 +21,9 @@ description: "Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben."
 </div>
 <br>
 
-Seit Sommer 2017 gibt es das Projekthaus und Wohnprojekt _Kanthaus_ in den Häusern in der Kantstraße 20 und 22 in Wurzen. Den bewussten und effektiven Umgang mit Ressourcen haben wir uns auf die Fahne geschrieben und [Foodsharing](../foodsharing) ist das Thema, das uns alle zusammengebracht hat. Die Gesichter, die Ihnen im Kanthaus begegnen, sind immer mal andere, denn wir sind Teil [eines großen Netzwerkes](https://yunity.org) von ökologisch und sozial eingestellten Menschen aus ganz Deutschland und darüber hinaus. Normalerweise halten sich um die zehn Menschen im Kanthaus auf; bei Veranstaltungen auch mal deutlich mehr, selten weniger.
+Seit Sommer 2017 gibt es das Projekthaus und Wohnprojekt _Kanthaus_ in den Häusern in der Kantstraße 20 und 22 in Wurzen. Den bewussten und effektiven Umgang mit Ressourcen haben wir uns auf die Fahne geschrieben und [Foodsharing](../foodsharing) ist das Thema, das uns alle zusammengebracht hat. Die Gesichter, die dir im Kanthaus begegnen, sind immer mal andere, denn wir sind Teil eines [großen Netzwerkes](https://yunity.org) von ökologisch und sozial eingestellten Menschen aus ganz Deutschland und darüber hinaus. Normalerweise halten sich um die zehn Menschen im Kanthaus auf; bei Veranstaltungen auch mal deutlich mehr, selten weniger.
 
-Wir wollen den Austausch und die echte Begegnung zwischen den Menschen fördern. Wir wollen eine Kultur des Teilens, des Reparierens, des Wiederverwendens und Wertschätzens etablieren. Einerseits um die Umwelt zu schonen, andererseits um die Menschen zusammen zu bringen.
+Wir fördern den Austausch und die echte Begegnung zwischen den Menschen. Wir wollen eine Kultur des Teilens, des Reparierens, des Wiederverwendens und Wertschätzens etablieren. Einerseits um die Umwelt zu schonen, andererseits um die Menschen zusammen zu bringen.
 
 Wenn Menschen nicht mehr alles selbst kaufen, sondern mal wieder mit den Nachbarn teilen, vereinsamen sie nicht so schnell und sparen noch dazu. Es gibt doch hierzulande von allem Materiellen zuviel: Essen, Möbel, Bücher, Kleidung, Objekte aller Art. Bloß vom Immateriellen gibt es zuwenig: Zeit, Zufriedenheit, Kontakt.
 
@@ -34,9 +34,9 @@ Unsere Hauptanliegen sind es:
 - [Gemeingüter bzw. Commons](https://de.wikipedia.org/wiki/Commons) bereitzustellen, zu verwalten und miteinander in Verbindung zu setzen,
 - zu geben, was wir können und zu nehmen, was wir brauchen und dies auch Anderen zu ermöglichen.
 
-Praktisch heißt das entsprechende Angebote zu schaffen. Als erstes bemühen wir uns um eine funktionierende lokale Foodsharing-Infrastruktur inklusive regelmäßiger Treffen der Aktiven, um einen regelmäßig stattfindenden [Reparier- und Techniktreff](../repaircafe), um die Eröffnung eines Umsonstladens und einen zuverlässigen [Veranstaltungsbetrieb](../../events). Dadurch wollen wir eine verantwortungsvolle, aktive Rolle in Wurzen und der weiteren Welt übernehmen.
+Praktisch heißt das entsprechende Angebote zu schaffen. Dies beinhaltet den Aufbau einer funktionierenden lokalen Foodsharing-Infrastruktur inklusive regelmäßiger Treffen der Aktiven. Von Anfang an hatten wir einen regelmäßig stattfindenden [Reparier- und Techniktreff](../repaircafe), seit August 2018 einen wöchentlich geöffneten Fair-Teiler für Lebensmittel und seit Mai 2019 veranstalten wir jede Woche den 'Offenen Dienstag', der alle drei genannten Angebote in einer zweistündigen Öffnungszeit vereint. Wir sind froh, dass mehr und mehr Menschen dafür vorbeikommen, und dass wir somit eine verantwortungsvolle, aktive Rolle in Wurzen und der weiteren Welt übernehmen.
 
-Außerdem wollen wir Menschen Raum geben, um ihre eigenen nachhaltigen Projekte zu verwirklichen. Wir wollen aktiven, unabhängigen Menschen ermöglichen ihrem Ideal und ihrer Leidenschaft zu folgen, die Welt ein wenig besser zu machen und uns gegenseitig dabei unterstützen genau das zu tun.
+Außerdem geben wir Menschen Raum, um ihre eigenen nachhaltigen Projekte zu verwirklichen. Oft kommen Gruppen ins Kanthaus, um Veranstaltungen zu planen, Aktionen vorzubereiten oder ihren Aktivismus zu reflektieren. Wir wollen aktiven, unabhängigen Menschen ermöglichen ihrem Ideal und ihrer Leidenschaft zu folgen, die Welt ein wenig besser zu machen und uns gegenseitig dabei unterstützen genau das zu tun.
 
 Es gibt genügend Ressourcen, sie müssen nur besser verteilt werden.  
 **Weniger Verschwendung. Mehr Teilen.**
