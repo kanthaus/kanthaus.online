@@ -14,7 +14,7 @@ Foodsharing is the topic that brought all of us together and for many of our mem
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 <img src="/pics/RaMaWork.jpg" alt="Raphael and Matthias work on foodsharing.de" width="200" />
-<img src="/pics/fsCopSquare.jpg" alt="Street event by foodsharing Copenhagen" width="200" />
+<img src="/pics/fsCopSquare.jpg" alt="Street event in Cologne for the second foodsharing.de birthday" width="200" />
 <img src="/pics/solikylCart.jpg" alt="Foodsavers in Sweden" width="200" />
 </div>
 <br/>
