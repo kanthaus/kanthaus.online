@@ -14,7 +14,7 @@ Foodsharing ist das Thema, das alle Kanthaus-Menschen zusammengebracht hat und e
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 <img src="/pics/RaMaWork.jpg" alt="Raphael und Matthias arbeiten an foodsharing.de" width="200" />
-<img src="/pics/fsCopSquare.jpg" alt="Straßenaktion von foodsharing Kopenhagen" width="200" />
+<img src="/pics/fsCopSquare.jpg" alt="Straßenaktion in Köln zum zweiten foodsharing-Geburtstag" width="200" />
 <img src="/pics/solikylCart.jpg" alt="Lebensmittelretter in Schweden" width="200" />
 </div>
 <br/>
