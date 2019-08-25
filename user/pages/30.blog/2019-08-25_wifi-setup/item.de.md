@@ -66,5 +66,5 @@ Das Wlan wird zum Wlan "kanthaus" und nutzt WPA Enterprise. Bitte wähle als Aut
 * EAP-TTLS-MSCHAPv2
 * oder PEAP
 
-und aktiviere die Überprüfung des CA Zertifikats, welches du [hier](ca.pem) herunterladen kannst. Damit stellt dein Gerät beim Verbinden sicher, dass er sich wirklich nur mit dem Kanthaus-Netzwerk verbindet und nicht etwa mit einem gleichnamigen Netzwerk des Nachbarn (oder einer sonstigen Entität, welche ein Interesse daran haben könnte, dass du deinen Datenverkehr über sie abwickelst).
+und aktiviere die Überprüfung des CA Zertifikats, welches du [hier](/user/pages/media/kanthaus_ca.pem) herunterladen kannst. Damit stellt dein Gerät beim Verbinden sicher, dass er sich wirklich nur mit dem Kanthaus-Netzwerk verbindet und nicht etwa mit einem gleichnamigen Netzwerk des Nachbarn (oder einer sonstigen Entität, welche ein Interesse daran haben könnte, dass du deinen Datenverkehr über sie abwickelst).
 Wenn du das CA-Zertifikat prüfst, darfst du auch EAP-TTLS-GTC als Authentifizierungsmethode verwenden: Diese sendet dein Passwort im Klartext an das Kanthaus-Netzwerk.
