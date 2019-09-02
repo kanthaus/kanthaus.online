@@ -3,24 +3,24 @@ title: Verfassung
 ---
 
 ### Inhalt
-- [§1. Präambel](#preamble)  
-- [§2. Ziele](#purposes)  
-- [§3. Prinzipien](#principles)  
-- [§4. Ressourcen](#resources)  
-- [§5. Positionen](#positions)  
+- [§1. Präambel](#preamble)
+- [§2. Ziele](#purposes)
+- [§3. Prinzipien](#principles)
+- [§4. Ressourcen](#resources)
+- [§5. Positionen](#positions)
   - [§5a. BesucherIn](#visitor)
   - [§5b. FreiwilligeR](#volunteer)
   - [§5c. Mitglied](#member)
-- [§6. Evaluationsverfahren](#evaluation)  
-- §7. Operationale Tätigkeiten  
-  - [§7a. Handlungen Einzelner](#indact)  
-  - [§7b. Einstimmige Akzeptanz](#uniaccept)  
-  - [§7c. Bewertungswahl](#scorevote)  
-- [§8. Änderungen an den Gemeinschaftlichen Vereinbarungen](#collagrchange)  
-- [§9. Verfassungsänderung](#constchange)  
-- §10. Konfliktlösung  
-  - [§10a. Direkt](#directconflres)  
-  - [§10b. Freiwillige Mithilfe](#volass)  
+- [§6. Evaluationsverfahren](#evaluation)
+- §7. Operationale Tätigkeiten
+  - [§7a. Handlungen Einzelner](#indact)
+  - [§7b. Einstimmige Akzeptanz](#uniaccept)
+  - [§7c. Bewertungswahl](#scorevote)
+- [§8. Änderungen an den Gemeinschaftlichen Vereinbarungen](#collagrchange)
+- [§9. Verfassungsänderung](#constchange)
+- §10. Konfliktlösung
+  - [§10a. Direkt](#directconflres)
+  - [§10b. Freiwillige Mithilfe](#volass)
   - [§10c. Intervention](#intervention)
 
 ---
@@ -31,7 +31,7 @@ title: Verfassung
 Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allgemeinen Wohl gewidmet. Er wird auf drei Ebenen verwaltet—
 
 1. **Die Verfassungsebene** beschreibt *wer was auf welche Art entscheidet*. Diese Ebene beinhaltet die grundlegensten Vereinbarungen - wie Ziele, Rollen und Verfahren - welche die Vereinbarungen der folgenden Ebenen sowohl unterstützen als auch überschreiben. Sie ist in der Verfassung (diesem Dokument) niedergeschrieben und in der [FAQ](../governancefaq/) näher erläutert. Nur die englische Originalversion ist bindend.
-2. **Die Kollektivebene**  beschreibt *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
+2. **Die Kollektivebene** beschreibt *was geschehen soll*. Diese Ebene beinhaltet weitere formale Vereinbarungen - wie Richtlinien, Zeitpläne und optimale Verfahrensweisen - welche Vereinbarungen in der operativen Ebene unterstützen und überschreiben. Sie ist in den [Gemeinschaftlichen Vereinbarungen](../collectiveagreements/) dokumentiert.
 3. **Die operative Ebene** beschreibt *was tatsächlich geschieht*. Diese Ebene beinhaltet unterbewusste, informelle und halbformelle Vereinbarungen - wie Normen, Vereinbarungen von Untergruppen und spontane Aktivitäten. Sie ist nicht zentral dokumentiert.
 
 <a name="purposes"></a>
@@ -65,30 +65,30 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 ### §5. Positionen
 1. Jede Person im Kanthaus hat eine Position inne.
 1. Die Positionen beinhalten proportionale Mengen an Verantwortlichkeiten und Rechten. In aufsteigender Reihenfolge sind diese:
-  1. BesucherIn (§5a),
-  1. FreiwilligeR (§5b), und
-  1. Mitglied (§5c).
+    1. BesucherIn (§5a),
+    1. FreiwilligeR (§5b), und
+    1. Mitglied (§5c).
 
 <a name="visitor"></a>
 
 #### §5a. BesucherIn
 1. Die Position der BesucherIn wird Menschen zugedacht, die einfach mal vorbeikommen und etwas Zeit im Haus verbringen möchten.
 1. EinE BesucherIn kann—
-	1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen, und
-	1. an operativen Aktivitäten teilnehmen.
+    1. vor Ort wohnen und die sich an dem Ort befindlichen Gegenstände nutzen, und
+    1. an operativen Aktivitäten teilnehmen.
 1. Eine Person wird einfach durch ihre Ankunft zur BesucherIn.
 1. Einer BesucherIn, die über Nacht bleiben möchte ist verpflichtet, andernfalls freundlich dazu aufgefordert—
-	1. das [Besucherdokument](/about/visiting) zu lesen, und
-  1. mit einem Bewohner, möglichst einer/einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
+    1. das [Besucherdokument](/about/visiting) zu lesen, und
+    1. mit einem Bewohner, möglichst einer/einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
 1. BesucherInnen akzeptieren implizit die Verfassung und die Gemeinschaftlichen Vereinbarungen.
 1. BesucherInnen dürfen zwei Nächte in Folge bleiben. Vor der dritten Nacht müssen sie informelle Zustimmung von den anderen Bewohnis einholen, um länger zu bleiben.
 1. Nach drei Wochen (21 Tagen) sollten BesucherInnen so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann einE BesucherIn beantragen—
-  1. weiterhin als BesucherIn zu bleiben, oder
-  1. zur/zum Freiwilligen aufzusteigen.
+    1. weiterhin als BesucherIn zu bleiben, oder
+    1. zur/zum Freiwilligen aufzusteigen.
 1. Eine Person hört auf BesucherIn zu sein, wenn–
-  1. sie den Ort verlässt,
-  1. sie zu zur/zum Freiwilligen aufsteigt, oder
-  1. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
+    1. sie den Ort verlässt,
+    1. sie zu zur/zum Freiwilligen aufsteigt, oder
+    1. wenn Konfliktlösung durch Intervention (§10c.) es vorschreibt.
 
 <a name="volunteer"></a>
 
@@ -227,7 +227,7 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     2. Einer Person den Status FreiwilligeR oder Mitglied entziehen.
     3. Eine Person auffordern den Ort temporär oder für immer zu verlassen.
 
-* * *
+------
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"

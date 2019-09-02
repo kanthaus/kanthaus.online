@@ -8,20 +8,20 @@ title: "Constitution"
 - [§3. Principles](#principles)
 - [§4. Resources](#resources)
 - [§5. Positions](#positions)
-  - [§5a. Visitor](#visitor)
-  - [§5b. Volunteer](#volunteer)
-  - [§5c. Member](#member)
+    - [§5a. Visitor](#visitor)
+    - [§5b. Volunteer](#volunteer)
+    - [§5c. Member](#member)
 - [§6 Evaluation Procedure](#evaluation)
 - [§7. Operational Activity](#indact)
-  - [§7a. Individual Action](#indact)
-  - [§7b. Unanimous Acceptance](#uniaccept)
-  - [§7c. Score Voting](#scorevote)
+    - [§7a. Individual Action](#indact)
+    - [§7b. Unanimous Acceptance](#uniaccept)
+    - [§7c. Score Voting](#scorevote)
 - [§8. Changing the Collective Agreements](#collagrchange)
 - [§9. Changing the Constitution](#constchange)
 - [§10. Conflict Resolution](#directconflres)
-  - [§10a. Direct Conflict Resolution](#directconflres)
-  - [§10b. Voluntary Assistance](#volass)
-  - [§10c. Intervention](#intervention)
+    - [§10a. Direct Conflict Resolution](#directconflres)
+    - [§10b. Voluntary Assistance](#volass)
+    - [§10c. Intervention](#intervention)
 
 ---
 
@@ -47,9 +47,9 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 
 ### §3. Principles
 1. The principles guiding this Constitution are—
-	1. Self-determination—minimize coercion,
-	1. Equivalence—minimize inequality, and
-	1. Acceptance—minimize conflict.
+    1. Self-determination—minimize coercion,
+    1. Equivalence—minimize inequality, and
+    1. Acceptance—minimize conflict.
 1. Other guiding principles include those adopted by nature-inspired design such as [Permaculture](http://www.holmgren.com.au/downloads/Essence_of_Pc_EN.pdf), those used by iterative development frameworks such as [Scrum](http://www.scrumguides.org/scrum-guide.html) and those exhibited by [long-enduring Common Pool Resource institutions](https://github.com/DougInAMug/projects/blob/master/xOstromPrinciples.md).
 
 <a name="resources"></a>
@@ -65,90 +65,90 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 ### §5. Positions
 1. Every person at Kanthaus has a (one) position.
 1. The positions have proportional quantities of responsibilities and rights. In ascending order these are—
-  1. Visitor (§5a),
-  1. Volunteer (§5b), and
-  1. Member (§5c).
+    1. Visitor (§5a),
+    1. Volunteer (§5b), and
+    1. Member (§5c).
 
-<a name="Visitor"></a>
+<a name="visitor"></a>
 
 #### §5a. Visitor
 1. The position of Visitor is intended for people who simply want to come by and spend some time in the space.
 1. A Visitor may—
-	1. reside in the space and use its resources, and
-	1. participate in Operational Activity.
+    1. reside in the space and use its resources, and
+    1. participate in Operational Activity.
 1. A person first becomes a Visitor simply by arriving.
 1. A Visitor who wants to stay overnight is required, a visitor who does not stay overnight warmly recommended, to—
-	1. read the [Visitor's Document](/about/visiting), and
+    1. read the [Visitor's Document](/about/visiting), and
     1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Visitor implicitly accepts the Constitution and Collective Agreements.
 1. A Visitor is allowed to stay up to two consecutive nights. Before the third night, they need to gather informal agreement among the other residents to stay longer.
 1. A Visitor should be evaluated (§6.) as soon as possible after three weeks (21 days). At their evaluation they may request to—
-  1. continue as a Visitor, or
-  1. progress to Volunteer.
+    1. continue as a Visitor, or
+    1. progress to Volunteer.
 1. A person ceases to be a Visitor-
     1. if they leave the space,
     1. if they progress to Volunteer,
-	1. if decided upon by Conflict Resolution by Intervention (§10c.)
+    1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="volunteer"></a>
 
 #### §5b. Volunteer
 1. The position of Volunteer is intended for people who are already involved and wish to become further committed.
 1. A Volunteer may—
-	1. reside in the space and use its resources,
-	1. participate in Operational Activity and change the Collective Agreements, and
-	1. vote on other people becoming Volunteers.
+    1. reside in the space and use its resources,
+    1. participate in Operational Activity and change the Collective Agreements, and
+    1. vote on other people becoming Volunteers.
 1. A Volunteer should—
-	1. assume some responsibility for the space, and
-	1. contribute to Wurzen and/or the wider world.
+    1. assume some responsibility for the space, and
+    1. contribute to Wurzen and/or the wider world.
 1. A Volunteer should be evaluated (§6.) as soon as possible after 2 months (60 days) elapsed since their last evaluation. At their evaluation they may request to—
-  1. return to Visitor,
-  1. continue as a Volunteer, or
-  1. progress to Member.
+    1. return to Visitor,
+    1. continue as a Volunteer, or
+    1. progress to Member.
 1. A Volunteer may return to Visitor at any point.
 1. A person ceases to be a Volunteer—
-	1. if they return to Visitor or progress to Member,
+    1. if they return to Visitor or progress to Member,
     1. if they did not spend time in the space for 3 months,
-	1. if decided upon by Conflict Resolution by Intervention (§10c.)
+    1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="member"></a>
 
 #### §5c. Member
 1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
 1. A Member may—
-	1. reside in the space and use the other Resources,
-	1. participate in Operational Activity, Collective Change and Constitutional Change,
-	1. vote on other people becoming Volunteers or Members, and
-	1. participate in Voluntary Assistance and Intervention regarding Conflict Resolution.
+    1. reside in the space and use the other Resources,
+    1. participate in Operational Activity, Collective Change and Constitutional Change,
+    1. vote on other people becoming Volunteers or Members, and
+    1. participate in Voluntary Assistance and Intervention regarding Conflict Resolution.
 1. A Member should—
-	1. assume an equitable share of the total responsibility for the space including social, legal and financial matters, and
-	1. contribute in some way to Wurzen and the wider world.
+    1. assume an equitable share of the total responsibility for the space including social, legal and financial matters, and
+    1. contribute in some way to Wurzen and the wider world.
 1. To become a Member, a person should explicitly accept the Constitution and the Collective Agreements.
 1. A Member should be evaluated (§6.) as soon as possible after 6 months (180 days) elapsed since their last evaluation. At their evaluation they may request to—
-  1. return to Visitor,
-  1. return to Volunteer, or
-  1. continue as Member.
+    1. return to Visitor,
+    1. return to Volunteer, or
+    1. continue as Member.
 1. A Member may return to Volunteer or Visitor at any point.
 1. A person ceases to be a Member—
-	1. if they return to being a Visitor or Volunteer,
+    1. if they return to being a Visitor or Volunteer,
     1. if they did not spend time in the space for 6 months,
-	1. if decided upon by Conflict Resolution by Intervention (§10c.)
+    1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="evaluation"></a>
 
 ### §6. Evaluation Procedure
 1. Volunteers, Members and the person to be evaluated (herein 'the person') meet. The person should request the position they desire and the group can openly discuss topics such as—
-	1. the role the person could see for themself,
-	1. problems or blocked opportunities, or
-	1. understanding of the Constitution and/or Collective Agreements.
+    1. the role the person could see for themself,
+    1. problems or blocked opportunities, or
+    1. understanding of the Constitution and/or Collective Agreements.
 1. Following the discussion with the person, the voters meet privately—
-  1. if the person requests to become a Visitor or Volunteer; Volunteers and Members vote, or
-  1. if the person requests to become a Member; Members vote.
+    1. if the person requests to become a Visitor or Volunteer; Volunteers and Members vote, or
+    1. if the person requests to become a Member; Members vote.
 1. Before further discussion, the voters make an anonymous test vote on whether they ‘support’ (+), ‘accept’ (0) or ‘oppose' (-) the person being adopted at their requested position.
 1. The voters may then discuss the person, the Position they requested and the outcome of the test vote. There should be an emphasis to raise and address concerns.
 1. Finally the voters take a binding vote in the same way as the test vote (§6.3.) This time—
-	1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the person is adopted at their requested position, or
-	1. else the evaluation returns to point §6.2. as if the person had requested the next lower position (cf. §5).
+    1. if there are 3 or more times as many ‘support’ votes to ‘oppose’ votes, the person is adopted at their requested position, or
+    1. else the evaluation returns to point §6.2. as if the person had requested the next lower position (cf. §5).
 1. The person should be promptly informed of which position they were accepted at, but not the breakdown of votes. Any outstanding feedback from the private discussion should also be passed on as helpful feedback.
 
 <a name="indact"></a>
@@ -156,8 +156,8 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 ### §7. Operational Activity
 #### §7a. Individual Action
 1. Any person may take action provided—
-	1. there is no outstanding opposition towards it, and
-	1. they assume personal responsibility for it.
+    1. there is no outstanding opposition towards it, and
+    1. they assume personal responsibility for it.
 1. There is no specific format for Individual Action. Depending on the situation it could be appropriate for a person to simply [start](https://blog.holacracy.org/individual-action-in-holacracy-6672a347238e), to first [ask for advice](http://www.reinventingorganizationswiki.com/Decision_Making) or to [announce their proposal](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170) before starting.
 1. Any person who is opposed towards an Individual Action should communicate it early, clearly and kindly.
 1. If an Individual Action receives opposition it should be stopped and the individuals involved should proceed with Unanimous Acceptance (§7b.)
@@ -173,8 +173,8 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 
 #### §7c. Score Voting
 1. Individuals should discuss the current situation and generate alternative proposals. The proposals are then listed with the addition of two control proposals—
-	1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
-	1. 'escalate procedure' (i.e. 'switch to Collective Change'.)
+    1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
+    1. 'escalate procedure' (i.e. 'switch to Collective Change'.)
 1. The individuals then score the proposals as 'support’, ‘accept’ or ‘oppose'. The total score for each proposal is found by counting 'support' as 1, 'accept' as 0 and 'oppose' as -3. The proposal with the highest total score is selected.
 
 <a name ="collagrchange"></a>
@@ -182,29 +182,29 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 ### §8. Changing the Collective Agreements
 1. All changes to the Collective Agreements must be using the following procedure.
 1. The procedure is initiated when all in-space Members and Volunteers have been notified of a clear and explicit proposal from a Member or Volunteer which—
-	1. has the support of at least 1 other Member or Volunteer, and
-	1. does not go against any other Collective Change made within the last 6 days.
+    1. has the support of at least 1 other Member or Volunteer, and
+    1. does not go against any other Collective Change made within the last 6 days.
 1. The proposal phase of the procedure lasts at least 3 days during which Volunteers and Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of two control proposals—
-	1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
-	1. 'escalate procedure' (i.e. 'switch to Constitutional Change'.)
+    1. 'status quo' (i.e. 'keep things as they are/change nothing',) and
+    1. 'escalate procedure' (i.e. 'switch to Constitutional Change'.)
 1. The decision phase of the procedure lasts at least 3 days during which Volunteers and Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of the decision phase—
-	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-	1. the adjusted scores for each proposal are totalled,
-	1. the proposal with the highest total is selected, and
-	1. the Collective Agreements should be changed to reflect the decision.
+    1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
+    1. the adjusted scores for each proposal are totalled,
+    1. the proposal with the highest total is selected, and
+    1. the Collective Agreements should be changed to reflect the decision.
 
 <a name="constchange"></a>
 
 ### §9. Changing the Constitution
 1. All changes to the Constitution must be made using the following procedure.
 1. The procedure is initiated when all Members, both resident and remote, are notified of a clear and explicit proposal from a Member which—
-	1. has the support of at least 2 other Members, and
-	1. does not go against any other Constitutional Change made within the last 28 days.
+    1. has the support of at least 2 other Members, and
+    1. does not go against any other Constitutional Change made within the last 28 days.
 1. The proposal phase of the procedure lasts at least 7 days during which Members should consider the initial proposal and may create alternative proposals. At the end of this phase the proposals are listed with the addition of the 'status quo' control proposal (i.e. 'keep things as they are/change nothing'.)
 1. The decision phase of the procedure lasts at least 7 days during which Members should individually yet identifiably score the listed proposals from a range of +3 (indicating total support) to -3 (indicating total opposition.) At the end of this phase—
-	1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
-	1. the adjusted scores for each proposal are totalled, and
-  1. the proposal with the highest total is selected.
+    1. negative scores are multiplied by a factor of 3 (e.g. a score of -2 becomes -6,)
+    1. the adjusted scores for each proposal are totalled, and
+    1. the proposal with the highest total is selected.
 1. A proposal becomes the final decision if selected in two consecutive rounds. This means that at least two proposal phases and two decision phases are required for a decision, potentially more. When a decision is reached the Constitution should be amended to reflect this decision.
 
 <a name="directconflres"></a>
@@ -219,19 +219,19 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 #### §10b. Voluntary Assistance
 1. If reasonable measures to resolve a conflict directly prove unsuccessful, individuals involved in a conflict (herein 'actor') may voluntarily seek and/or accept assistance from third-parties.
 1. There is no specific format for Conflict Resolution with Voluntary Assistance. On the basis that all involved consent to participate, many scenarios are possible, including—
-	1. an external individual supporting an involved individual ('support person',)
-	1. an external individual supporting multiple involved individuals ('direct bridge',)
-	1. support people engaging in dialogue on behalf of the involved individuals ('indirect bridge',) or
-	1. a group of external individuals attend a meeting of the involved individuals to witness and/or offer advice ('panel'.)
+    1. an external individual supporting an involved individual ('support person',)
+    1. an external individual supporting multiple involved individuals ('direct bridge',)
+    1. support people engaging in dialogue on behalf of the involved individuals ('indirect bridge',) or
+    1. a group of external individuals attend a meeting of the involved individuals to witness and/or offer advice ('panel'.)
 
 <a name="intervention"></a>
 
 #### §10c. Intervention
 1. If reasonable measures to resolve a conflict with Voluntary Assistance prove unsuccessful, Members may intervene as a last resort.
 1. Conflict Resolution by Intervention is decided by Members using the Unanimous Acceptance (8b.) or Score Voting (8c.) procedure, where proposals may include—
-	1. requesting an individual to participate in assisted conflict resolution,
-	1. revoking an individuals' position of Volunteer or Member, or
-	1. instructing an individual to leave the space temporarily or indefinitely.
+    1. requesting an individual to participate in assisted conflict resolution,
+    1. revoking an individuals' position of Volunteer or Member, or
+    1. instructing an individual to leave the space temporarily or indefinitely.
 
 ------
 
