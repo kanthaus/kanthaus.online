@@ -81,7 +81,6 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. read the [Visitor's Document](/about/visiting), and
     1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Visitor implicitly accepts the Constitution and Collective Agreements.
-1. A Visitor is allowed to stay up to two consecutive nights. Before the third night, they need to gather informal agreement among the other residents to stay longer.
 1. A Visitor should be evaluated (§6.) as soon as possible after three weeks (21 days). At their evaluation they may request to—
   1. continue as a Visitor, or
   1. progress to Volunteer.
@@ -108,7 +107,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Volunteer may return to Visitor at any point.
 1. A person ceases to be a Volunteer—
 	1. if they return to Visitor or progress to Member,
-    1. if they did not spend time in the space for 3 months,
+  1. if they did not spend time in the space for 3 months (90 days),
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="member"></a>
@@ -131,7 +130,7 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 1. A Member may return to Volunteer or Visitor at any point.
 1. A person ceases to be a Member—
 	1. if they return to being a Visitor or Volunteer,
-    1. if they did not spend time in the space for 6 months,
+  1. if they did not spend time in the space for 9 months (270 days),
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="evaluation"></a>
