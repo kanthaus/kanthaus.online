@@ -65,7 +65,7 @@ Bikes can be worked with in the inner courtyard or in the hallway.
 For now we don't need a lot.  
 The tools and materials we have are collected from different people's private possesions, so we ask you to handle them with care.  
 Especially when repairing things you'll often need non-standard parts, which almost nobody has laying around. Whatever is there can be used, but of course we need to find a balance between using up and retrieving things.
-If you have something to spare you're warmly invited to check in with [our wishlist](../wanted) to find out if we need it.  
+If you have something to spare you're warmly invited to check in with [our wishlist](/about/wanted) to find out if we need it.  
 Apart from that you can donate some money, if you have enough.
 
 You are part of a business and would like to support us with tools and/or materials? We'd happily receive things, which you don't use anyways! If you have stuff which is just taking up space or which you are about to throw away, please [contact us](../../contact)!

@@ -67,7 +67,7 @@ Wir brauchen erstmal nicht viel.
 Das genutzte Werkzeug und Material kommt aus zusammengesammelten Beständen und Privatbesitzen, deswegen wird um sorgfältigen Umgang gebeten.  
 Gerade im Reparierbereich benötigt man häufiger mal hochqualitative Ersatzteile, die nicht unbedingt herumliegen.
 Vorhandenes darf gerne genutzt werden, aber natürlich muss sich ein Gleichgewicht einpendeln zwischen nutzen und pflegen bzw. herbeischaffen von Materialien.  
-Schau doch mal auf [unsere Wunschliste](../wanted), ob du vielleicht etwas übrig hast?
+Schau doch mal auf [unsere Wunschliste](/about/wanted), ob du vielleicht etwas übrig hast?
 Ansonsten darfst du natürlich auch im Rahmen deiner Möglichkeiten eine Spende in finanzieller Form da lassen.
 
 Du gehörst einer Firma an und möchtest uns gerne in größerem Rahmen mit Werkzeug und/oder Material unterstützen? Hier freuen wir uns insbesondere über sonst nicht mehr genutzte - also vor dem Müll oder Herumstehen gerettete Dinge. Tritt gerne mit uns in [Kontakt](../../contact)!
