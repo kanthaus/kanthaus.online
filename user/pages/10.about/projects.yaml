@@ -9,15 +9,15 @@ current:
     contact: Silvan
     image: auerworld.png
 
-#  - name:
-#      de: Foodsharing Akademie
-#      en: Foodsharing academy
-#    url: https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf
-#    sub:
-#      de: Bildungsarbeit zum Thema Lebensmittelverschwendung
-#      en: Educational work about food waste
-#    contact: Thore
-#    image: foodsharing_academy.jpg
+  - name:
+      de: Foodsharing Akademie
+      en: Foodsharing academy
+    url: https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf
+    sub:
+      de: Bildungsarbeit zum Thema Lebensmittelverschwendung
+      en: Educational work about food waste
+    contact: Thore
+    image: foodsharing_academy.jpg
 
   - name:
       en: MOVE Utopia
@@ -149,15 +149,15 @@ current:
     contact: chandi
     image: trichter.png
 
-#  - name:
-#      en: Traffic transformation
-#      de: Verkehrswende
-#    url: https://de.wikipedia.org/wiki/Verkehrswende
-#    sub:
-#      en: Organizing actions for sustainable mobility
-#      de: Organisation von Aktionen für eine nachhaltigere Mobilität
-#    contact: Lise, Bodhi
-#    image: verkehrswende.jpg
+  - name:
+      en: Traffic transformation
+      de: Verkehrswende
+    url: https://de.wikipedia.org/wiki/Verkehrswende
+    sub:
+      en: Organizing actions for sustainable mobility
+      de: Organisation von Aktionen für eine nachhaltigere Mobilität
+    contact: Lise, Bodhi
+    image: verkehrswende.jpg
 
   - name: Ukuvota
     url: https://gitlab.com/yunity/ukuvota
