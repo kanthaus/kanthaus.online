@@ -166,3 +166,11 @@ current:
       de: Webapp zur Entscheidungsfindung in Gruppen
     contact: Doug, Tilmann
     image: ukuvota.png
+
+  - name: Extinction Rebellion
+    url: https://extinctionrebellion.de/og/leipzig/
+    sub:
+      en: Environmental movement using non-violent civil disobedience to create awareness for climate change and mass extinction
+      de: ...macht mit gewaltfreien Ungehorsam auf den drohenden Klimakollaps und das massive Artensterben aufmerksam.
+    contact: Clara, Bodhi, Matthias
+    image: xr.png
