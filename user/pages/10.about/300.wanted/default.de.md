@@ -35,15 +35,13 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 
 ### Werkstatteinrichtung:
 
-- Bohrhammer (SDS)
-- Handkreissäge
+- Schleifmaschine (z.B. Band- oder Exzenterschleifer)
 - Hobelmaschine
 - Kernbohrer & -maschine
 - Schrauben und anderes Verbrauchsmaterial
 - Fahrradwerkzeug und Material
 - Leiter, 2-4m groß
 - Teppichmesser und -klingen
-- Kreuzschraubendreher
 
 ### Laboreinrichtung:
 
