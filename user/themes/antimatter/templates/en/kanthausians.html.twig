@@ -7,13 +7,13 @@
     <h2>Members</h2>
     <ul>
     {% for v in page.header.imports.members %}
-        <li><b>{{v.name}}</b> (since {{v.joined}}{% if v.founder %}, founding member{% endif %})</li>
+        <li><b>{{v}}</b></li>
     {% endfor %}
     </ul>
     <h2>Volunteers</h2>
     <ul>
       {% for v in page.header.imports.volunteers %}
-          <li><b>{{v.name}}</b> (since {{v.joined}})</li>
+          <li><b>{{v}}</b></li>
       {% endfor %}
     </ul>
 	{{ page.content }}
