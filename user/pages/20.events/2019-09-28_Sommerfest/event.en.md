@@ -9,7 +9,7 @@ Dear friends of Kanthaus,
 we would like to invite all of you to our summerparty on saturday, september 28th 2019!
 
 ![Schnippelparty](Schnippelparty_fs_Festival_2019.jpg)
-
+_Copyright: Jens Kaesemann_
 ===
 
 We start at 4pm with a disco soup - an interactive cooking event with music. Also we would like to tell you about our projects in Kanthaus. Later in the evening we can sit by the fire.

@@ -9,6 +9,7 @@ Liebe FreundInnen des Kanthauses!
 Spätsommerlich kündigt sich der Wechsel der Jahreszeiten an. Wir zögern den Herbst noch etwas hinaus und laden euch zu unserem Sommerfest am Samstag, den 28. September 2019 ein!
 
 ![Schnippelparty](Schnippelparty_fs_Festival_2019.jpg)
+_Copyright: Jens Kaesemann_
 
 ===
 
