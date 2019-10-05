@@ -9,6 +9,14 @@ current:
     contact: Silvan
     image: auerworld.png
 
+  - name: Extinction Rebellion
+    url: https://extinctionrebellion.de/og/leipzig/
+    sub:
+      en: Environmental movement using non-violent civil disobedience to create awareness for climate change and mass extinction
+      de: Mit gewaltfreiem zivilem Ungehorsam auf den drohenden Klimakollaps und das massive Artensterben aufmerksam machen
+    contact: Clara, Bodhi, Matthias
+    image: xr.png
+
   - name:
       de: Foodsharing Akademie
       en: Foodsharing academy
@@ -18,16 +26,6 @@ current:
       en: Educational work about food waste
     contact: Thore
     image: foodsharing_academy.jpg
-
-  - name:
-      en: MOVE Utopia
-      de: MOVE Utopia
-    url: https://move-utopia.de
-    sub:
-      en: Congress for a world of needs and abilities
-      de: Kongress für eine Welt nach Bedürfnisse und Fähigkeiten
-    contact: chandi, findus, Matthias, Bodhi, Lise, Clara
-    image: move.jpg
 
   - name:
       en: Foodsharing.de code
@@ -75,6 +73,14 @@ current:
     contact: Janina
     image: foodsaving_worldwide.jpg
 
+  - name: gerechte1komma5
+    url: https://gerechte1komma5.de
+    sub:
+      en: Climate plan from botton up: campaign to collect and enforce socially and globally equitable measures to limit global warming to 1,5°C
+      de: Klimaplan von unten: Kampagne um sozial und global gerechte Maßnahmen, die die globale Erwärmung auf 1,5°C begrenzen, zu sammeln und umzusetzen
+    contact: findus
+    image: g1k5.png
+
   - name: Karrot
     url: https://github.com/yunity/karrot-frontend
     sub:
@@ -100,6 +106,16 @@ current:
       de: Ausrangierten Laptopzellen ein zweites Leben geben
     contact: Bodhi, chandi
     image: modularLithiumBatteries.jpg
+
+  - name:
+      en: MOVE Utopia
+      de: MOVE Utopia
+    url: https://move-utopia.de
+    sub:
+      en: Congress for a world of needs and abilities
+      de: Kongress für eine Welt nach Bedürfnisse und Fähigkeiten
+    contact: chandi, findus, Matthias, Bodhi, Lise, Clara
+    image: move.jpg
 
   - name:
       en: Progressive governance
@@ -149,15 +165,15 @@ current:
     contact: chandi
     image: trichter.png
 
-  - name:
-      en: Traffic transformation
-      de: Verkehrswende
-    url: https://de.wikipedia.org/wiki/Verkehrswende
-    sub:
-      en: Organizing actions for sustainable mobility
-      de: Organisation von Aktionen für eine nachhaltigere Mobilität
-    contact: Lise, Bodhi
-    image: verkehrswende.jpg
+#  - name:
+#      en: Traffic transformation
+#      de: Verkehrswende
+#    url: https://de.wikipedia.org/wiki/Verkehrswende
+#    sub:
+#      en: Organizing actions for sustainable mobility
+#      de: Organisation von Aktionen für eine nachhaltigere Mobilität
+#    contact: Lise, Bodhi
+#    image: verkehrswende.jpg
 
   - name: Ukuvota
     url: https://gitlab.com/yunity/ukuvota
@@ -166,21 +182,3 @@ current:
       de: Webapp zur Entscheidungsfindung in Gruppen
     contact: Doug, Tilmann
     image: ukuvota.png
-
-  - name: Extinction Rebellion
-    url: https://extinctionrebellion.de/og/leipzig/
-    sub:
-      en: Environmental movement using non-violent civil disobedience to create awareness for climate change and mass extinction
-      de: ...macht mit gewaltfreien Ungehorsam auf den drohenden Klimakollaps und das massive Artensterben aufmerksam.
-    contact: Clara, Bodhi, Matthias
-    image: xr.png
-
-
-
-  - name: gerechte1komma5 
-    url: https://gerechte1komma5.de
-    sub:
-      en: "climat plan from botton up: campaign to collect and enforce socially and globally equitable measures to limit global warming to 1,5°C"
-      de: "Klimaplan von unten: Kampagne um sozial und global gerechte Maßnahmen die, die globale Erwärmung auf 1,5°C begrenzen, zu sammeln und umzusetzen"
-    contact: findus
-    image: g1k5.png
