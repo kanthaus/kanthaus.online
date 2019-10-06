@@ -78,8 +78,8 @@ current:
   - name: gerechte1komma5
     url: https://gerechte1komma5.de
     sub:
-      en: Climate plan from botton up: campaign to collect and enforce socially and globally equitable measures to limit global warming to 1,5°C
-      de: Klimaplan von unten: Kampagne um sozial und global gerechte Maßnahmen, die die globale Erwärmung auf 1,5°C begrenzen, zu sammeln und umzusetzen
+      en: "Climate plan from botton up: campaign to collect and enforce socially and globally equitable measures to limit global warming to 1.5°C"
+      de: "Klimaplan von unten: Kampagne um sozial und global gerechte Maßnahmen, die die globale Erwärmung auf 1,5°C begrenzen, zu sammeln und umzusetzen"
     contact: findus
     image: g1k5.png
 
