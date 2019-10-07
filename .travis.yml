@@ -16,6 +16,7 @@ before_install:
 
 
 script:
+  - ./test.sh
   - eval "$(ssh-agent -s)" #start the ssh agent
   - openssl aes-256-cbc -K $encrypted_ac3b881c48a4_key -iv $encrypted_ac3b881c48a4_iv -in deploy-user.enc -out deploy-user -d
   - chmod 600 deploy-user # this key should have push access
