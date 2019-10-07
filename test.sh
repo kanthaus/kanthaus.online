@@ -27,6 +27,7 @@ URLS=$(sed -n 's/^.*<loc>\(.*\)<\/loc>.*$/\1/p' <<< "${SITEMAP}")
 
 
 echo
+echo "$SITEMAP"
 echo testing "$(wc -l <<< "$URLS")" URLs...
 
 for URL in $URLS
@@ -34,7 +35,6 @@ do
   CODE=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
   if [[ x"$CODE" == x"200" ]]; then
     printf "."
-    echo "$URL"
   else
     echo "this url is broken:" "$URL"
     exit 1
