@@ -1,13 +1,11 @@
 ---
-sudo: required
-dist: trusty
+dist: bionic
+addons:
+  apt:
+    packages:
+      - ansible
 
 language: python
-python: "2.7"
-
-# Doc: https://docs.travis-ci.com/user/customizing-the-build#Build-Matrix
-env:
-  - ANSIBLE_VERSION=latest
 
 branches:
   only:
@@ -16,10 +14,6 @@ branches:
 before_install:
   - sudo apt-get update -qq
 
-install:
-  # Install Ansible.
-  - if [ "$ANSIBLE_VERSION" = "latest" ]; then pip install ansible; else pip install ansible==$ANSIBLE_VERSION; fi
-  - if [ "$ANSIBLE_VERSION" = "latest" ]; then pip install ansible-lint; fi
 
 script:
   - eval "$(ssh-agent -s)" #start the ssh agent
