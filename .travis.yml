@@ -3,7 +3,7 @@ addons:
   apt:
     packages:
       - ansible
-language: python
+language: php
 branches:
   only:
   - master
