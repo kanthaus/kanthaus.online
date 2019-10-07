@@ -1,4 +1,8 @@
 dist: bionic
+addons:
+  apt:
+    packages:
+      - ansible
 language: python
 branches:
   only:
@@ -16,3 +20,6 @@ script:
 notifications:
   slack:
     secure: NSiZhwhj3zZS28zVI4ACBEpSlXVi2MmHA+gR1kGZ3FSxad1aQJK2rGaM5m5FseX2A8gXAJ6BZqBEeFSBxDuTdTXphP1NZHKNM77KGChc1+IYRwu/0DIohCy7zmIRZXhvAus7JEk6u1rzCQysaYejMJ5xlRuFd8KN0EF1YqINbXafMjEd5pS877onsk6fk/PyokzLtIivob9YnLvVuRZLr6QyWBAjhYbMQ6GEa82dHzzrK7dY1DLSBmJuvoD6rJVy3j66LuhNrN8IJqovoGjU4zA3mfYCUW7nQXO4ZQtwPP+QrQPqe8rYlM69re/lrWoBj5MIDCWJPSMaJcJcyJjDbKznIhr2n6SjB5AEiOI7iZ2uzdE9awry3rzRWQgIhICTS8fzP1eBm+phWvodwiLaM2QfsaR4bpZ4lhROGSG+lyunneIoDXchwvlXI0Sb2qXgIFXf/NeZJ6UYD3dtCibjcMOfhMWM3HtX82peKMjB3OMo3HoPdkYazcimGhVaPXLPUsV6k0JN61cCce6400hdk5tJNuJftbutU7TPgm10ZF5PQTagILrDVSIJUUFYrqc3ZhUWKJlwchHOu64w2G3wuBOh+qE6Tnyejz9mVJG/Zo2pW6BsHnvN9UC1cJO9WShB0qune0LXsgBtli14H0vpn3o3dUcMYOCIUuxHGBPoD/M=
+    on_success: change
+    on_failure: always
+    on_pull_requests: false
