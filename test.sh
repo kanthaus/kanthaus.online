@@ -25,9 +25,13 @@ SITEMAP=$(curl -s http://localhost:8000/sitemap)
 
 URLS=$(sed -n 's/^.*<loc>\(.*\)<\/loc>.*$/\1/p' <<< "${SITEMAP}")
 
+if [[ $URLS != http* ]]; then
+    echo Invalid sitemap!
+    echo "$SITEMAP"
+    exit 1
+fi
 
 echo
-echo "$SITEMAP"
 echo testing "$(wc -l <<< "$URLS")" URLs...
 
 for URL in $URLS
