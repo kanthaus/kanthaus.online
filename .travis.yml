@@ -2,12 +2,15 @@ dist: bionic
 addons:
   apt:
     packages:
-      - ansible
+    - ansible
 language: php
 branches:
   only:
   - master
 install: composer install
+cache:
+  directories:
+  - vendor
 script:
 - "./test.sh"
 - eval "$(ssh-agent -s)"
