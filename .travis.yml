@@ -1,19 +1,11 @@
 ---
 dist: bionic
-addons:
-  apt:
-    packages:
-      - ansible
 
 language: python
 
 branches:
   only:
     - master
-
-before_install:
-  - sudo apt-get update -qq
-
 
 script:
   - ./test.sh
