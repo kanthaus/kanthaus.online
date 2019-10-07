@@ -7,8 +7,7 @@ language: php
 branches:
   only:
   - master
-before_script:
-- composer install
+install: composer install
 script:
 - "./test.sh"
 - eval "$(ssh-agent -s)"
