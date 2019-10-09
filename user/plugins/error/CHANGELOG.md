@@ -1,3 +1,17 @@
+# v1.6.2
+## 05/09/2019
+
+1. [](#new)
+    * Fixed a few issues found by phpstan
+    * Added `ru` and `uk` translations [#36](https://github.com/getgrav/grav-plugin-error/pull/36)
+
+# v1.6.1
+## 03/09/2018
+
+1. [](#improved)
+    * Added Polish + Catalan translation
+    * Updated `README.md` to reference custom error pages
+
 # v1.6.0
 ## 10/19/2016
 

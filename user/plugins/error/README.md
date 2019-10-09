@@ -54,6 +54,10 @@ Copy the page file [error.md](pages/error.md) into the `pages` folder of your us
 
 You can now edit the override and tweak it however you prefer.
 
+# Custom error pages
+
+The configuration allows to specify pages different than `/error` for specific error codes. By default, the `404` error leads to the `/error` page. If you change that, make sure the page you point to has a `error` template (which means, its markdown file is `error.md` or in the page frontmatter you specify `template: error`.
+
 # CLI Usage
 The `error` plugin comes with a CLI command that outputs the `grav.log` in a beautified way, with possibility of limiting the amount of errors displayed, as well as include the trace in the output.
 

@@ -1,3 +1,9 @@
+# v1.1.1
+## 06/21/2018
+
+1. [](#bugfix)
+    * Fixed `json_decode` to load associative arrays for looping (thanks to @tremel).
+
 # v1.1.0
 ## 11/05/2016
 
