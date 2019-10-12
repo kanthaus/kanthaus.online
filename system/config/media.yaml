@@ -184,14 +184,6 @@ types:
     type: file
     thumb: media/thumb-zip.png
     mime: application/zip
-  p12:
-    type: file
-    thumb: media/thumb-zip.png
-    mime: application/x-pkcs12
-  pem:
-    type: file
-    thumb: media/thumb-zip.png
-    mime: application/x-pem-file
   7z:
     type: file
     thumb: media/thumb-7z.png

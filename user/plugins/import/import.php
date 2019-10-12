@@ -27,7 +27,7 @@
                             $parsed[$key] = Yaml::parse($this->getContents($import));
                         } elseif (Utils::endswith($import, '.json')) {
                             $key = basename($import, '.json');
-                            $parsed[$key] = json_decode($this->getContents($import));
+                            $parsed[$key] = json_decode($this->getContents($import), true);
                         }
                     }
                 } else {
@@ -35,7 +35,7 @@
                     if (Utils::endswith($import, '.yaml')) {
                         $parsed = Yaml::parse($this->getContents($import));
                     } elseif (Utils::endswith($import, '.json')) {
-                        $parsed = json_decode($this->getContents($import));
+                        $parsed = json_decode($this->getContents($import), true);
                     }
                 }
 
