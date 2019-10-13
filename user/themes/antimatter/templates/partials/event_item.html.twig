@@ -12,7 +12,7 @@
                     <span>{{ page.date|date("d") }}</span>
                     <em>{{ page.date|date("M") }}</em>
                 </time>
-                {% if page.header.enddate %}
+                {% if page.header.enddate and page.header.date|date('Y-m-d') != page.header.enddate|date('Y-m-d') %}
                 -
                 <time class="dt-end" datetime="{{ page.header.enddate|date('c') }}">
                     <span>{{ page.header.enddate|date("d") }}</span>
@@ -51,17 +51,27 @@
             {{ header_image_media.cropZoom(header_image_width, header_image_height).html }}
         {% endif %}
 
-        <span style="font-weight: bold">
-            <time class="dt-start" datetime="{{ page.header.date|date('c') }}">
+        <div style="font-weight: bold; display: flex; align-items: center">
+            <div>
                 {{ page.header.date|date('Y-m-d') }}
-            </time>
+                {% if page.header.date|date('H:i') != '00:00' %}
+                  <br>
+                  {{ page.header.date|date('H:i') }}
+                {% endif %}
+            </div>
             {% if page.header.enddate %}
-            -
-            <time class="dt-end" datetime="{{ page.header.enddate|date('c') }}">
+            <div style="margin: 0 15px">
+              -
+            </div>
+            <div>
                 {{ page.header.enddate|date('Y-m-d') }}
-            </time>
+                {% if page.header.enddate|date('H:i') != '00:00' %}
+                  <br>
+                  {{ page.header.enddate|date('H:i') }}
+                {% endif %}
+            </div>
             {% endif %}
-        </span>
+        </div>
 
     </div>
 
