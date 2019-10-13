@@ -1,11 +1,10 @@
 ---
 title: 'foodsharing leftover brunch'
 date: '2019-10-13 11:00'
+enddate: '2019-10-13 13:00'
 ---
 
 Bring what you have left over from last week and let's have a nice time while eating and talking together!
-
-**Between 11 am and 1 pm we offer the table for this!**
 
 The foodsharing leftover brunch is about coming together.
 Together we'll dare to open those dubious jars you found in the back of your pantry and find out how long this food _really_ lasts.

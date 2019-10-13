@@ -1,11 +1,10 @@
 ---
 title: 'foodsharing Mitbring-Brunch'
 date: '2019-10-13 11:00'
+enddate: '2019-10-13 13:00'
 ---
 
 Bring das mit, was bei dir diese Woche übrig geblieben ist und lass uns in geselliger Runde gemeinsam essen und quatschen!
-
-**Von 11 bis 13 Uhr gibt es bei uns den Tisch dafür!**
 
 Beim foodsharing Mitbring-Brunch geht es darum, zusammenzukommen.
 Gemeinsam kann man inspizieren was aus den hintersten Ecken der Schränke gekramt wurde. Zusammen machen wir Gläser auf, denen du nicht mehr ganz traust und schauen wie lang sich Lebensmittel _wirklich_ halten.

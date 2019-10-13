@@ -1,6 +1,7 @@
 ---
 title: "Open Tuesday"
 date: "2019-10-15 16:00"
+enddate: "2019-10-15 18:00"
 header_image: false
 ---
 
