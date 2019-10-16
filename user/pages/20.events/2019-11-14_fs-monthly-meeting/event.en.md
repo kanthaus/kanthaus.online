@@ -1,9 +1,9 @@
 ---
 title: "Monthly foodsharing meeting"
-date: "2019-10-10 18:00"
+date: "2019-11-14 18:00"
 ---
 
-The monthly meeting of Wurzen's foodsavers takes place every 2nd Thursday a month **at 6 pm** at Kanthaus. We plan the future of local foodsaving, strengthen our community, share food and spend a nice evening together. Be part of it!
+The monthly meeting of Wurzen's foodsavers takes place every 2nd Thursday a month at 6 pm at Kanthaus. We plan the future of local foodsaving, strengthen our community, share food and spend a nice evening together. Be part of it!
 
 ===
 
