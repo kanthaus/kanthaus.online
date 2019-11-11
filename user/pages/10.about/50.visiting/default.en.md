@@ -39,7 +39,7 @@ We already had quite some groups here and this process proved useful:
 - We practice functional living and don't allocate personal rooms by default. If this topic is new to you or if you'd like a room reserved for you, please talk to your host.
 - We save almost all food we eat. That means you don't do anybody a favor if you buy food for us. If you want to be nice and contribute something, it's much better to simply put some money into our donation box.
 - It is possible to stay at Kanthaus longer, but it depends on multiple factors. First just come for a visit and see how that works out. If staying longer is of interest to you, talk to your host about [positions and evaluations](/governance/positionsandevaluations).
-- You're host should give you a house tour and explain the basics soon after your arrival. If you want a sneak peak you can already read [the accompanying document](visiTour).
+- Your host should give you a house tour and explain the basics soon after your arrival. If you want a sneak peak you can already read [the accompanying document](visiTour).
 
 The address is [Kantstraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N). Please mention "phancy physalis" when you first contact us so that we know you've read this document.
 
