@@ -63,7 +63,9 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 <a name="positions"></a>
 
 ### §5. Positions
-1. Every person at Kanthaus has a (one) position.
+1. Every independent person at Kanthaus has a (one) position.
+  1. People under 15 years of age are considered to be dependent on their parents/carers until they request to be considered as an independent person.
+  1. Specifically, dependent people do not need to be individually evaluated, their parents/carers will act as a proxy.
 1. The positions have proportional quantities of responsibilities and rights. In ascending order these are—
     1. Visitor (§5a),
     1. Volunteer (§5b), and
