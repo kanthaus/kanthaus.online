@@ -56,7 +56,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Water usage: 3.74 € / day ⬈ +1.12 €
 - Water efficiency: 23.0 ct / day*person ⬈ -1.16 ct
 
-##### Expenses
 <!-- Encourage people to enter their expenditures from Kanthaus money -->
 
 
@@ -151,20 +150,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - [findus] damian who stays until monday after the WE might need a host [max will do]
 - [Lise] Couch pick-up today 15:30 in wurzen, who can do that / help lise? [Nathalie, Lise, Julia, michal]
 - [Bodhi] court-training to happen 13.-15.12.
-- [findus] can I take a ticket from tomorrow until dec. 4th?
-    - approved
 - [Bodhi] wuppweek to happen 13.-19.01. (B. had a call with chandi)
     - Chandi and Bodhi will take care of inviting, organizing, etc.
 - [Matthias] somebody up for helping ~1 hour carrying gravel out of the electronics workshop today?
     - Julia will help
-
-
-### 7. Dinner lottery/food recommendation
-<!-- To be done on the physical board -->
-
-### 8. For next week (2019-12-02)
-- [chandi] proposal: split up dicussion and annoucements in come
-- [chandi] schedule a WuppWeek brainstorm meeting
-- [michal] Daniel and Tom from Bennewitz who are interested in organizations working for change around Wurzen visited briefly on Friday. They would like to learn more about Kanthaus, preferably in German. Some additional info on Slack.
-    - we may call them
-    - they may come to Open Tuesday to talk
