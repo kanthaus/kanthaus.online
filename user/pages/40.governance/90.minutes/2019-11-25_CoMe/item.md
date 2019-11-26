@@ -23,7 +23,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Facilitator: Silvan
 - Notary: Michal, Bodhi
 - Physical board caretaker: Lise
-- Present: Michal, Matthias, Silvan, thore, Nathalie, Bodhi, Nick, Lise, Maxime, Julia, Tilmann, Janina, Mika, Joao, Franzi
+- Present: Michal, Matthias, Silvan, thore, Nathalie, Bodhi, Nick, Lise, Maxime, Julia, Tilmann, Janina, Mika, Stilgar, Unkraut
 
 ----
 <!-- 0. Minute of silence -->
@@ -67,7 +67,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 <!-- Project managers from tasks defined during the MCM should report about the current situation -->
 - Roof (Silvan, Tilmann):
 - Stuff (Bodhi, Matthias, Thore):
-    - even though there was a aldi-logistics visit, there is no stuff staning around, because it was taken care of immediately
+    - even though there was a aldi-logistics visit, there is no stuff standing around, because it was taken care of immediately
 - Rooms (Janina, Nathalie):
     - a 2nd communal sleeping room is needed when bigger groups are here
 
@@ -94,7 +94,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Weather forecast <!-- https://www.accuweather.com/en/de/wurzen/04808/weather-forecast/171287 -->: will be rainy and wet and get a bit colder; problems drying laundry
 - Monday
     - 16:00 Knowledge sharing session, today's topic: computer networks
-    - 19:00 Women's choir 
+    - 19:00 Women's choir
     - 19:00 AcroYoga for every gender in Leipzig
     - 21:00 Reading before sleep
 - Tuesday
