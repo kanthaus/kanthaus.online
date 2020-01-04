@@ -39,15 +39,15 @@ current:
     contact: Matthias
     image: foodsharing.png
 
-  - name:
-      en: Foodsharing on festivals
-      de: Foodsharing auf Festivals
-    url: https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals
-    sub:
-      en: Organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals
-      de: Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken
-    contact: Bodhi, Lise
-    image: foodsharing_festivals.jpg
+#  - name:
+#      en: Foodsharing on festivals
+#      de: Foodsharing auf Festivals
+#    url: https://wiki.foodsharing.de/Ablauf:_Mit_foodsharing_auf_Festivals
+#    sub:
+#      en: Organizing groups of foodsavers to spread the word and save the stuff at commercial music festivals
+#      de: Organisation um Foodsaver für Öffentlichkeitsarbeit und aktives Retten auf kommerzielle Festivals zu schicken
+#    contact: Bodhi, Lise
+#    image: foodsharing_festivals.jpg
 
 #  - name:
 #      en: Foodsharing PolCa
@@ -83,6 +83,14 @@ current:
     contact: findus
     image: g1k5.png
 
+  - name: Inventaire.io
+    url: https://inventaire.io
+    sub:
+      en: "A book sharing app using linked open data"
+      de: "Bücher katalogisieren und teilen mithilfe von linked open data"
+    contact: Maxime
+    image: inventaire.jpg
+
   - name: Karrot
     url: https://github.com/yunity/karrot-frontend
     sub:
@@ -108,16 +116,6 @@ current:
       de: Ausrangierten Laptopzellen ein zweites Leben geben
     contact: Bodhi, chandi
     image: modularLithiumBatteries.jpg
-
-  - name:
-      en: MOVE Utopia
-      de: MOVE Utopia
-    url: https://move-utopia.de
-    sub:
-      en: Congress for a world of needs and abilities
-      de: Kongress für eine Welt nach Bedürfnisse und Fähigkeiten
-    contact: chandi, findus, Matthias, Bodhi, Lise, Clara
-    image: move.jpg
 
   - name:
       en: Progressive governance
