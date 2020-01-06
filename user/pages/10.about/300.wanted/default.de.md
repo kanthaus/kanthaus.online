@@ -19,17 +19,12 @@ Wenn du glaubst, etwas von der folgenden Liste (oder ähnliche Dinge) abgeben zu
 Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuell nutzen wir diese sogar, um einen Reparaturworkshop durchzuführen.
 
 ### Küchenausstattung:
-- Spaghettilöffel
 - Thermos- und Teekannen (ab 2 Liter)
-- Kaffeebereiter, Mokka-Kannen
-- Edelstahl Kochgeschirr (Vor allem große Töpfe ab 8 Liter, große Pfannen ab 28 cm)
 
 ### Baustoffe:
-
 - Kalkputz (eine ganze Menge)
-- Heizungsrohre (20m 1")
 - Wärmeschutzverglaste Fenster (zum Austausch einiger bzw. aller Fenster der Häuser)
-- Dachbedeckung für beide Häuser (die Dächer werden in 1-2 Jahren neugedeckt - verschiedene Materialien möglich)
+- Dachfenster
 - Feuchtigkeitssperre für Keller-Außenwände
 - Wärmedämmung für Dach
 
@@ -37,6 +32,7 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 
 - Schleifmaschine (z.B. Band- oder Exzenterschleifer)
 - Hobelmaschine
+- Oberfräse
 - Kernbohrer & -maschine
 - Schrauben und anderes Verbrauchsmaterial
 - Fahrradwerkzeug und Material
@@ -51,24 +47,27 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 
 ## Garten
 
-- Sonnenschirm (am liebsten in groß)
 - Pflanzstangen für Tomaten etc.
-- Schaufel, Spaten
+- Schaufel
+- Spaten
 
 ### Wohn- und Büroeinrichtung:
 
 - große Spannbettlaken (1,40-1,60m)
-- Bettdecken, Kopfkissen, Polster
-- offene Regale und Hängeregale zum Sortieren und Aufbewahren
-- metallene Schwerlastregale
-- Büroeinrichtung: Schreibtische, Bürostühle
+- große Bettdecken und Bezüge
+- Schwerlastregale
 - Flipcharts
+- Beamer (gerne mit LED-Technologie)
+- (moderne, energiesparende) Verstärker
+- Tafel- oder Straßenkreide
+- Whiteboards
+- Pinnwände
 - Mehrfachsteckdosen
 - Verlängerungskabel (gerne auch kürzer als 5m)
 - LED-Leuchtmittel (E14, E27)
-- Flachbildschirme mit mindestens 19 Zoll
+- Flachbildschirme mit mindestens 22 Zoll
 - Laptops und Computer, welche mindestens der Intel Core-I Leistungsklasse angehören
-- optische Mäuse, Tastaturen (deutsches, UK, US layout)
+- optische Mäuse, Tastaturen
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
 - Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 Adern)
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
@@ -77,21 +76,11 @@ Wir freuen uns auch über (leicht) kaputte Dinge, die reparierbar sind. Eventuel
 
 - Knöpfe aller Art
 - Gießkannen (vor allem große für den Garten)
-- Besen, Schrubber und Wischer (in guter Qualität)
 - Fensterputz-Equipment
 - Kletterseile
 
 ## Gern gesehen
 
-- Beamer (gerne mit LED-Technologie)
-- Lautsprecher von guter Qualität
-- (moderne, energiesparende) Verstärker
-- Würfel
-- Fitness-Equipment (Hanteln, Gewichte, Klimmzugstange)
-- Kreidetafeln
-- Tafel- oder Straßenkreide
-- Whiteboards
-- Pinnwände
 - [Geld](../../contact) (aber nur wenn du es entbehren kannst!)
 
 ## Orte, an denen Dinge gesucht werden kann
