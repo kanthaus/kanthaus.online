@@ -18,12 +18,7 @@ content:
 ## Ideas for future projects
 
 - build an irrigation system for our garden
-- plan and build an indoor compost toilet
 - improve the greywater system so that it can be put to work again
-- create control system for our usage of solar energy
-- build a food drying device
-- create flyers and posters for our regular events
-- build a whole lot of additional shelves and storage facilities
 - ...
 
 If you want to engage with one of these ideas for longer, or if you have a new idea that would fit us well, please send us a [message](/contact)!
