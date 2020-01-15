@@ -63,7 +63,9 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 <a name="positions"></a>
 
 ### §5. Positions
-1. Every person at Kanthaus has a (one) position.
+1. Every independent person at Kanthaus has a (one) position.
+  1. People under 15 years of age are considered to be dependent on their parents/carers until they request to be considered as an independent person.
+  1. Specifically, dependent people do not need to be individually evaluated, their parents/carers will act as a proxy.
 1. The positions have proportional quantities of responsibilities and rights. In ascending order these are—
     1. Visitor (§5a),
     1. Volunteer (§5b), and
@@ -81,7 +83,6 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
     1. read the [Visitor's Document](/about/visiting), and
     1. communicate with a resident, preferably a Volunteer or Member, before arriving.
 1. A Visitor implicitly accepts the Constitution and Collective Agreements.
-1. A Visitor is allowed to stay up to two consecutive nights. Before the third night, they need to gather informal agreement among the other residents to stay longer.
 1. A Visitor should be evaluated (§6.) as soon as possible after three weeks (21 days). At their evaluation they may request to—
     1. continue as a Visitor, or
     1. progress to Volunteer.
