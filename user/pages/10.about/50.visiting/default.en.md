@@ -5,7 +5,7 @@ routes:
         - '/docs/visiting'
 ---
 
-Please note, **for the entirety of February** we will be having our [month of introspection](https://kanthaus.online/en/events/2020-02-01_month-of-introspection) and **will not be accepting Visitors or hosting groups!** We take this one month in the year to allow the long-term community to come together, reflect and relax. See you before February or in March :)
+Please note, **for the entirety of February** we will be having our [month of introspection](/events/2020-02-01_month-of-introspection) and **will not be accepting Visitors or hosting groups!** We take this one month in the year to allow the long-term community to come together, reflect and relax. See you before February or in March :)
 
 ---
 
