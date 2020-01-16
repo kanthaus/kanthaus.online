@@ -1,7 +1,7 @@
 ---
 title: "Open Tuesday"
-date: "2019-12-10 16:00"
-enddate: "2019-12-10 18:00"
+date: "2020-01-21 16:00"
+enddate: "2020-01-21 18:00"
 header_image: false
 ---
 
