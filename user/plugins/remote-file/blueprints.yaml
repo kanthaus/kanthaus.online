@@ -1,0 +1,31 @@
+name: Remote File
+version: 0.1.0
+description: includes remote markdown files
+icon: plug
+author:
+  name: chandi
+  email: git@chandi.it
+homepage: https://github.com/chandi/grav-plugin-remote-file
+demo: http://demo.yoursite.com
+keywords: grav, plugin, etc
+bugs: https://github.com/chandi/grav-plugin-remote-file/issues
+docs: https://github.com/chandi/grav-plugin-remote-file/blob/develop/README.md
+license: MIT
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: PLUGIN_ADMIN.PLUGIN_STATUS
+      highlight: 1
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+    text_var:
+      type: text
+      label: PLUGIN_REMOTE_FILE.TEXT_VARIABLE
+      help: PLUGIN_REMOTE_FILE.TEXT_VARIABLE_HELP
