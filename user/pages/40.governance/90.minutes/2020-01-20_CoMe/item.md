@@ -1,6 +1,6 @@
 ---
 title: Coordination Meeting
-date: "2019-12-20"
+date: "2020-01-20"
 taxonomy:
     tag: [come]
 ---
@@ -19,7 +19,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
   - As soon as the minutes are online, empty the pad from all irrelevant things and get it ready for the next facilitator. You can copy&paste the template https://codi.kanthaus.online/come-template?edit (Only keep regular events such as CoMe, power hour, regular food pickups and such. Move the counter figures from 'last 7 days' to '7 days before that' and adjust the date to next week.)
   - Have fun!
 -->
-- Date: 2019-12-20
+- Date: 2020-01-20
 - Facilitator: Bodhi
 - Notary: Matthias
 - Physical board caretaker: Lise
