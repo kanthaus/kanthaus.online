@@ -23,7 +23,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Facilitator: Maxime
 - Notary: Nathalie + helpers
 - Physical board caretaker: Lise
-- Present: Janina, Silvan, Mika, Nathalie, Thore, Lise, Bodhi, Chandi, Unkraut, Doug, Michal, Tilmann, Stilgar, Maxime, Findus, Christi
+- Present: Janina, Silvan, Mika, Nathalie, Thore, Lise, Bodhi, Chandi, Unkraut, Doug, Michal, Tilmann, Stilgar, Maxime, Findus, Chrisi
 
 ----
 
