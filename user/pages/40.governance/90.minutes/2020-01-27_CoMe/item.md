@@ -170,8 +170,6 @@ Due for evaluation (and seen within the last 7 days):
 - [bodhi] new space in communal closet, and maybe reassign
     
 ### 9. Dinner lottery/food recommendation
-Run lottery: https://tmpshared.maxlath.eu/dinner-lotery/
-<!-- Results to be copied on the physical board -->
 
 ### 10. For next week
 
