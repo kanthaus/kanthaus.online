@@ -1,13 +1,15 @@
 ---
 title: "Kanthaus Review 2019"
 date: "2020-01-05"
-published: false
+published: true
 taxonomy:
     tag: [blog]
     author: Tilmann
 ---
 
-In 2019 many things happened in and around Kanthaus. In the first week of January 2020 we took the time to go through last year's [CoMe minutes](/governance/minutes), chat logs and photos to compile a short review. Here's what we got:
+In 2019 many things happened in and around Kanthaus. In the first week of January 2020 Lise, Janina and I took the time to go through last year's [CoMe minutes](/governance/minutes), chat logs and photos to compile a short review. Here's what we got.
+
+===
 
 ## 2019 in numbers
 
@@ -23,8 +25,8 @@ _(2018 for comparison)_
 - 970 m³ gas _(1318 m³)_
 
 
-general topics:
-stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects --- rooms rearranging
+general topics: <br>
+stuff stuff stuff --- funding --- is there better and worse fossil gas? --- bike projects --- rooms rearranging --- differences of vegetable oils --- hierarchy in doocracy --- shelves and high beds --- food food food
 
 - 15 Kanthausians (+2)
     - 11 Members (+5)
@@ -35,7 +37,7 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 
 5200 slack messages in 11 channels -> 11.5 messages per day (2018: 4200 messages)
 
-![](SlackMsgOverview.png)
+![](slackMsgOverview.png)
 
 ---
 
@@ -57,7 +59,7 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 ---
 
 ## February
-- snow! ![]()
+- snow! ![](02snowballs.jpg)
 - clara and nick became volunteers
 - foodsharing board meeting ![](02fsBoard.jpg)
 - foodsharing hackweek ![](02fsHackweek.jpg)
@@ -75,7 +77,7 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 - roof tile pickup ![](03roofTilePickup.jpg)
 - foodsharing-auf-festivals vorbereitungstreffen
 - BUND müllsammelaktion ![](03trashRemoval.jpg)
-- foodsharing t-shirt printing ![](03shortPrinting.jpg)
+- foodsharing t-shirt printing <br> ![](03shirtPrinting.jpg)
 - preparing for roof renovations ![](03atticCleanout.jpg)
 - undjetzt-meeting
 - kitchen drying rack
@@ -103,7 +105,7 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 - we got the apple tree ![](05appleTree.jpg)
 - the dumpster food dishwasher was installed
 - ukuvote about the roof
-- private shoe shelf ![](05privateShoeShelf.jpg)
+- private shoe shelf <br> ![](05privateshoeshelf.jpg)
 - undjetzt and utopival meeting in almost empty kanthaus
 - move building week in harzgerode
 - foodsharing festival planning meeting
@@ -111,7 +113,9 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 ---
 
 ## June
-- nathalie, thore and clara became members!
+- nathalie became member!
+- thore became member!
+- clara became member!
 - ende gelände audio engineering meetup
 - radio mephisto recorded clara for a report about kanthaus
 - kaffeekränzchen #2 in kanthaus
@@ -131,7 +135,7 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 ---
 
 ## August
-- lots of food and stuff arrived from auerworld, foodsharing festival and highfield ![](https://cloud.kanthaus.online/s/TwtkXdtqjR8D6xM/preview)
+- lots of food and stuff arrived from auerworld, foodsharing festival and highfield ![](08highfieldLoot.jpg)
 - the highbed and elephant appeared in the elephant room ![](https://yunity.org/user/pages/10.heartbeat/2019-08-26/palmRoomBed.jpg) <br> ![](https://yunity.org/user/pages/10.heartbeat/2019-08-26/elephant.jpg)
 - new wifi setup
 
@@ -153,10 +157,10 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 - Nathalie reorganized the freeshop sorting room & later made a cafe out of it
 - Cups were moved to the living room
 - Silvan storage is emptied and renamed as baby bathroom!
-- Mika arrived! ![](10mikaArrived.png)
+- Mika arrived! <br> ![](10mikaArrived.png)
 - money focused-sharing circle
 - Schaukasten got destroyed
-- Thore and Nathalie brought a Brotkorb!
+- Thore and Nathalie brought a Brotkorb
 
 ---
 
@@ -171,10 +175,9 @@ stuff stuff stuff --- funding --- gas-discussion over two month -- bike projects
 ---
 
 ## December
-- more partying-going out (bar night, villa klug evenings, kitchen parties) ![](10partyTableTrain.jpg)
+- more partying-going out (bar night, villa klug evenings, kitchen parties) ![](12partyTableTrain.jpg)
 - lots of sorting (after tries from tilmann & doug, bodhi finishes the intermediate storage, winter section), improving (bike locks, soap holders) ![](12glovesCompartment.jpg) ![](12whiteBikeLock.jpg) ![](12soapHolder.jpg)
 - got less and less people
 - day of light with great outcome
-- LAN-Christmas ![](12LANChristmas.png)
-)
+- LAN-Christmas ![](12LANChristmas.jpg)
 - New Year's Eve ![](12NewYearsRacelette.jpg)
