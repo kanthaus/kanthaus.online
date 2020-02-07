@@ -24,10 +24,6 @@ _(2018 for comparison)_
 - 53 liters water per day _(47 liters)_
 - 970 m³ gas _(1318 m³)_
 
-
-general topics: <br>
-stuff stuff stuff --- funding --- is there better and worse fossil gas? --- bike projects --- rooms rearranging --- differences of vegetable oils --- hierarchy in doocracy --- shelves and high beds --- food food food
-
 - 15 Kanthausians (+2)
     - 11 Members (+5)
 
@@ -91,9 +87,7 @@ stuff stuff stuff --- funding --- is there better and worse fossil gas? --- bike
 - open tuesday opening [video](https://cloud.kanthaus.online/s/DLyPTeY742Lj69E)![](04openTuesdayOpening.jpg)
 - more rainwater collection!
 - bufdi start
-- jar norm
-- more stuff from annik's place
-- new hammer drill bought
+- jar size norm introduced
 
 ---
 
@@ -122,7 +116,6 @@ stuff stuff stuff --- funding --- is there better and worse fossil gas? --- bike
 - the fight against the moths started
 - the high shelves were built in K22
 - move planning meeting
-- jati marriage <br> ![](06jatiMarriage.jpg)
 
 ---
 
@@ -157,7 +150,6 @@ stuff stuff stuff --- funding --- is there better and worse fossil gas? --- bike
 - Nathalie reorganized the freeshop sorting room & later made a cafe out of it
 - Cups were moved to the living room
 - Silvan storage is emptied and renamed as baby bathroom!
-- Mika arrived! <br> ![](10mikaArrived.png)
 - money focused-sharing circle
 - Schaukasten got destroyed
 - Thore and Nathalie brought a Brotkorb
@@ -165,7 +157,7 @@ stuff stuff stuff --- funding --- is there better and worse fossil gas? --- bike
 ---
 
 ## November
-- heating started!
+- heating started again!
 - scaffolding teardown [video](https://cloud.kanthaus.online/s/83ASPtS8rjf4EGx)
 - implementing of knowledge sharing session by maxime
 - We had the first ever sleeping arrangements plenum and it was very beneficial with so many people here
@@ -175,9 +167,9 @@ stuff stuff stuff --- funding --- is there better and worse fossil gas? --- bike
 ---
 
 ## December
-- more partying-going out (bar night, villa klug evenings, kitchen parties) ![](12partyTableTrain.jpg)
+- more partying-going out (bar night, villa klug evenings, kitchen parties)
 - lots of sorting (after tries from tilmann & doug, bodhi finishes the intermediate storage, winter section), improving (bike locks, soap holders) ![](12glovesCompartment.jpg) ![](12whiteBikeLock.jpg) ![](12soapHolder.jpg)
 - got less and less people
 - day of light with great outcome
-- LAN-Christmas ![](12LANChristmas.jpg)
+- LAN-Christmas
 - New Year's Eve ![](12NewYearsRacelette.jpg)
