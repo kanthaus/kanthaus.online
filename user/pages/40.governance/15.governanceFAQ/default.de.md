@@ -16,16 +16,6 @@ Die subjektiven Prinzipien sollen die Absichten hinter den objektiven Regeln erk
 
 *Die englischen Begriffe aus der Originalversion unserer Verfassung sind nach [RFC 2119](https://tools.ietf.org/html/rfc2119) definiert. Die deutsche Übersetzung orientiert sich daran.*
 
-### Was bedeutet es 'informelle Zustimmung ein[zu]holen'?
-
-In der Verfassung steht:
-
-> BesucherInnen dürfen zwei Nächte in Folge bleiben. Vor der dritten Nacht müssen sie informelle Zustimmung von den anderen Bewohnis einholen, um länger zu bleiben.
-
-Das bedeutet, dass BesucherInnen mit ihrer GastgeberIn sprechen sollen, um herauszufinden, ob es okay ist länger als zwei Tage zu bleiben. Außerdem wird empfohlen zu beobachten und nachzufragen, wie gut es für die anderen Bewohnis gerade passt. Falls Bewohnis dringende Probleme mit einer BesucherIn haben, sollten sie diese direkt mit der BesucherIn oder der GastgeberIn besprechen.<br>
-Dieser Abschnitt ist dafür da, dass niemand davon ausgeht direkt eine Woche oder länger bleiben zu können, ohne sich zwischendurch mit den anderen Kanthausianern kurzzuschließen. Das Kanthaus funktioniert nur aufgrund unserer produktiven Sozialdynamik und wir wollen sicherstellen, dass diese nicht durch Menschen gestört wird, die einfach nicht reinpassen. Andererseits wollen wir aber offen sein und es auch komplett Fremden ermöglichen uns zu besuchen - wer weiß, vielleicht ist ja dieser zufällig getroffene Tramper unser nächstes Mitglied? Diese Balance zu halten ist nur durch ständige Kommunikation zu schaffen.<br>
-Also, wenn du einE BesucherIn bist und deine ersten beiden Nächste hinter dir hast, solltest du einfach mit den Freiwilligen und Mitgliedern, die dir so über den Weg laufen, sprechen und sie fragen, ob es okay ist länger zu bleiben. Du musst nicht durch das ganze Haus laufen und alle einzeln aufsuchen, aber ein generelles Verständnis, dass es nicht selbstverständlich ist eine Verlängerung zu kriegen, wäre angebracht. Normalerweile werden dich Kanthausianer, die ein Problem mit dir haben, sowieso von selbst ansprechen, aber sie werden deine Eigeninitiative definitiv zu schätzen wissen!
-
 ### Wieso läuft die Rolle 'FreiwilligeR' nach 3 Monaten automatisch aus?
 
 Idealerweise würde jede in das Projekt involvierte Person Mitglied werden, sodass sich die Ungleichheit zwischen den einzelnen Menschen reduziert und dadurch das Prinzip der Gleichwertigkeit gewürdigt werden kann. Aus diesem Grund ist die Freiwilligenposition als etwas temporäres gedacht. Das 3-Monatsfenster bietet genügend Zeit für alle Beteiligten, um zu schauen, inwieweit Person und Projekt kompatibel sind. Wenn einE FreiwilligeR nach 3 Monaten nocht nicht bereit ist mitglied zu werden, kann er/sie sich erneut als FreiwilligeR bewerben. Andersherum ist es auch möglich, dass sich einE FreiwilligeR dazu entschließt Mitglied werden zu wollen bevor die 3 Monate verstrichen sind.

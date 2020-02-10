@@ -63,7 +63,9 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
 <a name="positions"></a>
 
 ### §5. Positionen
-1. Jede Person im Kanthaus hat eine Position inne.
+1. Jede unabhängige Person im Kanthaus hat eine Position inne.
+  1. Unter 15-jährige werden als abhängig von ihren Eltern bzw. Sorgeberechtigten angesehen, bis sie selbst ihre Unabhängigkeit einfordern.
+  1. Abhängige Personen werden nicht einzeln evaluiert. Sattdessen werden sie indirekt über ihre Eltern bzw. Sorgeberechtigten mitevaluiert.
 1. Die Positionen beinhalten proportionale Mengen an Verantwortlichkeiten und Rechten. In aufsteigender Reihenfolge sind diese:
     1. BesucherIn (§5a),
     1. FreiwilligeR (§5b), und
@@ -81,7 +83,6 @@ Kanthaus ist ein frei zugänglicher Gemeinschaftsort in Deutschland und dem allg
     1. das [Besucherdokument](/about/visiting) zu lesen, und
     1. mit einem Bewohner, möglichst einer/einem Freiwilligen oder Mitglied, zu sprechen bevor er/sie ankommt.
 1. BesucherInnen akzeptieren implizit die Verfassung und die Gemeinschaftlichen Vereinbarungen.
-1. BesucherInnen dürfen zwei Nächte in Folge bleiben. Vor der dritten Nacht müssen sie informelle Zustimmung von den anderen Bewohnis einholen, um länger zu bleiben.
 1. Nach drei Wochen (21 Tagen) sollten BesucherInnen so bald wie möglich evaluiert werden (§6). Bei dieser Evaluation kann einE BesucherIn beantragen—
     1. weiterhin als BesucherIn zu bleiben, oder
     1. zur/zum Freiwilligen aufzusteigen.
