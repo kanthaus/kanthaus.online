@@ -11,3 +11,6 @@ author:
     email: hello@kanthaus.online
 
 taxonomies: [tag,author]
+
+redirects:
+  /public: 'https://cloud.kanthaus.online/s/DxoG5LFRqz6dfdp'
