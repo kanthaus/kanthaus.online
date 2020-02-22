@@ -12,6 +12,8 @@ Mehrere einzelne Zellen werden jeweils zu großen Akku-Packs zusammengeschlossen
 
 Das Problem dabei: sollte eine Zelle defekt sein muss meist das ganze Pack entsorgt werden, obwohl die vielleicht 40 anderen Zellen eigentlich noch vollkommen in Ordnung wären.
 
+===
+
 Diese Ressourcenverschwendung wirkt in Anbetracht der ökologischen und sozialen Belastung z.B. in Südamerika, die der derzeitige Lithiumabbau darstellt, um so fataler.[^1] Dazu kommen viele weitere umweltbelastende Stoffe wie Kobalt, Nickel und Chrom. [^2]
 
 Wir möchten diese wertvollen, voll funktionsfähigen Zellen noch weiter nutzen ohne erst die Rohstoffe mit komplexen und energieintensiven Recyclingverfahren zu extrahieren[^3], nur um letztlich vielleicht höchstens die Hälfte[^4] wieder verwenden zu können.

@@ -10,6 +10,8 @@ Wlan, Wifi, 802.11 oder wie auch immer ihr es nennt: Es geht um das Funkzeug, mi
 
 Du hast es schon erahnt: Es geht auch komplizierter als so. Doch warum eigentlich?
 
+===
+
 * Du kennst es vielleicht von der Uni: Fürs `eduroam` brauchst du spezielle Zugangsdaten, welche nur während deines Studiums gültig sind. Es gibt offenbar Menschen, die Interesse daran haben, dass nicht alle anderen Menschen das Internet nutzen können. Die hier verwendete Technik nennt sich WPA Enterprise und hat nicht nur den Vorteil (& Nachteil) der speziellen Zugangsdaten.
 * Was viele nicht wissen: Ein "klassisch" verschlüsseltes Wlan - der Technik-Slang lautet WPA PSK (PreSharedKey - verteilter Schlüssel) oder WPA Personal - ist dann nicht effektiv verschlüsselt, wenn alle den Schlüssel kennen.
 

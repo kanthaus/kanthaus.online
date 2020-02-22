@@ -10,6 +10,8 @@ Das Kanthaus stellt mehrere Wlan-Verbindungen zur Verfügung.
 
 Bitte nutze das Wlan nicht für illegale Dinge. Unsere Gast-Zugänge sind in der Geschwindigkeit begrenzt: Denke an deine Mitmenschen und schau dir nur die Katzenvideos an, die dich wirklich interessieren :-)
 
+===
+
 ### Einfach nur schnell ins Netz
 
 Netzwerkname/SSID: `kanthaus-gast`
