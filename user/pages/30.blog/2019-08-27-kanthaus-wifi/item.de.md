@@ -4,7 +4,6 @@ date: "2019-08-27"
 taxonomy:
     tag: [blog]
     author: Matthias
-header_image: false
 ---
 
 Das Kanthaus stellt mehrere Wlan-Verbindungen zur Verfügung.
@@ -48,7 +47,7 @@ Lade das [CA Zertifikat als PEM herunter](kanthaus_ca.pem) und speichere es irge
 In deinem Einstellungsmenü unter Sicherheit & Privatsphäre findest du unten Verschlüsselung und Zugangsdaten und dann "Von SD Karte installieren". Wähle die heruntergeladene Datei aus.
 Eventuell wirst du aufgefordert, deinen Entsperrcode einzugeben oder einen anzulegen. Du kannst diesen später wieder entfernen.
 
-![Zertifikat benennen](android8_name_certificate.jpg)<br>
+![Zertifikat benennen](1android8_name_certificate.jpg)<br>
 Du wirst nach einem Namen und dem Verwendungszweck des Zertifikats gefragt. Wähle etwas wie `Kanthaus` und wähle Wi-Fi/Wlan als Verwendungszweck aus.
 
 Nun kannst du in deinem WLAN Menü nach Wlans suchen und dich mit `kanthaus` verbinden. Wähle das soeben eingerichtete CA Zertifikat aus und gebe deine Zugangsdaten ein.
@@ -67,4 +66,3 @@ Unter Umständen fordert dich dein Telefon nun auf, eine Pin oder ein Displayspe
 ![Wlan hinzufügen](android44_add_wifi.png)<br>
 Wähle anschließend in deinem Wlan-Menü aus, dass du eine Verbindung mit `kanthaus` herstellen möchtest. Blende die Erweiterten Optionen ein, wähle das CA-Zertifikat aus und gebe den Benutzernamen und das Passwort (siehe oben) ein. Mit Klick auf verbinden landest du im Wlan.
 Wenn du möchtest, kannst du nun die Pin oder das Displaysperrmuster wieder entfernen, das CA Zertifikat bleibt trotzdem gespeichert.
-
