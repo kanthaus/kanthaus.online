@@ -21,7 +21,7 @@ Wir möchten diese wertvollen, voll funktionsfähigen Zellen noch weiter nutzen 
 Im folgenden Artikel zeigen wir auf, wie wir aus alten Laptopakkus Zellen gewinnen, diese messen, neu zusammenbauen und mit Schutzschaltungen versehen, um am Ende ein Lastenfahrrad und Projekträume im Kanthaus autark mit Ökostrom zu versorgen.
 
 ## Bauform 18650
-![](https://codi.kanthaus.online/uploads/upload_55236d9f1d440c9e4434014de6be62a4.png)
+![](bauform18650.png)
 
 Li-Ion Zellen gibt es in allen Formen und Farben. Am verbreitetsten ist wohl die 18650 Bauform, etwas größer als eine AA Batterie. Wir haben uns aufgrund der hohen Vefügbarkeit auf diese spezialisiert.
 
