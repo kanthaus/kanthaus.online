@@ -119,4 +119,3 @@ taxonomy:
     - [matthias] likely thursday in a week (28.2.), interpolated from the waste calendar sheet going until 2019-01-31
 - [matthias] Do we rename the piano room now
     - will the piano stay in the palm room?!
-- propaganda for XR event

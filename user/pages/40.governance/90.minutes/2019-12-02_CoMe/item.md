@@ -33,9 +33,9 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - **Tuesday:** Anna and Alix leave
 - **Wednesday:**  findus comes back, Matthias comes back
 - **Thursday:** claudia leaves, Silvans grandparents visit for the evening
-- **Friday:** 
-- **Saturday:** 
-- **Sunday:** 
+- **Friday:**
+- **Saturday:**
+- **Sunday:**
 - **Any day:** Lise leaves for the weekend on thu or fri, nora leaves wed or thu
 
 ### 2. Changes to Governance
@@ -102,7 +102,7 @@ Due for evaluation soon:
 - Monday
     - 11:15 WuppWeek brainstorming meeting
     - 17:00 Knowledge sharing session, today's topic: Functional Programming in JavaScript
-    - 19:00 Women's choir 
+    - 19:00 Women's choir
     - 19:00 AcroYoga in Leipzig
     - 21:00 watching "hart aber fair" (with someone from XR) in the piano room
 - Tuesday
@@ -153,7 +153,7 @@ Due for evaluation soon:
     - office and silent office will definitely be heated, futon office maybe
     - some rooms should be heated a bit to prevent mold (e.g. snack kitchen, elephant room, bathroom)
     - maybe keep some more windowsills clear, but there are not so many other places for plants
-    - more ventilation! open windows 
+    - more ventilation! open windows
 - [Silvan] Would we like to have one/two Sprossenwände in the YogaRoom?
     - what is a sprossenwand? (Bodhi) -> https://images-na.ssl-images-amazon.com/images/I/71jSGxgGwLL._SY450_.jpg
     - maybe also useful for a high bed?

@@ -132,8 +132,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
     - Matthias thinks a non-electrified bike trailer wouldn't have much advantage to the current situation
     - ask [bodhi] who may be interested
     - [tilmann] let's be careful before accepting any further fundings
-- [matthias] another funding for AAA via wandel würzen?
-    - no resistance people like to be informed.
 - [michal] goes to swim to Wolfsberg every 2-3 days, join if you like
     - [maxime] and [wolfi] expressed interest
 - [matthias] clara is looking for her black/blue sneaker shoes

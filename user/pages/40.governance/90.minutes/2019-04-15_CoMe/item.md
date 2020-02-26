@@ -65,7 +65,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Successful experiments with Vurst
 - Unter einem Dach took place and we had a nice sign outside
 - Still, nobody came to the foodsharing leftover brunch :(
-- Doug and Clara went to Pödelwitz and then to Berlin for climate activism
 - Tilmann, Janina and Bruno held a Karrot meeting to clarify the next steps
 - Doug, Janina, Tilmann and Anja watched all three Christopher Nolan Batman movies
 - Anja brought buttons, transparent sheets and probably more goodies

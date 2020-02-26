@@ -56,7 +56,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 
 #### Things that happend:
 - Chandi became member! :D
-- Doug hosted a small XR meeting.
 - There was a lot of accounting work done, mostly by Matthias and Bodhi.
 - We held both our association meetings, facilitated by Laurina and Janina.
 - The very first Utopival meeting for this year took place, hosted by Chandi and Findus.

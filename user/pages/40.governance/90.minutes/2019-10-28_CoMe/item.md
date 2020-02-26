@@ -32,11 +32,11 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - **Monday:** Thore and Nathalie and Anja leave
 - **Tuesday:** Michal leaves until sunday, Maxime & Vince arrive
 - **Wednesday:** Lise and Bodhi leave
-- **Thursday:** 
-- **Friday:** 
-- **Saturday:** 
+- **Thursday:**
+- **Friday:**
+- **Saturday:**
 - **Sunday:** Janinas family visits
-- **Someday:** 
+- **Someday:**
 
 ### 2. Changes to Governance
 
@@ -57,16 +57,16 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 ##### Income
 <!-- Check the shoe in K20-0 and the donation box in the free shop in K22-0-3 -->
 - None
-- 
+-
 ##### MCM updates
 <!-- Project managers from tasks defined during the MCM should report about the current situation -->
-- Roof (Silvan, Tilmann): 
+- Roof (Silvan, Tilmann):
     - Corinna has been asked for a new meeting date
-   
+
 - Stuff (Bodhi, Matthias, Thore):
-  
+
 - Rooms (Janina, Nathalie):
-   
+
 
 ##### Things that happened
 - Mika arrived! (thanks to janina und tilmanns efforts to make and breed it over the last ~9 months!)

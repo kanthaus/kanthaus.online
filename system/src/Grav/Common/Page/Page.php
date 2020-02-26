@@ -608,12 +608,12 @@ class Page implements PageInterface
                 return $content;
             }
 
-            return mb_strimwidth($content, 0, $size, '...', 'utf-8');
+            return mb_strimwidth($content, 0, $size, '...', 'UTF-8');
         }
 
         $summary = Utils::truncateHtml($content, $size);
 
-        return html_entity_decode($summary);
+        return html_entity_decode($summary, ENT_COMPAT | ENT_HTML401, 'UTF-8');
     }
 
     /**
@@ -1694,7 +1694,7 @@ class Page implements PageInterface
             $metadata['generator'] = 'GravCMS';
 
             // Get initial metadata for the page
-            $metadata = array_merge($metadata, Grav::instance()['config']->get('site.metadata'));
+            $metadata = array_merge($metadata, Grav::instance()['config']->get('site.metadata', []));
 
             if (isset($this->header->metadata) && is_array($this->header->metadata)) {
                 // Merge any site.metadata settings in with page metadata
@@ -2828,7 +2828,7 @@ class Page implements PageInterface
         if ($pagination) {
             $params = $collection->params();
 
-            $limit = $params['limit'] ?? 0;
+            $limit = (int)($params['limit'] ?? 0);
             $start = !empty($params['pagination']) ? ($uri->currentPage() - 1) * $limit : 0;
 
             if ($limit && $collection->count() > $limit) {

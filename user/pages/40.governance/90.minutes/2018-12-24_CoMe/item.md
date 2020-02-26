@@ -44,7 +44,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 ### 2. Changes to Governance
 - None
 
-### 3. Last week review 
+### 3. Last week review
 <!-- Read counters in heating room and append to water.csv and gas.csv in https://gitlab.com/kanthaus/kanthaus-public/tree/master/resourcesUsed, otherwise the script will complain -->
 <!-- press the play button on https://gitlab.com/kanthaus/kanthaus-private/pipeline_schedules and it will print to #kanthaus-residence -->
 ##### Overview:
@@ -73,7 +73,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Once more we sung critical Christmas carols in Leipzig - this time also indoors! (Janina, Bodhi, Lise, Emma, Clara, Malin, Stella)
 - Lise made vegan cinnamon stars using aquafaba and wrote a blog post about it
 - Janina made surprisingly artsy name tags for the desk claiming system which is now almost done
-- Doug: bathroom door less noisy, XR Deutschland connection, 
+- Doug: bathroom door less noisy
 
 ### 4. Evaluations and check-ins
 

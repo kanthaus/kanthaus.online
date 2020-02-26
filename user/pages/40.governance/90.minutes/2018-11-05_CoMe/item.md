@@ -92,7 +92,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Thursday:
   - Power hour: 10.00
   - 35c3 Collective Ticket Buying Session 12:00
-   - Video conference with extinction rebellion for setting up new groups https://m.facebook.com/events/2072952342757936
 - Friday
   - yellow bag collection
   - Market pickup: 12:00 (Fausto, Matthias)

@@ -126,8 +126,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
     - General agreement.
 - [Clara] Solawi
     - Clara is in contact with Rote Beete to find out what conditions they'd offer for us. She'll keep us updated.
-- [Clara] XR discussion
-    - Informal round at or after dinner tonight..? Seems the only valid option right now.
 - [Doug] Patafix: proposal to use it on walls instead of tape. (pack costs €2.50 from Rossman, which is as cheap as ebay)
     - Patafix/bluetack is not eternally resuable, people should still take care when attaching (is the surface clean?) and removing (slow and careful), but the general experience is much better than with tape.
     - No resistance.
