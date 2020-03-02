@@ -5,9 +5,6 @@ routes:
         - '/docs/visiting'
 ---
 
-Achtung: **Den kompletten Februar über** findet unser [Ruhemonat](/events/2020-02-01_month-of-introspection) statt. <br> In dieser Zeit ist das Kanthaus **geschlossen für Gäste und Gruppen!** <br> Wir nehmen uns diesen einen Monat im Jahr, um innerhalb der langfristigen Gemeinschaft Zeit zu verbringen, zu reflektieren und zu entspannen.
-
----
 Du möchtest uns besuchen? Toll! Lies bitte weiter...
 
 ## Hosting
