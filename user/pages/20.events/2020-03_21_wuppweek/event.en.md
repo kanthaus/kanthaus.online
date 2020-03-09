@@ -1,5 +1,5 @@
 ---
-title: 'Roof construction week'
+title: 'Dach-Bauwoche'
 date: '2020-03-21 15:00'
 enddate: '2020-03-29 15:00'
 header_image: false
