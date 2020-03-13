@@ -1,9 +1,17 @@
 ---
-title: 'Dach-Bauwoche'
+title: 'ABGESAGT: Dach-Bauwoche'
 date: '2020-03-21 15:00'
 enddate: '2020-03-29 15:00'
 header_image: false
 ---
+
+**AKTUALISIERUNG: Die Bauwoche ist abgesagt. Wir wollen mithelfen, die Verbreitung des Corona-Virus zu verlangsamen. Das beste Mittel hierfür scheint zu sein, soziale Kontakte in den nächsten Wochen einzuschränken.**
+
+**Unser Dach braucht nach wie vor Arbeit, daher wird es voraussichtlich im Mai die nächste Bauwoche geben.**
+
+---
+
+Alte Ankündigung:
 
 Es geht weiter, diesmal hauptsächlich an der frischen Luft. Wir wollen gemeinsam mit euch unser Dach für die Renovierung vorbereiten: das heißt Gerüst aufbauen, Kamin abtragen, Bitumen entfernen und vieles mehr! Auch die Gemeinschaftszeit soll nicht zu kurz kommen :)
 

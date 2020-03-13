@@ -1,9 +1,17 @@
 ---
-title: 'Roof construction week'
+title: 'CANCELLED: Roof construction week'
 date: '2020-03-21 15:00'
 enddate: '2020-03-29 15:00'
 header_image: false
 ---
+
+**UPDATE: The roof construction week is cancelled. We want to help to slow down the spread of the corona virus. The best way seems to be to limit social contact in the next weeks.**
+
+**But our roof still needs work. Expect another construction week in May**
+
+---
+
+Old announcement:
 
 It continues, this time mainly in the fresh air. Together with you we want to prepare our roof for the renovation: that means putting up a scaffolding, removing the chimney, removing bitumen and much more! But don't worry, we wont be working 12 hours a day, there will also be pleanty of community time :)
 
