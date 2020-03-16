@@ -1,8 +1,14 @@
 ---
-title: "Trustroots Hackweek"
+title: "ABGESAGT: Trustroots Hackweek"
 date: "2020-04-11"
 enddate: "2020-04-19"
 header_image: false
+---
+
+**AKTUALISIERUNG: Die Hackweek ist vorerst ist abgesagt. Wir wollen mithelfen, die Verbreitung des Corona-Virus zu verlangsamen. Das beste Mittel hierfür scheint zu sein, soziale Kontakte in den nächsten Wochen einzuschränken.**
+
+**Wir überlegen gerade, wie eine Online-Variante des Events aussehen könnte.**
+
 ---
 
 Die coolere Schwester von Couchsurfing lädt ein zu einer Hackweek! [Trustroots](https://www.trustroots.org/) ist eine Open Source Plattform, auf der eine tolle Community von Reisenden, Trampern, Veränderern und generell offenen Menschen sich gegenseitig unentgeldlich mit Übernachtungsmöglichkeiten und Kontakten versorgt.

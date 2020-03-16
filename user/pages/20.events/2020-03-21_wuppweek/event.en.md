@@ -9,7 +9,7 @@ header_image: false
 
 **But our roof still needs work. Expect another construction week in May**
 
----
+===
 
 Old announcement:
 
@@ -18,8 +18,6 @@ It continues, this time mainly in the fresh air. Together with you we want to pr
 <div markdown="1" style="text-align:center;">
 ![People working on the roof](/renovation.png)
 </div>
-
-===
 
 The building week will take place from 22 to 29 March at Kantstraße 20, 04808 Wurzen.
 You are welcome to arrive already on the 21st (Saturday), preferably in the afternoon. On Sunday we will prepare the work and on Monday we will really start.

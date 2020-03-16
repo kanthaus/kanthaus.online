@@ -1,8 +1,14 @@
 ---
-title: "foodsharing.de hackweek"
+title: "CANCELLED: foodsharing.de hackweek"
 date: "2020-04-25"
 enddate: "2020-05-03"
 header_image: false
+---
+
+**UPDATE: The in-person hackweek is provisionally cancelled. We want to help to slow down the spread of the corona virus. The best way seems to be to limit social contact in the next weeks.**
+
+**We are thinking about how an online version of the event could look like.**
+
 ---
 
 It's time for another foodsharing hackweek!

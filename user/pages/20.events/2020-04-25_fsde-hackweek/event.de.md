@@ -1,8 +1,14 @@
 ---
-title: "foodsharing.de Hackweek"
+title: "ABGESAGT: foodsharing.de Hackweek"
 date: "2020-04-25"
 enddate: "2020-05-03"
 header_image: false
+---
+
+**AKTUALISIERUNG: Die Hackweek ist vorerst ist abgesagt. Wir wollen mithelfen, die Verbreitung des Corona-Virus zu verlangsamen. Das beste Mittel hierfür scheint zu sein, soziale Kontakte in den nächsten Wochen einzuschränken.**
+
+**Wir überlegen gerade, wie eine Online-Variante des Events aussehen könnte.**
+
 ---
 
 Es ist Zeit für die nächste foodsharing Hackweek!

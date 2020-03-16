@@ -9,7 +9,7 @@ header_image: false
 
 **Unser Dach braucht nach wie vor Arbeit, daher wird es voraussichtlich im Mai die nächste Bauwoche geben.**
 
----
+===
 
 Alte Ankündigung:
 
@@ -19,8 +19,6 @@ Es geht weiter, diesmal hauptsächlich an der frischen Luft. Wir wollen gemeinsa
 <div markdown="1" style="text-align:center;">
 ![People working on the roof](/renovation.png)
 </div>
-
-===
 
 Stattfinden wird die Wuppwoche vom 22. bis 29. März in der Kantstraße 20, 04808 Wurzen.
 Ihr könnt gerne schon am 21. (Samstag) anreisen, vorzugsweise nachmittags. Am Sonntag werden wir die Arbeiten vorbereiten und am Montag geht es dann richtig los.
