@@ -18,6 +18,7 @@ cache:
     method: file
   driver: auto
   prefix: 'g'
+  lifetime: 600 # 10min
 
 twig:
   cache: true
