@@ -10,4 +10,4 @@ content:
 showitemdates: true
 ---
 
-All press releases so far are in German. We're very sorry for the potential inconveniences for non German speakers and added English summaries in most posts.
+All press releases so far are in German. We're very sorry for the potential inconveniences for non German speakers and added English summaries in some posts.

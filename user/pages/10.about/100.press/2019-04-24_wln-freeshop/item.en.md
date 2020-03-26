@@ -1,5 +1,5 @@
 ---
-title: "Wurzener Land Nachrichten: Kanthaus residents open free shop"
+title: "Wurzener Land Nachrichten: Verschenkeladen-Eröffnung"
 date: "2019-04-23"
 header_image: false
 ---

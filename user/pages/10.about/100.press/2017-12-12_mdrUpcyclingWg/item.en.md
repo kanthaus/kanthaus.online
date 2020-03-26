@@ -1,5 +1,5 @@
 ---
-title: "MDR Hörfunk"
+title: "MDR Hörfunk: Die Upcycling WG"
 date: "2017-12-12"
 ---
 

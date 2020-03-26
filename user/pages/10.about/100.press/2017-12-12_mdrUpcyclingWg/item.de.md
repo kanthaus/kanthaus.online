@@ -1,5 +1,5 @@
 ---
-title: "MDR Hörfunk"
+title: "MDR Hörfunk: Die Upcycling WG"
 date: "2017-12-12"
 ---
 
@@ -41,7 +41,7 @@ Dort soll es Essen, Möbel, Kleidung geben, natürlich kostenlos.
 
 #### Unser Feedback
 
-Wir gaben noch folgendes Feedback, welches leider nicht mehr eingebaut wurde:
+Laurina gab noch folgendes Feedback, welches leider nicht mehr eingebaut wurde:
 
 Vielleicht lieber:
 "Viele der im Projekt lebenden Menschen haben studiert."

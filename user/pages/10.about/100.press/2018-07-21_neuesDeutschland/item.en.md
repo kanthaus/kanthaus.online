@@ -1,5 +1,5 @@
 ---
-title: Neues Deutschland about Kanthaus
+title: 'Neues Deutschland: Retten, teilen, verändern'
 date: "2018-07-21"
 header_image: false
 ---

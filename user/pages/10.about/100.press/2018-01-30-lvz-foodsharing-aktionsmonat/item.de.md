@@ -1,5 +1,5 @@
 ---
-title: Foodsharing-Aktionsmonat (LVZ)
+title: 'LVZ: Foodsharing-Aktionsmonat'
 date: "2018-01-30"
 header_image: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Oya: Spaces for sighs in your biography"
+title: "Oya: Orte für biographische Seufzer"
 date: "2018-10-17"
 header_image: false
 ---
