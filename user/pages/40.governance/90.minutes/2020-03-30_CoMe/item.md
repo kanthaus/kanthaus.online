@@ -1,6 +1,6 @@
 ---
 title: Coordination Meeting
-date: "2020-03-23"
+date: "2020-03-30"
 taxonomy:
     tag: [come]
 ---
@@ -21,7 +21,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
   - Instead of clearing the pad, you can copy over the template (https://codi.kanthaus.online/come-template) - but make sure the template is up-to-date. Also, keep everything that's relevant for next week.
   - Have fun!
 -->
-- Date: 2020-03-23
+- Date: 2020-03-30
 - Facilitator: Lise
 - Notary: Janina
 - Physical board caretaker: Clara
