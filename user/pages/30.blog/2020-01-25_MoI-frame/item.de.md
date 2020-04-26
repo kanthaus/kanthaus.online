@@ -20,7 +20,7 @@ Normalerweise herrscht ein ständiges Kommen und Gehen im Kanthaus. Zusätzlich 
 
 _"Wer gehört zur Kanthaus-Gemeinschaft?"_ ist meiner Meinung nach die _falsche_ Frage, um den Rahmen des MoI zu bestimmen. Ich finde es besser zu fragen wie wir eine **Zeit der minimalen sozialen Turbulenzen** schaffen können. (Beide Fragen entziehen sich wissenschaftlicher Sicherheit!)
 
-I glaube die Kriterien dafür, wer zum MoI eingeladen ist und wer nicht, sind in etwa folgende:
+Ich glaube die Kriterien dafür, wer zum MoI eingeladen ist und wer nicht, sind in etwa folgende:
 - Eingeladen: momentane Freiwillige und Mitglieder
 - Nicht eingeladen: völlige Neulinge (auch wenn sie cool erscheinen) und Gruppen (auch wenn wir deren Mitglieder kennen)
 - Mögliche Einladung: momentane BesucherInnen und vorherige Bewohnis jedweder Position
@@ -36,7 +36,7 @@ Diese letzte Bedingung ist der wohl unklarste Part. Bisher sind Leute so vorgega
 Ich mag keine willkürlichen Abläufe, dennoch denke ich, dass der Prozess einstimmig ist, deshalb würde ich ihn gern diesen MoI für den nächsten formalisieren :)
 Der einzige neue Vorschlag von mir ist die 'Meinungs-Bedingung' nach dem Schema unserer Evaluationen zu formalisieren:
 - Anfrage in #kh_vol_and_mem posten
-- :+1: = Unterstützung, :ok_hand: = Akzeptanz, :-1: = Widerstand
+- 👍 = Unterstützung, 👌 = Akzeptanz, 👎 = Widerstand
 - läuft eine Woche oder bis alle im Channel emojied haben
-- Ergebnis funktioniert wie bei Evaluationen: Eingeladen wenn 3 :+1: pro 1 :-1: oder mehr
+- Ergebnis funktioniert wie bei Evaluationen: Eingeladen wenn 3 👍 pro 1 👎 oder mehr
 - (anders als in Evaluationen sind Diskussion und Wahl asynchron)

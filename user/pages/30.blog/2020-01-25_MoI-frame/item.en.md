@@ -35,7 +35,7 @@ This last requirement seems to be most unclear part. Until now people have done 
 
 I don't like arbitrary process, yet I think the process is unanimous, so I would like to formalize it this MoI for next :) The only new proposal I would make is to formalize the 'opinion requirement' by modifying our evaluation process:
 - request posted in #kh_vol_and_mem
-- :+1: = support, :ok_hand: = accept, :-1: = oppose
+- 👍 = support, 👌 = accept, 👎 = oppose
 - one week/until everyone in channel has emojied
-- outcome same as evaluations: invited if 3 :+1: to 1 :-1: or greater
+- outcome same as evaluations: invited if 3 👍 to 1 👎 or greater
 - (unlike evaluations, discussion/voting will be asynchronous)
