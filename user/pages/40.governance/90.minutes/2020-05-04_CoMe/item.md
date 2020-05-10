@@ -41,7 +41,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 #kanthaus-residence -->
 
 <!-- Facilitator: you can invite somebody to present the stats! -->
-<!-- insert here the output you find in #kanthaus-residence -->¨
+<!-- insert here the output you find in #kanthaus-residence -->
 
 - **Present:** 15.0 people / day _-1.7_
 - **Average outdoor temperature:** 15.1 °C _+1.0 °C)_
