@@ -28,6 +28,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Digital calendar caretaker: Doug
 - Discussion timekeeper: Matthias
 - Present: Matthias, Clara, Felix, Doug, Anja, Janina, Tilmann, Nathalie, Silvan, Larissa, Maxime, Lise, Thore
+
 ----
 
 <!-- 0. Minute of silence -->
@@ -41,9 +42,6 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 
 <!-- Facilitator: you can invite somebody to present the stats! -->
 <!-- insert here the output you find in #kanthaus-residence -->¨
-
-![usage graph last 90 days](https://codi.kanthaus.online/uploads/upload_8c58a91787281b72b8460318f4139336.png "Usage during the last 90 days")
-*(Usage during the last 90 days)*
 
 - **Present:** 15.0 people / day _-1.7_
 - **Average outdoor temperature:** 15.1 °C _+1.0 °C)_
