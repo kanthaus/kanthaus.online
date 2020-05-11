@@ -176,4 +176,4 @@ Run lottery: https://kanthaus.gitlab.io/dinner-lottery/
 <!-- Results to be copied on the physical board -->
 
 ### 8. For next week
-- Anja's evaluation
+- Anja's evaluation.
