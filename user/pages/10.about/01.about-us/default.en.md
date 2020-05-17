@@ -52,4 +52,8 @@ img {
 
 **Why is Kanthaus called _Kanthaus_?**
 
-Our project was named after the street it is located on, Kantstraße, not the philosopher, Immanuel Kant. We chose the name largely because we weren't creative enough to think of a better one! However unintentional, there is still a connection between the philosopher and the house, and we sometimes talk about his philosophies. Eventually we found out that Kant, like many philosophers of that time, was unfortunately not very progressive in his opinion towards women and non-white people. While he reconsidered his racist attitudes towards the end of his life, he unfortunately never did so for his opinion towards women. This [article](https://www.ukrant.nl/magazine/kant-was-a-sexist/?lang=en) gives a good introduction. Knowing this has affected our interpretation of his ideas we encourage others to be critical when considering the effect his opinions on women will have had on his philosophy. 
+Our project was named after the street it is located on, Kantstraße, not the philosopher, Immanuel Kant. We chose the name largely because we weren't creative enough to think of a better one! 
+
+However unintentional, there is still a connection between the philosopher and the house, and we sometimes talk about his philosophies. Eventually we found out that Kant, like many philosophers of that time, was unfortunately not very progressive in his opinion towards women and non-white people. While he reconsidered his racist attitudes towards the end of his life, he unfortunately never did so for his opinion towards women.
+
+This [article](https://www.ukrant.nl/magazine/kant-was-a-sexist/?lang=en) gives a good introduction. Knowing this has affected our interpretation of his ideas we encourage others to be critical when considering the effect his opinions on women will have had on his philosophy. 
