@@ -29,6 +29,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
 - Digital calendar caretaker: Doug
 - Discussion timekeeper: 
 - Present: Silvan, Lise, Felix, Larissa, Cille, Anja, Doug, Matthias, Clara, Bodhi, Tilmann, Janina, Jums, Maxime
+
 ----
 
 <!-- 0. Minute of silence -->
