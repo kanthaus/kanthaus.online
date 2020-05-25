@@ -175,14 +175,6 @@ forgot Evaluations? -->
 ### 7. Dinner lottery/food recommendation
 Run lottery: https://kanthaus.gitlab.io/dinner-lottery/
 
-Monday not: Matthias
-Tuesday not: Anja, Larissa, Janina
-Wednesday not: Larissa
-Thursday not: Anja, Larissa, Felix, Janina, Jums, Lise, Maxime
-Friday not: Felix, Matthias, Jums
-
-Whole week not: Silvan, Clara
-
 <!-- Results to be copied on the physical board -->
 
 ### 8. For next week
