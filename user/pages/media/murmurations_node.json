@@ -1,1 +1,14 @@
-{"name":"Kanthaus","url":"https:\/\/kanthaus.online","tagline":"House for sustainable project workers.","mission":"To enable people to work for purpose by sharing material resources in common. Addition test 2020-06-29, 02:11","nodeTypes":"co-op,community","location":"Wurzen, Germany","logo":"https:\/\/kanthaus.online\/pics\/newLogo.png","feed":"","tags":"Commons, sharing, software, activism, housing, community, DIT","lat":"51.36707","lon":"12.74076","updated":1592154672}
+{
+  "name":"Kanthaus",
+  "url":"https:\/\/kanthaus.online",
+  "tagline":"House for sustainable project work(ers).",
+  "mission":"To enable people to act from purpose by sharing material resources in common.",
+  "nodeTypes":"co-op,community",
+  "location":"Wurzen, Germany",
+  "logo":"https:\/\/kanthaus.online\/pics\/newLogo.png",
+  "feed":"",
+  "tags":"Commons, sharing, software, activism, housing, community, DIT",
+  "lat":"51.36707",
+  "lon":"12.74076",
+  "updated":1592154672
+}
