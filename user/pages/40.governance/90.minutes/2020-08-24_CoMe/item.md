@@ -14,7 +14,7 @@ taxonomy:
 - Physical board caretaker:  Lise
 - Digital calendar caretaker: Doug
 - Corona board updater:
-- Present: Maxime, Antonin, Chandi, Nathalie, Thore, Lise, Anja, Doug
+- Present: Maxime, Antonin, Chandi, Nathalie, Thore, Lise, Anja, Doug, Janina, Tilmann
 
 ----
 
