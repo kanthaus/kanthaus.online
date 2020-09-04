@@ -21,7 +21,7 @@ description: "Selbstbestimmung, Gleichwertigkeit und Akzeptanz leben."
 </div>
 <br>
 
-Seit Sommer 2017 gibt es das Projekthaus und Wohnprojekt _Kanthaus_ in den Häusern in der Kantstraße 20 und 22 in Wurzen. Den bewussten und effektiven Umgang mit Ressourcen haben wir uns auf die Fahne geschrieben und [Foodsharing](../foodsharing) ist das Thema, das uns alle zusammengebracht hat. Die Gesichter, die dir im Kanthaus begegnen, sind immer mal andere, denn wir sind Teil eines [großen Netzwerkes](https://yunity.org) von ökologisch und sozial eingestellten Menschen aus ganz Deutschland und darüber hinaus. Normalerweise halten sich um die zehn Menschen im Kanthaus auf; bei Veranstaltungen auch mal deutlich mehr, selten weniger.
+Seit wir Sommer 2017 die Häuser in der Kantstraße 20 und 22 gekauft haben, gibt es das Projekthaus und Wohnprojekt _Kanthaus_ in Wurzen. Den bewussten und effektiven Umgang mit Ressourcen haben wir uns auf die Fahne geschrieben und [Foodsharing](../foodsharing) ist das Thema, das uns alle zusammengebracht hat. Die Gesichter, die dir im Kanthaus begegnen, sind immer mal andere, denn wir sind Teil eines [großen Netzwerkes](https://yunity.org) von ökologisch und sozial eingestellten Menschen aus ganz Deutschland und darüber hinaus. Normalerweise halten sich um die zehn Menschen im Kanthaus auf; bei Veranstaltungen auch mal deutlich mehr, selten weniger.
 
 Wir fördern den Austausch und die echte Begegnung zwischen den Menschen. Wir wollen eine Kultur des Teilens, des Reparierens, des Wiederverwendens und Wertschätzens etablieren. Einerseits um die Umwelt zu schonen, andererseits um die Menschen zusammen zu bringen.
 
@@ -62,4 +62,3 @@ Unser Projekt ist in erster Linie nach der _Kantstraße_ benannt, in welcher es 
 In seiner Philosophie finden wir Konzepte, die uns ansprechen, aber auch solche, die wir kritisch sehen. Zudem ist es uns wichtig darauf hinzuweisen, dass Kant wohl auch, wie leider viele Philosophen zu dieser Zeit, nicht unbedingt progressiv war, was seine Meinung gegenüber Frauen und nicht-weißen Menschen anging. Während er seine rassistischen Einstellungen gegen Ende seines Lebens überdachte, tat er dies leider nie für seine Meinung gegenüber Frauen.
 
 Dieser Hintergrund wird unserer Meinung nach häufig nicht genug berücksichtigt, wenn über Kants Philosophien gesprochen wird. Wir möchten daher alle ermutigen kritisch zu sein und zu hinterfragen, welchen Einfluss Kants Frauenbild auf seine Philosophie hatte. [Dieser](https://www.zeit.de/kultur/2018-03/sexismus-kunst-feminismus-kanon-zensur-kritik/komplettansicht) Artikel gibt einen ganz guten Überblick über Sexismus in der Kunst und Literatur, auch Immanuel Kant wird thematisiert.
-
