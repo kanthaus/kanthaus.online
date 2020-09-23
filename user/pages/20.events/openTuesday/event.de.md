@@ -1,7 +1,7 @@
 ---
 title: "Offener Dienstag"
-date: "2020-09-15 16:00"
-enddate: "2020-09-15 18:00"
+date: "2020-09-29 16:00"
+enddate: "2020-09-29 18:00"
 header_image: false
 ---
 
