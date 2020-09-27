@@ -14,3 +14,4 @@ taxonomies: [tag,author]
 
 redirects:
   /public: 'https://cloud.kanthaus.online/s/DxoG5LFRqz6dfdp'
+  /solar: 'https://grafana.yunity.org/d-solo/vb7hcZOGz/solar?orgId=4&refresh=10s&var-period=1m&panelId=2'
