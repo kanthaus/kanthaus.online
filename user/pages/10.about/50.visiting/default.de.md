@@ -39,7 +39,7 @@ Inzwischen waren bereits einige Gruppen hier, und folgender Ablauf hat sich als 
 - Wir leben funktional und vergeben im Normalfall keine Privatzimmer. Falls du gern einen nur für dich reservierten Raum haben möchtest, sprich darüber mit deinem Host. Falls du garnicht weißt worum es beim funktionalen Wohnen geht, lies zB [diesen Artikel](https://www.deutschlandfunknova.de/beitrag/funktionales-wohnen-wg-mit-gemeinsamem-schlafzimmer).
 - Wir retten so gut wie alle Lebensmittel, die wir essen. Das bedeutet, dass du niemandem einen Gefallen tust, wenn du Essen für uns kaufst. Falls du nett sein und etwas beitragen möchtest, tu lieber ein paar Euro in den Spendenschuh.
 - Es ist möglich länger im Kanthaus zu bleiben, aber das hängt von vielen Faktoren ab. Komm erstmal nur für einen Besuch vorbei und warte ab, wie das so läuft. Falls es dann interessant für dich ist länger zu bleiben, sprich mit deinem Host über [Positionen und Evaluationen](/governance/positionsandevaluations).
-- Wenn du ankommst, sollte dir dein Host bald eine Hausführung geben und dir die Grundlagen erklären. Wenn du schonmal einen Vorgemschmack bekommen möchtest, kannst du [das dazugehörige Dokument](visiTour) lesen.
+- Wenn du ankommst, sollte dir dein Host bald eine Hausführung geben und dir die Grundlagen erklären. Wenn du schonmal einen Vorgeschmack bekommen möchtest, kannst du [das dazugehörige Dokument](visiTour) lesen.
 
 Die Adresse ist [Kantstraße 20, Wurzen 04808](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N). Bitte erwähne "phancy physalis", wenn du uns das erste Mal schreibst, sodass wir wissen, dass du dieses Dokument gelesen hast.
 
