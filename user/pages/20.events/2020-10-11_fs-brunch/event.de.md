@@ -4,6 +4,8 @@ date: '2020-10-11 11:00'
 enddate: '2029-10-11 13:00'
 ---
 
+**ACHTUNG**: Aufgrund von Corona bitten wir um verbindliche Anmeldungen!
+
 Bring das mit, was bei dir diese Woche übrig geblieben ist und lass uns in geselliger Runde gemeinsam essen und quatschen!
 
 Beim foodsharing Mitbring-Brunch geht es darum, zusammenzukommen.

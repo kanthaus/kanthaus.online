@@ -4,6 +4,8 @@ date: '2020-10-11 11:00'
 enddate: '2029-10-11 13:00'
 ---
 
+**Attention**: Due to corona we ask people to tell us in advance if they come!
+
 Bring what you have left over from last week and let's have a nice time while eating and talking together!
 
 The foodsharing leftover brunch is about coming together.
