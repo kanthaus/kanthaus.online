@@ -1,7 +1,7 @@
 ---
 title: 'foodsharing leftover brunch'
 date: '2020-09-13 11:00'
-enddate: '2029-09-13 13:00'
+enddate: '2020-09-13 13:00'
 ---
 
 Bring what you have left over from last week and let's have a nice time while eating and talking together!

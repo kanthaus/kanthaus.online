@@ -1,7 +1,7 @@
 ---
 title: 'foodsharing Mitbring-Brunch'
 date: '2020-09-13 11:00'
-enddate: '2029-09-13 13:00'
+enddate: '2020-09-13 13:00'
 ---
 
 Bring das mit, was bei dir diese Woche übrig geblieben ist und lass uns in geselliger Runde gemeinsam essen und quatschen!
