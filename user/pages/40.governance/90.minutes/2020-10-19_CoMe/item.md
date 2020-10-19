@@ -32,7 +32,7 @@ taxonomy:
 - **Water:** 2.83 € / day; _+0.1 €_
 - **Electricity:** 3.86 € / day + 2.4€/day provided by the sun
 
-**Total cost per person per day:** 21.28 ct _-1.04 ct_
+**Total cost per person per day:** 50 ct
 
 ##### Corona framework points
 - 112
