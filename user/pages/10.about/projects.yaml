@@ -11,13 +11,15 @@ current:
     contact: Silvan
     image: auerworld.png
 
-  - name: Extinction Rebellion
-    url: https://extinctionrebellion.de/og/leipzig/
+  - name:
+      en: Local BUND group Wurzen
+      de: BUND Ortsgruppe Wurzen
+    url: https://bund.net/
     sub:
-      en: Environmental movement using non-violent civil disobedience to create awareness for climate change and mass extinction
-      de: Mit gewaltfreiem zivilem Ungehorsam auf den drohenden Klimakollaps und das massive Artensterben aufmerksam machen
-    contact: Clara, Bodhi, Matthias
-    image: xr.png
+      en: Representing the big environmentalist NGO in Wurzen
+      de: Die lokale Gruppe der großen Naturschutzorganisation
+    contact: Lise
+    image: bund.png
 
   - name:
       de: Foodsharing Akademie
@@ -27,7 +29,7 @@ current:
       de: Bildungsarbeit zum Thema Lebensmittelverschwendung
       en: Educational work about food waste
     contact: Thore
-    image: foodsharing_academy.jpg
+    image: foodsharing_academy.png
 
   - name:
       en: Foodsharing.de code
@@ -64,7 +66,7 @@ current:
     sub:
       de: Eine lokale Foodsharing-Initiative starten und am Laufen halten
       en: Starting a local foodsharing initiative and keeping it running
-    contact: Janina, Lise, Thore
+    contact: Janina, Nathalie, Thore, Lise
     image: foodsharing_wurzen.jpg
 
   - name: Foodsaving Worldwide
@@ -75,13 +77,13 @@ current:
     contact: Janina
     image: foodsaving_worldwide.jpg
 
-  - name: gerechte1komma5
-    url: https://gerechte1komma5.de
-    sub:
-      en: "Climate plan from botton up: campaign to collect and enforce socially and globally equitable measures to limit global warming to 1.5°C"
-      de: "Klimaplan von unten: Kampagne um sozial und global gerechte Maßnahmen, die die globale Erwärmung auf 1,5°C begrenzen, zu sammeln und umzusetzen"
-    contact: findus
-    image: g1k5.png
+#  - name: gerechte1komma5
+#    url: https://gerechte1komma5.de
+#    sub:
+#      en: "Climate plan from botton up: campaign to collect and enforce socially and globally equitable measures to limit global warming to 1.5°C"
+#      de: "Klimaplan von unten: Kampagne um sozial und global gerechte Maßnahmen, die die globale Erwärmung auf 1,5°C begrenzen, zu sammeln und umzusetzen"
+#    contact: findus
+#    image: g1k5.png
 
   - name: Inventaire.io
     url: https://inventaire.io
@@ -96,7 +98,7 @@ current:
     sub:
       en: Planning and development of the multilingual webapp to support foodsaving groups
       de: Planung und Entwicklung der mehrsprachigen Foodsaving-Webapp
-    contact: Tilmann, Nick, Janina
+    contact: Tilmann, Janina
     image: karrot.png
 
   - name: KeinMüllWagen
@@ -104,8 +106,18 @@ current:
     sub:
       en: Managing logistics for sustainability projects
       de: Transportkapazität für Nachhaltigkeitsprojekte
-    contact: Matthias, Bodhi
+    contact: Matthias, Bodhi, Silvan
     image: KMW.jpg
+
+  - name:
+      en: Legal support for activists
+      de: Rechtshilfe für Aktivistis
+    url:
+    sub:
+      en: Fighting repression by using the law
+      de: Mit dem Gesetz gegen Repression kämpfen
+    contact: Lise, Bodhi
+    image: legalsupport.svg
 
   - name:
       en: Modular 48V lithium batteries
@@ -118,13 +130,23 @@ current:
     image: modularLithiumBatteries.jpg
 
   - name:
+      en: OpenRefine
+      de: OpenRefine
+    url: https://openrefine.org/
+    sub:
+      en: A free, open source, powerful tool for working with messy data
+      de: Die Open Source Lösung zum Bändigen unschöner Datensätze
+    contact: Antonin
+    image: openrefine.png
+
+  - name:
       en: Progressive governance
       de: Progressive Administration
     url: governance/constitution
     sub:
       en: Researching, condensing and refining future-proof ways of living and working together
       de: Zukunftstaugliche Arten des Zusammenlebens und -arbeitens recherchieren, kondensieren und verbessern
-    contact: Doug
+    contact: Doug, Janina, Lise
     image: progressive_governance.png
 
   - name:
@@ -134,7 +156,7 @@ current:
     sub:
       de: Wasser, Strom, Heizung und dichte Dächer
       en: Water, electricity, heating and rain-proof roofs
-    contact: Matthias, Bodhi
+    contact: Tilmann, Matthias, Bodhi
     image: renovation.png
 
   - name:
@@ -144,18 +166,18 @@ current:
     sub:
       de: Beherrsche die Technik, nicht andersherum
       en: Reclaim control over your technological devices
-    contact: Matthias, Silvan
+    contact: Doug, Matthias, Silvan
     image: repaircafe.jpg
 
-  - name:
-      en: The foodsharing festival
-      de: Das foodsharing Festival
-    url: http://www.foodsharing-festival.org/
-    sub:
-      en: Everything that's needed to hold the annual foodsharing Festival in Berlin
-      de: Alles was notwendig ist um das alljährliche foodsharing Festival in Berlin stattfinden zu lassen
-    contact: Nathalie, Thore
-    image: foodsharing_festival.jpg
+#  - name:
+#      en: The foodsharing festival
+#      de: Das foodsharing Festival
+#    url: http://www.foodsharing-festival.org/
+#    sub:
+#      en: Everything that's needed to hold the annual foodsharing Festival in Berlin
+#      de: Alles was notwendig ist um das alljährliche foodsharing Festival in Berlin stattfinden zu lassen
+#    contact: Nathalie, Thore
+#    image: foodsharing_festival.jpg
 
   - name: Trichter
     url: https://trichter.cc/
