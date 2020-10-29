@@ -38,13 +38,9 @@
 }
 
     .photo-box img {
-        max-width: 100%;
-        height: auto;
-        min-height: 190px;
-        display: block;
-        margin: 0 auto;
-        max-height: 240px;
-        width: auto;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
     }
 
     .photo-box .caption {
