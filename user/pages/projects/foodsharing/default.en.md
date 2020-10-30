@@ -48,5 +48,5 @@ If nothing comes up our regular dates are as follows:
 - Kantstraße 20
 
 ## Take part!
-You want to participate?br>
+You want to participate?
 Awesome! Have a look in the [events section](/events) to see if the next meet-up will happen as planned and drop by! Or simply write us a [mail](mailto:hello@kanthaus.online) and we'll gladly tell you how to get involved!
