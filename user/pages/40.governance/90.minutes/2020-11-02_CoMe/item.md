@@ -7,7 +7,7 @@ taxonomy:
 
 <!-- CoMe facilitation advice and requirements: https://gitlab.com/kanthaus/kanthaus-governance/-/blob/master/documents/coordinationMeeting/coMeFacilitationAdvice.md -->
 
-# CoMe #163
+# CoMe #164
 
 - Date: 2020-11-02
 - Facilitator: Thore
