@@ -141,8 +141,6 @@ _to be scheduled:_
 - [Janina] Proposal for sleeping spot management
     - Use Karrot instead of reservation sheets between 9 pm and 9 am
     - There is a group in which all rooms are set up as 'pickups': https://karrot.world/#/group/114/
-    - [tbr?] More details on the proposal: https://codi.kanthaus.online/sleepingOrga
-      - [tbr?] there is a password for the karrot account written in the pad which is publically linked on the website when CoMe is published
     - I'll host a knowledge sharing today to show Karrot in more detail
     - Let's try it out this week and see how it goes! :)
     - concerns: only available online. could be difficult for visitors / add some barriers 
