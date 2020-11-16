@@ -8,7 +8,11 @@ title: "Contact"
 - slack: #kanthaus on [yunity.slack.com](https://yunity.slack.com) (Get invited via [slackin.yunity.org](https://slackin.yunity.org))
 - facebook: [Kanthaus](https://www.facebook.com/kanthaus.online/) (in German)
 - address: [Kantstraße 20, 04808 Wurzen, Germany](https://www.openstreetmap.org/search?query=20%20kantstrasse%20wurzen#map=19/51.36711/12.74075&layers=N)
-- bank details: Wandel Würzen e.V., IBAN: DE78 4306 0967 1233 1253 00  BIC: GENODEM1GLS
+- bank details:
+  - Wandel Würzen e.V.
+  - IBAN: DE78 4306 0967 1233 1253 00
+  - BIC: GENODEM1GLS
+  - Please put the reference "donation" to donate money to us. If you need a donation confirmation, please contact us.
 
 ## How to get here
 

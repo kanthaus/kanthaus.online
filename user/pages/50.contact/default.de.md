@@ -12,7 +12,7 @@ title: Kontakt
   - Wandel Würzen e.V.
   - IBAN: DE78 4306 0967 1233 1253 00
   - BIC: GENODEM1GLS
-  - Bitte schreibe uns eine Email, wenn du eine Spendenbescheinigung benötigst.
+  - Bitte verwende den Betreff "Spende", wenn du uns Geld spenden möchtest. Für die Ausstellung einer Spendenbescheinigung, kontaktiere uns.
 
 ## Anfahrt
 
