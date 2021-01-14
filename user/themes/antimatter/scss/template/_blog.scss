@@ -76,6 +76,13 @@
             font-style: normal;
             text-transform: uppercase;
         }
+        div {
+            position:absolute;
+            font-size: 1.25rem;
+            top: 0.8rem;
+            right: 1.5rem;
+            transform: rotate(90deg);
+        }
     }
 }
 
