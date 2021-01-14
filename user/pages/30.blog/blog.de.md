@@ -8,7 +8,6 @@ content:
     limit: 10
     pagination: true
 showitemdates: true
-showitemdateintitle: false
 ---
 ### Wilkommen auf dem Kanthaus Blog!
 

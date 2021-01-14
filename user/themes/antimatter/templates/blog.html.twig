@@ -20,7 +20,7 @@
 		<div class="content-wrapper blog-content-list">
 			<div id="listing" class="block h-feed">
 				{% for child in collection %}
-			        {% include 'partials/blog_item.html.twig' with {'blog':page, 'page':child, 'truncate':true, 'showdate':header.showitemdates, 'showdateintitle':header.showitemdateintitle} %}
+			        {% include 'partials/blog_item.html.twig' with {'blog':page, 'page':child, 'truncate':true, 'showdate':header.showitemdates} %}
 			    {% endfor %}
 
                 {% if config.plugins.pagination.enabled and collection.params.pagination %}
