@@ -672,6 +672,12 @@ td {
       border-top: 1px solid #EEEEEE;
       font-style: normal;
       text-transform: uppercase; }
+    .list-item .list-blog-date div {
+      position: absolute;
+      font-size: 1.25rem;
+      top: 0.8rem;
+      right: 1.5rem;
+      transform: rotate(90deg); }
 
 .blog-content-item .list-blog-padding > p:nth-child(2) {
   font-size: 1.2rem; }
