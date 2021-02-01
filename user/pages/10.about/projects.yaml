@@ -187,16 +187,6 @@ current:
     contact: chandi
     image: trichter.png
 
-#  - name:
-#      en: Traffic transformation
-#      de: Verkehrswende
-#    url: https://de.wikipedia.org/wiki/Verkehrswende
-#    sub:
-#      en: Organizing actions for sustainable mobility
-#      de: Organisation von Aktionen für eine nachhaltigere Mobilität
-#    contact: Lise, Bodhi
-#    image: verkehrswende.jpg
-
   - name: Ukuvota
     url: https://gitlab.com/yunity/ukuvota
     sub:
@@ -204,3 +194,11 @@ current:
       de: Webapp zur Entscheidungsfindung in Gruppen
     contact: Doug, Tilmann
     image: ukuvota.png
+
+  - name: Wald statt Asphalt
+    url: https://wald-statt-asphalt.net/de/
+    sub:
+      en: An alliance to protect old forests from being cut down to make space for highways
+      de: Ein Bündnis um ale Wälder vor der Zerstörung für neue Autobahnen zu beschützen
+    contact: Clara
+    image: wald_statt_asphalt.jpg
