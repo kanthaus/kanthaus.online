@@ -16,7 +16,7 @@ All diese Träume zusammen zu bringen und Realität werden zu lassen ist keine l
 
 ### Wie gehen wir das an?
 
-[GitLab](https://handbook.kanthaus.online/gitlab.html) ist der Ort, an dem wir all die Dinge sammeln, die noch getan werden müssen. Es kann ein wenig überwätigend wirken, wenn man es das erste mal besucht, deshalb kommt hier eine kleine Einführung:
+[GitLab](https://handbook.kanthaus.online/digital/gitlab.html) ist der Ort, an dem wir all die Dinge sammeln, die noch getan werden müssen. Es kann ein wenig überwätigend wirken, wenn man es das erste mal besucht, deshalb kommt hier eine kleine Einführung:
 
 - Jede Aufgabe steht in einer _Issue_. Issues sind vergleichbar mit Threads in Foren und gut dafür geeignet alle relevante Information zu einer Aufgabe beisammen zu halten.
 - Wer sich für eine Aufgabe verantwortlich fühlt wird sich zur zugehörigen Issue _assignen_ und damit ausdrücken, dass Motivation und Fähigkeiten vorhanden sind, um die Aufgabe anzugehen. Issues können mehrere assignte Menschen haben, die dann gemeinsam an der Lösung des Problems arbeiten.

@@ -16,7 +16,7 @@ To bring all these dreams together and to then make them reality is no easy task
 
 ### How do we manage this?
 
-[GitLab](https://handbook.kanthaus.online/gitlab.html) is our place for collecting all the things that still need to be done. It might be a bit overwhelming for people who are not accustomed to it, so here is a small guide:
+[GitLab](https://handbook.kanthaus.online/digital/gitlab.html) is our place for collecting all the things that still need to be done. It might be a bit overwhelming for people who are not accustomed to it, so here is a small guide:
 
 - Each task has one _issue_. Issues work like forum threads, so all relevant info can be stored inside the issue.
 - Who feels responsible for resolving an issue will _assign_ themselves to the specific issue. This means that they have the motivation and skill to take on the task. There can be multiple people assigned to one issue.
