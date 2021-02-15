@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 <!-- CoMe facilitation advice and requirements: https://gitlab.com/kanthaus/kanthaus-governance/-/blob/master/documents/coordinationMeeting/coMeFacilitationAdvice.md -->
-# CoMe #178
+# CoMe #179
 
 - Date: 2021-02-15
 - Facilitator: chandi
