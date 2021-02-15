@@ -55,7 +55,7 @@ taxonomy:
 - µCOVIDs used last week: 2735.2 <!-- sum of last week points -->
 - µCOVIDS balance: 2528.2 <!-- right now, before CoMe -->
 - µCOVIDs for this week: 5000 <!-- only change at corona meeting -->
-- µCOVIDs balance: 7528.2 <!-- i.e. balance from last week + 5000 -->
+- µCOVIDs available this week: 7528.2
 - µCOVIDs/person mean for this week: 418.2 (18 people) <!-- balance / people -->
 
 ##### Things that happened
