@@ -22,6 +22,16 @@ current:
     image: bund.png
 
   - name:
+      de: FeuerQualle-Kollektiv
+      en: FeuerQualle collective
+    url: tba
+    sub:
+      de: Feministisch-queere Projekte für alle!
+      en: Feminist-queer projects for everybody!
+    contact: Larissa
+    image: feuerqualle.jpg
+
+  - name:
       de: Foodsharing Akademie
       en: Foodsharing academy
     url: https://www.foodsharing-akademie.org/
