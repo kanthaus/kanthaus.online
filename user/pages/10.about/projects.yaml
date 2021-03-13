@@ -87,6 +87,16 @@ current:
     contact: Janina
     image: foodsaving_worldwide.jpg
 
+  - name:
+      en: Gardening
+      de: Gärtnern
+    url:
+    sub:
+      en: Make food from seeds, soil and sun
+      de: Aus Samen, Boden und Zeit Nahrung herstellen
+    contact: Anja
+    image: gardening.jpg
+
 #  - name: gerechte1komma5
 #    url: https://gerechte1komma5.de
 #    sub:
