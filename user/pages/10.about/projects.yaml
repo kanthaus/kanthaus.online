@@ -1,6 +1,14 @@
 # PLEASE KEEP ALPHABETICAL ORDER IN PLACE!
 
 current:
+  - name: Acrolotl
+    url: https://acrolotl.de/
+    sub:
+      en: The acroyoga festival free of exchange logic
+      de: Das tauschlogikfreie Acroyoga-Festival
+    contact: Silvan
+    image: acrolotl.jpg
+
   - name:
       en: Auerworld festival
       de: Auerworld-Festival
@@ -8,7 +16,7 @@ current:
     sub:
       en: Planning and organizing of an alternative festival
       de: Planung und Organisation eines alternativen Festivals
-    contact: Silvan
+    contact: Silvan, Larissa
     image: auerworld.png
 
   - name:
